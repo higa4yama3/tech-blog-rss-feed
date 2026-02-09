@@ -1,72 +1,43 @@
-# <img src="src/site/images/icon-transparent.png" height=26> 企業テックブログRSS
-企業のテックブログの更新をまとめたRSSフィードを配信しています。
-記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。
+# <img src="src/site/images/icon-transparent.png" height=26> 企業テックブログRSS (Customized)
 
-https://yamadashy.github.io/tech-blog-rss-feed/
+企業のテックブログの更新をまとめたRSSフィードを配信するサイトです。
+このリポジトリは [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) をフォークし、**よりスタイリッシュなデザイン（Bento風）** と **カスタマイズしやすいフィードリスト** に変更したものです。
 
+## 特徴
+- **Bento風デザイン**: シンプルでモダンなカード型レイアウトを採用。
+- **厳選されたリスト**: 初期状態では主要なテックブログのみを例示しており、自分好みのリストを簡単に作成できます。
 
-独自のフィードを作って公開したい場合は自由にフォークしてください。
+## サイトのカスタマイズ方法
 
-## サイト追加の方針
-企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。
-ただし、以下に該当するものは検討します。
+### 1. フィードの追加・削除
+`src/resources/feed-info-list.ts` を編集することで、表示したいブログを自由に管理できます。
 
-- その企業の取り組みでないものが多く投稿される可能性があるブログ
-  - テック系メディア
-  - Qiita Organization や Zenn Publication など、組織として投稿しているかの線引が曖昧なものは、投稿内容を見て検討します
-- 記事が自社製品の紹介のみ
-- 日本語以外の言語で書かれている記事が多いブログ
+```typescript
+export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
+  // ここに追加したいブログの [名前, RSS URL] を記述します
+  ['Mercari', 'https://engineering.mercari.com/blog/feed.xml'],
+  ['LINEヤフー', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
+  // ...
+]);
+```
 
-逆に、以下はテックブログと判断して追加しています。
+※ 元の全リストは `src/resources/feed-info-list.original.ts` にバックアップとして保存されています。必要に応じて参照してください。
 
-- [Zenn](https://zenn.dev/), [note](https://note.com/), [Medium](https://medium.com/) などの企業系テックブログ
-- 企業系ブログのテクノロジーカテゴリ
+### 2. デザインの調整
+`src/site/_includes/styles/main.css` を編集することで、サイトの配色やレイアウトを調整できます。
 
-## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/yamadashy/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
-
-### AIエージェントによるフィードの追加
-
-Claude Code, Cursor, Codex, Copilot Agent などを利用して、フィードの追加からプルリク作成まで自動で行うことができます。
-
-1. このリポジトリをフォーク
-2. 以下のようにAIエージェントに送り、そのまま指示に従ってください。
-  ```
-  フィードを追加したい
-  ```
-
-### プルリクでの送り方
-もしプルリクを送っていただける場合は以下のように作成できます。
-
-1. このリポジトリをフォーク
-2. ブランチ作成
-   `git checkout -b new-blog-feed-xxx`
-3. フィードを追加
-   `src/resources/feed-info-list.ts` の `FEED_INFO_LIST` を更新
-4. コミット
-   `git commit -am 'chore(feed): <企業名など> 追加`
-5. プッシュ
-   `git push origin new-blog-feed-xxx`
-6. プルリクを作成
-
-## 開発
+## 開発とデプロイ
 
 ### 仕組み
 GitHub Actions で定期的に更新されており、サイトの生成は [Eleventy](https://www.11ty.dev/) を使用しています。
 
-更新は多少遅延ありますが以下のタイミングで行います。
+更新タイミング:
 - 平日 8時-24時の1時間おき
 - 休日 8時-24時の2時間おき
 
-### フォークして使う場合
-以下を書き換えると独自のサイトが動きます。
-
-- `src/common/constants.js` の URL など
-- `src/resources/feed-info-list.ts` のブログ情報
-
-特定のブログに絞ったり、以下のように全く違ったフィードを作るもの良いと思います。
-
-- [MATLAB-blog-rss-feed](https://github.com/minoue-xx/MATLAB-blog-rss-feed) ... MATLAB/Simulink 関連ブログの更新をまとめたRSSフィードを配信
+### GitHub Pages の設定
+このリポジトリをフォークして使用する場合、初回のアクション実行後に `gh-pages` ブランチが作成されます。
+リポジトリの **Settings > Pages** にて、Source を `gh-pages` ブランチに設定してください。
 
 ### 開発環境とコマンド
 環境
