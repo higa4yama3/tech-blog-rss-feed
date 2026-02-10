@@ -53,4 +53,9 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['松尾研究所', 'https://zenn.dev/p/mkj/feed'],
   ['Accenture Banking', 'https://bankingblog.accenture.com/feed'],
   ['BCG Japan', 'https://bcg-jp.com/feed/'],
+  ['Zenn（機械学習タグ）', 'https://zenn.dev/topics/機械学習/feed'],
+  ['Zenn（AIタグ）', 'https://zenn.dev/topics/ai/feed'],
+  ['Zenn（生成AIタグ）', 'https://zenn.dev/topics/生成ai/feed'],
+  ['Zenn（DLタグ）', 'https://zenn.dev/topics/deeplearning/feed'],
+  ['Zenn（LLMタグ）', 'https://zenn.dev/topics/llm/feed'],
 ]);
