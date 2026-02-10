@@ -21,41 +21,24 @@ const createFeedInfoList = (feedInfoTuples: FeedInfoTuple[]) => {
 };
 
 /**
- * フィード情報一覧。追加順
+ * フィード情報一覧。アルファベット順
  * ラベルが被るとバリデーションエラーになるので別のラベルを設定してください
  */
 // prettier-ignore
 export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
-  ['DeNA', 'https://engineering.dena.com/blog/index.xml'],
-  ['サイバーエージェント', 'https://developers.cyberagent.co.jp/blog/feed/'],
-  ['LINEヤフー', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
-  ['Zenn', 'https://zenn.dev/p/team_zenn/feed'],
-  ['はてな', 'https://developer.hatenastaff.com/feed'],
-  ['ドワンゴ', 'https://dwango.github.io/index.xml'],
-  ['Simon Willison', 'https://simonwillison.net/atom/everything/'],
-  ['bufferings', 'https://bufferings.hatenablog.com/feed'],
-  ['きしだのはてな', 'https://nowokay.hatenablog.com/feed'],
-  ['npaka', 'https://note.com/npaka/rss'],
-  ['WWW WATCH', 'https://hyper-text.org/feed/blog.xml'],
-  ['PublicKey', 'https://www.publickey1.jp/atom.xml'],
-  ['ITmedia AI+', 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml'],
-  ['テクノエッジ', 'https://www.techno-edge.net/rss20/index.rdf'],
-  ["O'Reilly Radar", 'https://www.oreilly.com/radar/feed/'],
+  // ['企業名・製品名など', 'RSS/AtomフィードのURL'],
   ['AI Shift', 'https://www.ai-shift.co.jp/techblog/feed'],
-  ['一休.com', 'https://user-first.ikyu.co.jp/feed'],
-  ['10X Product Blog', 'https://product.10x.co.jp/feed'],
-  ['ACES', 'https://tech.acesinc.co.jp/feed'],
-  ['Algomatic', 'https://tech.algomatic.jp/feed'],
+  ['DeNA(Zenn Publication)', 'https://zenn.dev/p/dena/feed'],
   ['Dentsu Digital', 'https://note.com/dd_techblog/rss'],
-  ['G-gen', 'https://blog.g-gen.co.jp/feed'],
-  ['ELYZA', 'https://zenn.dev/p/elyza/feed'],
-  ['ExWZD', 'https://zenn.dev/p/exwzd/feed'],
-  ['松尾研究所', 'https://zenn.dev/p/mkj/feed'],
-  ['Accenture Banking', 'https://bankingblog.accenture.com/feed'],
-  ['BCG Japan', 'https://bcg-jp.com/feed/'],
+  ['ELYZA', 'https://elyza-inc.hatenablog.com/feed'],
+  ['Generative Agents', 'https://blog.generative-agents.co.jp/feed'],
+  ['g-gen', 'https://blog.g-gen.co.jp/feed'],
+  ['ITmedia AI＋', 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml'],
   ['Zenn（機械学習タグ）', 'https://zenn.dev/topics/機械学習/feed'],
   ['Zenn（AIタグ）', 'https://zenn.dev/topics/ai/feed'],
   ['Zenn（生成AIタグ）', 'https://zenn.dev/topics/生成ai/feed'],
   ['Zenn（DLタグ）', 'https://zenn.dev/topics/deeplearning/feed'],
   ['Zenn（LLMタグ）', 'https://zenn.dev/topics/llm/feed'],
+  ['サイバーエージェント', 'https://developers.cyberagent.co.jp/blog/feed/'],
+  ['フューチャー', 'https://future-architect.github.io/atom.xml'],
 ]);
