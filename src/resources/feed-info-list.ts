@@ -27,7 +27,6 @@ const createFeedInfoList = (feedInfoTuples: FeedInfoTuple[]) => {
 // prettier-ignore
 export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['DeNA', 'https://engineering.dena.com/blog/index.xml'],
-  ['メルカリ', 'https://engineering.mercari.com/blog/feed.xml'],
   ['サイバーエージェント', 'https://developers.cyberagent.co.jp/blog/feed/'],
   ['LINEヤフー', 'https://techblog.lycorp.co.jp/ja/feed/index.xml'],
   ['Zenn', 'https://zenn.dev/p/team_zenn/feed'],
