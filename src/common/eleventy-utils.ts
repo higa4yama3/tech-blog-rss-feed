@@ -139,7 +139,7 @@ export const supportTypeScriptTemplate = (eleventyConfig: any) => {
     outputFileExtension: 'js',
     compile: async (inputContent: string) => {
       return async () => {
-        const result = ts.transpileModule(inputContent, { compilerOptions: { module: ts.ModuleKind.CommonJS } });
+        const result = ts.transpileModule(inputContent, { compilerOptions: { module: ts.ModuleKind.ES2022 } });
         return result.outputText;
       };
     },

@@ -23,30 +23,11 @@
                 </div>
             </div>
 
-            {# Slack連携カード #}
-            <div class="bento-card bento-card--slack">
-                <div class="bento-card__label">💬 Slack連携</div>
-                <div class="bento-card__url-row">
-                    <input type="text" readonly value="/feed {{ constants.feedUrls.atom }}" class="bento-card__url-input" id="slack-url-input" />
-                    <button class="bento-copy-btn" onclick="copyToClipboard('slack-url-input', this)" aria-label="SlackのURLをコピー">コピー</button>
-                </div>
-                <p class="bento-card__hint">Slackに貼り付けると更新を受け取れます</p>
-            </div>
-
             {# GitHubリンクカード #}
             <a class="bento-card bento-card--link bento-card--github" href="{{ constants.gitHubRepositoryUrl }}" target="_blank" rel="noopener">
                 <img src="{{ page.url | relativeUrl }}images/icon-github.png" alt="GitHub" loading="eager" width="48" height="48" class="bento-link__icon" />
                 <div class="bento-link__text">
                     <span class="bento-link__name">GitHub</span>
-                    <span class="bento-link__handle">@{{ constants.author }}</span>
-                </div>
-            </a>
-
-            {# X (Twitter)リンクカード #}
-            <a class="bento-card bento-card--link bento-card--x" href="{{ constants.xUserUrl }}" target="_blank" rel="noopener">
-                <img src="{{ page.url | relativeUrl }}images/icon-x.png" alt="X" loading="eager" width="48" height="48" class="bento-link__icon" />
-                <div class="bento-link__text">
-                    <span class="bento-link__name">X (Twitter)</span>
                     <span class="bento-link__handle">@{{ constants.author }}</span>
                 </div>
             </a>

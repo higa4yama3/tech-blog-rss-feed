@@ -1,5 +1,5 @@
 import EleventyImage from '@11ty/eleventy-img';
-import constants from './src/common/constants';
+import constants from './src/common/constants.js';
 import {
   imageIconShortcode,
   imageThumbnailShortcode,
@@ -7,12 +7,12 @@ import {
   minifyHtmlTransform,
   relativeUrlFilter,
   supportTypeScriptTemplate,
-} from './src/common/eleventy-utils';
+} from './src/common/eleventy-utils.js';
 
 EleventyImage.concurrency = constants.eleventyFetchConcurrency;
 
 // biome-ignore lint/suspicious/noExplicitAny: This is intentional
-module.exports = (eleventyConfig: any) => {
+export default (eleventyConfig: any) => {
   // static assets
   eleventyConfig.addPassthroughCopy('src/site/images');
   eleventyConfig.addPassthroughCopy('src/site/feeds');
