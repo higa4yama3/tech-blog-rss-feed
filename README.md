@@ -30,5 +30,5 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
    - 失敗時の自動通知に必要
    - 
 
-## ライセンス
+##### ライセンス
 MIT
