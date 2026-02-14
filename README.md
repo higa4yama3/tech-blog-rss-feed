@@ -1,12 +1,11 @@
-# RSS (Customized)
+## RSS (Customized)
 
-好きな情報をまとめたRSSフィードです。
-このリポジトリは [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) をフォークし、**デザイン（Bento風）** に変更したものです。
+あっ、読みたい記事をまとめたRSSフィード。
+このリポジトリは [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) をフォークし、**デザイン（Bento風）** に変更させていただいたものです。
 
 
-## サイトのカスタマイズ方法
-
-### 1. フィードの追加・削除
+### サイトのカスタマイズ方法
+#### 1. フィードの追加・削除
 `src/resources/feed-info-list.ts` を編集することで、表示したいブログを自由に管理できます。
 
 ```typescript
@@ -18,9 +17,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
 ]);
 ```
 
-※ 元の全リストは `src/resources/feed-info-list.original.ts` にバックアップとして保存されています。必要に応じて参照してください。
-
-### 初回セットアップ
+##### 初回セットアップ
 
 1. **リポジトリをフォーク**
 
@@ -32,7 +29,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
    - Settings → Features → Issues にチェック
    - 失敗時の自動通知に必要
 
-### 開発環境とコマンド
+#### 開発環境とコマンド
 環境
 - Node.js >= 20
 
