@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ja">
+<head>
+    <meta charSet="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name='description' content='{{ constants.siteDescription }}'>
+    <meta name="author" content="{{ constants.author }}">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:url" content="{{ constants.siteUrl }}" />
+    <meta property="og:title" content="{{ pageTitle }}" />
+    <meta property="og:image" content="{{ constants.siteUrl }}images/og-image.png" />
+    <meta property="og:description" content="{{ constants.siteDescription }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ constants.siteTitle }}" />
+    <meta property="og:locale" content="ja_JP">
+
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:domain" content="{{ constants.siteUrl }}">
+    <meta property="twitter:url" content="{{ constants.siteUrl }}">
+    <meta name="twitter:title" content="{{ pageTitle }}">
+    <meta name="twitter:description" content="{{ constants.siteDescription }}">
+    <meta name="twitter:image" content="{{ constants.siteUrl }}images/og-image.png">
+
+    <meta name="thumbnail" content="{{ constants.siteUrl }}images/og-image.png" />
+
+    <link rel="preload" href="{{ page.url | relativeUrl }}styles/bundle.css?v=2" as="style">
+
+    {% if constants.googleSiteVerification %}
+        <meta name="google-site-verification" content="{{ constants.googleSiteVerification }}" />
+    {% endif %}
+
+    <link rel="shortcut icon" href="{{ page.url | relativeUrl }}images/favicon.ico">
+    <link rel="apple-touch-icon" href="{{ page.url | relativeUrl }}images/apple-icon.png">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="{{ page.url | relativeUrl }}feeds/atom.xml" />
+    <link rel="alternate" type="application/rss+xml" title="RSS2.0" href="{{ page.url | relativeUrl }}feeds/rss.xml" />
+    <link rel="alternate" type="application/json" href="{{ page.url | relativeUrl }}feeds/feed.json" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap">
+
+    <link rel="stylesheet" type="text/css" href="{{ page.url | relativeUrl }}styles/bundle.css?v=2" />
+
+    {% if constants.globalSiteTagKey %}
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ constants.globalSiteTagKey }}"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+
+          gtag('js', new Date());
+
+          gtag('config', '{{ constants.globalSiteTagKey }}');
+        </script>
+    {% endif %}
+
+    <title>{{ pageTitle }}</title>
+</head>
+<body>
+
+    <div class="site-wrapper">
+        <main role="main">
+            {{ content | safe }}
+        </main>
+
+        <footer role="contentinfo" class="ui-section-footer">
+            <div class="ui-layout-container">
+                <div class="ui-section-footer__layout ui-layout-flex">
+                    <p class="ui-text-note">higa4</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

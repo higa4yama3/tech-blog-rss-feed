@@ -1,0 +1,55 @@
+name: Generate feeds and site
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # 平日３時間おき5:15
+    - cron: '15 2,5,8,11,14,17 * * 1-5'
+    # 休日４時間おき5:15
+    - cron: '15 4,8,12,16 * * 0,6'
+  workflow_dispatch:
+
+concurrency:
+  group: generate-feed
+  cancel-in-progress: false
+
+jobs:
+  generate-feed:
+    name: Generate Feed
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      issues: write
+    steps:
+    - uses: actions/checkout@v6
+      with:
+        ref: main
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - uses: ./.github/actions/restore-feed-cache
+    - run: npm run feed-generate
+    - run: npm run site-prepare
+    - run: npm run site-build
+    - uses: ./.github/actions/save-feed-cache
+    - uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        # NOTE: 変更履歴が必要な場合は false に変更
+        force_orphan: true
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
+    - name: Create issue on failure
+      if: failure()
+      run: |
+        gh issue create \
+          --title "Feed generation failed - $(date '+%Y-%m-%d')" \
+          --body "Feed generation or deployment failed. Check the [workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for details." \
+          --label "bug"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

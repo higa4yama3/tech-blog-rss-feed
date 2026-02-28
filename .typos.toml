@@ -1,0 +1,10 @@
+[files]
+extend-exclude = [
+  "src/resources/feed-info-list.ts"
+]
+
+[default.extend-words]
+freee = "freee"
+Progate = "Progate"
+Fracton = "Fracton"
+CROOZ = "CROOZ"

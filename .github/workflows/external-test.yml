@@ -1,0 +1,40 @@
+name: External Tests
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # 木曜JST 20時30分（木曜11時30分UTC）に実行
+    - cron: '30 11 * * 4'
+  workflow_dispatch:
+
+concurrency:
+  group: external-test
+  cancel-in-progress: false
+
+jobs:
+  test-external:
+    name: Run External Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      issues: write
+    steps:
+    - uses: actions/checkout@v6
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - uses: ./.github/actions/restore-feed-cache
+    - run: npm run test-external
+    - uses: ./.github/actions/save-feed-cache
+    - name: Create issue on failure
+      if: failure()
+      run: |
+        gh issue create \
+          --title "External test failed - $(date '+%Y-%m-%d')" \
+          --body "External tests failed. Check the [workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for details." \
+          --label "bug"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
