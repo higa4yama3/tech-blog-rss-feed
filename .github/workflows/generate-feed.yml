@@ -4,10 +4,10 @@ on:
   push:
     branches: [ main ]
   schedule:
-    # 平日３時間おき5:15
-    - cron: '15 2,5,8,11,14,17 * * 1-5'
-    # 休日４時間おき5:15
-    - cron: '15 4,8,12,16 * * 0,6'
+    # 平日
+    - cron: '15 5,14 * * 1-5'
+    # 休日
+    - cron: '15 7 * * 0,6'
   workflow_dispatch:
 
 concurrency:
