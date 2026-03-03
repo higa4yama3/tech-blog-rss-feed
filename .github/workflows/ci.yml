@@ -1,0 +1,102 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  lint-biome:
+    name: Lint Biome
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v6
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-biome && git diff --exit-code
+
+  lint-ts:
+    name: Lint TypeScript
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v6
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-ts
+
+  lint-secretlint:
+    name: Lint Secretlint
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v6
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run lint-secretlint
+
+  lint-action:
+    name: Lint GitHub Actions
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v6
+    - uses: docker://rhysd/actionlint:latest
+      with:
+        args: "-color"
+
+  check-typo:
+    name: Check typos
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v6
+    - uses: crate-ci/typos@v1.42.1
+
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+    - uses: actions/checkout@v6
+    - uses: actions/setup-node@v6
+      with:
+        node-version-file: .tool-versions
+        cache: npm
+    - run: npm ci
+    - run: npm run test-coverage
+    - uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: coverage-report
+        path: coverage/
+
+  generate:
+    name: Generate feed and site
+    needs: [lint-biome, lint-ts, lint-secretlint, lint-action, check-typo, test]
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .tool-versions
+          cache: npm
+      - run: npm ci
+      - uses: ./.github/actions/restore-feed-cache
+      - run: npm run feed-generate
+      - run: npm run site-prepare
+      - run: npm run site-build
+      - uses: ./.github/actions/save-feed-cache
