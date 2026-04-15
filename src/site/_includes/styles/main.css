@@ -47,7 +47,7 @@
   --shadow-hover: 0 12px 36px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
   --shadow-card-hover: 0 16px 48px rgba(45, 138, 94, 0.1), 0 4px 16px rgba(0, 0, 0, 0.05);
 
-  --container-max: 1040px;
+  --container-max: 1100px;
   --gap: 16px;
   --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   --transition-smooth: 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
@@ -198,7 +198,7 @@ img {
 
 .bento-card--hero {
   grid-column: 1 / -1;
-  padding: 48px 32px;
+  padding: 40px 32px;
   text-align: center;
   align-items: center;
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(240, 247, 243, 0.85) 100%);
@@ -275,7 +275,7 @@ img {
 .bento-card--rss,
 .bento-card--slack {
   gap: 14px;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .bento-card__label {
@@ -285,6 +285,7 @@ img {
   display: flex;
   align-items: center;
   gap: 0.5em;
+  align-self: flex-start;
 }
 
 .bento-card__url-row {
@@ -451,7 +452,7 @@ a.bento-card--link:focus-visible {
   justify-content: center;
   align-items: center;
   gap: 8px;
-  padding: 16px 20px;
+  padding: 14px 24px;
   flex-wrap: wrap;
 }
 
@@ -750,6 +751,8 @@ a.bento-card--link:focus-visible {
   border-top: 1px solid var(--color-border);
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 4px 8px;
 }
 
 .ui-feed-item .ui-feed-item__blog-title--link {
@@ -758,6 +761,8 @@ a.bento-card--link:focus-visible {
   color: var(--color-text-secondary);
   text-decoration: none;
   transition: color var(--transition-fast);
+  flex: 1;
+  min-width: 0;
 }
 
 .ui-feed-item .ui-feed-item__blog-title--link:hover {
@@ -767,6 +772,9 @@ a.bento-card--link:focus-visible {
 
 .ui-feed-item .ui-feed-item__blog-title--link span {
   vertical-align: middle;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .ui-feed-item .ui-feed-item__blog-title--link img {
@@ -1006,13 +1014,28 @@ footer a.ui-text-note:hover {
 @media screen and (min-width: 48rem) {
   .ui-layout-grid-3 div:last-of-type {
     left: 0;
+    position: static;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .ui-layout-container {
+    width: auto;
+    max-width: var(--container-max);
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media screen and (min-width: 75rem) {
+  .ui-layout-container {
+    width: auto;
+    max-width: var(--container-max);
+  }
+
   .ui-layout-grid-3 {
-    grid-template-columns: repeat(4, 1fr);
-    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
   }
 }
 
