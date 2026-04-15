@@ -56,7 +56,12 @@
 /* ===== Base ===== */
 
 body {
-  background: linear-gradient(160deg, var(--color-bg-gradient-start) 0%, var(--color-bg) 40%, var(--color-bg-gradient-end) 100%);
+  background: linear-gradient(
+    160deg,
+    var(--color-bg-gradient-start) 0%,
+    var(--color-bg) 40%,
+    var(--color-bg-gradient-end) 100%
+  );
   background-attachment: fixed;
   color: var(--color-text);
   font-family: var(--font-family);
@@ -179,7 +184,8 @@ img {
   border-radius: var(--radius-lg);
   padding: 28px;
   box-shadow: var(--shadow-sm);
-  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color var(--transition-fast);
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color
+    var(--transition-fast);
   border: 1px solid var(--color-border);
   display: flex;
   flex-direction: column;
@@ -206,7 +212,7 @@ img {
 }
 
 .bento-card--hero::before {
-  content: '';
+  content: "";
   position: absolute;
   top: -50%;
   right: -30%;
@@ -218,7 +224,7 @@ img {
 }
 
 .bento-card--hero::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -40%;
   left: -20%;
@@ -651,7 +657,8 @@ a.bento-card--link:focus-visible {
   -webkit-backdrop-filter: blur(12px) saturate(1.4);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-sm);
-  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color var(--transition-fast);
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color
+    var(--transition-fast);
   overflow: hidden;
   height: 100%;
   padding: 0;
@@ -819,7 +826,8 @@ a.bento-card--link:focus-visible {
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-sm);
   padding: 16px;
-  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color var(--transition-fast);
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color
+    var(--transition-fast);
   gap: 16px;
   border: 1px solid var(--color-border);
   cursor: pointer;
@@ -1056,8 +1064,18 @@ footer a.ui-text-note:hover {
   animation: fadeInUp 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) both;
 }
 
-.bento-card:nth-child(1) { animation-delay: 0s; }
-.bento-card:nth-child(2) { animation-delay: 0.06s; }
-.bento-card:nth-child(3) { animation-delay: 0.12s; }
-.bento-card:nth-child(4) { animation-delay: 0.18s; }
-.bento-card:nth-child(5) { animation-delay: 0.24s; }
+.bento-card:nth-child(1) {
+  animation-delay: 0s;
+}
+.bento-card:nth-child(2) {
+  animation-delay: 0.06s;
+}
+.bento-card:nth-child(3) {
+  animation-delay: 0.12s;
+}
+.bento-card:nth-child(4) {
+  animation-delay: 0.18s;
+}
+.bento-card:nth-child(5) {
+  animation-delay: 0.24s;
+}
