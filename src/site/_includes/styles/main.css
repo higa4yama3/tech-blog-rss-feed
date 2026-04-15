@@ -1,64 +1,68 @@
 :root {
-  /* ── カラーパレット（和色・コントラスト重視） ── */
-  --color-bg: #68be8d; /* 若竹色（背景） */
-  --color-surface: #ffffff;
-  --color-text: #1a3d2e; /* 濃紺緑：WCAG AA 確保 */
-  --color-text-secondary: #2d5a4a;
-  --color-text-muted: #3d7060;
-  --color-accent: #1a3d2e;
-  --color-accent-light: #7ebea5; /* 青磁色 */
-  --color-accent-subtle: rgba(126, 190, 165, 0.2);
-  --color-accent-yellow: #d7cf3a; /* 鶸色：暗い文字と組み合わせ */
-  --color-border: rgba(126, 190, 165, 0.5);
-  --color-border-light: rgba(162, 215, 221, 0.5);
+  --color-bg: #f0f7f3;
+  --color-bg-gradient-start: #e8f5ee;
+  --color-bg-gradient-end: #dceee4;
+  --color-surface: rgba(255, 255, 255, 0.82);
+  --color-surface-solid: #ffffff;
+  --color-text: #1a2e24;
+  --color-text-secondary: #3a5a4a;
+  --color-text-muted: #6b8f7e;
+  --color-accent: #2d8a5e;
+  --color-accent-hover: #237a50;
+  --color-accent-light: #4db87e;
+  --color-accent-subtle: rgba(45, 138, 94, 0.08);
+  --color-accent-glow: rgba(45, 138, 94, 0.15);
+  --color-accent-yellow: #e8b931;
+  --color-border: rgba(45, 138, 94, 0.12);
+  --color-border-hover: rgba(45, 138, 94, 0.25);
   --color-hatena: #00a4de;
 
-  /* base.css の変数を上書き */
-  --ui-color-background-primary: #68be8d;
-  --ui-color-typography-body: #1a3d2e;
-  --ui-color-typography-heading: #1a3d2e;
-  --ui-color-typography-note: #3d7060;
-  --ui-color-brand: #1a3d2e;
+  --ui-color-background-primary: var(--color-bg);
+  --ui-color-typography-body: var(--color-text);
+  --ui-color-typography-heading: var(--color-text);
+  --ui-color-typography-note: var(--color-text-muted);
+  --ui-color-brand: var(--color-accent);
   --ui-color-n-000: #ffffff;
-  --ui-color-n-100: #e8f5ee;
-  --ui-color-n-300: #3d7060;
-  --ui-color-n-500: #1a3d2e;
-  --ui-color-n-700: #1a3d2e;
-  --ui-color-n-900: #1a3d2e;
+  --ui-color-n-100: #f0f7f3;
+  --ui-color-n-300: var(--color-text-muted);
+  --ui-color-n-500: var(--color-text);
+  --ui-color-n-700: var(--color-text);
+  --ui-color-n-900: var(--color-text);
   --ui-typography-typeface: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
-  /* ── タイポグラフィ ── */
   --font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
     sans-serif;
   --font-mono: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
 
-  /* ── レイアウト ── */
-  --radius-sm: 12px;
+  --radius-sm: 14px;
   --radius-md: 20px;
-  --radius-lg: 28px;
-  --radius-xl: 36px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
   --radius-pill: 100px;
 
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.08);
-  --shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.03);
+  --shadow-lg: 0 8px 28px rgba(0, 0, 0, 0.06), 0 2px 8px rgba(0, 0, 0, 0.03);
+  --shadow-hover: 0 12px 36px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --shadow-card-hover: 0 16px 48px rgba(45, 138, 94, 0.1), 0 4px 16px rgba(0, 0, 0, 0.05);
 
-  --container-max: 960px;
+  --container-max: 1040px;
   --gap: 16px;
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-smooth: 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ベース
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Base ===== */
 
 body {
-  background-color: var(--color-bg);
+  background: linear-gradient(160deg, var(--color-bg-gradient-start) 0%, var(--color-bg) 40%, var(--color-bg-gradient-end) 100%);
+  background-attachment: fixed;
   color: var(--color-text);
   font-family: var(--font-family);
+  min-height: 100vh;
 }
 
-/* Accessibility: respect reduced motion preference */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -83,9 +87,7 @@ img {
   color: var(--color-text-muted);
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ヘッダー — ミニマル
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Header ===== */
 
 .ui-section-header {
   padding: 20px 0;
@@ -131,7 +133,7 @@ img {
   width: 36px;
   height: 36px;
   opacity: 0.5;
-  transition: opacity 0.3s, transform 0.3s;
+  transition: opacity var(--transition-fast), transform var(--transition-fast);
   border-radius: var(--radius-sm);
 }
 
@@ -146,9 +148,7 @@ img {
   filter: none;
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   トップセクション — Bento Grid
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Top Section: Bento Grid ===== */
 
 .ui-top-section {
   padding: 0 0 8px;
@@ -170,14 +170,16 @@ img {
   }
 }
 
-/* ── Bento カード共通 ── */
+/* -- Bento Card Base -- */
 
 .bento-card {
   background: var(--color-surface);
+  backdrop-filter: blur(16px) saturate(1.6);
+  -webkit-backdrop-filter: blur(16px) saturate(1.6);
   border-radius: var(--radius-lg);
   padding: 28px;
   box-shadow: var(--shadow-sm);
-  transition: transform 0.35s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color var(--transition-fast);
   border: 1px solid var(--color-border);
   display: flex;
   flex-direction: column;
@@ -187,35 +189,63 @@ img {
 }
 
 .bento-card:hover {
-  transform: translateY(-6px);
-  box-shadow: var(--shadow-hover);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--color-border-hover);
 }
 
-/* ── ヒーローカード ── */
+/* -- Hero Card -- */
 
 .bento-card--hero {
   grid-column: 1 / -1;
   padding: 48px 32px;
   text-align: center;
   align-items: center;
-  background: var(--color-surface);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(240, 247, 243, 0.85) 100%);
+  border: 1px solid var(--color-border);
+}
+
+.bento-card--hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -30%;
+  width: 300px;
+  height: 300px;
+  background: radial-gradient(circle, var(--color-accent-glow) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.bento-card--hero::after {
+  content: '';
+  position: absolute;
+  bottom: -40%;
+  left: -20%;
+  width: 250px;
+  height: 250px;
+  background: radial-gradient(circle, rgba(45, 138, 94, 0.08) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
 }
 
 .bento-hero__inner {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
+  position: relative;
+  z-index: 1;
 }
 
 .bento-hero__icon {
-  width: 100px;
-  height: 100px;
+  width: 88px;
+  height: 88px;
   border-radius: 50%;
   overflow: hidden;
-  background: var(--color-bg);
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  margin-bottom: 8px;
+  background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-light) 100%);
+  box-shadow: 0 4px 20px rgba(45, 138, 94, 0.2), 0 0 0 4px rgba(45, 138, 94, 0.08);
+  margin-bottom: 4px;
 }
 
 .bento-hero__icon img {
@@ -225,22 +255,22 @@ img {
 }
 
 .bento-hero__title {
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: 800;
   color: var(--color-text);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   line-height: 1.2;
   margin: 0;
 }
 
 .bento-hero__desc {
-  font-size: 0.95em;
+  font-size: 0.92em;
   color: var(--color-text-secondary);
   line-height: 1.7;
   margin: 0;
 }
 
-/* ── RSS / Slack カード ── */
+/* -- RSS / Slack Card -- */
 
 .bento-card--rss,
 .bento-card--slack {
@@ -250,7 +280,7 @@ img {
 
 .bento-card__label {
   font-weight: 700;
-  font-size: 1em;
+  font-size: 0.95em;
   color: var(--color-text);
   display: flex;
   align-items: center;
@@ -264,20 +294,22 @@ img {
   background: var(--color-bg);
   border-radius: var(--radius-pill);
   padding: 6px 6px 6px 16px;
-  transition: background 0.2s, box-shadow 0.2s;
+  transition: background var(--transition-fast), box-shadow var(--transition-fast);
+  border: 1px solid transparent;
 }
 
 .bento-card__url-row:focus-within {
-  background: #fff;
+  background: var(--color-surface-solid);
   box-shadow: 0 0 0 2px var(--color-accent);
+  border-color: transparent;
 }
 
 .bento-card__url-input {
   flex: 1;
   border: none;
   background: transparent;
-  font-size: 0.82em;
-  color: var(--color-text);
+  font-size: 0.8em;
+  color: var(--color-text-secondary);
   padding: 6px 0;
   min-width: 0;
   outline: none;
@@ -286,17 +318,17 @@ img {
 
 .bento-copy-btn {
   flex-shrink: 0;
-  background: var(--color-surface);
-  color: var(--color-text);
-  border: 1px solid var(--color-border);
+  background: var(--color-accent);
+  color: #fff;
+  border: none;
   border-radius: var(--radius-pill);
-  padding: 8px 16px;
+  padding: 8px 18px;
   font-size: 0.78em;
   font-weight: 700;
   cursor: pointer;
-  transition: all 0.25s;
+  transition: all var(--transition-fast);
   font-family: var(--font-family);
-  box-shadow: var(--shadow-sm);
+  box-shadow: var(--shadow-xs);
 }
 
 .bento-copy-btn:focus-visible {
@@ -305,17 +337,14 @@ img {
 }
 
 .bento-copy-btn:hover {
-  background: var(--color-accent);
-  color: #fff;
+  background: var(--color-accent-hover);
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(26, 61, 46, 0.25);
-  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(45, 138, 94, 0.25);
 }
 
 .bento-copy-btn.copied {
   background: #10b981;
   color: #fff;
-  border-color: transparent;
 }
 
 .bento-card__hint {
@@ -324,14 +353,13 @@ img {
   margin: -4px 0 0;
 }
 
-/* ── リンクカード（GitHub, X） ── */
+/* -- Link Cards (GitHub, X) -- */
 
 a.bento-card--link {
   flex-direction: row;
   align-items: center;
   gap: 18px;
   text-decoration: none;
-  background: var(--color-surface);
   cursor: pointer;
 }
 
@@ -341,10 +369,10 @@ a.bento-card--link:focus-visible {
 }
 
 .bento-link__icon {
-  width: 52px;
-  height: 52px;
-  border-radius: var(--radius-md);
-  padding: 12px;
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-sm);
+  padding: 11px;
   flex-shrink: 0;
   object-fit: contain;
   background: var(--color-text);
@@ -364,7 +392,7 @@ a.bento-card--link:focus-visible {
 
 .bento-link__name {
   font-weight: 800;
-  font-size: 1.05em;
+  font-size: 1em;
   color: var(--color-text);
 }
 
@@ -374,30 +402,70 @@ a.bento-card--link:focus-visible {
   font-weight: 500;
 }
 
-/* ── ナビゲーションカード ── */
+/* -- Stats Card -- */
+
+.bento-card--stats {
+  flex-direction: row;
+  gap: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.bento-stat {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 24px 16px;
+  transition: background var(--transition-fast);
+}
+
+.bento-stat + .bento-stat {
+  border-left: 1px solid var(--color-border);
+}
+
+.bento-stat:hover {
+  background: var(--color-accent-subtle);
+}
+
+.bento-stat__value {
+  font-size: 1.5em;
+  font-weight: 800;
+  color: var(--color-accent);
+  line-height: 1;
+}
+
+.bento-stat__label {
+  font-size: 0.72em;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  letter-spacing: 0.03em;
+}
+
+/* -- Navigation Card -- */
 
 .bento-card--nav {
   grid-column: 1 / -1;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  padding: 20px;
+  gap: 8px;
+  padding: 16px 20px;
   flex-wrap: wrap;
-  background: var(--color-surface);
 }
 
 .bento-nav__item {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 10px 22px;
+  gap: 7px;
+  padding: 10px 24px;
   border-radius: var(--radius-pill);
   font-weight: 700;
-  font-size: 0.9em;
+  font-size: 0.88em;
   color: var(--color-text-secondary);
   text-decoration: none;
-  transition: all 0.25s ease;
+  transition: all var(--transition-fast);
   background: transparent;
   cursor: pointer;
 }
@@ -410,18 +478,16 @@ a.bento-card--link:focus-visible {
 .bento-nav__item:hover {
   background: var(--color-accent-subtle);
   color: var(--color-accent);
-  transform: translateY(-2px);
-  text-decoration: none;
 }
 
 .bento-nav__item--active {
-  background: var(--color-text);
+  background: var(--color-accent);
   color: #fff;
-  box-shadow: 0 4px 14px rgba(26, 61, 46, 0.2);
+  box-shadow: 0 2px 10px rgba(45, 138, 94, 0.25);
 }
 
 .bento-nav__item--active:hover {
-  background: var(--color-accent);
+  background: var(--color-accent-hover);
   color: #fff;
 }
 
@@ -439,9 +505,7 @@ a.bento-card--link:focus-visible {
   flex-shrink: 0;
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   セクション共通
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Section Common ===== */
 
 .ui-section-content {
   padding-top: 32px;
@@ -451,11 +515,14 @@ a.bento-card--link:focus-visible {
 .ui-typography-heading {
   text-align: left;
   font-weight: 800;
-  font-size: 1.25em;
+  font-size: 1.2em;
   color: var(--color-text);
   position: relative;
   padding-bottom: 0;
   margin-bottom: 0.5em;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
 }
 
 .ui-typography-heading::after {
@@ -465,11 +532,10 @@ a.bento-card--link:focus-visible {
 .ui-typography-heading small {
   color: var(--color-text-muted);
   font-weight: 500;
+  font-size: 0.7em;
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   サブページ用ナビ (nav.njk)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Sub-page Nav (nav.njk) ===== */
 
 .ui-nav {
   background: transparent;
@@ -487,15 +553,17 @@ a.bento-card--link:focus-visible {
 .ui-section-nav__link {
   font-weight: 700;
   margin-right: 0;
-  padding: 10px 22px;
+  padding: 10px 24px;
   border-radius: var(--radius-pill);
   color: var(--color-text-secondary);
   background: var(--color-surface);
-  transition: all 0.25s ease;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  transition: all var(--transition-fast);
   text-decoration: none;
   border: 1px solid var(--color-border);
   font-size: 0.88em;
-  box-shadow: var(--shadow-sm);
+  box-shadow: var(--shadow-xs);
   cursor: pointer;
 }
 
@@ -507,49 +575,45 @@ a.bento-card--link:focus-visible {
 .ui-section-nav__link:hover {
   background: var(--color-accent-subtle);
   color: var(--color-accent);
-  border-color: rgba(126, 190, 165, 0.4);
-  transform: translateY(-2px);
+  border-color: var(--color-border-hover);
 }
 
 .ui-section-nav__link--active {
   color: #ffffff;
-  background: var(--color-text);
+  background: var(--color-accent);
   border-color: transparent;
-  box-shadow: 0 4px 14px rgba(26, 61, 46, 0.2);
+  box-shadow: 0 2px 10px rgba(45, 138, 94, 0.25);
 }
 
 .ui-section-nav__link--active:hover {
   color: #ffffff;
-  background: var(--color-accent);
+  background: var(--color-accent-hover);
   border-color: transparent;
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   日付ヘッダー
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Date Header ===== */
 
 .ui-section-content__feed-date-heading {
   text-align: left;
-  font-size: 0.82em;
+  font-size: 0.8em;
   font-weight: 700;
   color: var(--color-text-secondary);
   margin-top: 32px;
   margin-bottom: 16px;
   padding: 10px 20px;
-  background: var(--color-surface);
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px) saturate(1.4);
+  -webkit-backdrop-filter: blur(16px) saturate(1.4);
   border-radius: var(--radius-md);
   position: sticky;
-  top: 0;
+  top: 8px;
   z-index: 10;
   box-shadow: var(--shadow-sm);
   border: 1px solid var(--color-border);
   letter-spacing: 0.02em;
-  backdrop-filter: blur(12px);
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   フィードセクション
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Feed Section ===== */
 
 .ui-section-feed {
   background: transparent;
@@ -575,18 +639,18 @@ a.bento-card--link:focus-visible {
   margin-top: 24px;
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   フィードカード
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Feed Card ===== */
 
 .ui-feed-item {
   display: flex;
   flex-direction: column;
   color: var(--color-text);
   background: var(--color-surface);
+  backdrop-filter: blur(12px) saturate(1.4);
+  -webkit-backdrop-filter: blur(12px) saturate(1.4);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-sm);
-  transition: transform 0.35s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color var(--transition-fast);
   overflow: hidden;
   height: 100%;
   padding: 0;
@@ -600,8 +664,9 @@ a.bento-card--link:focus-visible {
 }
 
 .ui-feed-item:hover {
-  transform: translateY(-6px);
-  box-shadow: var(--shadow-hover);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--color-border-hover);
   text-decoration: none;
 }
 
@@ -623,11 +688,11 @@ a.bento-card--link:focus-visible {
 }
 
 .ui-feed-item:hover .ui-feed-item__og-image img {
-  transform: scale(1.05);
+  transform: scale(1.04);
 }
 
 .ui-feed-item .ui-feed-item__content {
-  padding: 20px;
+  padding: 18px 20px 20px;
   display: flex;
   flex-direction: column;
   flex-grow: 1;
@@ -635,8 +700,8 @@ a.bento-card--link:focus-visible {
 
 .ui-feed-item .ui-feed-item__title {
   font-weight: 700;
-  font-size: 0.95em;
-  line-height: 1.6;
+  font-size: 0.92em;
+  line-height: 1.65;
   margin-bottom: 8px;
   -webkit-line-clamp: 3;
   line-clamp: 3;
@@ -645,7 +710,7 @@ a.bento-card--link:focus-visible {
   overflow: hidden;
   word-break: break-all;
   color: var(--color-text);
-  transition: color 0.25s;
+  transition: color var(--transition-fast);
 }
 
 .ui-feed-item .ui-feed-item__title:hover {
@@ -654,12 +719,15 @@ a.bento-card--link:focus-visible {
 }
 
 .ui-feed-item .ui-feed-item__title:visited {
-  color: var(--color-text-secondary);
+  color: var(--color-text-muted);
 }
 
 .ui-feed-item .ui-feed-item__hatena-count {
-  margin: 2px 0;
+  margin: 2px 0 6px;
   font-size: 0.7em;
+  display: flex;
+  align-items: center;
+  gap: 4px;
 }
 
 .ui-feed-item .ui-feed-item__hatena-count img {
@@ -689,7 +757,7 @@ a.bento-card--link:focus-visible {
   align-items: center;
   color: var(--color-text-secondary);
   text-decoration: none;
-  transition: color 0.25s;
+  transition: color var(--transition-fast);
 }
 
 .ui-feed-item .ui-feed-item__blog-title--link:hover {
@@ -721,9 +789,7 @@ a.bento-card--link:focus-visible {
   margin-left: auto;
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ブログ一覧
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Blog List ===== */
 
 .ui-section-blog {
   background: transparent;
@@ -740,10 +806,12 @@ a.bento-card--link:focus-visible {
   align-items: center;
   color: var(--color-text);
   background: var(--color-surface);
+  backdrop-filter: blur(12px) saturate(1.4);
+  -webkit-backdrop-filter: blur(12px) saturate(1.4);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-sm);
   padding: 16px;
-  transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth), border-color var(--transition-fast);
   gap: 16px;
   border: 1px solid var(--color-border);
   cursor: pointer;
@@ -755,8 +823,9 @@ a.bento-card--link:focus-visible {
 }
 
 .ui-blog:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--color-border-hover);
   text-decoration: none;
 }
 
@@ -786,7 +855,7 @@ a.bento-card--link:focus-visible {
   word-break: break-all;
   color: var(--color-text);
   margin-bottom: 3px;
-  transition: color 0.25s;
+  transition: color var(--transition-fast);
 }
 
 .ui-blog .ui-blog__title:hover {
@@ -832,9 +901,7 @@ a.bento-card--link:focus-visible {
   }
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ブログフィード詳細
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Blog Feed Detail ===== */
 
 .ui-container-blog-summary {
   text-align: left;
@@ -864,15 +931,13 @@ a.bento-card--link:focus-visible {
   color: var(--color-text-secondary);
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   フッター — ミニマル
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Footer ===== */
 
 footer {
   background: transparent;
   margin-top: 24px;
   padding: 32px 0 24px;
-  border-top: none;
+  border-top: 1px solid var(--color-border);
 }
 
 footer .ui-text-note {
@@ -882,7 +947,7 @@ footer .ui-text-note {
 footer a.ui-text-note,
 footer a.ui-text-note:visited {
   color: var(--color-text-muted);
-  transition: color 0.25s;
+  transition: color var(--transition-fast);
 }
 
 footer a.ui-text-note:hover {
@@ -909,9 +974,7 @@ footer a.ui-text-note:hover {
   color: var(--color-accent-light);
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   フォーム（検索バー）
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Form (Search Bar) ===== */
 
 .ui-component-form {
   border-radius: var(--radius-pill);
@@ -926,11 +989,11 @@ footer a.ui-text-note:hover {
   background: var(--color-accent);
   border-color: var(--color-accent);
   color: #fff;
-  transition: background 0.3s;
+  transition: background var(--transition-fast);
 }
 
 .ui-component-form .ui-component-button:hover {
-  background: var(--color-accent-light);
+  background: var(--color-accent-hover);
 }
 
 .ui-component-form .ui-component-button.active {
@@ -938,9 +1001,7 @@ footer a.ui-text-note:hover {
   border-color: var(--color-accent-light);
 }
 
-/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   グリッド微調整
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+/* ===== Grid Fine-tuning ===== */
 
 @media screen and (min-width: 48rem) {
   .ui-layout-grid-3 div:last-of-type {
@@ -951,6 +1012,29 @@ footer a.ui-text-note:hover {
 @media screen and (min-width: 75rem) {
   .ui-layout-grid-3 {
     grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
+    gap: 18px;
   }
 }
+
+/* ===== Entrance Animations ===== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.bento-card {
+  animation: fadeInUp 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) both;
+}
+
+.bento-card:nth-child(1) { animation-delay: 0s; }
+.bento-card:nth-child(2) { animation-delay: 0.06s; }
+.bento-card:nth-child(3) { animation-delay: 0.12s; }
+.bento-card:nth-child(4) { animation-delay: 0.18s; }
+.bento-card:nth-child(5) { animation-delay: 0.24s; }
