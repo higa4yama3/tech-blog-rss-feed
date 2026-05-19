@@ -7,7 +7,9 @@ import { default as ogs } from 'open-graph-scraper';
 import type { ImageObject, OgObject, OpenGraphScraperOptions } from 'open-graph-scraper/types/lib/types';
 import RssParser from 'rss-parser';
 import constants from '../common/constants';
+import { TIER_AGGREGATE_HOURS, type FeedTier } from '../resources/feed-tier';
 import type { FeedInfo } from '../resources/feed-info-list';
+import { enrichFeedItem, type EnrichedFeedItem } from './enriched-feed-item';
 import {
   exponentialBackoff,
   fetchHatenaCountMap,
@@ -31,15 +33,20 @@ export type CustomRssParserItem = RssParser.Item & {
   isoDate: string;
   blogTitle: string;
   blogLink: string;
+  hatenaBookmarkCountFromRss?: number;
+  hnPoints?: number;
+  hnComments?: number;
 };
 export type CustomRssParserFeed = RssParser.Output<CustomRssParserItem> & {
   link: string;
   title: string;
+  sourceLabel: string;
+  sourceTier: FeedTier;
 };
 
 export interface ClawlFeedsResult {
   feeds: CustomRssParserFeed[];
-  feedItems: CustomRssParserItem[];
+  feedItems: EnrichedFeedItem[];
   feedItemOgObjectMap: OgObjectMap;
   feedItemHatenaCountMap: FeedItemHatenaCountMap;
   feedBlogOgObjectMap: OgObjectMap;
@@ -49,12 +56,27 @@ export class FeedCrawler {
   private rssParser;
   private feedValidator;
 
+  private hnrssParser;
+
   constructor() {
     this.rssParser = new RssParser({
       maxRedirects: 5,
       timeout: 1000 * 10,
       headers: {
         'user-agent': constants.requestUserAgent,
+      },
+    });
+    this.hnrssParser = new RssParser({
+      maxRedirects: 5,
+      timeout: 1000 * 10,
+      headers: {
+        'user-agent': constants.requestUserAgent,
+      },
+      customFields: {
+        item: [
+          ['comments', 'hnComments'],
+          ['points', 'hnPoints'],
+        ],
       },
     });
     this.feedValidator = new FeedValidator();
@@ -64,17 +86,16 @@ export class FeedCrawler {
     feedInfoList: FeedInfo[],
     feedFetchConcurrency: number,
     feedOgFetchConcurrency: number,
-    aggregateFeedStartAt: Date,
   ): Promise<ClawlFeedsResult> {
-    // フィード取得してまとめる
     const feeds = await this.fetchFeedsAsync(feedInfoList, feedFetchConcurrency);
-    const allFeedItems = this.aggregateFeeds(feeds, aggregateFeedStartAt);
+    const allFeedItems = this.aggregateFeeds(feeds, feedInfoList);
 
-    // OGPなどの情報取得
+    const ogTargetItems = allFeedItems.filter((item) => item.sourceTier !== 'hotentry');
+
     const [errorFetchFeedData, results] = await to(
       Promise.all([
-        this.fetchFeedItemOgObjectMap(allFeedItems, feedOgFetchConcurrency),
-        this.fetchHatenaCountMap(allFeedItems),
+        this.fetchFeedItemOgObjectMap(ogTargetItems, feedOgFetchConcurrency),
+        this.fetchHatenaCountMap(ogTargetItems),
         this.fetchFeedBlogOgObjectMap(feeds, feedOgFetchConcurrency),
       ]),
     );
@@ -140,7 +161,9 @@ export class FeedCrawler {
               feedCache.save();
             }
 
-            return this.rssParser.parseString(feedData) as Promise<CustomRssParserFeed>;
+            const parser = feedInfo.url.includes('hnrss.org') ? this.hnrssParser : this.rssParser;
+            const parsed = (await parser.parseString(feedData)) as CustomRssParserFeed;
+            return { parsed, rawXml: feedData };
           }),
         );
         if (error) {
@@ -154,7 +177,7 @@ export class FeedCrawler {
           return;
         }
 
-        const postProcessedFeed = FeedCrawler.postProcessFeed(feedInfo, feed);
+        const postProcessedFeed = FeedCrawler.postProcessFeed(feedInfo, feed.parsed, feed.rawXml);
 
         // フィードのリンクの重複チェック。すでにあったらスキップ
         if (feedLinkSet.has(postProcessedFeed.link)) {
@@ -209,8 +232,18 @@ export class FeedCrawler {
   /**
    * 取得したフィードの調整
    */
-  private static postProcessFeed(feedInfo: FeedInfo, feed: CustomRssParserFeed): CustomRssParserFeed {
+  private static postProcessFeed(
+    feedInfo: FeedInfo,
+    feed: CustomRssParserFeed,
+    rawXml?: string,
+  ): CustomRssParserFeed {
     const customFeed = feed as CustomRssParserFeed;
+    customFeed.sourceLabel = feedInfo.label;
+    customFeed.sourceTier = feedInfo.tier;
+
+    if (feedInfo.tier === 'hotentry' && rawXml) {
+      FeedCrawler.applyHatenaBookmarkCounts(customFeed, rawXml);
+    }
 
     // ブログごとの調整
     switch (feedInfo.label) {
@@ -277,49 +310,79 @@ export class FeedCrawler {
     return customFeed;
   }
 
-  private aggregateFeeds(feeds: CustomRssParserFeed[], aggregateFeedStartAt: Date) {
-    let allFeedItems: CustomRssParserItem[] = [];
+  private aggregateFeeds(feeds: CustomRssParserFeed[], feedInfoList: FeedInfo[]): EnrichedFeedItem[] {
+    const feedInfoByLabel = new Map(feedInfoList.map((info) => [info.label, info]));
     const copiedFeeds: CustomRssParserFeed[] = objectDeepCopy(feeds);
-    const aggregateFeedStartAtIsoDate = aggregateFeedStartAt.toISOString();
     const currentIsoDate = new Date().toISOString();
+    const enrichedItems: EnrichedFeedItem[] = [];
 
     for (const feed of copiedFeeds) {
-      // 公開日時でフィルタ
-      feed.items = feed.items.filter((feedItem) => {
+      const feedInfo = feedInfoByLabel.get(feed.sourceLabel);
+      if (!feedInfo) {
+        continue;
+      }
+
+      const aggregateStartAt = new Date(Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000).toISOString();
+
+      let items = feed.items.filter((feedItem) => feedItem.isoDate && feedItem.isoDate >= aggregateStartAt);
+
+      items = items.filter((feedItem) => {
         if (!feedItem.isoDate) {
           return false;
         }
-
-        return feedItem.isoDate >= aggregateFeedStartAtIsoDate;
-      });
-
-      // 現在時刻より未来のものはフィルタ。UTC表記で日本時間設定しているブログがあるので。
-      feed.items = feed.items.filter((feedItem) => {
-        if (!feedItem.isoDate) {
-          return false;
-        }
-
         if (feedItem.isoDate > currentIsoDate) {
           logger.warn('[aggregate-feed] 記事の公開日時が未来になっています。', feedItem.title, feedItem.link);
           return false;
         }
-
         return true;
       });
 
-      // マージ
-      allFeedItems = allFeedItems.concat(feed.items);
+      items.sort((a, b) => b.isoDate.localeCompare(a.isoDate));
+
+      if (feedInfo.maxItemsInAggregate !== undefined) {
+        items = items.slice(0, feedInfo.maxItemsInAggregate);
+      }
+
+      for (const feedItem of items) {
+        enrichedItems.push(
+          enrichFeedItem(
+            feedItem,
+            feedInfo.tier,
+            feedInfo.label,
+            feedInfo.tags ?? [],
+            feedInfo.contentFormat ?? 'default',
+          ),
+        );
+      }
     }
 
-    // 日付でソート
-    allFeedItems.sort((a, b) => {
-      return -1 * a.isoDate.localeCompare(b.isoDate);
-    });
+    enrichedItems.sort((a, b) => b.isoDate.localeCompare(a.isoDate));
 
-    return allFeedItems;
+    return enrichedItems;
   }
 
-  private async fetchFeedItemOgObjectMap(feedItems: CustomRssParserItem[], concurrency: number): Promise<OgObjectMap> {
+  private static applyHatenaBookmarkCounts(feed: CustomRssParserFeed, rawXml: string) {
+    for (const feedItem of feed.items) {
+      const link = feedItem.link;
+      if (!link) {
+        continue;
+      }
+      const escapedLink = link.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const aboutPattern = new RegExp(`rdf:about="${escapedLink}"[\\s\\S]*?bookmarkcount>(\\d+)<`, 'i');
+      const aboutMatch = rawXml.match(aboutPattern);
+      if (aboutMatch) {
+        feedItem.hatenaBookmarkCountFromRss = Number.parseInt(aboutMatch[1], 10);
+        continue;
+      }
+      const linkPattern = new RegExp(`<link>${escapedLink}</link>[\\s\\S]*?bookmarkcount>(\\d+)<`, 'i');
+      const linkMatch = rawXml.match(linkPattern);
+      if (linkMatch) {
+        feedItem.hatenaBookmarkCountFromRss = Number.parseInt(linkMatch[1], 10);
+      }
+    }
+  }
+
+  private async fetchFeedItemOgObjectMap(feedItems: EnrichedFeedItem[], concurrency: number): Promise<OgObjectMap> {
     const feedItemOgObjectMap: OgObjectMap = new Map();
     const feedItemsLength = feedItems.length;
     let fetchProcessCounter = 1;
@@ -465,7 +528,7 @@ export class FeedCrawler {
     return customOgObject;
   }
 
-  private async fetchHatenaCountMap(feedItems: CustomRssParserItem[]): Promise<FeedItemHatenaCountMap> {
+  private async fetchHatenaCountMap(feedItems: EnrichedFeedItem[]): Promise<FeedItemHatenaCountMap> {
     const feedItemHatenaCountMap = new Map<string, number>();
     const feedItemUrlsChunks: string[][] = [];
     let feedItemCounter = 0;

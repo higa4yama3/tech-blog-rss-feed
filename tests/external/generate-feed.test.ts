@@ -5,7 +5,6 @@ import { FEED_INFO_LIST } from '../../src/resources/feed-info-list';
 
 const FEED_FETCH_CONCURRENCY = 50;
 const FEED_OG_FETCH_CONCURRENCY = 20;
-const FILTER_ARTICLE_DATE = new Date(Date.now() - 14 * 24 * 60 * 60 * 1000);
 const MAX_FEED_DESCRIPTION_LENGTH = 200;
 const MAX_FEED_CONTENT_LENGTH = 500;
 
@@ -23,7 +22,6 @@ describe('フィード生成', async () => {
       feedInfoList,
       FEED_FETCH_CONCURRENCY,
       FEED_OG_FETCH_CONCURRENCY,
-      FILTER_ARTICLE_DATE,
     );
 
     // まとめフィード作成

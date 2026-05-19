@@ -7,8 +7,11 @@ import RssParser from 'rss-parser';
  * フィードのバリデーション
  */
 export class FeedValidator {
-  public async assertFeed(feed: Feed): Promise<void> {
-    // 一つでもimageがあればok
+  public async assertFeed(feed: Feed, options?: { requireImage?: boolean }): Promise<void> {
+    const requireImage = options?.requireImage ?? true;
+    if (!requireImage) {
+      return;
+    }
     let isImageFound = false;
     for (const item of feed.items) {
       if (item.image) {

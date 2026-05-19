@@ -3,7 +3,7 @@ import * as path from 'node:path';
 import { to } from 'await-to-js';
 import { textToMd5Hash, textTruncate } from './common-util';
 import type { CustomRssParserFeed, FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
-import type { FeedDistributionSet } from './feed-generator';
+import type { FeedDistributionSet, GenerateFeedBundleResult } from './feed-generator';
 import { logger } from './logger';
 
 export interface BlogFeed {
@@ -25,7 +25,7 @@ export interface BlogFeed {
 
 export class FeedStorer {
   public async storeFeeds(
-    feedDistributionSet: FeedDistributionSet,
+    bundle: GenerateFeedBundleResult,
     storeArticleDirPath: string,
     feeds: CustomRssParserFeed[],
     ogObjectMap: OgObjectMap,
@@ -34,7 +34,7 @@ export class FeedStorer {
   ): Promise<void> {
     const [errorStoreFeed] = await to(
       Promise.all([
-        this.storeArticleFeeds(feedDistributionSet, storeArticleDirPath),
+        this.storeArticleFeeds(bundle, storeArticleDirPath),
         this.storeBlogFeeds(feeds, ogObjectMap, allFeedItemHatenaCountMap, storeBlogDirPath),
       ]),
     );
@@ -45,11 +45,27 @@ export class FeedStorer {
     }
   }
 
-  private async storeArticleFeeds(feedDistributionSet: FeedDistributionSet, storeDirPath: string): Promise<void> {
+  private async storeArticleFeeds(bundle: GenerateFeedBundleResult, storeDirPath: string): Promise<void> {
     await fs.mkdir(storeDirPath, { recursive: true });
-    await fs.writeFile(path.join(storeDirPath, 'atom.xml'), feedDistributionSet.atom, 'utf-8');
-    await fs.writeFile(path.join(storeDirPath, 'rss.xml'), feedDistributionSet.rss, 'utf-8');
-    await fs.writeFile(path.join(storeDirPath, 'feed.json'), feedDistributionSet.json, 'utf-8');
+
+    const writeNamedFeed = async (basename: string, distribution: FeedDistributionSet) => {
+      await fs.writeFile(path.join(storeDirPath, `${basename}.atom.xml`), distribution.atom, 'utf-8');
+      await fs.writeFile(path.join(storeDirPath, `${basename}.rss.xml`), distribution.rss, 'utf-8');
+      await fs.writeFile(path.join(storeDirPath, `${basename}.json`), distribution.json, 'utf-8');
+    };
+
+    await fs.writeFile(path.join(storeDirPath, 'atom.xml'), bundle.core.atom, 'utf-8');
+    await fs.writeFile(path.join(storeDirPath, 'rss.xml'), bundle.core.rss, 'utf-8');
+    await fs.writeFile(path.join(storeDirPath, 'feed.json'), bundle.core.json, 'utf-8');
+
+    await writeNamedFeed('core', bundle.core);
+    await writeNamedFeed('media', bundle.media);
+    await writeNamedFeed('picks', bundle.picks);
+    await writeNamedFeed('discover', bundle.discover);
+    await writeNamedFeed('headlines', bundle.headlines);
+    await writeNamedFeed('research', bundle.research);
+    await writeNamedFeed('curated', bundle.curated);
+    await writeNamedFeed('hatena-it', bundle.hatenaIt);
 
     logger.info('[store-feeds] finished');
   }
@@ -66,6 +82,10 @@ export class FeedStorer {
     const blogFeeds: BlogFeed[] = [];
 
     for (const feed of feeds) {
+      if (feed.sourceTier === 'hotentry') {
+        continue;
+      }
+
       const customFeed: BlogFeed = {
         title: feed.title,
         link: feed.link,

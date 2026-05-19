@@ -360,6 +360,18 @@ img {
   margin: -4px 0 0;
 }
 
+.bento-card--rss-list {
+  gap: 10px;
+}
+
+.bento-card__url-label {
+  flex-shrink: 0;
+  font-size: 0.72em;
+  font-weight: 700;
+  color: var(--color-text-secondary);
+  min-width: 6.5em;
+}
+
 /* -- Link Cards (GitHub, X) -- */
 
 a.bento-card--link {
@@ -724,6 +736,14 @@ a.bento-card--link:focus-visible {
 .ui-feed-item .ui-feed-item__title:hover {
   text-decoration: none;
   color: var(--color-accent);
+}
+
+.ui-feed-item .ui-feed-item__pick-reason {
+  font-size: 0.78em;
+  font-weight: 600;
+  color: var(--color-accent);
+  line-height: 1.4;
+  margin: 0 0 4px;
 }
 
 .ui-feed-item .ui-feed-item__title:visited {

@@ -1,11 +1,20 @@
 import * as path from 'node:path';
 import * as url from 'node:url';
+import dayjs from 'dayjs';
 import constants from '../common/constants';
 import { FeedCrawler } from '../feed/feed-crawler';
 import { FeedGenerator } from '../feed/feed-generator';
+import {
+  filterByTiers,
+  filterCuratedIdidBookmarks,
+  scoreDiscoverItems,
+  selectHatenaItItems,
+  selectPicksItems,
+} from '../feed/feed-item-processor';
 import { FeedStorer } from '../feed/feed-storer';
 import { FeedValidator } from '../feed/feed-validator';
 import { logger } from '../feed/logger';
+import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
 import { FEED_INFO_LIST } from '../resources/feed-info-list';
 
 const dirName = url.fileURLToPath(new URL('.', import.meta.url));
@@ -19,55 +28,74 @@ const feedValidator = new FeedValidator();
 const feedStorer = new FeedStorer();
 
 (async () => {
-  // フィード取得
   const crawlFeedsResult = await feedCrawler.crawlFeeds(
     FEED_INFO_LIST,
     constants.feedFetchConcurrency,
     constants.feedOgFetchConcurrency,
-    new Date(Date.now() - constants.aggregateFeedDurationInHours * 60 * 60 * 1000),
   );
 
-  // まとめフィード作成
+  const allItems = crawlFeedsResult.feedItems;
+  const hatenaCountMap = crawlFeedsResult.feedItemHatenaCountMap;
+
+  const coreItems = filterByTiers(allItems, CORE_OUTPUT_TIERS);
+  const mediaItems = filterByTiers(allItems, ['media']);
+  const researchItems = filterByTiers(allItems, ['research']);
+  const signalItems = filterByTiers(allItems, ['signal'])
+    .filter((item) => dayjs(item.isoDate).isAfter(dayjs().subtract(constants.headlinesWindowHours, 'hour')))
+    .slice(0, constants.headlinesMaxItems);
+
+  let curatedItems = filterCuratedIdidBookmarks(allItems);
+  if (curatedItems.length === 0) {
+    curatedItems = filterByTiers(allItems, ['curated']).slice(0, constants.curatedMaxItemsPerDay);
+  } else {
+    curatedItems = curatedItems.slice(0, constants.curatedMaxItemsPerDay);
+  }
+
+  const hatenaItItems = selectHatenaItItems(allItems);
+  const picksItems = selectPicksItems(allItems, hatenaCountMap);
+  const discoverItems = scoreDiscoverItems(allItems, hatenaCountMap);
+
   const ogObjectMap = new Map([...crawlFeedsResult.feedItemOgObjectMap, ...crawlFeedsResult.feedBlogOgObjectMap]);
-  const generateFeedsResult = feedGenerator.generateFeeds(
-    crawlFeedsResult.feedItems,
-    ogObjectMap,
-    crawlFeedsResult.feedItemHatenaCountMap,
-    constants.maxFeedDescriptionLength,
-    constants.maxFeedContentLength,
-  );
 
-  // ファイル出力
+  const bundle = feedGenerator.generateFeedBundle(allItems, ogObjectMap, hatenaCountMap, {
+    core: coreItems,
+    media: mediaItems,
+    picks: picksItems,
+    discover: discoverItems,
+    headlines: signalItems,
+    research: researchItems,
+    curated: curatedItems,
+    hatenaIt: hatenaItItems,
+  });
+
   try {
     await feedStorer.storeFeeds(
-      generateFeedsResult.feedDistributionSet,
+      bundle,
       STORE_FEEDS_DIR_PATH,
       crawlFeedsResult.feeds,
       ogObjectMap,
-      crawlFeedsResult.feedItemHatenaCountMap,
+      hatenaCountMap,
       STORE_BLOG_FEEDS_DIR_PATH,
     );
   } catch (e) {
-    const error = new Error('Failed to store feeds', {
-      cause: e,
-    });
+    const error = new Error('Failed to store feeds', { cause: e });
     console.error(error);
     throw error;
   }
 
-  // 最後にまとめフィードのバリデーション
   try {
     logger.info('フィードのバリデーション開始');
 
-    await feedValidator.assertFeed(generateFeedsResult.aggregatedFeed);
-    await feedValidator.assertXmlFeed('atom', generateFeedsResult.feedDistributionSet.atom);
-    await feedValidator.assertXmlFeed('rss', generateFeedsResult.feedDistributionSet.rss);
+    await feedValidator.assertFeed(bundle.aggregatedFeed);
+    await feedValidator.assertXmlFeed('atom', bundle.core.atom);
+    await feedValidator.assertXmlFeed('rss', bundle.core.rss);
+    await feedValidator.assertXmlFeed('picks', bundle.picks.atom);
+    await feedValidator.assertXmlFeed('headlines', bundle.headlines.atom);
+    await feedValidator.assertXmlFeed('hatena-it', bundle.hatenaIt.atom);
 
     logger.info('フィードのバリデーション完了');
   } catch (e) {
-    const error = new Error('Failed to validate feed', {
-      cause: e,
-    });
+    const error = new Error('Failed to validate feed', { cause: e });
     console.error(error);
     throw error;
   }

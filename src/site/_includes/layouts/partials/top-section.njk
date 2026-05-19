@@ -15,12 +15,23 @@
             </div>
 
             {# RSS Feed Card #}
-            <div class="bento-card bento-card--rss">
-                <div class="bento-card__label">{% include 'layouts/partials/icon-rss.njk' %} RSS Feed</div>
+            <div class="bento-card bento-card--rss bento-card--rss-list">
+                <div class="bento-card__label">{% include 'layouts/partials/icon-rss.njk' %} RSS Feeds</div>
+                <p class="bento-card__hint">まずは Picks。Core は企業ブログまとめ。</p>
+                {% set feedUrlRows = [
+                    { label: 'Picks（厳選）', url: constants.feedUrls.picks, id: 'feed-url-picks' },
+                    { label: 'Core', url: constants.feedUrls.core, id: 'feed-url-core' },
+                    { label: 'Discover', url: constants.feedUrls.discover, id: 'feed-url-discover' },
+                    { label: 'Headlines', url: constants.feedUrls.headlines, id: 'feed-url-headlines' },
+                    { label: 'はてなIT人気', url: constants.feedUrls.hatenaIt, id: 'feed-url-hatena-it' }
+                ] %}
+                {% for row in feedUrlRows %}
                 <div class="bento-card__url-row">
-                    <input type="text" readonly value="{{ constants.feedUrls.rss }}" class="bento-card__url-input" id="rss-url-input" />
-                    <button class="bento-copy-btn" onclick="copyToClipboard('rss-url-input', this)" aria-label="RSSのURLをコピー">コピー</button>
+                    <span class="bento-card__url-label">{{ row.label }}</span>
+                    <input type="text" readonly value="{{ row.url }}" class="bento-card__url-input" id="{{ row.id }}" />
+                    <button class="bento-copy-btn" type="button" onclick="copyToClipboard('{{ row.id }}', this)" aria-label="{{ row.label }}のURLをコピー">コピー</button>
                 </div>
+                {% endfor %}
             </div>
 
             {# Stats Card #}
