@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { filterByTiers, scoreDiscoverItems } from '../src/feed/feed-item-processor';
 import type { EnrichedFeedItem } from '../src/feed/enriched-feed-item';
+import { filterByTiers, scoreDiscoverItems } from '../src/feed/feed-item-processor';
 import { CORE_OUTPUT_TIERS } from '../src/resources/feed-tier';
 
 const createFeedItem = (sourceTier: EnrichedFeedItem['sourceTier'], linkSuffix: string): EnrichedFeedItem => ({
