@@ -2,7 +2,8 @@ export type FeedTier = 'essential' | 'core' | 'optional' | 'media' | 'signal' | 
 
 export type ContentFormat = 'default' | 'longread';
 
-export const CORE_OUTPUT_TIERS: FeedTier[] = ['essential', 'core', 'optional', 'media'];
+export const CORE_OUTPUT_TIERS: FeedTier[] = ['essential', 'core', 'optional'];
+export const DISCOVER_OUTPUT_TIERS: FeedTier[] = [...CORE_OUTPUT_TIERS, 'media'];
 
 export const TIER_AGGREGATE_HOURS: Record<FeedTier, number> = {
   essential: 60 * 24,

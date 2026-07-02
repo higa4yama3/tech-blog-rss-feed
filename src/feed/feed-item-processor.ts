@@ -1,7 +1,7 @@
 import dayjs from 'dayjs';
 import { URL } from 'node:url';
 import constants from '../common/constants';
-import { CORE_OUTPUT_TIERS, type FeedTier } from '../resources/feed-tier';
+import { DISCOVER_OUTPUT_TIERS, type FeedTier } from '../resources/feed-tier';
 import type { EnrichedFeedItem } from './enriched-feed-item';
 import type { FeedItemHatenaCountMap } from './feed-crawler';
 
@@ -91,7 +91,7 @@ export const scoreDiscoverItems = (
   const windowStart = dayjs().subtract(constants.discoverWindowDays, 'day');
 
   const scored = items
-    .filter((item) => CORE_OUTPUT_TIERS.includes(item.sourceTier))
+    .filter((item) => DISCOVER_OUTPUT_TIERS.includes(item.sourceTier))
     .filter((item) => dayjs(item.isoDate).isAfter(windowStart))
     .map((item) => {
       const hatenaCount = hatenaCountMap.get(item.link) ?? 0;
