@@ -7,9 +7,8 @@ import { default as ogs } from 'open-graph-scraper';
 import type { ImageObject, OgObject, OpenGraphScraperOptions } from 'open-graph-scraper/types/lib/types';
 import RssParser from 'rss-parser';
 import constants from '../common/constants';
-import { TIER_AGGREGATE_HOURS, type FeedTier } from '../resources/feed-tier';
 import type { FeedInfo } from '../resources/feed-info-list';
-import { enrichFeedItem, type EnrichedFeedItem } from './enriched-feed-item';
+import { type FeedTier, TIER_AGGREGATE_HOURS } from '../resources/feed-tier';
 import {
   exponentialBackoff,
   fetchHatenaCountMap,
@@ -19,6 +18,7 @@ import {
   textToMd5Hash,
   urlRemoveQueryParams,
 } from './common-util';
+import { type EnrichedFeedItem, enrichFeedItem } from './enriched-feed-item';
 import { FeedValidator } from './feed-validator';
 import { logger } from './logger';
 
@@ -74,8 +74,8 @@ export class FeedCrawler {
       },
       customFields: {
         item: [
-          ['comments', 'hnComments'],
-          ['points', 'hnPoints'],
+          ['hn:comments', 'hnComments'],
+          ['hn:points', 'hnPoints'],
         ],
       },
     });
@@ -232,11 +232,7 @@ export class FeedCrawler {
   /**
    * 取得したフィードの調整
    */
-  private static postProcessFeed(
-    feedInfo: FeedInfo,
-    feed: CustomRssParserFeed,
-    rawXml?: string,
-  ): CustomRssParserFeed {
+  private static postProcessFeed(feedInfo: FeedInfo, feed: CustomRssParserFeed, rawXml?: string): CustomRssParserFeed {
     const customFeed = feed as CustomRssParserFeed;
     customFeed.sourceLabel = feedInfo.label;
     customFeed.sourceTier = feedInfo.tier;
@@ -301,6 +297,8 @@ export class FeedCrawler {
       feedItem.contentSnippet = feedItem.contentSnippet ? removeInvalidUnicode(feedItem.contentSnippet) : '';
       feedItem.creator = feedItem.creator ? removeInvalidUnicode(feedItem.creator) : '';
       feedItem.categories = feedItem.categories?.map(removeInvalidUnicode) || [];
+      feedItem.hnPoints = FeedCrawler.parseOptionalInteger(feedItem.hnPoints);
+      feedItem.hnComments = FeedCrawler.parseOptionalInteger(feedItem.hnComments);
 
       // view用
       feedItem.blogTitle = customFeed.title || '';
@@ -308,6 +306,14 @@ export class FeedCrawler {
     }
 
     return customFeed;
+  }
+
+  private static parseOptionalInteger(value: unknown): number | undefined {
+    if (value === undefined || value === null || value === '') {
+      return undefined;
+    }
+    const parsedValue = Number.parseInt(String(value), 10);
+    return Number.isNaN(parsedValue) ? undefined : parsedValue;
   }
 
   private aggregateFeeds(feeds: CustomRssParserFeed[], feedInfoList: FeedInfo[]): EnrichedFeedItem[] {
@@ -322,7 +328,9 @@ export class FeedCrawler {
         continue;
       }
 
-      const aggregateStartAt = new Date(Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000).toISOString();
+      const aggregateStartAt = new Date(
+        Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000,
+      ).toISOString();
 
       let items = feed.items.filter((feedItem) => feedItem.isoDate && feedItem.isoDate >= aggregateStartAt);
 
