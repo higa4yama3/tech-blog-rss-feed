@@ -1,5 +1,6 @@
 import axios from 'axios';
 import ogs from 'open-graph-scraper';
+import type { SuccessResult } from 'open-graph-scraper/types/lib/types';
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import { FeedCrawler } from '../src/feed/feed-crawler';
 import type { FeedInfo } from '../src/resources/feed-info-list';
@@ -14,7 +15,7 @@ vi.mock('open-graph-scraper', () => ({
   default: vi.fn(),
 }));
 
-const mockedAxios = vi.mocked(axios);
+const mockedAxiosGet = vi.mocked(axios.get);
 const mockedOgs = vi.mocked(ogs);
 
 const createHackerNewsFeed = (pubDate: string) => `<?xml version="1.0" encoding="UTF-8"?>
@@ -51,8 +52,13 @@ describe('FeedCrawler', () => {
     const feedXml = createHackerNewsFeed(new Date().toUTCString());
     const fetchMock = vi.fn(async () => new Response(feedXml, { status: 200 }));
     vi.stubGlobal('fetch', fetchMock);
-    mockedAxios.get.mockResolvedValue({ data: {} });
-    mockedOgs.mockResolvedValue({ result: {} });
+    mockedAxiosGet.mockResolvedValue({ data: {} });
+    mockedOgs.mockResolvedValue({
+      error: false,
+      html: '',
+      response: {},
+      result: {},
+    } satisfies SuccessResult);
 
     const result = await new FeedCrawler().crawlFeeds([feedInfo], 1, 1);
 
