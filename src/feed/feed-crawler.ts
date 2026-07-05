@@ -7,9 +7,8 @@ import { default as ogs } from 'open-graph-scraper';
 import type { ImageObject, OgObject, OpenGraphScraperOptions } from 'open-graph-scraper/types/lib/types';
 import RssParser from 'rss-parser';
 import constants from '../common/constants';
-import { TIER_AGGREGATE_HOURS, type FeedTier } from '../resources/feed-tier';
 import type { FeedInfo } from '../resources/feed-info-list';
-import { enrichFeedItem, type EnrichedFeedItem } from './enriched-feed-item';
+import { type FeedTier, TIER_AGGREGATE_HOURS } from '../resources/feed-tier';
 import {
   exponentialBackoff,
   fetchHatenaCountMap,
@@ -19,6 +18,7 @@ import {
   textToMd5Hash,
   urlRemoveQueryParams,
 } from './common-util';
+import { type EnrichedFeedItem, enrichFeedItem } from './enriched-feed-item';
 import { FeedValidator } from './feed-validator';
 import { logger } from './logger';
 
@@ -232,11 +232,7 @@ export class FeedCrawler {
   /**
    * 取得したフィードの調整
    */
-  private static postProcessFeed(
-    feedInfo: FeedInfo,
-    feed: CustomRssParserFeed,
-    rawXml?: string,
-  ): CustomRssParserFeed {
+  private static postProcessFeed(feedInfo: FeedInfo, feed: CustomRssParserFeed, rawXml?: string): CustomRssParserFeed {
     const customFeed = feed as CustomRssParserFeed;
     customFeed.sourceLabel = feedInfo.label;
     customFeed.sourceTier = feedInfo.tier;
@@ -322,7 +318,9 @@ export class FeedCrawler {
         continue;
       }
 
-      const aggregateStartAt = new Date(Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000).toISOString();
+      const aggregateStartAt = new Date(
+        Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000,
+      ).toISOString();
 
       let items = feed.items.filter((feedItem) => feedItem.isoDate && feedItem.isoDate >= aggregateStartAt);
 
@@ -550,7 +548,9 @@ export class FeedCrawler {
       const [error, hatenaCountMap] = await to(fetchHatenaCountMap(feedItemUrls));
 
       if (error) {
-        Promise.reject(new Error('[hatena-count] Fail to get hatena bookmark count', { cause: error }));
+        logger.error('[hatena-count] Fail to get hatena bookmark count');
+        logger.trace(error);
+        continue;
       }
 
       for (const feedItemUrl in hatenaCountMap) {
