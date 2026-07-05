@@ -1,7 +1,7 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { fetchHatenaCountMap } from '../src/feed/common-util';
 import type { EnrichedFeedItem } from '../src/feed/enriched-feed-item';
 import { FeedCrawler, type FeedItemHatenaCountMap } from '../src/feed/feed-crawler';
-import { fetchHatenaCountMap } from '../src/feed/common-util';
 
 vi.mock('../src/feed/common-util', async (importOriginal) => {
   const actual = await importOriginal<typeof import('../src/feed/common-util')>();
@@ -24,7 +24,7 @@ const createFeedItem = (link: string): EnrichedFeedItem =>
     contentFormat: 'default',
   }) as EnrichedFeedItem;
 
-type TestableFeedCrawler = FeedCrawler & {
+type TestableFeedCrawler = {
   fetchHatenaCountMap(feedItems: EnrichedFeedItem[]): Promise<FeedItemHatenaCountMap>;
 };
 
@@ -42,7 +42,7 @@ describe('FeedCrawler', () => {
       .mockRejectedValueOnce(new Error('hatena API unavailable'))
       .mockResolvedValueOnce({ [secondBatchLink]: 3 });
 
-    const crawler = new FeedCrawler() as TestableFeedCrawler;
+    const crawler = new FeedCrawler() as unknown as TestableFeedCrawler;
     const hatenaCountMap = await crawler.fetchHatenaCountMap(feedItems);
 
     expect(hatenaCountMap).toEqual(new Map([[secondBatchLink, 3]]));
