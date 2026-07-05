@@ -550,7 +550,9 @@ export class FeedCrawler {
       const [error, hatenaCountMap] = await to(fetchHatenaCountMap(feedItemUrls));
 
       if (error) {
-        Promise.reject(new Error('[hatena-count] Fail to get hatena bookmark count', { cause: error }));
+        logger.error('[hatena-count] Fail to get hatena bookmark count');
+        logger.trace(error);
+        continue;
       }
 
       for (const feedItemUrl in hatenaCountMap) {
