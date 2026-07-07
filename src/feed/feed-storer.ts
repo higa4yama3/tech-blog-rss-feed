@@ -54,9 +54,9 @@ export class FeedStorer {
       await fs.writeFile(path.join(storeDirPath, `${basename}.json`), distribution.json, 'utf-8');
     };
 
-    await fs.writeFile(path.join(storeDirPath, 'atom.xml'), bundle.core.atom, 'utf-8');
-    await fs.writeFile(path.join(storeDirPath, 'rss.xml'), bundle.core.rss, 'utf-8');
-    await fs.writeFile(path.join(storeDirPath, 'feed.json'), bundle.core.json, 'utf-8');
+    await fs.writeFile(path.join(storeDirPath, 'atom.xml'), bundle.feedDistributionSet.atom, 'utf-8');
+    await fs.writeFile(path.join(storeDirPath, 'rss.xml'), bundle.feedDistributionSet.rss, 'utf-8');
+    await fs.writeFile(path.join(storeDirPath, 'feed.json'), bundle.feedDistributionSet.json, 'utf-8');
 
     await writeNamedFeed('core', bundle.core);
     await writeNamedFeed('media', bundle.media);
