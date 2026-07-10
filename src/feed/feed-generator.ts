@@ -1,11 +1,11 @@
-import { Feed, type FeedOptions } from 'feed';
 import dayjs from 'dayjs';
 import timezone from 'dayjs/plugin/timezone';
 import utc from 'dayjs/plugin/utc';
+import { Feed, type FeedOptions } from 'feed';
 import constants from '../common/constants.js';
 import { textToMd5Hash, textTruncate } from './common-util';
-import type { FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import type { EnrichedFeedItem } from './enriched-feed-item';
+import type { FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import { buildPickReason } from './feed-item-processor';
 import { logger } from './logger';
 
@@ -114,7 +114,10 @@ export class FeedGenerator {
     feedItems: EnrichedFeedItem[],
     feedItemOgObjectMap: OgObjectMap,
     hatenaCountMap: FeedItemHatenaCountMap,
-    distributions: Record<keyof Omit<GenerateFeedBundleResult, 'aggregatedFeed' | 'feedDistributionSet'>, EnrichedFeedItem[]>,
+    distributions: Record<
+      keyof Omit<GenerateFeedBundleResult, 'aggregatedFeed' | 'feedDistributionSet'>,
+      EnrichedFeedItem[]
+    >,
   ): GenerateFeedBundleResult {
     const pickReasons = new Map<string, string>();
     for (const item of distributions.picks) {
@@ -331,10 +334,7 @@ export class FeedGenerator {
         content: getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons),
         link: feedItem.link,
         category: categories,
-        author:
-          feedItem.creator && typeof feedItem.creator === 'string'
-            ? [{ name: feedItem.creator }]
-            : undefined,
+        author: feedItem.creator && typeof feedItem.creator === 'string' ? [{ name: feedItem.creator }] : undefined,
         image: ogImage?.url ? ogImage : undefined,
         published: new Date(feedItem.isoDate),
         date: new Date(feedItem.isoDate),
