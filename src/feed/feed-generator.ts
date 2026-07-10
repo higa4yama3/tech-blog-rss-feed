@@ -49,14 +49,6 @@ export interface GenerateFeedBundleResult {
   feedDistributionSet: FeedDistributionSet;
 }
 
-const escapeTextForXml = (text: string) => {
-  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-};
-
-const escapeAmpersand = (text: string) => {
-  return text.replace(/&/g, '&amp;');
-};
-
 const getHostname = (link: string): string => {
   try {
     const host = new URL(link).hostname.replace(/^www\./, '');
@@ -323,31 +315,25 @@ export class FeedGenerator {
       const ogObject = feedItemOgObjectMap.get(feedItem.link);
       const ogImage = ogObject?.customOgImage;
 
-      if (ogImage?.alt) {
-        ogImage.alt = escapeTextForXml(ogImage.alt);
-      }
-
       if (!feedItem.isoDate) {
         continue;
       }
 
       const categories = [...(feedItem.categories || []), ...(feedItem.sourceTags || [])].map((category) => ({
-        name: escapeTextForXml(category),
+        name: category,
       }));
 
       outputFeed.addItem({
         id: feedItemId,
         guid: feedItemId,
-        title: escapeTextForXml(formatItemTitle(feedItem, hatenaCountMap, titleMode, options.pickReasons)),
-        description: escapeTextForXml(
-          getItemDescription(feedItem, feedItemOgObjectMap, descriptionLength, options.pickReasons),
-        ),
-        content: escapeTextForXml(getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons)),
+        title: formatItemTitle(feedItem, hatenaCountMap, titleMode, options.pickReasons),
+        description: getItemDescription(feedItem, feedItemOgObjectMap, descriptionLength, options.pickReasons),
+        content: getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons),
         link: feedItem.link,
         category: categories,
         author:
           feedItem.creator && typeof feedItem.creator === 'string'
-            ? [{ name: escapeTextForXml(feedItem.creator) }]
+            ? [{ name: feedItem.creator }]
             : undefined,
         image: ogImage?.url ? ogImage : undefined,
         published: new Date(feedItem.isoDate),
@@ -357,14 +343,14 @@ export class FeedGenerator {
             name: '_custom',
             objects: {
               hatenaCount: hatenaCountMap.get(feedItem.link) || feedItem.hatenaBookmarkCountFromRss || 0,
-              originalTitle: escapeTextForXml(feedItem.title ?? ''),
-              blogTitle: escapeTextForXml(feedItem.blogTitle),
+              originalTitle: feedItem.title ?? '',
+              blogTitle: feedItem.blogTitle,
               blogLink: feedItem.blogLink,
               blogLinkMd5Hash: textToMd5Hash(feedItem.blogLink),
               favicon: ogObject?.favicon,
-              pickReason: escapeTextForXml(options.pickReasons?.get(feedItem.link) ?? buildPickReason(feedItem, hatenaCountMap)),
+              pickReason: options.pickReasons?.get(feedItem.link) ?? buildPickReason(feedItem, hatenaCountMap),
               sourceTier: feedItem.sourceTier,
-              sourceLabel: escapeTextForXml(feedItem.sourceLabel),
+              sourceLabel: feedItem.sourceLabel,
             },
           },
         ],
@@ -372,8 +358,8 @@ export class FeedGenerator {
     }
 
     const distribution = {
-      atom: escapeAmpersand(outputFeed.atom1()),
-      rss: escapeAmpersand(outputFeed.rss2()),
+      atom: outputFeed.atom1(),
+      rss: outputFeed.rss2(),
       json: outputFeed.json1(),
     };
 
