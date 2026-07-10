@@ -1,11 +1,11 @@
-import { Feed, type FeedOptions } from 'feed';
 import dayjs from 'dayjs';
 import timezone from 'dayjs/plugin/timezone';
 import utc from 'dayjs/plugin/utc';
+import { Feed, type FeedOptions } from 'feed';
 import constants from '../common/constants.js';
 import { textToMd5Hash, textTruncate } from './common-util';
-import type { FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import type { EnrichedFeedItem } from './enriched-feed-item';
+import type { FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import { buildPickReason } from './feed-item-processor';
 import { logger } from './logger';
 
@@ -48,14 +48,6 @@ export interface GenerateFeedBundleResult {
   aggregatedFeed: Feed;
   feedDistributionSet: FeedDistributionSet;
 }
-
-const escapeTextForXml = (text: string) => {
-  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-};
-
-const escapeAmpersand = (text: string) => {
-  return text.replace(/&/g, '&amp;');
-};
 
 const getHostname = (link: string): string => {
   try {
@@ -122,7 +114,10 @@ export class FeedGenerator {
     feedItems: EnrichedFeedItem[],
     feedItemOgObjectMap: OgObjectMap,
     hatenaCountMap: FeedItemHatenaCountMap,
-    distributions: Record<keyof Omit<GenerateFeedBundleResult, 'aggregatedFeed' | 'feedDistributionSet'>, EnrichedFeedItem[]>,
+    distributions: Record<
+      keyof Omit<GenerateFeedBundleResult, 'aggregatedFeed' | 'feedDistributionSet'>,
+      EnrichedFeedItem[]
+    >,
   ): GenerateFeedBundleResult {
     const pickReasons = new Map<string, string>();
     for (const item of distributions.picks) {
@@ -323,32 +318,23 @@ export class FeedGenerator {
       const ogObject = feedItemOgObjectMap.get(feedItem.link);
       const ogImage = ogObject?.customOgImage;
 
-      if (ogImage?.alt) {
-        ogImage.alt = escapeTextForXml(ogImage.alt);
-      }
-
       if (!feedItem.isoDate) {
         continue;
       }
 
       const categories = [...(feedItem.categories || []), ...(feedItem.sourceTags || [])].map((category) => ({
-        name: escapeTextForXml(category),
+        name: category,
       }));
 
       outputFeed.addItem({
         id: feedItemId,
         guid: feedItemId,
-        title: escapeTextForXml(formatItemTitle(feedItem, hatenaCountMap, titleMode, options.pickReasons)),
-        description: escapeTextForXml(
-          getItemDescription(feedItem, feedItemOgObjectMap, descriptionLength, options.pickReasons),
-        ),
-        content: escapeTextForXml(getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons)),
+        title: formatItemTitle(feedItem, hatenaCountMap, titleMode, options.pickReasons),
+        description: getItemDescription(feedItem, feedItemOgObjectMap, descriptionLength, options.pickReasons),
+        content: getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons),
         link: feedItem.link,
         category: categories,
-        author:
-          feedItem.creator && typeof feedItem.creator === 'string'
-            ? [{ name: escapeTextForXml(feedItem.creator) }]
-            : undefined,
+        author: feedItem.creator && typeof feedItem.creator === 'string' ? [{ name: feedItem.creator }] : undefined,
         image: ogImage?.url ? ogImage : undefined,
         published: new Date(feedItem.isoDate),
         date: new Date(feedItem.isoDate),
@@ -357,14 +343,14 @@ export class FeedGenerator {
             name: '_custom',
             objects: {
               hatenaCount: hatenaCountMap.get(feedItem.link) || feedItem.hatenaBookmarkCountFromRss || 0,
-              originalTitle: escapeTextForXml(feedItem.title ?? ''),
-              blogTitle: escapeTextForXml(feedItem.blogTitle),
+              originalTitle: feedItem.title ?? '',
+              blogTitle: feedItem.blogTitle,
               blogLink: feedItem.blogLink,
               blogLinkMd5Hash: textToMd5Hash(feedItem.blogLink),
               favicon: ogObject?.favicon,
-              pickReason: escapeTextForXml(options.pickReasons?.get(feedItem.link) ?? buildPickReason(feedItem, hatenaCountMap)),
+              pickReason: options.pickReasons?.get(feedItem.link) ?? buildPickReason(feedItem, hatenaCountMap),
               sourceTier: feedItem.sourceTier,
-              sourceLabel: escapeTextForXml(feedItem.sourceLabel),
+              sourceLabel: feedItem.sourceLabel,
             },
           },
         ],
@@ -372,8 +358,8 @@ export class FeedGenerator {
     }
 
     const distribution = {
-      atom: escapeAmpersand(outputFeed.atom1()),
-      rss: escapeAmpersand(outputFeed.rss2()),
+      atom: outputFeed.atom1(),
+      rss: outputFeed.rss2(),
       json: outputFeed.json1(),
     };
 
