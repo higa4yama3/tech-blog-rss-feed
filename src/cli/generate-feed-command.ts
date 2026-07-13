@@ -14,8 +14,8 @@ import {
 import { FeedStorer } from '../feed/feed-storer';
 import { FeedValidator } from '../feed/feed-validator';
 import { logger } from '../feed/logger';
-import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
 import { FEED_INFO_LIST } from '../resources/feed-info-list';
+import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
 
 const dirName = url.fileURLToPath(new URL('.', import.meta.url));
 
