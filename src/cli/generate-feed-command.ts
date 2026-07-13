@@ -6,16 +6,16 @@ import { FeedCrawler } from '../feed/feed-crawler';
 import { FeedGenerator } from '../feed/feed-generator';
 import {
   filterByTiers,
-  filterCuratedIdidBookmarks,
   scoreDiscoverItems,
+  selectCuratedItems,
   selectHatenaItItems,
   selectPicksItems,
 } from '../feed/feed-item-processor';
 import { FeedStorer } from '../feed/feed-storer';
 import { FeedValidator } from '../feed/feed-validator';
 import { logger } from '../feed/logger';
-import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
 import { FEED_INFO_LIST } from '../resources/feed-info-list';
+import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
 
 const dirName = url.fileURLToPath(new URL('.', import.meta.url));
 
@@ -44,12 +44,7 @@ const feedStorer = new FeedStorer();
     .filter((item) => dayjs(item.isoDate).isAfter(dayjs().subtract(constants.headlinesWindowHours, 'hour')))
     .slice(0, constants.headlinesMaxItems);
 
-  let curatedItems = filterCuratedIdidBookmarks(allItems);
-  if (curatedItems.length === 0) {
-    curatedItems = filterByTiers(allItems, ['curated']).slice(0, constants.curatedMaxItemsPerDay);
-  } else {
-    curatedItems = curatedItems.slice(0, constants.curatedMaxItemsPerDay);
-  }
+  const curatedItems = selectCuratedItems(allItems);
 
   const hatenaItItems = selectHatenaItItems(allItems);
   const picksItems = selectPicksItems(allItems, hatenaCountMap);

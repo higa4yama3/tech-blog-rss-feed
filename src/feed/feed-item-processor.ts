@@ -1,5 +1,5 @@
-import dayjs from 'dayjs';
 import { URL } from 'node:url';
+import dayjs from 'dayjs';
 import constants from '../common/constants';
 import { CORE_OUTPUT_TIERS, type FeedTier } from '../resources/feed-tier';
 import type { EnrichedFeedItem } from './enriched-feed-item';
@@ -15,7 +15,10 @@ const getHostname = (link: string): string => {
   }
 };
 
-export const applyPerSourceCaps = (items: EnrichedFeedItem[], feedMaxItems: Map<string, number>): EnrichedFeedItem[] => {
+export const applyPerSourceCaps = (
+  items: EnrichedFeedItem[],
+  feedMaxItems: Map<string, number>,
+): EnrichedFeedItem[] => {
   const grouped = new Map<string, EnrichedFeedItem[]>();
 
   for (const item of items) {
@@ -41,17 +44,18 @@ export const filterByTiers = (items: EnrichedFeedItem[], tiers: FeedTier[]): Enr
 export const filterCuratedIdidBookmarks = (items: EnrichedFeedItem[]): EnrichedFeedItem[] => {
   const segment = constants.ididBookmarkPathSegment;
   return items.filter(
-    (item) =>
-      item.sourceLabel === 'iDID' &&
-      (item.link.includes(`/${segment}/`) || item.link.includes(`/${segment}`)),
+    (item) => item.sourceLabel === 'iDID' && (item.link.includes(`/${segment}/`) || item.link.includes(`/${segment}`)),
   );
 };
+
+export const selectCuratedItems = (items: EnrichedFeedItem[]): EnrichedFeedItem[] =>
+  filterCuratedIdidBookmarks(items).slice(0, constants.curatedMaxItemsPerDay);
 
 export const selectHatenaItItems = (items: EnrichedFeedItem[]): EnrichedFeedItem[] => {
   const windowStart = dayjs().subtract(constants.hatenaItWindowHours, 'hour');
   const blocklist = new Set(constants.hatenaItDomainBlocklist);
 
-  let filtered = items
+  const filtered = items
     .filter((item) => item.sourceTier === 'hotentry')
     .filter((item) => dayjs(item.isoDate).isAfter(windowStart))
     .filter((item) => (item.hatenaBookmarkCountFromRss ?? 0) >= constants.hatenaItMinBookmarkCount)
@@ -61,8 +65,7 @@ export const selectHatenaItItems = (items: EnrichedFeedItem[]): EnrichedFeedItem
     })
     .sort(
       (a, b) =>
-        (b.hatenaBookmarkCountFromRss ?? 0) - (a.hatenaBookmarkCountFromRss ?? 0) ||
-        b.isoDate.localeCompare(a.isoDate),
+        (b.hatenaBookmarkCountFromRss ?? 0) - (a.hatenaBookmarkCountFromRss ?? 0) || b.isoDate.localeCompare(a.isoDate),
     );
 
   const domainCounts = new Map<string, number>();
