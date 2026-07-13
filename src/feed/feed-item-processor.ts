@@ -47,6 +47,9 @@ export const filterCuratedIdidBookmarks = (items: EnrichedFeedItem[]): EnrichedF
   );
 };
 
+export const selectCuratedItems = (items: EnrichedFeedItem[]): EnrichedFeedItem[] =>
+  filterCuratedIdidBookmarks(items).slice(0, constants.curatedMaxItemsPerDay);
+
 export const selectHatenaItItems = (items: EnrichedFeedItem[]): EnrichedFeedItem[] => {
   const windowStart = dayjs().subtract(constants.hatenaItWindowHours, 'hour');
   const blocklist = new Set(constants.hatenaItDomainBlocklist);
