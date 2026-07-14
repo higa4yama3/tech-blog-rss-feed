@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest';
-import { FeedCrawler, type CustomRssParserFeed } from '../src/feed/feed-crawler';
+import { type CustomRssParserFeed, FeedCrawler } from '../src/feed/feed-crawler';
 import type { FeedInfo } from '../src/resources/feed-info-list';
 
 type FeedCrawlerInternals = {
