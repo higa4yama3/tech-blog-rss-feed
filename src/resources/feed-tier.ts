@@ -6,9 +6,9 @@ export const CORE_OUTPUT_TIERS: FeedTier[] = ['essential', 'core', 'optional', '
 
 export const TIER_AGGREGATE_HOURS: Record<FeedTier, number> = {
   essential: 60 * 24,
-  core: 5 * 24,
-  optional: 5 * 24,
-  media: 3 * 24,
+  core: 8 * 24,
+  optional: 8 * 24,
+  media: 8 * 24,
   signal: 2 * 24,
   research: 30 * 24,
   curated: 7 * 24,

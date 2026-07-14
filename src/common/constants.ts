@@ -48,7 +48,7 @@ export default {
   // 処理の設定
   feedFetchConcurrency: 50,
   feedOgFetchConcurrency: 20,
-  aggregateFeedDurationInHours: 5 * 24,
+  aggregateFeedDurationInHours: 8 * 24,
   maxFeedDescriptionLength: 200,
   maxFeedContentLength: 500,
   maxResearchFeedDescriptionLength: 500,
