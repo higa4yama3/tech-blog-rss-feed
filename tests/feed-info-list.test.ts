@@ -9,4 +9,13 @@ describe('FEED_INFO_LIST', () => {
       FeedCrawler.validateFeedInfoList(FEED_INFO_LIST);
     }).not.toThrow();
   });
+
+  it('既存の ITmedia AI＋ フィードを維持する', () => {
+    expect(FEED_INFO_LIST).toContainEqual(
+      expect.objectContaining({
+        label: 'ITmedia AI＋',
+        url: 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml',
+      }),
+    );
+  });
 });
