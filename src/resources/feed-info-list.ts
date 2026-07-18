@@ -64,6 +64,7 @@ export const FEED_INFO_LIST: FeedInfo[] = [
     tier: 'curated',
     tags: ['design', 'curated'],
   }),
+  defineFeed({ label: 'ITmedia AI＋', url: 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml' }),
   defineFeed({
     label: 'ITmedia NEWS',
     url: 'https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml',
