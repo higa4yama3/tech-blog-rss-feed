@@ -132,6 +132,19 @@ export class FeedGenerator {
       pickReasons.set(item.link, buildPickReason(item, hatenaCountMap));
     }
 
+    const legacyBuilt = this.buildDistribution(feedItems, feedItemOgObjectMap, hatenaCountMap, {
+      id: `${constants.siteUrlStem}/`,
+      link: constants.siteUrlStem,
+      title: constants.feedTitle,
+      description: constants.feedDescription,
+      feedLinks: {
+        atom: constants.feedUrls.atom,
+        rss: constants.feedUrls.rss,
+        json: constants.feedUrls.json,
+      },
+      titleMode: 'default',
+    });
+
     const coreBuilt = this.buildDistribution(distributions.core, feedItemOgObjectMap, hatenaCountMap, {
       id: `${constants.siteUrlStem}/feeds/core`,
       link: constants.feedUrls.core,
@@ -264,8 +277,8 @@ export class FeedGenerator {
       research,
       curated,
       hatenaIt,
-      aggregatedFeed: coreBuilt.feed,
-      feedDistributionSet: core,
+      aggregatedFeed: legacyBuilt.feed,
+      feedDistributionSet: legacyBuilt.distribution,
     };
   }
 
