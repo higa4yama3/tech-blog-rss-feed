@@ -2,8 +2,8 @@ import * as fs from 'node:fs/promises';
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { describe, expect, it } from 'vitest';
-import { FeedStorer } from '../src/feed/feed-storer';
 import type { GenerateFeedBundleResult } from '../src/feed/feed-generator';
+import { FeedStorer } from '../src/feed/feed-storer';
 
 const emptyDistribution = {
   atom: '',
