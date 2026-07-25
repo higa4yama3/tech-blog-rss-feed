@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { FeedGenerator } from '../src/feed/feed-generator';
 import type { EnrichedFeedItem } from '../src/feed/enriched-feed-item';
+import { FeedGenerator } from '../src/feed/feed-generator';
 
 const createItem = (overrides: Partial<EnrichedFeedItem> = {}): EnrichedFeedItem => ({
   title: 'TypeScript 5.9 Released',

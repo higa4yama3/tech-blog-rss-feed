@@ -1,11 +1,11 @@
-import { Feed, type FeedOptions } from 'feed';
 import dayjs from 'dayjs';
 import timezone from 'dayjs/plugin/timezone';
 import utc from 'dayjs/plugin/utc';
+import { Feed, type FeedOptions } from 'feed';
 import constants from '../common/constants.js';
 import { textToMd5Hash, textTruncate } from './common-util';
-import type { FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import type { EnrichedFeedItem } from './enriched-feed-item';
+import type { FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import { buildPickReason } from './feed-item-processor';
 import { logger } from './logger';
 
@@ -122,7 +122,10 @@ export class FeedGenerator {
     feedItems: EnrichedFeedItem[],
     feedItemOgObjectMap: OgObjectMap,
     hatenaCountMap: FeedItemHatenaCountMap,
-    distributions: Record<keyof Omit<GenerateFeedBundleResult, 'aggregatedFeed' | 'feedDistributionSet'>, EnrichedFeedItem[]>,
+    distributions: Record<
+      keyof Omit<GenerateFeedBundleResult, 'aggregatedFeed' | 'feedDistributionSet'>,
+      EnrichedFeedItem[]
+    >,
   ): GenerateFeedBundleResult {
     const pickReasons = new Map<string, string>();
     for (const item of distributions.picks) {
@@ -342,7 +345,9 @@ export class FeedGenerator {
         description: escapeTextForXml(
           getItemDescription(feedItem, feedItemOgObjectMap, descriptionLength, options.pickReasons),
         ),
-        content: escapeTextForXml(getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons)),
+        content: escapeTextForXml(
+          getItemDescription(feedItem, feedItemOgObjectMap, contentLength, options.pickReasons),
+        ),
         link: feedItem.link,
         category: categories,
         author:
@@ -362,7 +367,9 @@ export class FeedGenerator {
               blogLink: feedItem.blogLink,
               blogLinkMd5Hash: textToMd5Hash(feedItem.blogLink),
               favicon: ogObject?.favicon,
-              pickReason: escapeTextForXml(options.pickReasons?.get(feedItem.link) ?? buildPickReason(feedItem, hatenaCountMap)),
+              pickReason: escapeTextForXml(
+                options.pickReasons?.get(feedItem.link) ?? buildPickReason(feedItem, hatenaCountMap),
+              ),
               sourceTier: feedItem.sourceTier,
               sourceLabel: escapeTextForXml(feedItem.sourceLabel),
             },
