@@ -86,7 +86,7 @@ const formatItemTitle = (
       const pts = feedItem.hnPoints ?? 0;
       const comments = feedItem.hnComments ?? 0;
       const host = getHostname(feedItem.link);
-      return `${time} ↑${pts} · ${comments} comments · ${host}`;
+      return `${time} ${baseTitle} ↑${pts} · ${comments} comments · ${host}`;
     }
     const host = getHostname(feedItem.link);
     return `${time} ${baseTitle} (${host})`;
