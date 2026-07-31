@@ -20,7 +20,7 @@ describe('フィードが取得可能', () => {
       testTitle,
       async () => {
         const feed = await exponentialBackoff(async () => rssParser.parseURL(feedInfo.url), 3000, FETCH_RETRIES);
-        expect(feed.items.length).toBeGreaterThanOrEqual(0);
+        expect(feed.items.length).toBeGreaterThan(0);
       },
       TEST_TIMEOUT_MS,
     );
