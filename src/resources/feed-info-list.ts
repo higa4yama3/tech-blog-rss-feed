@@ -36,7 +36,7 @@ const defineFeed = ({ label, url, tier = 'core', tags, maxItemsInAggregate, cont
 // prettier-ignore
 export const FEED_INFO_LIST: FeedInfo[] = [
   defineFeed({ label: 'ABEJA', url: 'https://tech-blog.abeja.asia/feed' }),
-  defineFeed({ label: 'AI Shift', url: 'https://www.ai-shift.co.jp/techblog/feed' }),
+  defineFeed({ label: 'AI Shift', url: 'https://zenn.dev/p/aishift/feed' }),
   defineFeed({ label: 'BASE', url: 'https://devblog.thebase.in/feed' }),
   defineFeed({ label: 'CAMPFIRE', url: 'https://note.com/campfire_dev/rss' }),
   defineFeed({ label: 'CyberAgent', url: 'https://developers.cyberagent.co.jp/blog/feed/' }),
@@ -76,7 +76,7 @@ export const FEED_INFO_LIST: FeedInfo[] = [
   defineFeed({ label: 'Mackerel', url: 'https://mackerel.io/ja/blog/feed' }),
   defineFeed({ label: 'NTT ドコモ', url: 'https://nttdocomo-developers.jp/feed' }),
   defineFeed({ label: 'NTTコミュニケーションズ', url: 'https://engineers.ntt.com/feed' }),
-  defineFeed({ label: 'Preferred Networks', url: 'https://tech.preferred.jp/ja/blog/llm-plamo/feed' }),
+  defineFeed({ label: 'Preferred Networks', url: 'https://tech.preferred.jp/ja/blog/feed' }),
   defineFeed({ label: 'Progate', url: 'https://tech.prog-8.com/feed' }),
   defineFeed({ label: 'Qiita', url: 'https://zine.qiita.com/feed/', tier: 'media', maxItemsInAggregate: 5 }),
   defineFeed({ label: 'Sansan', url: 'https://buildersbox.corp-sansan.com/feed' }),
@@ -137,7 +137,7 @@ export const FEED_INFO_LIST: FeedInfo[] = [
   defineFeed({ label: '弁護士ドットコム', url: 'https://creators.bengo4.com/feed' }),
   defineFeed({ label: 'ユニファ', url: 'https://tech.unifa-e.com/feed' }),
   defineFeed({ label: 'ラクス', url: 'https://tech-blog.rakus.co.jp/feed' }),
-  defineFeed({ label: 'エクサウィザーズ', url: 'https://techblog.exawizards.com/feed' }),
+  defineFeed({ label: 'エクサウィザーズ', url: 'https://zenn.dev/exawizards/feed' }),
   defineFeed({ label: 'エムスリー', url: 'https://www.m3tech.blog/feed' }),
   defineFeed({ label: 'はてな', url: 'https://developer.hatenastaff.com/feed' }),
   defineFeed({
