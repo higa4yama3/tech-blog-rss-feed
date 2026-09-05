@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Picks)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "厳選ピックアップ",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.cinematoday.jp/news/N0156746",
+            "content_html": "はてブ2件\nニコラス・ケイジ主演の『スパイダーマン』実写ドラマシリーズ「スパイダー・ノワール」が、シーズン1でまさかの打ち切りとなった。Deadlineほか各メディアが報じた。",
+            "url": "https://www.cinematoday.jp/news/N0156746",
+            "title": "[はてブ2件] ニコラス・ケイジ主演「スパイダー・ノワール」シーズン1で打ち切り | シネマトゥデイ",
+            "summary": "はてブ2件\nニコラス・ケイジ主演の『スパイダーマン』実写ドラマシリーズ「スパイダー・ノワール」が、シーズン1でまさかの打ち切りとなった。Deadlineほか各メディアが報じた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Z9j7BZE95Q9U/_size_r1200x630/_v_1788575203/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T02:26:43.000Z",
+            "date_published": "2026-09-05T02:26:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ニコラス・ケイジ主演「スパイダー・ノワール」シーズン1で打ち切り",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/2026/09/05/110000",
+            "content_html": "お気に入りブログ\nはじめに この記事は、夏のブログリレー2026 12日目、最終日の記事です。 こんにちは！PAY ID Product Divisionの岡部（@rerenote）です。 これまできちんとご挨拶する機会がありませんでしたが、今年の4月からこのブログの編集長を務めています。 8月下旬からスタートしたブログリレーも、ついに最終日となりました。 今回は、これまでの記事をあらためてご紹介しながら、ブログリレーを振り返っていきたいと思います。 夏のブログリレー2026 企画について 🍉 BASE PRODUCT TEAM 夏のブログリレー2026 🍉 今回のブログリレーは、「夏にもブログリレーをやってみ…",
+            "url": "https://devblog.thebase.in/entry/2026/09/05/110000",
+            "title": "[お気に入りブログ] 夏のブログリレー2026 〜編集後記〜 | BASEプロダクトチームブログ",
+            "summary": "お気に入りブログ\nはじめに この記事は、夏のブログリレー2026 12日目、最終日の記事です。 こんにちは！PAY ID Product Divisionの岡部（@rerenote）です。 これまできちんとご挨拶する機会がありませんでしたが、今年の4月からこのブログの編集長を務めています。 8月下旬からスタートしたブログリレーも、ついに最終日となりました。 今回は、これまでの記事をあらためてご紹介",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b7502825daa848d81f51ea7b4f075ba20b48954b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasedevteam%2F20260903%2F20260903225208.png",
+                "alt": "夏のブログリレー2026 〜編集後記〜 - BASEプロダクトチームブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-05T02:00:00.000Z",
+            "date_published": "2026-09-05T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "夏のブログリレー2026 〜編集後記〜",
+                "blogTitle": "BASEプロダクトチームブログ",
+                "blogLink": "https://devblog.thebase.in/",
+                "blogLinkMd5Hash": "ba64bb53934641f1faa1f7c9f9a301d5",
+                "favicon": "https://devblog.thebase.in/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "BASE"
+            }
+        }
+    ]
+}

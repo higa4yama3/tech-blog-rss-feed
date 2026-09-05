@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Picks)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        <description>厳選ピックアップ</description>
+        <lastBuildDate>Sat, 05 Sep 2026 15:05:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Picks)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ2件] ニコラス・ケイジ主演「スパイダー・ノワール」シーズン1で打ち切り | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0156746</link>
+            <guid>https://www.cinematoday.jp/news/N0156746</guid>
+            <pubDate>Sat, 05 Sep 2026 02:26:43 GMT</pubDate>
+            <description><![CDATA[はてブ2件
+ニコラス・ケイジ主演の『スパイダーマン』実写ドラマシリーズ「スパイダー・ノワール」が、シーズン1でまさかの打ち切りとなった。Deadlineほか各メディアが報じた。]]></description>
+            <content:encoded><![CDATA[はてブ2件
+ニコラス・ケイジ主演の『スパイダーマン』実写ドラマシリーズ「スパイダー・ノワール」が、シーズン1でまさかの打ち切りとなった。Deadlineほか各メディアが報じた。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/Z9j7BZE95Q9U/_size_r1200x630/_v_1788575203/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[お気に入りブログ] 夏のブログリレー2026 〜編集後記〜 | BASEプロダクトチームブログ]]></title>
+            <link>https://devblog.thebase.in/entry/2026/09/05/110000</link>
+            <guid>https://devblog.thebase.in/entry/2026/09/05/110000</guid>
+            <pubDate>Sat, 05 Sep 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[お気に入りブログ
+はじめに この記事は、夏のブログリレー2026 12日目、最終日の記事です。 こんにちは！PAY ID Product Divisionの岡部（@rerenote）です。 これまできちんとご挨拶する機会がありませんでしたが、今年の4月からこのブログの編集長を務めています。 8月下旬からスタートしたブログリレーも、ついに最終日となりました。 今回は、これまでの記事をあらためてご紹介]]></description>
+            <content:encoded><![CDATA[お気に入りブログ
+はじめに この記事は、夏のブログリレー2026 12日目、最終日の記事です。 こんにちは！PAY ID Product Divisionの岡部（@rerenote）です。 これまできちんとご挨拶する機会がありませんでしたが、今年の4月からこのブログの編集長を務めています。 8月下旬からスタートしたブログリレーも、ついに最終日となりました。 今回は、これまでの記事をあらためてご紹介しながら、ブログリレーを振り返っていきたいと思います。 夏のブログリレー2026 企画について 🍉 BASE PRODUCT TEAM 夏のブログリレー2026 🍉 今回のブログリレーは、「夏にもブログリレーをやってみ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/b7502825daa848d81f51ea7b4f075ba20b48954b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasedevteam%2F20260903%2F20260903225208.png" alt="夏のブログリレー2026 〜編集後記〜 - BASEプロダクトチームブログ"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,508 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Media)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.json",
+    "description": "高頻度メディアソース（件数上限あり）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://gigazine.net/news/20260905-cern-rhel-debian/",
+            "content_html": "欧州原子核研究機構(CERN)が2200以上のコンピューターおよび組み込みシステムのOSを「Debian」に移行する計画を進めていることが判明しました。",
+            "url": "https://gigazine.net/news/20260905-cern-rhel-debian/",
+            "title": "CERNがRedHat系OSからDebianへの移行作戦を実施中 | GIGAZINE",
+            "summary": "欧州原子核研究機構(CERN)が2200以上のコンピューターおよび組み込みシステムのOSを「Debian」に移行する計画を進めていることが判明しました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/05/cern-rhel-debian/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T13:13:00.000Z",
+            "date_published": "2026-09-05T13:13:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CERNがRedHat系OSからDebianへの移行作戦を実施中",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260905-robot-olympics/",
+            "content_html": "中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学ロボット工学教授のジョナサン・ロバーツ氏が解説しています。",
+            "url": "https://gigazine.net/news/20260905-robot-olympics/",
+            "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？ | GIGAZINE",
+            "summary": "中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/05/robot-olympics/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T12:00:00.000Z",
+            "date_published": "2026-09-05T12:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260905-remote-work-one-office-day/",
+            "content_html": "2020年に発生した新型コロナウイルス感染症(COVID-19)のパンデミックに伴い、さまざまな企業でリモートワークが導入され、一部の企業ではパンデミックの終息後もリモートワークが継続しています。全米経済研究所が発表した新たなワーキングペーパーでは、「完全リモートワークの従業員を月に1日だけ出社させるとどうなるのか」が検証されました。",
+            "url": "https://gigazine.net/news/20260905-remote-work-one-office-day/",
+            "title": "リモートワークの従業員を「月に1日」だけ出社させるとどうなるのか？ | GIGAZINE",
+            "summary": "2020年に発生した新型コロナウイルス感染症(COVID-19)のパンデミックに伴い、さまざまな企業でリモートワークが導入され、一部の企業ではパンデミックの終息後もリモートワークが継続しています。全米経済研究所が発表した新たなワーキングペーパーでは、「完全リモートワークの従業員を月に1日だけ出社させるとどうなるのか」が検証されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/05/remote-work-one-office-day/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T11:00:00.000Z",
+            "date_published": "2026-09-05T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "リモートワークの従業員を「月に1日」だけ出社させるとどうなるのか？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=186486",
+            "content_html": "オランダのアムステルダム自由大学（VU）を中心とする国際研究チームの最新研究により、人類が賢く進化する過程で、心の不調につながる遺伝子の変化が現れたことが明らかになりました。 研究では、約500万年にわたる人類の進化の歴史を遺伝子レベルで細かく調べられており、流動的知性（未知の問題を解決する力）と呼ばれる知能の遺伝子変異が約50万年前に現れ、その後を追うように、精神疾患のリスクを高める遺伝子変異が約47.5万年前に現れたことが示されています。 つまり、人類の歴史では「頭の良さ」と「心の不安定さ」という、一見すると正反対の特徴が、まるでセットのように順番に出現してきたことになります。 このこと…",
+            "url": "https://nazology.kusuguru.co.jp/archives/186486",
+            "title": "人類は賢くなるにつれ心が壊れていったようだ | ナゾロジー",
+            "summary": "オランダのアムステルダム自由大学（VU）を中心とする国際研究チームの最新研究により、人類が賢く進化する過程で、心の不調につながる遺伝子の変化が現れたことが明らかになりました。 研究では、約500万年にわたる人類の進化の歴史を遺伝子レベルで細かく調べられており、流動的知性（未知の問題を解決する力）と呼ばれる知能の遺伝子変異が約50万年前に現れ、その後を追うように、精神疾患のリスクを高める遺伝子変異が",
+            "image": {
+                "height": "709",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2025/10/8753685d23c084655befa9799d4a2cd4.jpg",
+                "width": "1063",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T10:00:32.000Z",
+            "date_published": "2026-09-05T10:00:32.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "生物学",
+                "DNA",
+                "脳",
+                "進化",
+                "遺伝子"
+            ],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "人類は賢くなるにつれ心が壊れていったようだ",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ23件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=186756",
+            "content_html": "イギリスのキングス・カレッジ・ロンドン（KCL）の研究チームが行った最新の研究によって、これまで便秘のケアとしてよく言われてきた「便秘ならとりあえず食物繊維と水分をたっぷり摂れば良い」という常識が、実は科学的な裏付けが不十分なまま広まっていたことが分かりました。 研究では世界中の75件もの便秘改善に関する研究データを徹底的に調べ直し、その結果、その結果、「食物繊維ならなんでも効く」というわけではなく、効果がしっかり認められた食品やサプリは限られていることが明らかになったのです。 具体的には、オオバコ由来の繊維（サイリウム）、キウイ、マグネシウムをたっぷり含む硬水などが便秘改善に特に効果が高く…",
+            "url": "https://nazology.kusuguru.co.jp/archives/186756",
+            "title": "『便秘は食物繊維でOK』ではなかった：最新分析で「効く食品」を精査 | ナゾロジー",
+            "summary": "イギリスのキングス・カレッジ・ロンドン（KCL）の研究チームが行った最新の研究によって、これまで便秘のケアとしてよく言われてきた「便秘ならとりあえず食物繊維と水分をたっぷり摂れば良い」という常識が、実は科学的な裏付けが不十分なまま広まっていたことが分かりました。 研究では世界中の75件もの便秘改善に関する研究データを徹底的に調べ直し、その結果、その結果、「食物繊維ならなんでも効く」というわけではな",
+            "image": {
+                "height": "709",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2025/10/1fd0f6c66e24165a97a87ddcefd2a041.jpg",
+                "width": "1063",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T09:00:48.000Z",
+            "date_published": "2026-09-05T09:00:48.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "健康"
+            ],
+            "_custom": {
+                "hatenaCount": 39,
+                "originalTitle": "『便秘は食物繊維でOK』ではなかった：最新分析で「効く食品」を精査",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ39件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00682/082800104/",
+            "content_html": "",
+            "url": "https://business.nikkei.com/atcl/gen/19/00682/082800104/",
+            "title": "［2026年9月5日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00682/082800104/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T20:01:00.000Z",
+            "date_published": "2026-09-04T20:01:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［2026年9月5日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/digest/2138505.html",
+            "content_html": "",
+            "url": "https://forest.watch.impress.co.jp/docs/digest/2138505.html",
+            "title": "解き終わったテスト用紙の写真から回答前の状態を復元する「プリントリセット」　ほか【ダイジェストニュース】 | 窓の杜",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2138/505/0904.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T12:31:51.000Z",
+            "date_published": "2026-09-04T12:31:51.000Z",
+            "author": {
+                "name": "窓の杜編集部"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "解き終わったテスト用紙の写真から回答前の状態を復元する「プリントリセット」　ほか【ダイジェストニュース】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199288",
+            "content_html": "スペインのバスク大学（EHU）などの研究によって、土星の南極を取り囲む巨大な「十角形」の雲の模様が、いままさに形を整えている途中の姿で見つかりました。 土星の北極には、雲が六角形を描く有名な模様がありますが、南極で同じような多角形が見つかったことはありませんでした。 研究チームのエイミー・サイモン氏（NASAゴダード宇宙飛行センター）は「北極の六角形は40年以上、見るたびにそこにありました。この模様は違います。強まっているように見えるのです」と述べています。 なぜ今になって、しかも六角形ではなく十角形が、南極に生まれたのでしょうか。 研究内容の詳細は2026年9月2日に『Science Ad…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199288",
+            "title": "土星の南極に「十角形」が出現しつつある――1辺が地球に匹敵 | ナゾロジー",
+            "summary": "スペインのバスク大学（EHU）などの研究によって、土星の南極を取り囲む巨大な「十角形」の雲の模様が、いままさに形を整えている途中の姿で見つかりました。 土星の北極には、雲が六角形を描く有名な模様がありますが、南極で同じような多角形が見つかったことはありませんでした。 研究チームのエイミー・サイモン氏（NASAゴダード宇宙飛行センター）は「北極の六角形は40年以上、見るたびにそこにありました。この模",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/8a75d4cc897a0d6b131af4b3304a0ad2.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T12:00:14.000Z",
+            "date_published": "2026-09-04T12:00:14.000Z",
+            "author": {
+                "name": "ナゾロジー 編集部"
+            },
+            "tags": [
+                "宇宙",
+                "土星",
+                "惑星"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "土星の南極に「十角形」が出現しつつある――1辺が地球に匹敵",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2138400.html",
+            "content_html": " 本連載では、無料の高機能3Dモデリングツール「Blender」の使い方や関連情報を幅広くお伝えします。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2138400.html",
+            "title": "無料の3DCG統合環境「Blender 5.2」は作業効率がアップする改善がたくさん！【Blender ウォッチング】 | 窓の杜",
+            "summary": " 本連載では、無料の高機能3Dモデリングツール「Blender」の使い方や関連情報を幅広くお伝えします。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2138/400/image01.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T10:39:00.000Z",
+            "date_published": "2026-09-04T10:39:00.000Z",
+            "author": {
+                "name": "山崎 聡"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "無料の3DCG統合環境「Blender 5.2」は作業効率がアップする改善がたくさん！【Blender ウォッチング】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2138456.html",
+            "content_html": " ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。",
+            "url": "https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2138456.html",
+            "title": "『令和ネットスラング辞典』も読み放題に！ 工学・シミュレーション専門書も多数【読み放題！TechLib新着情報】 | 窓の杜",
+            "summary": " ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2138/456/image1.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T09:52:16.000Z",
+            "date_published": "2026-09-04T09:52:16.000Z",
+            "author": {
+                "name": "窓の杜編集部"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『令和ネットスラング辞典』も読み放題に！ 工学・シミュレーション専門書も多数【読み放題！TechLib新着情報】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2138158.html",
+            "content_html": " 定番サウンドエディター「Audacity」が9月3日（日本時間）、v4.0.0へ更新された。2021年3月以来、約5年半ぶりのメジャーアップデートとなる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2138158.html",
+            "title": "定番サウンドエディター「Audacity 4.0」、5年半ぶりのメジャーアップデート、UIを再構築、ASIOにビルトイン対応／プロジェクト形式は「.aup4」へ。一部「Audacity 3.x」機能は未実装な点に注意 | 窓の杜",
+            "summary": " 定番サウンドエディター「Audacity」が9月3日（日本時間）、v4.0.0へ更新された。2021年3月以来、約5年半ぶりのメジャーアップデートとなる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2138/158/audacity.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T09:06:00.000Z",
+            "date_published": "2026-09-04T09:06:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 27,
+                "originalTitle": "定番サウンドエディター「Audacity 4.0」、5年半ぶりのメジャーアップデート、UIを再構築、ASIOにビルトイン対応／プロジェクト形式は「.aup4」へ。一部「Audacity 3.x」機能は未実装な点に注意",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ27件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00636/090300115/",
+            "content_html": "SHIFTが新人研修を刷新し、生成AIの利用を禁止する時間をもうけ、与えられた課題について自力で考えるプログラムを取り入れた。生成AIで仕事の進め方が変わる中、新人に何を学ばせ、どこまでをAIに任せるのか。企業の試行錯誤を追った。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00636/090300115/",
+            "title": "SHIFT、新人研修で5分のAI禁止タイム　まず人間同士で考え抜く (人的資本の現場から) | 日経ビジネス電子版　最新記事",
+            "summary": "SHIFTが新人研修を刷新し、生成AIの利用を禁止する時間をもうけ、与えられた課題について自力で考えるプログラムを取り入れた。生成AIで仕事の進め方が変わる中、新人に何を学ばせ、どこまでをAIに任せるのか。企業の試行錯誤を追った。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00636/090300115/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T08:00:00.000Z",
+            "date_published": "2026-09-04T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "SHIFT、新人研修で5分のAI禁止タイム　まず人間同士で考え抜く (人的資本の現場から)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00925/090300002/",
+            "content_html": "日経ビジネスが「世界5大ファーム」の一角、米ハイドリック・アンド・ストラグルズのトップに単独インタビューを実施した。「CEOサクセッションに成功する企業と、失敗する企業の差は何か」。記者はこう質問した。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00925/090300002/",
+            "title": "「後継者計画に完璧はない」、世界最大級トップ人材会社CEOが語る3つの鉄則 (社長のつくり方) | 日経ビジネス電子版　最新記事",
+            "summary": "日経ビジネスが「世界5大ファーム」の一角、米ハイドリック・アンド・ストラグルズのトップに単独インタビューを実施した。「CEOサクセッションに成功する企業と、失敗する企業の差は何か」。記者はこう質問した。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00925/090300002/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T08:00:00.000Z",
+            "date_published": "2026-09-04T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「後継者計画に完璧はない」、世界最大級トップ人材会社CEOが語る3つの鉄則 (社長のつくり方)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00122/00296/",
+            "content_html": "来週は日米欧で金融政策を巡る材料が相次ぐ。欧州ではECBの追加利上げが濃厚だ。日本では日銀の増一行審議委員が講演・記者会見し、米国では物価統計が今後の政策判断を左右しそうだ。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00122/00296/",
+            "title": "ECBの追加利上げが濃厚に　日銀とFRBの「次の一手」も焦点 (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事",
+            "summary": "来週は日米欧で金融政策を巡る材料が相次ぐ。欧州ではECBの追加利上げが濃厚だ。日本では日銀の増一行審議委員が講演・記者会見し、米国では物価統計が今後の政策判断を左右しそうだ。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00122/00296/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T08:00:00.000Z",
+            "date_published": "2026-09-04T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ECBの追加利上げが濃厚に　日銀とFRBの「次の一手」も焦点 (上野泰也の先読みマーケット)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00798/090200023/",
+            "content_html": "「半導体分野の革新者だ」。アクティビスト（物言う株主）が公表した資料によって半導体銘柄となったTOTO。半導体関連の営業利益は、トイレを中心にした住宅設備事業を超えた。AIブームの追い風が吹く中、田村社長は「一方だけではもったいない」と語る。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00798/090200023/",
+            "title": "［動画］TOTO社長「半導体一本足はもったいない」　アクティビストがトイレへ圧力 (資本市場サバイバル) | 日経ビジネス電子版　最新記事",
+            "summary": "「半導体分野の革新者だ」。アクティビスト（物言う株主）が公表した資料によって半導体銘柄となったTOTO。半導体関連の営業利益は、トイレを中心にした住宅設備事業を超えた。AIブームの追い風が吹く中、田村社長は「一方だけではもったいない」と語る。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00798/090200023/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T08:00:00.000Z",
+            "date_published": "2026-09-04T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［動画］TOTO社長「半導体一本足はもったいない」　アクティビストがトイレへ圧力 (資本市場サバイバル)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2138374.html",
+            "content_html": " （株）ジャストシステムは9月2日、日本語入力システム「ATOK Passport」において、4つのOS間で文字の入力環境を共有できる新機能「ATOK Sync One」の提供を開始した。2025年11月の発表当初は2026年6月提供の予定だったが、3カ月遅れての実装となっている。本機能の対象となるOSは、Windows/macOS/Android/iOSの4種類。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2138374.html",
+            "title": "ジャストシステム、スマホとPCで文字入力環境を共有できる「ATOK Sync One」を提供開始／6月提供予定が9月にずれ込む | 窓の杜",
+            "summary": " （株）ジャストシステムは9月2日、日本語入力システム「ATOK Passport」において、4つのOS間で文字の入力環境を共有できる新機能「ATOK Sync One」の提供を開始した。2025年11月の発表当初は2026年6月提供の予定だったが、3カ月遅れての実装となっている。本機能の対象となるOSは、Windows/macOS/Android/iOSの4種類。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2138/374/01.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T07:46:00.000Z",
+            "date_published": "2026-09-04T07:46:00.000Z",
+            "author": {
+                "name": "吉田 幸生"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 25,
+                "originalTitle": "ジャストシステム、スマホとPCで文字入力環境を共有できる「ATOK Sync One」を提供開始／6月提供予定が9月にずれ込む",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ25件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=83192",
+            "content_html": "※本ページは、アフィリエイト広告を利用しています。 ノーコードでWebサイトを制作できるデザインツール「Studio」、ちょっと目を離すとサービス内容が強化されていたり、ツール自体が進化していたりしま",
+            "url": "https://coliss.com/articles/book-review/isbn-9784297157470.html",
+            "title": "国産ノーコードツール「Studio」の進化がすごすぎる！ 実務レベルの制作まで詳しく解説された -Studio ノーコードの教科書 | コリス",
+            "summary": "※本ページは、アフィリエイト広告を利用しています。 ノーコードでWebサイトを制作できるデザインツール「Studio」、ちょっと目を離すとサービス内容が強化されていたり、ツール自体が進化していたりしま",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/9784297157470-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T00:36:37.000Z",
+            "date_published": "2026-09-04T00:36:37.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Book Review",
+                "studio",
+                "技術評論社"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "国産ノーコードツール「Studio」の進化がすごすぎる！ 実務レベルの制作まで詳しく解説された -Studio ノーコードの教科書",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=84084",
+            "content_html": "section要素を積み重ねたときに、一つの要素だけ背景色をブラウザの幅いっぱいに広げるモダンCSSのテクニックを紹介します。 下記は2番目のテキスト要素のとこだけオレンジ色の背景色をブラウザの幅いっ",
+            "url": "https://coliss.com/articles/build-websites/operation/css/background-using-modern-css.html",
+            "title": "border-shapeプロパティにこんな使い方があったとは！ 一つの要素だけ背景色を幅いっぱいに広げるモダンCSSのテクニック | コリス",
+            "summary": "section要素を積み重ねたときに、一つの要素だけ背景色をブラウザの幅いっぱいに広げるモダンCSSのテクニックを紹介します。 下記は2番目のテキスト要素のとこだけオレンジ色の背景色をブラウザの幅いっ",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026081602-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-03T00:36:56.000Z",
+            "date_published": "2026-09-03T00:36:56.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -CSS",
+                "border-shape"
+            ],
+            "_custom": {
+                "hatenaCount": 6,
+                "originalTitle": "border-shapeプロパティにこんな使い方があったとは！ 一つの要素だけ背景色を幅いっぱいに広げるモダンCSSのテクニック",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ6件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        }
+    ]
+}

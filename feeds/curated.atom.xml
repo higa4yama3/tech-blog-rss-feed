@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated</id>
+    <title>RSS (Curated)</title>
+    <updated>2026-09-05T15:05:43.154Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <subtitle>キュレーション（今日のブクマ等）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[「属人性」と「責任」。それが「人間らしい」デザイナーのあり方だと思うんです。| 宇都宮勝晃（KEI inc.） | iDID – クリエイターのための情報メディア]]></title>
+        <id>https://idid.team/?p=4060</id>
+        <link href="https://idid.team/articles/interview/creator-interview-utsunomiya/"/>
+        <updated>2026-08-31T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[クリエイターのこれまでとこれまでのキャリアを追いかける「クリエイターインタビュー」。今回お話を伺うのは、6月にKEI inc.を設立した宇都宮勝晃さん。そう、宇都宮さんは2023年にiDIDがメディアとして初めてインタビューをさせていただいた方でもあります。あれから3年、宇都宮さんにどんな変化があったのか、そしてこれからどこへ向かっていくのか。宇都宮さんの「現在地」をここに記してみたいと思います。]]></summary>
+        <content type="html"><![CDATA[クリエイターのこれまでとこれまでのキャリアを追いかける「クリエイターインタビュー」。今回お話を伺うのは、6月にKEI inc.を設立した宇都宮勝晃さん。そう、宇都宮さんは2023年にiDIDがメディアとして初めてインタビューをさせていただいた方でもあります。あれから3年、宇都宮さんにどんな変化があったのか、そしてこれからどこへ向かっていくのか。宇都宮さんの「現在地」をここに記してみたいと思います。]]></content>
+        <author>
+            <name>idid_nakamura</name>
+        </author>
+        <category label="Interview"/>
+        <category label="クリエイター"/>
+        <category label="クリエイティブ"/>
+        <category label="デザイン"/>
+        <category label="design"/>
+        <category label="curated"/>
+        <published>2026-08-31T22:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【オランダのクリエイティブの現場から Vol.6】ブランドのストーリーを売る、ECデザインの哲学｜Build in Amsterdam（アムステルダム） | iDID – クリエイターのための情報メディア]]></title>
+        <id>https://idid.team/?p=4212</id>
+        <link href="https://idid.team/articles/other/netherland-shiftbrain-06/"/>
+        <updated>2026-08-30T09:43:33.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、オランダにブランチがあるSHIFTBRAINによる寄稿です。シリーズ6回目に紹介するのは、オランダ・アムステルダムを拠点に、eコマースに特化したデジタル体験を手がける世界的なブランディングエージェンシー「Build in Amsterdam」です。]]></summary>
+        <content type="html"><![CDATA[本記事は、オランダにブランチがあるSHIFTBRAINによる寄稿です。シリーズ6回目に紹介するのは、オランダ・アムステルダムを拠点に、eコマースに特化したデジタル体験を手がける世界的なブランディングエージェンシー「Build in Amsterdam」です。]]></content>
+        <author>
+            <name>idid_ohtake</name>
+        </author>
+        <category label="Other"/>
+        <category label="クリエイティブエージェンシー"/>
+        <category label="グローバル"/>
+        <category label="デザイン"/>
+        <category label="design"/>
+        <category label="curated"/>
+        <published>2026-08-30T09:43:33.000Z</published>
+    </entry>
+</feed>

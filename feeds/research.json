@@ -1,0 +1,420 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Research)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.json",
+    "description": "リサーチ・長文",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+            "title": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem | Anthropic Research",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg",
+                "alt": "Mathematical image reminiscent of elliptical curves",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-04T00:00:00.000Z",
+            "date_published": "2026-09-04T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 21,
+                "originalTitle": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ21件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+            "title": "Developing Enterprise Frontier Safeguards with our customers | Anthropic News",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&backgroundColor=sky",
+                "alt": "Hand with urban skyline and corporate buildings, representing business growth and enterprise development"
+            },
+            "date_modified": "2026-09-01T00:00:00.000Z",
+            "date_published": "2026-09-01T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "Developing Enterprise Frontier Safeguards with our customers",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ14件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+            "content_html": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+            "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+            "title": "Improving our alignment and security efforts | Anthropic News",
+            "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=cactus",
+                "alt": "Hand with geometric shapes constructing a complex abstract form on white background"
+            },
+            "date_modified": "2026-08-31T00:00:00.000Z",
+            "date_published": "2026-08-31T00:00:00.000Z",
+            "tags": [
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Improving our alignment and security efforts",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ2件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+            "content_html": "We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ",
+            "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+            "title": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures | Anthropic Research",
+            "summary": "We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&backgroundColor=olive",
+                "alt": "Geometric staircase steps ascending vertically with incremental progression"
+            },
+            "date_modified": "2026-08-28T00:00:00.000Z",
+            "date_published": "2026-08-28T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/expanding-support-for-scientists",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+            "title": "Expanding our support for scientists | Anthropic News",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&backgroundColor=olive",
+                "alt": "Stylized hand and head silhouette with interconnected node and abstract geometric elements"
+            },
+            "date_modified": "2026-08-27T00:00:00.000Z",
+            "date_published": "2026-08-27T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Expanding our support for scientists",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+            "content_html": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ",
+            "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+            "title": "Previewing the Model Hardware Standard | Anthropic News",
+            "summary": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ",
+            "image": {
+                "url": "https://cdn.sanity.io/images/4zrzovbb/website/5008271abbababe59f4fbb01998697f7dd0b5b60-1280x720.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-27T00:00:00.000Z",
+            "date_published": "2026-08-27T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "Previewing the Model Hardware Standard",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ11件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/enabling-independent-research",
+            "content_html": "Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.",
+            "url": "https://www.anthropic.com/research/enabling-independent-research",
+            "title": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude | Anthropic Research",
+            "summary": "Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampBooks&backgroundColor=heather",
+                "alt": "Desk lamp beside stacked books on wooden surface with academic study materials"
+            },
+            "date_modified": "2026-08-26T00:00:00.000Z",
+            "date_published": "2026-08-26T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ2件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/wellbeing-research-grants",
+            "content_html": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+            "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+            "title": "Funding better evaluations of AI’s impact on wellbeing | Anthropic News",
+            "summary": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&backgroundColor=heather",
+                "alt": "Hand with flower elements and head outline in stylized profile design"
+            },
+            "date_modified": "2026-08-25T00:00:00.000Z",
+            "date_published": "2026-08-25T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Funding better evaluations of AI’s impact on wellbeing",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "リサーチ",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+            "content_html": "In this post, we share two results that show how Claude can help life scientists increase the pace of their research. In the first, we tested Claude’s ability to design protein binders from scratch, a key step in creating protein-based drugs that has historically taken a specialist weeks or months per target. In the second example, we evaluated whether Claude can accelerate chemical analysis. Claude Opus 5, a generally available model, was given NMR and LC-MS data (the data that allows chemists to assess the identity and purity of the compounds they work with). ",
+            "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+            "title": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research. | Anthropic Research",
+            "summary": "In this post, we share two results that show how Claude can help life scientists increase the pace of their research. In the first, we tested Claude’s ability to design protein binders from scratch, a key step in creating protein-based drugs that has historically taken a specialist weeks or months per target. In the second example, we evaluated whether Claude can accelerate chemical analysis. Claude Opus 5, a generally available model, was given NMR and LC-MS data (the data that allows chemists ",
+            "image": {
+                "url": "https://cdn.sanity.io/images/4zrzovbb/website/e3758f1bc27af0786f4249cc1ab194fc2c6cce63-3840x2160.png",
+                "alt": "An image of Claude-designed protein binders spelling out Anthropic",
+                "type": "png"
+            },
+            "date_modified": "2026-08-18T00:00:00.000Z",
+            "date_published": "2026-08-18T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research.",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ2件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/claude-text-watermark",
+            "content_html": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+            "url": "https://www.anthropic.com/news/claude-text-watermark",
+            "title": "How Claude’s text watermark works | Anthropic News",
+            "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather",
+                "alt": "Ornate quill pen resting on a detailed hand, positioned against a textured background"
+            },
+            "date_modified": "2026-08-14T00:00:00.000Z",
+            "date_published": "2026-08-14T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 29,
+                "originalTitle": "How Claude’s text watermark works",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ29件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/multiagent-systems",
+            "content_html": "We ran experiments on swarms of Claude agents and found coordination failures, collusion, and sabotage. Here, we share what they mean for AI safety.",
+            "url": "https://www.anthropic.com/research/multiagent-systems",
+            "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems | Anthropic Research",
+            "summary": "We ran experiments on swarms of Claude agents and found coordination failures, collusion, and sabotage. Here, we share what they mean for AI safety.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-13T00:00:00.000Z",
+            "date_published": "2026-08-13T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ23件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+            "content_html": "An evidence review from Anthropic's Economic Research team",
+            "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+            "title": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff. | Anthropic Research",
+            "summary": "An evidence review from Anthropic's Economic Research team",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Abacus&backgroundColor=olive",
+                "alt": "Large hand-shaped network diagram with abacus-like nodes and interconnected beads representing data processing"
+            },
+            "date_modified": "2026-08-12T00:00:00.000Z",
+            "date_published": "2026-08-12T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff.",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/riemann-zeta",
+            "content_html": "An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.",
+            "url": "https://www.anthropic.com/research/riemann-zeta",
+            "title": "Learning more about Claude's mathematical capabilities | Anthropic Research",
+            "summary": "An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.",
+            "image": {
+                "url": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-10T00:00:00.000Z",
+            "date_published": "2026-08-10T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 19,
+                "originalTitle": "Learning more about Claude's mathematical capabilities",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ19件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research"
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+            "content_html": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
+            "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+            "title": "Improving Fable 5's biology safeguards | Anthropic News",
+            "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&backgroundColor=heather",
+                "alt": "Stylized bird with curved wings and intricate body lines against abstract background"
+            },
+            "date_modified": "2026-08-07T00:00:00.000Z",
+            "date_published": "2026-08-07T00:00:00.000Z",
+            "tags": [
+                "Product",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Improving Fable 5's biology safeguards",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ4件",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News"
+            }
+        }
+    ]
+}

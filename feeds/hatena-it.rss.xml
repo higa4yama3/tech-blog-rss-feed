@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (はてなIT人気)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml</link>
+        <description>はてなブックマーク ITカテゴリ人気（厳選）</description>
+        <lastBuildDate>Sat, 05 Sep 2026 15:05:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (はてなIT人気)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ285] リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ (blog.pinkumohikan.com)]]></title>
+            <link>https://blog.pinkumohikan.com/entry/2026/09/05/150757</link>
+            <guid>https://blog.pinkumohikan.com/entry/2026/09/05/150757</guid>
+            <pubDate>Sat, 05 Sep 2026 06:08:16 GMT</pubDate>
+            <description><![CDATA[はてブ285件
+タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい ]]></description>
+            <content:encoded><![CDATA[はてブ285件
+タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン...]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ230] AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも (zenn.dev)]]></title>
+            <link>https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</link>
+            <guid>https://zenn.dev/yesodco/articles/ed0eb2f6b7621a</guid>
+            <pubDate>Fri, 04 Sep 2026 04:42:49 GMT</pubDate>
+            <description><![CDATA[はてブ230件
+はじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させ]]></description>
+            <content:encoded><![CDATA[はてブ230件
+はじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。 きっかけは「5才児向けの絵本」だった この話の始まりは、コードとは関係のない雑談でした。 弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかる...]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ191] Claude Code の Rules はもう死んでいる - kawasin73のブログ (kawasin73.hatenablog.com)]]></title>
+            <link>https://kawasin73.hatenablog.com/entry/2026/09/05/092056</link>
+            <guid>https://kawasin73.hatenablog.com/entry/2026/09/05/092056</guid>
+            <pubDate>Sat, 05 Sep 2026 03:06:41 GMT</pubDate>
+            <description><![CDATA[はてブ191件
+あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules]]></description>
+            <content:encoded><![CDATA[はてブ191件
+あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ147] AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避 (karapaia.com)]]></title>
+            <link>https://karapaia.com/archives/626046.html</link>
+            <guid>https://karapaia.com/archives/626046.html</guid>
+            <pubDate>Fri, 04 Sep 2026 09:19:52 GMT</pubDate>
+            <description><![CDATA[はてブ147件
+AI監視カメラを混乱させる迷彩シャツ パッと見では、真っ先に目に飛び込んでくるほどカラフルなシャツ。むしろ地味とは対極にある、いささか派手なデザ]]></description>
+            <content:encoded><![CDATA[はてブ147件
+AI監視カメラを混乱させる迷彩シャツ パッと見では、真っ先に目に飛び込んでくるほどカラフルなシャツ。むしろ地味とは対極にある、いささか派手なデザイン。 この画像を大きなサイズで見るimage credit:Simon Weckert しかしこのシャツ「デジタル・カモフラージュ（Digital Camouflage）」は、単なるシャツではなく、人...]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ130] Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」 (gigazine.net)]]></title>
+            <link>https://gigazine.net/news/20260904-microsoft-spec-driven-development/</link>
+            <guid>https://gigazine.net/news/20260904-microsoft-spec-driven-development/</guid>
+            <pubDate>Fri, 04 Sep 2026 07:07:18 GMT</pubDate>
+            <description><![CDATA[はてブ130件
+Microsoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産]]></description>
+            <content:encoded><![CDATA[はてブ130件
+Microsoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産性向上にはつながりにくいとして、仕様を開発全体の共通基準にする「仕様駆動開発(SDD)」の取り組みを公開しました。AIにコードを書かせる前に「何を作るのか」を明確にすることが重要だと説明して...]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ129] 誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で (japan.zdnet.com)]]></title>
+            <link>https://japan.zdnet.com/article/35252243/</link>
+            <guid>https://japan.zdnet.com/article/35252243/</guid>
+            <pubDate>Thu, 03 Sep 2026 23:16:53 GMT</pubDate>
+            <description><![CDATA[はてブ129件
+「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、]]></description>
+            <content:encoded><![CDATA[はてブ129件
+「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ106] サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝 (global.toshiba)]]></title>
+            <link>https://www.global.toshiba/jp/cybersecurity/corporate/report.html</link>
+            <guid>https://www.global.toshiba/jp/cybersecurity/corporate/report.html</guid>
+            <pubDate>Sat, 05 Sep 2026 06:08:47 GMT</pubDate>
+            <description><![CDATA[はてブ106件
+東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで]]></description>
+            <content:encoded><![CDATA[はてブ106件
+東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ96] 日本のデータセンター4倍へ、8年で10兆円投資　AI向けで米中に次ぐ - 日本経済新聞 (nikkei.com)]]></title>
+            <link>https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/</link>
+            <guid>https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/</guid>
+            <pubDate>Fri, 04 Sep 2026 23:34:04 GMT</pubDate>
+            <description><![CDATA[はてブ96件
+国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理]]></description>
+            <content:encoded><![CDATA[はてブ96件
+国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...]]></content:encoded>
+            <category>hatena</category>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ80] OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/05/2000001200/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/05/2000001200/</guid>
+            <pubDate>Sat, 05 Sep 2026 04:25:07 GMT</pubDate>
+            <description><![CDATA[はてブ80件
+OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとす]]></description>
+            <content:encoded><![CDATA[はてブ80件
+OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/05/2000001200/10005337/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001200/10005337/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ64] エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく (speakerdeck.com)]]></title>
+            <link>https://speakerdeck.com/gimupop/pdeconfarence</link>
+            <guid>https://speakerdeck.com/gimupop/pdeconfarence</guid>
+            <pubDate>Sat, 05 Sep 2026 03:23:14 GMT</pubDate>
+            <description><![CDATA[はてブ64件
+Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspi]]></description>
+            <content:encoded><![CDATA[はてブ64件
+Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →]]></content:encoded>
+            <category>hatena</category>
+        </item>
+    </channel>
+</rss>

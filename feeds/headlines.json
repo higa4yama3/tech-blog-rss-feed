@@ -1,0 +1,824 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Headlines)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.json",
+    "description": "HN・ITmedia速報など",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=49576704",
+            "content_html": "Metaphors like \"a sinking ship\" are often used to describe codebases, but are misleading. A _business_ will sink long before code quality reaches a hypothetical floor. Technical debt has no bankruptcy, no clean reset, so metaphors that imply an end provide a false sense of security.",
+            "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+            "title": "23:13 ↑0 · https://news.ycombinator.com/item?id=49576704 comments · zachkehs.com",
+            "summary": "Metaphors like \"a sinking ship\" are often used to describe codebases, but are mi",
+            "date_modified": "2026-09-05T14:13:22.000Z",
+            "date_published": "2026-09-05T14:13:22.000Z",
+            "author": {
+                "name": "zkehs"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "There's No Limit to How Bad Code Can Get",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49576611",
+            "content_html": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
+            "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+            "title": "23:02 ↑0 · https://news.ycombinator.com/item?id=49576611 comments · arstechnica.com",
+            "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7",
+            "image": {
+                "height": "648",
+                "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
+                "width": "1152",
+                "alt": "Master of Ceremonies Marc Abraham hosting the virtual 2021 Ig Nobel Prizes.",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T14:02:44.000Z",
+            "date_published": "2026-09-05T14:02:44.000Z",
+            "author": {
+                "name": "mkl"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Meet the Ig Nobel Prize Winners",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49576386",
+            "content_html": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/Comments URL: https://news.ycombinator.com/item?id=49576386Points: 53# Comments: 16",
+            "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+            "title": "22:36 ↑0 · https://news.ycombinator.com/item?id=49576386 comments · devquasar.com",
+            "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/Comments",
+            "image": {
+                "url": "https://devquasar.com/wp-content/uploads/2023/12/Black-logo-no-background.png",
+                "type": "png",
+                "width": 3163,
+                "height": 780
+            },
+            "date_modified": "2026-09-05T13:36:38.000Z",
+            "date_published": "2026-09-05T13:36:38.000Z",
+            "author": {
+                "name": "networked"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://devquasar.com/wp-content/uploads/2023/12/browser.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49576258",
+            "content_html": "An opposite view on .gitignore files.",
+            "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+            "title": "22:19 ↑0 · https://news.ycombinator.com/item?id=49576258 comments · packagemain.tech",
+            "summary": "An opposite view on .gitignore files.",
+            "image": {
+                "url": "https://substackcdn.com/image/fetch/$s_!n_v-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66737cc1-4fea-4340-a7cf-1401dc895d52_1280x720.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-09-05T13:19:42.000Z",
+            "date_published": "2026-09-05T13:19:42.000Z",
+            "author": {
+                "name": "der_gopher"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": ".gitignore Everything by Default",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://substackcdn.com/image/fetch/$s_!pdN2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ea54e25-eaa6-4630-bfc0-10b8cfdce894%2Ffavicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49576196",
+            "content_html": "The Pentagon says the guidance is being updated after being online for one day.",
+            "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+            "title": "22:11 ↑0 · https://news.ycombinator.com/item?id=49576196 comments · arstechnica.com",
+            "summary": "The Pentagon says the guidance is being updated after being online for one day.",
+            "image": {
+                "height": "648",
+                "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
+                "width": "1152",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T13:11:14.000Z",
+            "date_published": "2026-09-05T13:11:14.000Z",
+            "author": {
+                "name": "ndsipa_pomu"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Pentagon rescinds new testosterone screening policy without explanation",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49576124",
+            "content_html": "In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming's harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.",
+            "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+            "title": "22:02 ↑0 · https://news.ycombinator.com/item?id=49576124 comments · pbs.org",
+            "summary": "In a strategic retreat in the fight against climate change, the United Nations h",
+            "image": {
+                "height": "683",
+                "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-03T192943Z_1189723666_RC2NBNAQY6VR_RTRMADP_3_CLIMATE-CHANGE-SWISS-GLACIERS-1024x683.jpg",
+                "width": "1024",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T13:02:14.000Z",
+            "date_published": "2026-09-05T13:02:14.000Z",
+            "author": {
+                "name": "ijidak"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Global warming will exceed 1.5-degree limit, UN says",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/favicon/2024/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49575859",
+            "content_html": "Two years of nightmarish smiles and makeup before anyone laid hands on Mimic Systems' actual product.",
+            "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+            "title": "21:23 ↑0 · https://news.ycombinator.com/item?id=49575859 comments · buttondown.com",
+            "summary": "Two years of nightmarish smiles and makeup before anyone laid hands on Mimic Sys",
+            "image": {
+                "url": "https://assets.buttondown.email/images/fe616cfc-8872-4971-ad45-313755d84434.jpg?w=960&fit=max",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-05T12:23:51.000Z",
+            "date_published": "2026-09-05T12:23:51.000Z",
+            "author": {
+                "name": "rfarley04"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://assets.buttondown.email/images/86307df0-e8de-41b2-8f4d-2630f37c3d4a.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49575150",
+            "content_html": "Article URL: http://terpstrakeyboard.com/Comments URL: https://news.ycombinator.com/item?id=49575150Points: 34# Comments: 12",
+            "url": "http://terpstrakeyboard.com/",
+            "title": "19:33 ↑0 · https://news.ycombinator.com/item?id=49575150 comments · terpstrakeyboard.com",
+            "summary": "Article URL: http://terpstrakeyboard.com/Comments URL: https://news.ycombinator.",
+            "image": {
+                "url": "http://terpstrakeyboard.com/wp-content/uploads/2014/01/Terpstra_1st_gen_1997_01.jpg",
+                "type": "jpg",
+                "width": 766,
+                "height": 465
+            },
+            "date_modified": "2026-09-05T10:33:01.000Z",
+            "date_published": "2026-09-05T10:33:01.000Z",
+            "author": {
+                "name": "cl3misch"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Terpstra Keyboard",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "http://terpstrakeyboard.com/wp-content/uploads/2014/01/favicon1.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49575143",
+            "content_html": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps—sadly not for Claude Cowork or Claude Code). I love that they do this, and …",
+            "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+            "title": "19:32 ↑0 · https://news.ycombinator.com/item?id=49575143 comments · simonwillison.net",
+            "summary": "Anthropic publish the system prompts for their Claude consumer applications (Cla",
+            "image": {
+                "url": "https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-09-05T10:32:09.000Z",
+            "date_published": "2026-09-05T10:32:09.000Z",
+            "author": {
+                "name": "Bluestein"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude's new system prompt doesn't want to reproduce song lyrics",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/05/2000001201/",
+            "content_html": "くら寿司が、開催中の「ちいかわ」コラボキャンペーンについて中止する。同コラボを巡っては、配布開始前にもかかわらずコラボグッズがフリマアプリに出品されていることなどがSNS上で問題視されていた。同社が調査を進めた結果、従業員による不正行為が判明したとしいう。（1/2 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001201/",
+            "title": "19:22 くら寿司、「ちいかわ」コラボ中止　従業員による不正行為判明で (itmedia.co.jp)",
+            "summary": "くら寿司が、開催中の「ちいかわ」コラボキャンペーンについて中止する。同コラボを巡っては、配布開始前にもかかわらずコラボグッズがフリマアプリに出品されていることな",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001201/10005348/2048"
+            },
+            "date_modified": "2026-09-05T10:22:20.000Z",
+            "date_published": "2026-09-05T10:22:20.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "くら寿司、「ちいかわ」コラボ中止　従業員による不正行為判明で",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49575034",
+            "content_html": "The central bank of the Netherlands has moved dozens of tonnes of its gold out of the United States and Canada to boost the country's \"crisis preparedness\" amid \"increasing geopolitical unrest\".",
+            "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+            "title": "19:14 ↑0 · https://news.ycombinator.com/item?id=49575034 comments · abc.net.au",
+            "summary": "The central bank of the Netherlands has moved dozens of tonnes of its gold out o",
+            "image": {
+                "url": "https://live-production.wcms.abc-cdn.net.au/8d210aff4e95385e1e96d3b8dfcc3f2f?impolicy=wcms_watermark_news&cropH=2204&cropW=3918&xPos=0&yPos=517&width=862&height=485&imformat=generic"
+            },
+            "date_modified": "2026-09-05T10:14:28.000Z",
+            "date_published": "2026-09-05T10:14:28.000Z",
+            "author": {
+                "name": "daniel_iversen"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.abc.net.au/news-assets/favicon-32x32.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49574167",
+            "content_html": "AI-assisted incident response can lower MTTR while leaving engineers less prepared for the complex incidents automation cannot solve.",
+            "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+            "title": "16:52 ↑0 · https://news.ycombinator.com/item?id=49574167 comments · sylvainkalache.com",
+            "summary": "AI-assisted incident response can lower MTTR while leaving engineers less prepar",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
+                "width": "1200",
+                "alt": "AI-generated reconstruction of a turboprop aircraft flying low over a city highway"
+            },
+            "date_modified": "2026-09-05T07:52:50.000Z",
+            "date_published": "2026-09-05T07:52:50.000Z",
+            "author": {
+                "name": "sylvainkalache"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AI handles incidents, engineers lose touch with their systems",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.sylvainkalache.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49573680",
+            "content_html": "Sovereign, GDPR-native git hosting — code, issues, and CI, all on European soil.",
+            "url": "https://pushin.eu",
+            "title": "15:31 ↑0 · https://news.ycombinator.com/item?id=49573680 comments · pushin.eu",
+            "summary": "Sovereign, GDPR-native git hosting — code, issues, and CI, all on European soil.",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://pushin.eu/-/og/home",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-05T06:31:49.000Z",
+            "date_published": "2026-09-05T06:31:49.000Z",
+            "author": {
+                "name": "sevenseacat"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Git hosting that never leaves Europe",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://pushin.eu/favicon-ba7ee0baa2566ee26806260a979b9814.ico?vsn=d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+            "content_html": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+            "title": "12:06 OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開 (itmedia.co.jp)",
+            "summary": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001200/10005337/2048"
+            },
+            "date_modified": "2026-09-05T03:06:58.000Z",
+            "date_published": "2026-09-05T03:06:58.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 81,
+                "originalTitle": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ81件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49571634",
+            "content_html": "Alternative Twitter front-end. Fork of zedeus/nitter on GitHub.",
+            "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+            "title": "09:04 ↑0 · https://news.ycombinator.com/item?id=49571634 comments · codeberg.org",
+            "summary": "Alternative Twitter front-end. Fork of zedeus/nitter on GitHub.",
+            "image": {
+                "height": "600",
+                "url": "https://codeberg.org/mv12star/shitter/-/summary-card",
+                "width": "1200",
+                "alt": "Summary card of repository mv12star/shitter, described as: Alternative Twitter front-end. Fork of zedeus/nitter on GitHub."
+            },
+            "date_modified": "2026-09-05T00:04:16.000Z",
+            "date_published": "2026-09-05T00:04:16.000Z",
+            "author": {
+                "name": "Cider9986"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Nitter has more working instances than before the takedowns",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://codeberg.org/assets/img/favicon.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49571465",
+            "content_html": "Most of what an AI coding agent does for me isn't thinking. It's I/O.",
+            "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+            "title": "08:38 ↑0 · https://news.ycombinator.com/item?id=49571465 comments · engineering.atspotify.com",
+            "summary": "Most of what an AI coding agent does for me isn't thinking. It's I/O.",
+            "image": {
+                "height": "630",
+                "type": "image/jpeg",
+                "url": "https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png",
+                "width": "1200",
+                "alt": "featured image"
+            },
+            "date_modified": "2026-09-04T23:38:50.000Z",
+            "date_published": "2026-09-04T23:38:50.000Z",
+            "author": {
+                "name": "cebert"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Portal by Spotify cut my Claude Code token usage by 90%",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://engineering.atspotify.com/favicon.ico?favicon.0cd2g1ew_zd4v.ico",
+                "pickReason": "はてブ4件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49571047",
+            "content_html": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.htmlComments URL: https://news.ycombinator.com/item?id=49571047Points: 105# Comments: 29",
+            "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+            "title": "07:40 ↑0 · https://news.ycombinator.com/item?id=49571047 comments · charlespetzold.com",
+            "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perfor",
+            "date_modified": "2026-09-04T22:40:30.000Z",
+            "date_published": "2026-09-04T22:40:30.000Z",
+            "author": {
+                "name": "wibbily"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Can guitar frets perform multiplication?",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49570669",
+            "content_html": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046Comments URL: https://news.ycombinator.com/item?id=49570669Points: 621# Comments: 348",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+            "title": "06:52 ↑0 · https://news.ycombinator.com/item?id=49570669 comments · nvd.nist.gov",
+            "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046Comments URL: https:",
+            "date_modified": "2026-09-04T21:52:01.000Z",
+            "date_published": "2026-09-04T21:52:01.000Z",
+            "author": {
+                "name": "negura"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Actively exploited sandbox RCE in all Chromium versions",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://nvd.nist.gov/vuln/detail/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49570545",
+            "content_html": "GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. $10 per million input tokens, $50 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 2 providers.",
+            "url": "https://openrouter.ai/openai/gpt-6-astra",
+            "title": "06:39 ↑0 · https://news.ycombinator.com/item?id=49570545 comments · openrouter.ai",
+            "summary": "GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. $10 per mi",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-04T21:39:19.000Z",
+            "date_published": "2026-09-04T21:39:19.000Z",
+            "author": {
+                "name": "Topfi"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT-6 Astra on OpenRouter",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://openrouter.ai/favicon/glyph.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49569896",
+            "content_html": "Static hosting for frontend developers who care where their sites live. Git push, custom domain, done — on European infrastructure owned by Europeans, all the way down.",
+            "url": "https://www.statichost.eu/",
+            "title": "05:34 ↑0 · https://news.ycombinator.com/item?id=49569896 comments · statichost.eu",
+            "summary": "Static hosting for frontend developers who care where their sites live. Git push",
+            "image": {
+                "height": "630",
+                "url": "https://www.statichost.eu/%20preview.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T20:34:49.000Z",
+            "date_published": "2026-09-04T20:34:49.000Z",
+            "author": {
+                "name": "p4bl0"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Statichost.eu – European static site hosting",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.statichost.eu/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49569366",
+            "content_html": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+            "title": "04:48 ↑0 · https://news.ycombinator.com/item?id=49569366 comments · eebench.org",
+            "summary": "A look at what current models can build, where they fail, and how EEBench tests ",
+            "image": {
+                "height": "630",
+                "url": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+                "width": "1200",
+                "alt": "EEBench, a physics-graded electrical engineering benchmark",
+                "type": "png"
+            },
+            "date_modified": "2026-09-04T19:48:29.000Z",
+            "date_published": "2026-09-04T19:48:29.000Z",
+            "author": {
+                "name": "iopapa"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Can AI design circuit boards yet?",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49568697",
+            "content_html": "Contribute to anthropics/fermats-last-theorem development by creating an account on GitHub.",
+            "url": "https://github.com/anthropics/fermats-last-theorem",
+            "title": "03:57 ↑0 · https://news.ycombinator.com/item?id=49568697 comments · github.com",
+            "summary": "Contribute to anthropics/fermats-last-theorem development by creating an account",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/fdfae95f9cc63eb9503e9fe389f3413b8de6f313915f44b9548bd31432e47fcc/anthropics/fermats-last-theorem",
+                "width": "1200",
+                "alt": "Contribute to anthropics/fermats-last-theorem development by creating an account on GitHub."
+            },
+            "date_modified": "2026-09-04T18:57:32.000Z",
+            "date_published": "2026-09-04T18:57:32.000Z",
+            "author": {
+                "name": "aaraujo002"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Fermat's Last Theorem in Lean 4",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/",
+            "content_html": "JR東日本は9月4日、新宿駅の地下1階改札内コンコースで、自動走行する「移動式ごみ箱ロボット」の実証実験を行うと発表した。9月8日から11月20日までの平日、コンコースを巡回してごみを収集する。（1/2 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/",
+            "title": "19:05 新宿駅に「ごみ箱ロボット」出現　改札内を自動巡回　JR東が実証実験 (itmedia.co.jp)",
+            "summary": "JR東日本は9月4日、新宿駅の地下1階改札内コンコースで、自動走行する「移動式ごみ箱ロボット」の実証実験を行うと発表した。9月8日から11月20日までの平日、コ",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001199/10005327/2048"
+            },
+            "date_modified": "2026-09-04T10:05:13.000Z",
+            "date_published": "2026-09-04T10:05:13.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 183,
+                "originalTitle": "新宿駅に「ごみ箱ロボット」出現　改札内を自動巡回　JR東が実証実験",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ183件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/04/2000001191/",
+            "content_html": "米ホワイトハウスは9月3日（現地時間）、トランプ政権の政策を題材にしたミニゲームサイト「ARCADE」を公開した。不法移民の摘発など、同政権の看板政策をモチーフにした5種類のミニゲームをブラウザ上でプレイできる。しかし、公開に合わせて投稿した告知動画では、セガの企業ロゴを思わせるデザインで「MAGA」の文字を表示。Xでは、権利侵害を懸念する声や、移民政策のゲーム化を批判する声が上がっている。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001191/",
+            "title": "19:01 SEGAそっくりのロゴで「MAGA」――トランプ政権公開のWebゲームが物議　移民送還などを題材に　【追記あり】 (itmedia.co.jp)",
+            "summary": "米ホワイトハウスは9月3日（現地時間）、トランプ政権の政策を題材にしたミニゲームサイト「ARCADE」を公開した。不法移民の摘発など、同政権の看板政策をモチーフ",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001191/10005278/2048"
+            },
+            "date_modified": "2026-09-04T10:01:26.000Z",
+            "date_published": "2026-09-04T10:01:26.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "SEGAそっくりのロゴで「MAGA」――トランプ政権公開のWebゲームが物議　移民送還などを題材に　【追記あり】",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ3件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/04/2000001197/",
+            "content_html": "「サントリーの新商品の店頭POPが、生成AIで作られている」──Xでこんな投稿が話題だ。コンビニ内の店頭POPにある商品画像が独特の質感だったといい、成分表示も事実と異なっていたことから物議を醸している。ITmedia NEWSがサントリービバレッジ＆フード（東京都港区）に詳細を聞いたところ「当社が提供したPOPではない」との回答が得られた。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001197/",
+            "title": "18:40 サントリー新商品の店頭POPに“生成AI疑惑”　成分表示にも誤りで物議……同社に事実関係を聞いた (itmedia.co.jp)",
+            "summary": "「サントリーの新商品の店頭POPが、生成AIで作られている」──Xでこんな投稿が話題だ。コンビニ内の店頭POPにある商品画像が独特の質感だったといい、成分表示も",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001197/10005324/2048"
+            },
+            "date_modified": "2026-09-04T09:40:29.000Z",
+            "date_published": "2026-09-04T09:40:29.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "サントリー新商品の店頭POPに“生成AI疑惑”　成分表示にも誤りで物議……同社に事実関係を聞いた",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ3件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/04/2000001179/",
+            "content_html": "2026年は、多くの老舗デジタルカメラが30周年を迎えてるのだけど、実はリコーの「GR」も今年10月でちょうど30周年なのである。（1/4 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001179/",
+            "title": "18:15 祝30周年　リコー「GR」の軌跡をたどる　初代「GR1」から新機種「GR IVx」まで (itmedia.co.jp)",
+            "summary": "2026年は、多くの老舗デジタルカメラが30周年を迎えてるのだけど、実はリコーの「GR」も今年10月でちょうど30周年なのである。（1/4 ページ）",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001179/10005226/2048"
+            },
+            "date_modified": "2026-09-04T09:15:02.000Z",
+            "date_published": "2026-09-04T09:15:02.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "祝30周年　リコー「GR」の軌跡をたどる　初代「GR1」から新機種「GR IVx」まで",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ3件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/04/2000001194/",
+            "content_html": "くら寿司の「ちいかわ」コラボ第2弾が9月4日に始まった。しかしSNS上では、特典の湯呑みが配布開始前からフリマアプリ「メルカリ」に出品されていたと指摘する投稿が拡散。コラボを巡っては従業員関与の臆測も広がっており、くら寿司は2日に謝罪文書を公開している。（1/2 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001194/",
+            "title": "17:39 配布前の「ちいかわ」グッズがメルカリに？　くら寿司コラボ第2弾、初日から“内部犯”の臆測呼ぶ　第1弾に続き (itmedia.co.jp)",
+            "summary": "くら寿司の「ちいかわ」コラボ第2弾が9月4日に始まった。しかしSNS上では、特典の湯呑みが配布開始前からフリマアプリ「メルカリ」に出品されていたと指摘する投稿が",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001194/10005304/2048"
+            },
+            "date_modified": "2026-09-04T08:39:47.000Z",
+            "date_published": "2026-09-04T08:39:47.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "配布前の「ちいかわ」グッズがメルカリに？　くら寿司コラボ第2弾、初日から“内部犯”の臆測呼ぶ　第1弾に続き",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ3件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/04/2000001192/",
+            "content_html": "シニア世代が人工知能（AI）を学ぶ機運が高まっている。作曲や小説の執筆といった難易度が高い趣味でも、生成AIを用いれば容易にこなせる。AI教室に参加することで社会とのつながりができ、定年後の孤独解消にもつながると期待される。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001192/",
+            "title": "16:44 シニアこそAI学習　作曲や小説執筆…新たな趣味と友人づくり「どんどん試したくなった」 (itmedia.co.jp)",
+            "summary": "シニア世代が人工知能（AI）を学ぶ機運が高まっている。作曲や小説の執筆といった難易度が高い趣味でも、生成AIを用いれば容易にこなせる。AI教室に参加することで社",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001192/10005280/2048"
+            },
+            "date_modified": "2026-09-04T07:44:58.000Z",
+            "date_published": "2026-09-04T07:44:58.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "シニアこそAI学習　作曲や小説執筆…新たな趣味と友人づくり「どんどん試したくなった」",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ2件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        }
+    ]
+}

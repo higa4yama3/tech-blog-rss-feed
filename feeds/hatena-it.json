@@ -1,0 +1,233 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (はてなIT人気)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.json",
+    "description": "はてなブックマーク ITカテゴリ人気（厳選）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+            "content_html": "はてブ285件\nタイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン...",
+            "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+            "title": "[はてブ285] リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ (blog.pinkumohikan.com)",
+            "summary": "はてブ285件\nタイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい ",
+            "date_modified": "2026-09-05T06:08:16.000Z",
+            "date_published": "2026-09-05T06:08:16.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 285,
+                "originalTitle": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ285件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
+            "content_html": "はてブ230件\nはじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。 きっかけは「5才児向けの絵本」だった この話の始まりは、コードとは関係のない雑談でした。 弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかる...",
+            "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
+            "title": "[はてブ230] AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも (zenn.dev)",
+            "summary": "はてブ230件\nはじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させ",
+            "date_modified": "2026-09-04T04:42:49.000Z",
+            "date_published": "2026-09-04T04:42:49.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 230,
+                "originalTitle": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ230件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
+            "content_html": "はてブ191件\nあちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...",
+            "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
+            "title": "[はてブ191] Claude Code の Rules はもう死んでいる - kawasin73のブログ (kawasin73.hatenablog.com)",
+            "summary": "はてブ191件\nあちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules",
+            "date_modified": "2026-09-05T03:06:41.000Z",
+            "date_published": "2026-09-05T03:06:41.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 191,
+                "originalTitle": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ191件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://karapaia.com/archives/626046.html",
+            "content_html": "はてブ147件\nAI監視カメラを混乱させる迷彩シャツ パッと見では、真っ先に目に飛び込んでくるほどカラフルなシャツ。むしろ地味とは対極にある、いささか派手なデザイン。 この画像を大きなサイズで見るimage credit:Simon Weckert しかしこのシャツ「デジタル・カモフラージュ（Digital Camouflage）」は、単なるシャツではなく、人...",
+            "url": "https://karapaia.com/archives/626046.html",
+            "title": "[はてブ147] AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避 (karapaia.com)",
+            "summary": "はてブ147件\nAI監視カメラを混乱させる迷彩シャツ パッと見では、真っ先に目に飛び込んでくるほどカラフルなシャツ。むしろ地味とは対極にある、いささか派手なデザ",
+            "date_modified": "2026-09-04T09:19:52.000Z",
+            "date_published": "2026-09-04T09:19:52.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 147,
+                "originalTitle": "AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ147件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
+            "content_html": "はてブ130件\nMicrosoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産性向上にはつながりにくいとして、仕様を開発全体の共通基準にする「仕様駆動開発(SDD)」の取り組みを公開しました。AIにコードを書かせる前に「何を作るのか」を明確にすることが重要だと説明して...",
+            "url": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
+            "title": "[はてブ130] Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」 (gigazine.net)",
+            "summary": "はてブ130件\nMicrosoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産",
+            "date_modified": "2026-09-04T07:07:18.000Z",
+            "date_published": "2026-09-04T07:07:18.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 130,
+                "originalTitle": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ130件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://japan.zdnet.com/article/35252243/",
+            "content_html": "はてブ129件\n「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。",
+            "url": "https://japan.zdnet.com/article/35252243/",
+            "title": "[はてブ129] 誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で (japan.zdnet.com)",
+            "summary": "はてブ129件\n「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、",
+            "date_modified": "2026-09-03T23:16:53.000Z",
+            "date_published": "2026-09-03T23:16:53.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 129,
+                "originalTitle": "誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ129件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
+            "content_html": "はてブ106件\n東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。",
+            "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
+            "title": "[はてブ106] サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝 (global.toshiba)",
+            "summary": "はてブ106件\n東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで",
+            "date_modified": "2026-09-05T06:08:47.000Z",
+            "date_published": "2026-09-05T06:08:47.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 106,
+                "originalTitle": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ106件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
+            "content_html": "はてブ96件\n国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...",
+            "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
+            "title": "[はてブ96] 日本のデータセンター4倍へ、8年で10兆円投資　AI向けで米中に次ぐ - 日本経済新聞 (nikkei.com)",
+            "summary": "はてブ96件\n国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理",
+            "date_modified": "2026-09-04T23:34:04.000Z",
+            "date_published": "2026-09-04T23:34:04.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 96,
+                "originalTitle": "日本のデータセンター4倍へ、8年で10兆円投資　AI向けで米中に次ぐ - 日本経済新聞",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ96件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+            "content_html": "はてブ80件\nOpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+            "title": "[はてブ80] OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開 (itmedia.co.jp)",
+            "summary": "はてブ80件\nOpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとす",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001200/10005337/2048"
+            },
+            "date_modified": "2026-09-05T04:25:07.000Z",
+            "date_published": "2026-09-05T04:25:07.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 81,
+                "originalTitle": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ80件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://speakerdeck.com/gimupop/pdeconfarence",
+            "content_html": "はてブ64件\nSponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+            "url": "https://speakerdeck.com/gimupop/pdeconfarence",
+            "title": "[はてブ64] エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく (speakerdeck.com)",
+            "summary": "はてブ64件\nSponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspi",
+            "date_modified": "2026-09-05T03:23:14.000Z",
+            "date_published": "2026-09-05T03:23:14.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 64,
+                "originalTitle": "エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ64件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        }
+    ]
+}

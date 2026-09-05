@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media</id>
+    <title>RSS (Media)</title>
+    <updated>2026-09-05T15:05:43.129Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml"/>
+    <subtitle>高頻度メディアソース（件数上限あり）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[CERNがRedHat系OSからDebianへの移行作戦を実施中 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260905-cern-rhel-debian/</id>
+        <link href="https://gigazine.net/news/20260905-cern-rhel-debian/"/>
+        <updated>2026-09-05T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[欧州原子核研究機構(CERN)が2200以上のコンピューターおよび組み込みシステムのOSを「Debian」に移行する計画を進めていることが判明しました。]]></summary>
+        <content type="html"><![CDATA[欧州原子核研究機構(CERN)が2200以上のコンピューターおよび組み込みシステムのOSを「Debian」に移行する計画を進めていることが判明しました。]]></content>
+        <published>2026-09-05T13:13:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？ | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260905-robot-olympics/</id>
+        <link href="https://gigazine.net/news/20260905-robot-olympics/"/>
+        <updated>2026-09-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学]]></summary>
+        <content type="html"><![CDATA[中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学ロボット工学教授のジョナサン・ロバーツ氏が解説しています。]]></content>
+        <published>2026-09-05T12:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リモートワークの従業員を「月に1日」だけ出社させるとどうなるのか？ | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260905-remote-work-one-office-day/</id>
+        <link href="https://gigazine.net/news/20260905-remote-work-one-office-day/"/>
+        <updated>2026-09-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2020年に発生した新型コロナウイルス感染症(COVID-19)のパンデミックに伴い、さまざまな企業でリモートワークが導入され、一部の企業ではパンデミックの終息後もリモートワークが継続しています。全米経済研究所が発表した新たなワーキングペーパーでは、「完全リモートワークの従業員を月に1日だけ出社させるとどうなるのか」が検証されました。]]></summary>
+        <content type="html"><![CDATA[2020年に発生した新型コロナウイルス感染症(COVID-19)のパンデミックに伴い、さまざまな企業でリモートワークが導入され、一部の企業ではパンデミックの終息後もリモートワークが継続しています。全米経済研究所が発表した新たなワーキングペーパーでは、「完全リモートワークの従業員を月に1日だけ出社させるとどうなるのか」が検証されました。]]></content>
+        <published>2026-09-05T11:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類は賢くなるにつれ心が壊れていったようだ | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=186486</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/186486"/>
+        <updated>2026-09-05T10:00:32.000Z</updated>
+        <summary type="html"><![CDATA[オランダのアムステルダム自由大学（VU）を中心とする国際研究チームの最新研究により、人類が賢く進化する過程で、心の不調につながる遺伝子の変化が現れたことが明らかになりました。 研究では、約500万年にわたる人類の進化の歴史を遺伝子レベルで細かく調べられており、流動的知性（未知の問題を解決する力）と呼ばれる知能の遺伝子変異が約50万年前に現れ、その後を追うように、精神疾患のリスクを高める遺伝子変異が]]></summary>
+        <content type="html"><![CDATA[オランダのアムステルダム自由大学（VU）を中心とする国際研究チームの最新研究により、人類が賢く進化する過程で、心の不調につながる遺伝子の変化が現れたことが明らかになりました。 研究では、約500万年にわたる人類の進化の歴史を遺伝子レベルで細かく調べられており、流動的知性（未知の問題を解決する力）と呼ばれる知能の遺伝子変異が約50万年前に現れ、その後を追うように、精神疾患のリスクを高める遺伝子変異が約47.5万年前に現れたことが示されています。 つまり、人類の歴史では「頭の良さ」と「心の不安定さ」という、一見すると正反対の特徴が、まるでセットのように順番に出現してきたことになります。 このこと…]]></content>
+        <author>
+            <name>川勝康弘</name>
+        </author>
+        <category label="生物学"/>
+        <category label="DNA"/>
+        <category label="脳"/>
+        <category label="進化"/>
+        <category label="遺伝子"/>
+        <published>2026-09-05T10:00:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『便秘は食物繊維でOK』ではなかった：最新分析で「効く食品」を精査 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=186756</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/186756"/>
+        <updated>2026-09-05T09:00:48.000Z</updated>
+        <summary type="html"><![CDATA[イギリスのキングス・カレッジ・ロンドン（KCL）の研究チームが行った最新の研究によって、これまで便秘のケアとしてよく言われてきた「便秘ならとりあえず食物繊維と水分をたっぷり摂れば良い」という常識が、実は科学的な裏付けが不十分なまま広まっていたことが分かりました。 研究では世界中の75件もの便秘改善に関する研究データを徹底的に調べ直し、その結果、その結果、「食物繊維ならなんでも効く」というわけではな]]></summary>
+        <content type="html"><![CDATA[イギリスのキングス・カレッジ・ロンドン（KCL）の研究チームが行った最新の研究によって、これまで便秘のケアとしてよく言われてきた「便秘ならとりあえず食物繊維と水分をたっぷり摂れば良い」という常識が、実は科学的な裏付けが不十分なまま広まっていたことが分かりました。 研究では世界中の75件もの便秘改善に関する研究データを徹底的に調べ直し、その結果、その結果、「食物繊維ならなんでも効く」というわけではなく、効果がしっかり認められた食品やサプリは限られていることが明らかになったのです。 具体的には、オオバコ由来の繊維（サイリウム）、キウイ、マグネシウムをたっぷり含む硬水などが便秘改善に特に効果が高く…]]></content>
+        <author>
+            <name>川勝康弘</name>
+        </author>
+        <category label="健康"/>
+        <published>2026-09-05T09:00:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2026年9月5日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00682/082800104/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00682/082800104/"/>
+        <updated>2026-09-04T20:01:00.000Z</updated>
+        <published>2026-09-04T20:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解き終わったテスト用紙の写真から回答前の状態を復元する「プリントリセット」　ほか【ダイジェストニュース】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/digest/2138505.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/digest/2138505.html"/>
+        <updated>2026-09-04T12:31:51.000Z</updated>
+        <author>
+            <name>窓の杜編集部</name>
+        </author>
+        <published>2026-09-04T12:31:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土星の南極に「十角形」が出現しつつある――1辺が地球に匹敵 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=199288</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/199288"/>
+        <updated>2026-09-04T12:00:14.000Z</updated>
+        <summary type="html"><![CDATA[スペインのバスク大学（EHU）などの研究によって、土星の南極を取り囲む巨大な「十角形」の雲の模様が、いままさに形を整えている途中の姿で見つかりました。 土星の北極には、雲が六角形を描く有名な模様がありますが、南極で同じような多角形が見つかったことはありませんでした。 研究チームのエイミー・サイモン氏（NASAゴダード宇宙飛行センター）は「北極の六角形は40年以上、見るたびにそこにありました。この模]]></summary>
+        <content type="html"><![CDATA[スペインのバスク大学（EHU）などの研究によって、土星の南極を取り囲む巨大な「十角形」の雲の模様が、いままさに形を整えている途中の姿で見つかりました。 土星の北極には、雲が六角形を描く有名な模様がありますが、南極で同じような多角形が見つかったことはありませんでした。 研究チームのエイミー・サイモン氏（NASAゴダード宇宙飛行センター）は「北極の六角形は40年以上、見るたびにそこにありました。この模様は違います。強まっているように見えるのです」と述べています。 なぜ今になって、しかも六角形ではなく十角形が、南極に生まれたのでしょうか。 研究内容の詳細は2026年9月2日に『Science Ad…]]></content>
+        <author>
+            <name>ナゾロジー 編集部</name>
+        </author>
+        <category label="宇宙"/>
+        <category label="土星"/>
+        <category label="惑星"/>
+        <published>2026-09-04T12:00:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料の3DCG統合環境「Blender 5.2」は作業効率がアップする改善がたくさん！【Blender ウォッチング】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2138400.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2138400.html"/>
+        <updated>2026-09-04T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[ 本連載では、無料の高機能3Dモデリングツール「Blender」の使い方や関連情報を幅広くお伝えします。]]></summary>
+        <content type="html"><![CDATA[ 本連載では、無料の高機能3Dモデリングツール「Blender」の使い方や関連情報を幅広くお伝えします。]]></content>
+        <author>
+            <name>山崎 聡</name>
+        </author>
+        <published>2026-09-04T10:39:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『令和ネットスラング辞典』も読み放題に！ 工学・シミュレーション専門書も多数【読み放題！TechLib新着情報】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2138456.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2138456.html"/>
+        <updated>2026-09-04T09:52:16.000Z</updated>
+        <summary type="html"><![CDATA[ ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。]]></summary>
+        <content type="html"><![CDATA[ ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。]]></content>
+        <author>
+            <name>窓の杜編集部</name>
+        </author>
+        <published>2026-09-04T09:52:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定番サウンドエディター「Audacity 4.0」、5年半ぶりのメジャーアップデート、UIを再構築、ASIOにビルトイン対応／プロジェクト形式は「.aup4」へ。一部「Audacity 3.x」機能は未実装な点に注意 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2138158.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2138158.html"/>
+        <updated>2026-09-04T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[ 定番サウンドエディター「Audacity」が9月3日（日本時間）、v4.0.0へ更新された。2021年3月以来、約5年半ぶりのメジャーアップデートとなる。]]></summary>
+        <content type="html"><![CDATA[ 定番サウンドエディター「Audacity」が9月3日（日本時間）、v4.0.0へ更新された。2021年3月以来、約5年半ぶりのメジャーアップデートとなる。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-04T09:06:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHIFT、新人研修で5分のAI禁止タイム　まず人間同士で考え抜く (人的資本の現場から) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00636/090300115/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00636/090300115/"/>
+        <updated>2026-09-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SHIFTが新人研修を刷新し、生成AIの利用を禁止する時間をもうけ、与えられた課題について自力で考えるプログラムを取り入れた。生成AIで仕事の進め方が変わる中、新人に何を学ばせ、どこまでをAIに任せるのか。企業の試行錯誤を追った。]]></summary>
+        <content type="html"><![CDATA[SHIFTが新人研修を刷新し、生成AIの利用を禁止する時間をもうけ、与えられた課題について自力で考えるプログラムを取り入れた。生成AIで仕事の進め方が変わる中、新人に何を学ばせ、どこまでをAIに任せるのか。企業の試行錯誤を追った。]]></content>
+        <published>2026-09-04T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「後継者計画に完璧はない」、世界最大級トップ人材会社CEOが語る3つの鉄則 (社長のつくり方) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00925/090300002/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00925/090300002/"/>
+        <updated>2026-09-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日経ビジネスが「世界5大ファーム」の一角、米ハイドリック・アンド・ストラグルズのトップに単独インタビューを実施した。「CEOサクセッションに成功する企業と、失敗する企業の差は何か」。記者はこう質問した。]]></summary>
+        <content type="html"><![CDATA[日経ビジネスが「世界5大ファーム」の一角、米ハイドリック・アンド・ストラグルズのトップに単独インタビューを実施した。「CEOサクセッションに成功する企業と、失敗する企業の差は何か」。記者はこう質問した。]]></content>
+        <published>2026-09-04T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECBの追加利上げが濃厚に　日銀とFRBの「次の一手」も焦点 (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/seminar/19/00122/00296/</id>
+        <link href="https://business.nikkei.com/atcl/seminar/19/00122/00296/"/>
+        <updated>2026-09-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[来週は日米欧で金融政策を巡る材料が相次ぐ。欧州ではECBの追加利上げが濃厚だ。日本では日銀の増一行審議委員が講演・記者会見し、米国では物価統計が今後の政策判断を左右しそうだ。]]></summary>
+        <content type="html"><![CDATA[来週は日米欧で金融政策を巡る材料が相次ぐ。欧州ではECBの追加利上げが濃厚だ。日本では日銀の増一行審議委員が講演・記者会見し、米国では物価統計が今後の政策判断を左右しそうだ。]]></content>
+        <published>2026-09-04T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［動画］TOTO社長「半導体一本足はもったいない」　アクティビストがトイレへ圧力 (資本市場サバイバル) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00798/090200023/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00798/090200023/"/>
+        <updated>2026-09-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「半導体分野の革新者だ」。アクティビスト（物言う株主）が公表した資料によって半導体銘柄となったTOTO。半導体関連の営業利益は、トイレを中心にした住宅設備事業を超えた。AIブームの追い風が吹く中、田村社長は「一方だけではもったいない」と語る。]]></summary>
+        <content type="html"><![CDATA[「半導体分野の革新者だ」。アクティビスト（物言う株主）が公表した資料によって半導体銘柄となったTOTO。半導体関連の営業利益は、トイレを中心にした住宅設備事業を超えた。AIブームの追い風が吹く中、田村社長は「一方だけではもったいない」と語る。]]></content>
+        <published>2026-09-04T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャストシステム、スマホとPCで文字入力環境を共有できる「ATOK Sync One」を提供開始／6月提供予定が9月にずれ込む | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2138374.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2138374.html"/>
+        <updated>2026-09-04T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[ （株）ジャストシステムは9月2日、日本語入力システム「ATOK Passport」において、4つのOS間で文字の入力環境を共有できる新機能「ATOK Sync One」の提供を開始した。2025年11月の発表当初は2026年6月提供の予定だったが、3カ月遅れての実装となっている。本機能の対象となるOSは、Windows/macOS/Android/iOSの4種類。]]></summary>
+        <content type="html"><![CDATA[ （株）ジャストシステムは9月2日、日本語入力システム「ATOK Passport」において、4つのOS間で文字の入力環境を共有できる新機能「ATOK Sync One」の提供を開始した。2025年11月の発表当初は2026年6月提供の予定だったが、3カ月遅れての実装となっている。本機能の対象となるOSは、Windows/macOS/Android/iOSの4種類。]]></content>
+        <author>
+            <name>吉田 幸生</name>
+        </author>
+        <published>2026-09-04T07:46:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国産ノーコードツール「Studio」の進化がすごすぎる！ 実務レベルの制作まで詳しく解説された -Studio ノーコードの教科書 | コリス]]></title>
+        <id>https://coliss.com/?p=83192</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784297157470.html"/>
+        <updated>2026-09-04T00:36:37.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 ノーコードでWebサイトを制作できるデザインツール「Studio」、ちょっと目を離すとサービス内容が強化されていたり、ツール自体が進化していたりしま]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 ノーコードでWebサイトを制作できるデザインツール「Studio」、ちょっと目を離すとサービス内容が強化されていたり、ツール自体が進化していたりしま]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Book Review"/>
+        <category label="studio"/>
+        <category label="技術評論社"/>
+        <published>2026-09-04T00:36:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[border-shapeプロパティにこんな使い方があったとは！ 一つの要素だけ背景色を幅いっぱいに広げるモダンCSSのテクニック | コリス]]></title>
+        <id>https://coliss.com/?p=84084</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/background-using-modern-css.html"/>
+        <updated>2026-09-03T00:36:56.000Z</updated>
+        <summary type="html"><![CDATA[section要素を積み重ねたときに、一つの要素だけ背景色をブラウザの幅いっぱいに広げるモダンCSSのテクニックを紹介します。 下記は2番目のテキスト要素のとこだけオレンジ色の背景色をブラウザの幅いっ]]></summary>
+        <content type="html"><![CDATA[section要素を積み重ねたときに、一つの要素だけ背景色をブラウザの幅いっぱいに広げるモダンCSSのテクニックを紹介します。 下記は2番目のテキスト要素のとこだけオレンジ色の背景色をブラウザの幅いっ]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -CSS"/>
+        <category label="border-shape"/>
+        <published>2026-09-03T00:36:56.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (Picks)</title>
+    <updated>2026-09-05T15:05:43.131Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>厳選ピックアップ</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ2件] ニコラス・ケイジ主演「スパイダー・ノワール」シーズン1で打ち切り | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156746</id>
+        <link href="https://www.cinematoday.jp/news/N0156746"/>
+        <updated>2026-09-05T02:26:43.000Z</updated>
+        <summary type="html"><![CDATA[はてブ2件
+ニコラス・ケイジ主演の『スパイダーマン』実写ドラマシリーズ「スパイダー・ノワール」が、シーズン1でまさかの打ち切りとなった。Deadlineほか各メディアが報じた。]]></summary>
+        <content type="html"><![CDATA[はてブ2件
+ニコラス・ケイジ主演の『スパイダーマン』実写ドラマシリーズ「スパイダー・ノワール」が、シーズン1でまさかの打ち切りとなった。Deadlineほか各メディアが報じた。]]></content>
+        <published>2026-09-05T02:26:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[お気に入りブログ] 夏のブログリレー2026 〜編集後記〜 | BASEプロダクトチームブログ]]></title>
+        <id>https://devblog.thebase.in/entry/2026/09/05/110000</id>
+        <link href="https://devblog.thebase.in/entry/2026/09/05/110000"/>
+        <updated>2026-09-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お気に入りブログ
+はじめに この記事は、夏のブログリレー2026 12日目、最終日の記事です。 こんにちは！PAY ID Product Divisionの岡部（@rerenote）です。 これまできちんとご挨拶する機会がありませんでしたが、今年の4月からこのブログの編集長を務めています。 8月下旬からスタートしたブログリレーも、ついに最終日となりました。 今回は、これまでの記事をあらためてご紹介]]></summary>
+        <content type="html"><![CDATA[お気に入りブログ
+はじめに この記事は、夏のブログリレー2026 12日目、最終日の記事です。 こんにちは！PAY ID Product Divisionの岡部（@rerenote）です。 これまできちんとご挨拶する機会がありませんでしたが、今年の4月からこのブログの編集長を務めています。 8月下旬からスタートしたブログリレーも、ついに最終日となりました。 今回は、これまでの記事をあらためてご紹介しながら、ブログリレーを振り返っていきたいと思います。 夏のブログリレー2026 企画について 🍉 BASE PRODUCT TEAM 夏のブログリレー2026 🍉 今回のブログリレーは、「夏にもブログリレーをやってみ…]]></content>
+        <published>2026-09-05T02:00:00.000Z</published>
+    </entry>
+</feed>

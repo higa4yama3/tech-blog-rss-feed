@@ -1,0 +1,84 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Curated)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.json",
+    "description": "キュレーション（今日のブクマ等）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://idid.team/?p=4060",
+            "content_html": "クリエイターのこれまでとこれまでのキャリアを追いかける「クリエイターインタビュー」。今回お話を伺うのは、6月にKEI inc.を設立した宇都宮勝晃さん。そう、宇都宮さんは2023年にiDIDがメディアとして初めてインタビューをさせていただいた方でもあります。あれから3年、宇都宮さんにどんな変化があったのか、そしてこれからどこへ向かっていくのか。宇都宮さんの「現在地」をここに記してみたいと思います。",
+            "url": "https://idid.team/articles/interview/creator-interview-utsunomiya/",
+            "title": "「属人性」と「責任」。それが「人間らしい」デザイナーのあり方だと思うんです。| 宇都宮勝晃（KEI inc.） | iDID – クリエイターのための情報メディア",
+            "summary": "クリエイターのこれまでとこれまでのキャリアを追いかける「クリエイターインタビュー」。今回お話を伺うのは、6月にKEI inc.を設立した宇都宮勝晃さん。そう、宇都宮さんは2023年にiDIDがメディアとして初めてインタビューをさせていただいた方でもあります。あれから3年、宇都宮さんにどんな変化があったのか、そしてこれからどこへ向かっていくのか。宇都宮さんの「現在地」をここに記してみたいと思います。",
+            "image": {
+                "height": "1340",
+                "type": "image/jpeg",
+                "url": "https://idid.team/wp-content/uploads/2026/08/interview-A-1-1024x536.jpg",
+                "width": "2560"
+            },
+            "date_modified": "2026-08-31T22:30:00.000Z",
+            "date_published": "2026-08-31T22:30:00.000Z",
+            "author": {
+                "name": "idid_nakamura"
+            },
+            "tags": [
+                "Interview",
+                "クリエイター",
+                "クリエイティブ",
+                "デザイン",
+                "design",
+                "curated"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「属人性」と「責任」。それが「人間らしい」デザイナーのあり方だと思うんです。| 宇都宮勝晃（KEI inc.）",
+                "blogTitle": "iDID – クリエイターのための情報メディア",
+                "blogLink": "https://idid.team/",
+                "blogLinkMd5Hash": "e308077426c0a6b0e57fb06bde905884",
+                "favicon": "https://idid.team/wp-content/themes/idid_260827/assets/img/favicon.ico",
+                "pickReason": "今日のブクマ",
+                "sourceTier": "curated",
+                "sourceLabel": "iDID"
+            }
+        },
+        {
+            "id": "https://idid.team/?p=4212",
+            "content_html": "本記事は、オランダにブランチがあるSHIFTBRAINによる寄稿です。シリーズ6回目に紹介するのは、オランダ・アムステルダムを拠点に、eコマースに特化したデジタル体験を手がける世界的なブランディングエージェンシー「Build in Amsterdam」です。",
+            "url": "https://idid.team/articles/other/netherland-shiftbrain-06/",
+            "title": "【オランダのクリエイティブの現場から Vol.6】ブランドのストーリーを売る、ECデザインの哲学｜Build in Amsterdam（アムステルダム） | iDID – クリエイターのための情報メディア",
+            "summary": "本記事は、オランダにブランチがあるSHIFTBRAINによる寄稿です。シリーズ6回目に紹介するのは、オランダ・アムステルダムを拠点に、eコマースに特化したデジタル体験を手がける世界的なブランディングエージェンシー「Build in Amsterdam」です。",
+            "image": {
+                "height": "536",
+                "type": "image/jpeg",
+                "url": "https://idid.team/wp-content/uploads/2026/08/bia-1024x536.jpg",
+                "width": "1024"
+            },
+            "date_modified": "2026-08-30T09:43:33.000Z",
+            "date_published": "2026-08-30T09:43:33.000Z",
+            "author": {
+                "name": "idid_ohtake"
+            },
+            "tags": [
+                "Other",
+                "クリエイティブエージェンシー",
+                "グローバル",
+                "デザイン",
+                "design",
+                "curated"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【オランダのクリエイティブの現場から Vol.6】ブランドのストーリーを売る、ECデザインの哲学｜Build in Amsterdam（アムステルダム）",
+                "blogTitle": "iDID – クリエイターのための情報メディア",
+                "blogLink": "https://idid.team/",
+                "blogLinkMd5Hash": "e308077426c0a6b0e57fb06bde905884",
+                "favicon": "https://idid.team/wp-content/themes/idid_260827/assets/img/favicon.ico",
+                "pickReason": "今日のブクマ",
+                "sourceTier": "curated",
+                "sourceLabel": "iDID"
+            }
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Headlines)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        <description>HN・ITmedia速報など</description>
+        <lastBuildDate>Sat, 05 Sep 2026 15:05:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Headlines)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[23:13 ↑0 · https://news.ycombinator.com/item?id=49576704 comments · zachkehs.com]]></title>
+            <link>https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/</link>
+            <guid>https://news.ycombinator.com/item?id=49576704</guid>
+            <pubDate>Sat, 05 Sep 2026 14:13:22 GMT</pubDate>
+            <description><![CDATA[Metaphors like "a sinking ship" are often used to describe codebases, but are mi]]></description>
+            <content:encoded><![CDATA[Metaphors like "a sinking ship" are often used to describe codebases, but are misleading. A _business_ will sink long before code quality reaches a hypothetical floor. Technical debt has no bankruptcy, no clean reset, so metaphors that imply an end provide a false sense of security.]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[23:02 ↑0 · https://news.ycombinator.com/item?id=49576611 comments · arstechnica.com]]></title>
+            <link>https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</link>
+            <guid>https://news.ycombinator.com/item?id=49576611</guid>
+            <pubDate>Sat, 05 Sep 2026 14:02:44 GMT</pubDate>
+            <description><![CDATA[The annual award ceremony features miniature operas, scientific demos, and "24/7]]></description>
+            <content:encoded><![CDATA[The annual award ceremony features miniature operas, scientific demos, and "24/7" lectures.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="648" url="https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg" width="1152" alt="Master of Ceremonies Marc Abraham hosting the virtual 2021 Ig Nobel Prizes."/>
+        </item>
+        <item>
+            <title><![CDATA[22:36 ↑0 · https://news.ycombinator.com/item?id=49576386 comments · devquasar.com]]></title>
+            <link>https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</link>
+            <guid>https://news.ycombinator.com/item?id=49576386</guid>
+            <pubDate>Sat, 05 Sep 2026 13:36:38 GMT</pubDate>
+            <description><![CDATA[Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/Comments]]></description>
+            <content:encoded><![CDATA[Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/Comments URL: https://news.ycombinator.com/item?id=49576386Points: 53# Comments: 16]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://devquasar.com/wp-content/uploads/2023/12/Black-logo-no-background.png" width="3163" height="780"/>
+        </item>
+        <item>
+            <title><![CDATA[22:19 ↑0 · https://news.ycombinator.com/item?id=49576258 comments · packagemain.tech]]></title>
+            <link>https://packagemain.tech/p/gitignore-everything-by-default</link>
+            <guid>https://news.ycombinator.com/item?id=49576258</guid>
+            <pubDate>Sat, 05 Sep 2026 13:19:42 GMT</pubDate>
+            <description><![CDATA[An opposite view on .gitignore files.]]></description>
+            <content:encoded><![CDATA[An opposite view on .gitignore files.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpeg" url="https://substackcdn.com/image/fetch/$s_!n_v-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66737cc1-4fea-4340-a7cf-1401dc895d52_1280x720.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[22:11 ↑0 · https://news.ycombinator.com/item?id=49576196 comments · arstechnica.com]]></title>
+            <link>https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/</link>
+            <guid>https://news.ycombinator.com/item?id=49576196</guid>
+            <pubDate>Sat, 05 Sep 2026 13:11:14 GMT</pubDate>
+            <description><![CDATA[The Pentagon says the guidance is being updated after being online for one day.]]></description>
+            <content:encoded><![CDATA[The Pentagon says the guidance is being updated after being online for one day.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="648" url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg" width="1152"/>
+        </item>
+        <item>
+            <title><![CDATA[22:02 ↑0 · https://news.ycombinator.com/item?id=49576124 comments · pbs.org]]></title>
+            <link>https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone</link>
+            <guid>https://news.ycombinator.com/item?id=49576124</guid>
+            <pubDate>Sat, 05 Sep 2026 13:02:14 GMT</pubDate>
+            <description><![CDATA[In a strategic retreat in the fight against climate change, the United Nations h]]></description>
+            <content:encoded><![CDATA[In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming's harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="683" url="https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-03T192943Z_1189723666_RC2NBNAQY6VR_RTRMADP_3_CLIMATE-CHANGE-SWISS-GLACIERS-1024x683.jpg" width="1024"/>
+        </item>
+        <item>
+            <title><![CDATA[21:23 ↑0 · https://news.ycombinator.com/item?id=49575859 comments · buttondown.com]]></title>
+            <link>https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/</link>
+            <guid>https://news.ycombinator.com/item?id=49575859</guid>
+            <pubDate>Sat, 05 Sep 2026 12:23:51 GMT</pubDate>
+            <description><![CDATA[Two years of nightmarish smiles and makeup before anyone laid hands on Mimic Sys]]></description>
+            <content:encoded><![CDATA[Two years of nightmarish smiles and makeup before anyone laid hands on Mimic Systems' actual product.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://assets.buttondown.email/images/fe616cfc-8872-4971-ad45-313755d84434.jpg?w=960&amp;fit=max"/>
+        </item>
+        <item>
+            <title><![CDATA[19:33 ↑0 · https://news.ycombinator.com/item?id=49575150 comments · terpstrakeyboard.com]]></title>
+            <link>http://terpstrakeyboard.com/</link>
+            <guid>https://news.ycombinator.com/item?id=49575150</guid>
+            <pubDate>Sat, 05 Sep 2026 10:33:01 GMT</pubDate>
+            <description><![CDATA[Article URL: http://terpstrakeyboard.com/Comments URL: https://news.ycombinator.]]></description>
+            <content:encoded><![CDATA[Article URL: http://terpstrakeyboard.com/Comments URL: https://news.ycombinator.com/item?id=49575150Points: 34# Comments: 12]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="http://terpstrakeyboard.com/wp-content/uploads/2014/01/Terpstra_1st_gen_1997_01.jpg" width="766" height="465"/>
+        </item>
+        <item>
+            <title><![CDATA[19:32 ↑0 · https://news.ycombinator.com/item?id=49575143 comments · simonwillison.net]]></title>
+            <link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
+            <guid>https://news.ycombinator.com/item?id=49575143</guid>
+            <pubDate>Sat, 05 Sep 2026 10:32:09 GMT</pubDate>
+            <description><![CDATA[Anthropic publish the system prompts for their Claude consumer applications (Cla]]></description>
+            <content:encoded><![CDATA[Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps—sadly not for Claude Cowork or Claude Code). I love that they do this, and …]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpeg" url="https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[19:22 くら寿司、「ちいかわ」コラボ中止　従業員による不正行為判明で (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/05/2000001201/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/05/2000001201/</guid>
+            <pubDate>Sat, 05 Sep 2026 10:22:20 GMT</pubDate>
+            <description><![CDATA[くら寿司が、開催中の「ちいかわ」コラボキャンペーンについて中止する。同コラボを巡っては、配布開始前にもかかわらずコラボグッズがフリマアプリに出品されていることな]]></description>
+            <content:encoded><![CDATA[くら寿司が、開催中の「ちいかわ」コラボキャンペーンについて中止する。同コラボを巡っては、配布開始前にもかかわらずコラボグッズがフリマアプリに出品されていることなどがSNS上で問題視されていた。同社が調査を進めた結果、従業員による不正行為が判明したとしいう。（1/2 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/05/2000001201/10005348/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001201/10005348/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[19:14 ↑0 · https://news.ycombinator.com/item?id=49575034 comments · abc.net.au]]></title>
+            <link>https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</link>
+            <guid>https://news.ycombinator.com/item?id=49575034</guid>
+            <pubDate>Sat, 05 Sep 2026 10:14:28 GMT</pubDate>
+            <description><![CDATA[The central bank of the Netherlands has moved dozens of tonnes of its gold out o]]></description>
+            <content:encoded><![CDATA[The central bank of the Netherlands has moved dozens of tonnes of its gold out of the United States and Canada to boost the country's "crisis preparedness" amid "increasing geopolitical unrest".]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//8d210aff4e95385e1e96d3b8dfcc3f2f" url="https://live-production.wcms.abc-cdn.net.au/8d210aff4e95385e1e96d3b8dfcc3f2f?impolicy=wcms_watermark_news&amp;cropH=2204&amp;cropW=3918&amp;xPos=0&amp;yPos=517&amp;width=862&amp;height=485&amp;imformat=generic"/>
+        </item>
+        <item>
+            <title><![CDATA[16:52 ↑0 · https://news.ycombinator.com/item?id=49574167 comments · sylvainkalache.com]]></title>
+            <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
+            <guid>https://news.ycombinator.com/item?id=49574167</guid>
+            <pubDate>Sat, 05 Sep 2026 07:52:50 GMT</pubDate>
+            <description><![CDATA[AI-assisted incident response can lower MTTR while leaving engineers less prepar]]></description>
+            <content:encoded><![CDATA[AI-assisted incident response can lower MTTR while leaving engineers less prepared for the complex incidents automation cannot solve.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273" width="1200" alt="AI-generated reconstruction of a turboprop aircraft flying low over a city highway"/>
+        </item>
+        <item>
+            <title><![CDATA[15:31 ↑0 · https://news.ycombinator.com/item?id=49573680 comments · pushin.eu]]></title>
+            <link>https://pushin.eu</link>
+            <guid>https://news.ycombinator.com/item?id=49573680</guid>
+            <pubDate>Sat, 05 Sep 2026 06:31:49 GMT</pubDate>
+            <description><![CDATA[Sovereign, GDPR-native git hosting — code, issues, and CI, all on European soil.]]></description>
+            <content:encoded><![CDATA[Sovereign, GDPR-native git hosting — code, issues, and CI, all on European soil.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://pushin.eu/-/og/home" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[12:06 OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/05/2000001200/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/05/2000001200/</guid>
+            <pubDate>Sat, 05 Sep 2026 03:06:58 GMT</pubDate>
+            <description><![CDATA[OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究]]></description>
+            <content:encoded><![CDATA[OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/05/2000001200/10005337/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001200/10005337/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[09:04 ↑0 · https://news.ycombinator.com/item?id=49571634 comments · codeberg.org]]></title>
+            <link>https://codeberg.org/mv12star/shitter/wiki/Instances</link>
+            <guid>https://news.ycombinator.com/item?id=49571634</guid>
+            <pubDate>Sat, 05 Sep 2026 00:04:16 GMT</pubDate>
+            <description><![CDATA[Alternative Twitter front-end. Fork of zedeus/nitter on GitHub.]]></description>
+            <content:encoded><![CDATA[Alternative Twitter front-end. Fork of zedeus/nitter on GitHub.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//mv12star/shitter/-/summary-card" height="600" url="https://codeberg.org/mv12star/shitter/-/summary-card" width="1200" alt="Summary card of repository mv12star/shitter, described as: Alternative Twitter front-end. Fork of zedeus/nitter on GitHub."/>
+        </item>
+        <item>
+            <title><![CDATA[08:38 ↑0 · https://news.ycombinator.com/item?id=49571465 comments · engineering.atspotify.com]]></title>
+            <link>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</link>
+            <guid>https://news.ycombinator.com/item?id=49571465</guid>
+            <pubDate>Fri, 04 Sep 2026 23:38:50 GMT</pubDate>
+            <description><![CDATA[Most of what an AI coding agent does for me isn't thinking. It's I/O.]]></description>
+            <content:encoded><![CDATA[Most of what an AI coding agent does for me isn't thinking. It's I/O.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpeg" height="630" url="https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png" width="1200" alt="featured image"/>
+        </item>
+        <item>
+            <title><![CDATA[07:40 ↑0 · https://news.ycombinator.com/item?id=49571047 comments · charlespetzold.com]]></title>
+            <link>https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html</link>
+            <guid>https://news.ycombinator.com/item?id=49571047</guid>
+            <pubDate>Fri, 04 Sep 2026 22:40:30 GMT</pubDate>
+            <description><![CDATA[Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perfor]]></description>
+            <content:encoded><![CDATA[Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.htmlComments URL: https://news.ycombinator.com/item?id=49571047Points: 105# Comments: 29]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[06:52 ↑0 · https://news.ycombinator.com/item?id=49570669 comments · nvd.nist.gov]]></title>
+            <link>https://nvd.nist.gov/vuln/detail/cve-2026-85046</link>
+            <guid>https://news.ycombinator.com/item?id=49570669</guid>
+            <pubDate>Fri, 04 Sep 2026 21:52:01 GMT</pubDate>
+            <description><![CDATA[Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046Comments URL: https:]]></description>
+            <content:encoded><![CDATA[Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046Comments URL: https://news.ycombinator.com/item?id=49570669Points: 621# Comments: 348]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[06:39 ↑0 · https://news.ycombinator.com/item?id=49570545 comments · openrouter.ai]]></title>
+            <link>https://openrouter.ai/openai/gpt-6-astra</link>
+            <guid>https://news.ycombinator.com/item?id=49570545</guid>
+            <pubDate>Fri, 04 Sep 2026 21:39:19 GMT</pubDate>
+            <description><![CDATA[GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. $10 per mi]]></description>
+            <content:encoded><![CDATA[GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. $10 per million input tokens, $50 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 2 providers.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[05:34 ↑0 · https://news.ycombinator.com/item?id=49569896 comments · statichost.eu]]></title>
+            <link>https://www.statichost.eu/</link>
+            <guid>https://news.ycombinator.com/item?id=49569896</guid>
+            <pubDate>Fri, 04 Sep 2026 20:34:49 GMT</pubDate>
+            <description><![CDATA[Static hosting for frontend developers who care where their sites live. Git push]]></description>
+            <content:encoded><![CDATA[Static hosting for frontend developers who care where their sites live. Git push, custom domain, done — on European infrastructure owned by Europeans, all the way down.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="630" url="https://www.statichost.eu/%20preview.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[04:48 ↑0 · https://news.ycombinator.com/item?id=49569366 comments · eebench.org]]></title>
+            <link>https://eebench.org/blog/can-ai-design-circuit-boards-yet/</link>
+            <guid>https://news.ycombinator.com/item?id=49569366</guid>
+            <pubDate>Fri, 04 Sep 2026 19:48:29 GMT</pubDate>
+            <description><![CDATA[A look at what current models can build, where they fail, and how EEBench tests ]]></description>
+            <content:encoded><![CDATA[A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="630" url="https://eebench.org/src/can-ai-design-circuit-boards-yet.png" width="1200" alt="EEBench, a physics-graded electrical engineering benchmark"/>
+        </item>
+        <item>
+            <title><![CDATA[03:57 ↑0 · https://news.ycombinator.com/item?id=49568697 comments · github.com]]></title>
+            <link>https://github.com/anthropics/fermats-last-theorem</link>
+            <guid>https://news.ycombinator.com/item?id=49568697</guid>
+            <pubDate>Fri, 04 Sep 2026 18:57:32 GMT</pubDate>
+            <description><![CDATA[Contribute to anthropics/fermats-last-theorem development by creating an account]]></description>
+            <content:encoded><![CDATA[Contribute to anthropics/fermats-last-theorem development by creating an account on GitHub.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//fdfae95f9cc63eb9503e9fe389f3413b8de6f313915f44b9548bd31432e47fcc/anthropics/fermats-last-theorem" height="600" url="https://opengraph.githubassets.com/fdfae95f9cc63eb9503e9fe389f3413b8de6f313915f44b9548bd31432e47fcc/anthropics/fermats-last-theorem" width="1200" alt="Contribute to anthropics/fermats-last-theorem development by creating an account on GitHub."/>
+        </item>
+        <item>
+            <title><![CDATA[19:05 新宿駅に「ごみ箱ロボット」出現　改札内を自動巡回　JR東が実証実験 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/04/2000001199/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/04/2000001199/</guid>
+            <pubDate>Fri, 04 Sep 2026 10:05:13 GMT</pubDate>
+            <description><![CDATA[JR東日本は9月4日、新宿駅の地下1階改札内コンコースで、自動走行する「移動式ごみ箱ロボット」の実証実験を行うと発表した。9月8日から11月20日までの平日、コ]]></description>
+            <content:encoded><![CDATA[JR東日本は9月4日、新宿駅の地下1階改札内コンコースで、自動走行する「移動式ごみ箱ロボット」の実証実験を行うと発表した。9月8日から11月20日までの平日、コンコースを巡回してごみを収集する。（1/2 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/04/2000001199/10005327/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001199/10005327/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[19:01 SEGAそっくりのロゴで「MAGA」――トランプ政権公開のWebゲームが物議　移民送還などを題材に　【追記あり】 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/04/2000001191/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/04/2000001191/</guid>
+            <pubDate>Fri, 04 Sep 2026 10:01:26 GMT</pubDate>
+            <description><![CDATA[米ホワイトハウスは9月3日（現地時間）、トランプ政権の政策を題材にしたミニゲームサイト「ARCADE」を公開した。不法移民の摘発など、同政権の看板政策をモチーフ]]></description>
+            <content:encoded><![CDATA[米ホワイトハウスは9月3日（現地時間）、トランプ政権の政策を題材にしたミニゲームサイト「ARCADE」を公開した。不法移民の摘発など、同政権の看板政策をモチーフにした5種類のミニゲームをブラウザ上でプレイできる。しかし、公開に合わせて投稿した告知動画では、セガの企業ロゴを思わせるデザインで「MAGA」の文字を表示。Xでは、権利侵害を懸念する声や、移民政策のゲーム化を批判する声が上がっている。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/04/2000001191/10005278/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001191/10005278/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[18:40 サントリー新商品の店頭POPに“生成AI疑惑”　成分表示にも誤りで物議……同社に事実関係を聞いた (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/04/2000001197/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/04/2000001197/</guid>
+            <pubDate>Fri, 04 Sep 2026 09:40:29 GMT</pubDate>
+            <description><![CDATA[「サントリーの新商品の店頭POPが、生成AIで作られている」──Xでこんな投稿が話題だ。コンビニ内の店頭POPにある商品画像が独特の質感だったといい、成分表示も]]></description>
+            <content:encoded><![CDATA[「サントリーの新商品の店頭POPが、生成AIで作られている」──Xでこんな投稿が話題だ。コンビニ内の店頭POPにある商品画像が独特の質感だったといい、成分表示も事実と異なっていたことから物議を醸している。ITmedia NEWSがサントリービバレッジ＆フード（東京都港区）に詳細を聞いたところ「当社が提供したPOPではない」との回答が得られた。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/04/2000001197/10005324/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001197/10005324/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[18:15 祝30周年　リコー「GR」の軌跡をたどる　初代「GR1」から新機種「GR IVx」まで (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/04/2000001179/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/04/2000001179/</guid>
+            <pubDate>Fri, 04 Sep 2026 09:15:02 GMT</pubDate>
+            <description><![CDATA[2026年は、多くの老舗デジタルカメラが30周年を迎えてるのだけど、実はリコーの「GR」も今年10月でちょうど30周年なのである。（1/4 ページ）]]></description>
+            <content:encoded><![CDATA[2026年は、多くの老舗デジタルカメラが30周年を迎えてるのだけど、実はリコーの「GR」も今年10月でちょうど30周年なのである。（1/4 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/04/2000001179/10005226/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001179/10005226/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[17:39 配布前の「ちいかわ」グッズがメルカリに？　くら寿司コラボ第2弾、初日から“内部犯”の臆測呼ぶ　第1弾に続き (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/04/2000001194/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/04/2000001194/</guid>
+            <pubDate>Fri, 04 Sep 2026 08:39:47 GMT</pubDate>
+            <description><![CDATA[くら寿司の「ちいかわ」コラボ第2弾が9月4日に始まった。しかしSNS上では、特典の湯呑みが配布開始前からフリマアプリ「メルカリ」に出品されていたと指摘する投稿が]]></description>
+            <content:encoded><![CDATA[くら寿司の「ちいかわ」コラボ第2弾が9月4日に始まった。しかしSNS上では、特典の湯呑みが配布開始前からフリマアプリ「メルカリ」に出品されていたと指摘する投稿が拡散。コラボを巡っては従業員関与の臆測も広がっており、くら寿司は2日に謝罪文書を公開している。（1/2 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/04/2000001194/10005304/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001194/10005304/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[16:44 シニアこそAI学習　作曲や小説執筆…新たな趣味と友人づくり「どんどん試したくなった」 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/04/2000001192/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/04/2000001192/</guid>
+            <pubDate>Fri, 04 Sep 2026 07:44:58 GMT</pubDate>
+            <description><![CDATA[シニア世代が人工知能（AI）を学ぶ機運が高まっている。作曲や小説の執筆といった難易度が高い趣味でも、生成AIを用いれば容易にこなせる。AI教室に参加することで社]]></description>
+            <content:encoded><![CDATA[シニア世代が人工知能（AI）を学ぶ機運が高まっている。作曲や小説の執筆といった難易度が高い趣味でも、生成AIを用いれば容易にこなせる。AI教室に参加することで社会とのつながりができ、定年後の孤独解消にもつながると期待される。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/04/2000001192/10005280/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001192/10005280/2048"/>
+        </item>
+    </channel>
+</rss>

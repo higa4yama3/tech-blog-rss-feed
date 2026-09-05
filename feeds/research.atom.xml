@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research</id>
+    <title>RSS (Research)</title>
+    <updated>2026-09-05T15:05:43.151Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml"/>
+    <subtitle>リサーチ・長文</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Sep 4, 2026ScienceFormalizing Fermat's Last Theorem | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/formalizing-fermats-last-theorem</id>
+        <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"/>
+        <updated>2026-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Enterprise Frontier Safeguards with our customers | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/enterprise-frontier-safeguards</id>
+        <link href="https://www.anthropic.com/news/enterprise-frontier-safeguards"/>
+        <updated>2026-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving our alignment and security efforts | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/improving-alignment-security-efforts</id>
+        <link href="https://www.anthropic.com/news/improving-alignment-security-efforts"/>
+        <updated>2026-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></summary>
+        <content type="html"><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></content>
+        <category label=""/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</id>
+        <link href="https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"/>
+        <updated>2026-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ]]></summary>
+        <content type="html"><![CDATA[We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding our support for scientists | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/expanding-support-for-scientists</id>
+        <link href="https://www.anthropic.com/news/expanding-support-for-scientists"/>
+        <updated>2026-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previewing the Model Hardware Standard | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/model-hardware-standard-research-preview</id>
+        <link href="https://www.anthropic.com/news/model-hardware-standard-research-preview"/>
+        <updated>2026-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ]]></summary>
+        <content type="html"><![CDATA[Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/enabling-independent-research</id>
+        <link href="https://www.anthropic.com/research/enabling-independent-research"/>
+        <updated>2026-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.]]></summary>
+        <content type="html"><![CDATA[Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funding better evaluations of AI’s impact on wellbeing | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/wellbeing-research-grants</id>
+        <link href="https://www.anthropic.com/news/wellbeing-research-grants"/>
+        <updated>2026-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></summary>
+        <content type="html"><![CDATA[Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research. | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/Claude-accelerates-protein-design</id>
+        <link href="https://www.anthropic.com/research/Claude-accelerates-protein-design"/>
+        <updated>2026-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share two results that show how Claude can help life scientists increase the pace of their research. In the first, we tested Claude’s ability to design protein binders from scratch, a key step in creating protein-based drugs that has historically taken a specialist weeks or months per target. In the second example, we evaluated whether Claude can accelerate chemical analysis. Claude Opus 5, a generally available model, was given NMR and LC-MS data (the data that allows chemists ]]></summary>
+        <content type="html"><![CDATA[In this post, we share two results that show how Claude can help life scientists increase the pace of their research. In the first, we tested Claude’s ability to design protein binders from scratch, a key step in creating protein-based drugs that has historically taken a specialist weeks or months per target. In the second example, we evaluated whether Claude can accelerate chemical analysis. Claude Opus 5, a generally available model, was given NMR and LC-MS data (the data that allows chemists to assess the identity and purity of the compounds they work with). ]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Claude’s text watermark works | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/claude-text-watermark</id>
+        <link href="https://www.anthropic.com/news/claude-text-watermark"/>
+        <updated>2026-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.]]></summary>
+        <content type="html"><![CDATA[Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/multiagent-systems</id>
+        <link href="https://www.anthropic.com/research/multiagent-systems"/>
+        <updated>2026-08-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We ran experiments on swarms of Claude agents and found coordination failures, collusion, and sabotage. Here, we share what they mean for AI safety.]]></summary>
+        <content type="html"><![CDATA[We ran experiments on swarms of Claude agents and found coordination failures, collusion, and sabotage. Here, we share what they mean for AI safety.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EconomicsAug 12, 2026Reviewing the evidence on worker retraining programsWe're sharing a review of the evidence on worker retraining programs, coauthored by independent researcher David Roodman and Anthropic's Maxim Massenkoff. | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</id>
+        <link href="https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs"/>
+        <updated>2026-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An evidence review from Anthropic's Economic Research team]]></summary>
+        <content type="html"><![CDATA[An evidence review from Anthropic's Economic Research team]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning more about Claude's mathematical capabilities | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/riemann-zeta</id>
+        <link href="https://www.anthropic.com/research/riemann-zeta"/>
+        <updated>2026-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.]]></summary>
+        <content type="html"><![CDATA[An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Fable 5's biology safeguards | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</id>
+        <link href="https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"/>
+        <updated>2026-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.]]></summary>
+        <content type="html"><![CDATA[We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.]]></content>
+        <category label="Product"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-07T00:00:00.000Z</published>
+    </entry>
+</feed>

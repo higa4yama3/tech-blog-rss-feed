@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-09-05T15:05:43.132Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>はてブと新しさで選んだ記事</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[『便秘は食物繊維でOK』ではなかった：最新分析で「効く食品」を精査 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=186756</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/186756"/>
+        <updated>2026-09-05T09:00:48.000Z</updated>
+        <summary type="html"><![CDATA[イギリスのキングス・カレッジ・ロンドン（KCL）の研究チームが行った最新の研究によって、これまで便秘のケアとしてよく言われてきた「便秘ならとりあえず食物繊維と水分をたっぷり摂れば良い」という常識が、実は科学的な裏付けが不十分なまま広まっていたことが分かりました。 研究では世界中の75件もの便秘改善に関する研究データを徹底的に調べ直し、その結果、その結果、「食物繊維ならなんでも効く」というわけではな]]></summary>
+        <content type="html"><![CDATA[イギリスのキングス・カレッジ・ロンドン（KCL）の研究チームが行った最新の研究によって、これまで便秘のケアとしてよく言われてきた「便秘ならとりあえず食物繊維と水分をたっぷり摂れば良い」という常識が、実は科学的な裏付けが不十分なまま広まっていたことが分かりました。 研究では世界中の75件もの便秘改善に関する研究データを徹底的に調べ直し、その結果、その結果、「食物繊維ならなんでも効く」というわけではなく、効果がしっかり認められた食品やサプリは限られていることが明らかになったのです。 具体的には、オオバコ由来の繊維（サイリウム）、キウイ、マグネシウムをたっぷり含む硬水などが便秘改善に特に効果が高く…]]></content>
+        <author>
+            <name>川勝康弘</name>
+        </author>
+        <category label="健康"/>
+        <published>2026-09-05T09:00:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類は賢くなるにつれ心が壊れていったようだ | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=186486</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/186486"/>
+        <updated>2026-09-05T10:00:32.000Z</updated>
+        <summary type="html"><![CDATA[オランダのアムステルダム自由大学（VU）を中心とする国際研究チームの最新研究により、人類が賢く進化する過程で、心の不調につながる遺伝子の変化が現れたことが明らかになりました。 研究では、約500万年にわたる人類の進化の歴史を遺伝子レベルで細かく調べられており、流動的知性（未知の問題を解決する力）と呼ばれる知能の遺伝子変異が約50万年前に現れ、その後を追うように、精神疾患のリスクを高める遺伝子変異が]]></summary>
+        <content type="html"><![CDATA[オランダのアムステルダム自由大学（VU）を中心とする国際研究チームの最新研究により、人類が賢く進化する過程で、心の不調につながる遺伝子の変化が現れたことが明らかになりました。 研究では、約500万年にわたる人類の進化の歴史を遺伝子レベルで細かく調べられており、流動的知性（未知の問題を解決する力）と呼ばれる知能の遺伝子変異が約50万年前に現れ、その後を追うように、精神疾患のリスクを高める遺伝子変異が約47.5万年前に現れたことが示されています。 つまり、人類の歴史では「頭の良さ」と「心の不安定さ」という、一見すると正反対の特徴が、まるでセットのように順番に出現してきたことになります。 このこと…]]></content>
+        <author>
+            <name>川勝康弘</name>
+        </author>
+        <category label="生物学"/>
+        <category label="DNA"/>
+        <category label="脳"/>
+        <category label="進化"/>
+        <category label="遺伝子"/>
+        <published>2026-09-05T10:00:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定番サウンドエディター「Audacity 4.0」、5年半ぶりのメジャーアップデート、UIを再構築、ASIOにビルトイン対応／プロジェクト形式は「.aup4」へ。一部「Audacity 3.x」機能は未実装な点に注意 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2138158.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2138158.html"/>
+        <updated>2026-09-04T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[ 定番サウンドエディター「Audacity」が9月3日（日本時間）、v4.0.0へ更新された。2021年3月以来、約5年半ぶりのメジャーアップデートとなる。]]></summary>
+        <content type="html"><![CDATA[ 定番サウンドエディター「Audacity」が9月3日（日本時間）、v4.0.0へ更新された。2021年3月以来、約5年半ぶりのメジャーアップデートとなる。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-04T09:06:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/09/03/200000</id>
+        <link href="https://www.m3tech.blog/entry/2026/09/03/200000"/>
+        <updated>2026-09-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できました。しかし学習コストが高く、実行時のインタープリタのコスト]]></summary>
+        <content type="html"><![CDATA[本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できました。しかし学習コストが高く、実行時のインタープリタのコストなどの課題もあります。もっと軽い方法はないのでしょうか。 「OCaml 5 の algebraic effects(effect handlers)に似たことが Scala でできないか」という出発点…]]></content>
+        <published>2026-09-03T11:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジャストシステム、スマホとPCで文字入力環境を共有できる「ATOK Sync One」を提供開始／6月提供予定が9月にずれ込む | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2138374.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2138374.html"/>
+        <updated>2026-09-04T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[ （株）ジャストシステムは9月2日、日本語入力システム「ATOK Passport」において、4つのOS間で文字の入力環境を共有できる新機能「ATOK Sync One」の提供を開始した。2025年11月の発表当初は2026年6月提供の予定だったが、3カ月遅れての実装となっている。本機能の対象となるOSは、Windows/macOS/Android/iOSの4種類。]]></summary>
+        <content type="html"><![CDATA[ （株）ジャストシステムは9月2日、日本語入力システム「ATOK Passport」において、4つのOS間で文字の入力環境を共有できる新機能「ATOK Sync One」の提供を開始した。2025年11月の発表当初は2026年6月提供の予定だったが、3カ月遅れての実装となっている。本機能の対象となるOSは、Windows/macOS/Android/iOSの4種類。]]></content>
+        <author>
+            <name>吉田 幸生</name>
+        </author>
+        <published>2026-09-04T07:46:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「レビューがしんどい」の正体を、認知的負債から考えてみた | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20260903a/</id>
+        <link href="https://future-architect.github.io/articles/20260903a/"/>
+        <updated>2026-09-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI駆動開発でコードレビューがしんどくなった原因を変更量・PR本文・間違いの見つけにくさの3つに整理し、Technology Radar の「Codebase cognitive debt（認知的負債）」と絡めて考えます。]]></summary>
+        <content type="html"><![CDATA[AI駆動開発でコードレビューがしんどくなった原因を変更量・PR本文・間違いの見つけにくさの3つに整理し、Technology Radar の「Codebase cognitive debt（認知的負債）」と絡めて考えます。]]></content>
+        <published>2026-09-02T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10/3 (土)「freee 技術の日 2026」開催！ | freee Developers Hub]]></title>
+        <id>https://developers.freee.co.jp/entry/2026/09/03/120000</id>
+        <link href="https://developers.freee.co.jp/entry/2026/09/03/120000"/>
+        <updated>2026-09-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[freee で DevRel を担当している yopi (@M68Mp) です! 今年も freee 主催のテックカンファレンス「freee 技術の日 2026」を 2026/10/3 (土) にフリー株式会社本社と YouTube Live でハイブリッドで開催します🎉 「freee 技術の日 2026」のキービジュアル 「freee 技術の日」とは 「freee 技術の日」は、2023年から開]]></summary>
+        <content type="html"><![CDATA[freee で DevRel を担当している yopi (@M68Mp) です! 今年も freee 主催のテックカンファレンス「freee 技術の日 2026」を 2026/10/3 (土) にフリー株式会社本社と YouTube Live でハイブリッドで開催します🎉 「freee 技術の日 2026」のキービジュアル 「freee 技術の日」とは 「freee 技術の日」は、2023年から開催している freee のテックカンファレンスで、今年で4度目の開催を迎えます。昨年はオフライン・オンライン合わせて1,000人を超える方にご参加登録いただきました。Developers 同士が技術や…]]></content>
+        <published>2026-09-03T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow</id>
+        <link href="https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow"/>
+        <updated>2026-09-01T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、アイデア出しやプルリクエストレビュー、エラー監視、KPTを改善した取り組]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、アイデア出しやプルリクエストレビュー、エラー監視、KPTを改善した取り組みを紹介します。]]></content>
+        <published>2026-09-01T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/claude-budget-tags</id>
+        <link href="https://www.m3tech.blog/entry/claude-budget-tags"/>
+        <updated>2026-09-01T12:08:07.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエンジニアリンググループにおける開発ではAIは使い放題なので、量に切迫しているというわ]]></summary>
+        <content type="html"><![CDATA[この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエンジニアリンググループにおける開発ではAIは使い放題なので、量に切迫しているというわけではありません。それでも個人利用も含めてサブスクプランの上限があれば使い切りたくなってしまうのが人情です。 そして、トークンを使い切ろうとした結果、最近私はトークンリミットと戦っています。 背景: …]]></content>
+        <published>2026-09-01T12:08:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby: ZJITに導入されたインライナー（inliner）による驚異的な高速化（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159653</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_03/159653"/>
+        <updated>2026-09-03T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[概要 CC BY-NC-SA 4.0 International Deedに基づいて翻訳・公開いたします。 英]]></summary>
+        <content type="html"><![CDATA[概要 CC BY-NC-SA 4.0 International Deedに基づいて翻訳・公開いたします。 英]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="Ruby"/>
+        <category label="ZJIT"/>
+        <category label="最適化"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-03T08:30:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スキルを43個作っても越えられない、仕様駆動開発の4つの壁 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260903/sdd</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260903/sdd"/>
+        <updated>2026-09-03T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ラクス技術広報です。 開発本部では、各部署でのAI活用の取り組みを技術広報がインタビューし、記事としてお届けしています。今回お話を伺ったのは、楽楽請求開発部でバックエンド開発を担当する吉元和仁さんです。 楽楽請求のバックエンドチームは、昨年度の下期から仕様駆動開発（Spec-Driven Development、以下SDD）の導入を進めてきました。掲げた目標は「AIによる実装の完全自動]]></summary>
+        <content type="html"><![CDATA[こんにちは、ラクス技術広報です。 開発本部では、各部署でのAI活用の取り組みを技術広報がインタビューし、記事としてお届けしています。今回お話を伺ったのは、楽楽請求開発部でバックエンド開発を担当する吉元和仁さんです。 楽楽請求のバックエンドチームは、昨年度の下期から仕様駆動開発（Spec-Driven Development、以下SDD）の導入を進めてきました。掲げた目標は「AIによる実装の完全自動化」です。 半年ほど回してみて、実装そのものは速くなりましたが、速くなったのは個人の作業で、チームとして再利用できる資産は積み上がっていませんでした。 この記事は成功事例の紹介ではありません。SDDを…]]></content>
+        <published>2026-09-03T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？ | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260905-robot-olympics/</id>
+        <link href="https://gigazine.net/news/20260905-robot-olympics/"/>
+        <updated>2026-09-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学]]></summary>
+        <content type="html"><![CDATA[中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学ロボット工学教授のジョナサン・ロバーツ氏が解説しています。]]></content>
+        <published>2026-09-05T12:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[border-shapeプロパティにこんな使い方があったとは！ 一つの要素だけ背景色を幅いっぱいに広げるモダンCSSのテクニック | コリス]]></title>
+        <id>https://coliss.com/?p=84084</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/background-using-modern-css.html"/>
+        <updated>2026-09-03T00:36:56.000Z</updated>
+        <summary type="html"><![CDATA[section要素を積み重ねたときに、一つの要素だけ背景色をブラウザの幅いっぱいに広げるモダンCSSのテクニックを紹介します。 下記は2番目のテキスト要素のとこだけオレンジ色の背景色をブラウザの幅いっ]]></summary>
+        <content type="html"><![CDATA[section要素を積み重ねたときに、一つの要素だけ背景色をブラウザの幅いっぱいに広げるモダンCSSのテクニックを紹介します。 下記は2番目のテキスト要素のとこだけオレンジ色の背景色をブラウザの幅いっ]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -CSS"/>
+        <category label="border-shape"/>
+        <published>2026-09-03T00:36:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本語CLIPを活用した検索ランキング学習の精度改善検証 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/clip-ltr-offline-evaluation</id>
+        <link href="https://techblog.zozo.com/entry/clip-ltr-offline-evaluation"/>
+        <updated>2026-09-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、検索基盤部の検索グロースブロックに所属するしゅがーです。普段はZOZOTOWNの検索体験を改善する施策の企画と開発を担当しています。 近年、CLIPをはじめとするマルチモーダルモデルの登場によって、画像とテキストを同じ特徴空間で比較できるようになりました。一方で、検索結果の並び順を学習するランキング学習（LTR: Learning to Rank）では、行動実績やテキストに基]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、検索基盤部の検索グロースブロックに所属するしゅがーです。普段はZOZOTOWNの検索体験を改善する施策の企画と開発を担当しています。 近年、CLIPをはじめとするマルチモーダルモデルの登場によって、画像とテキストを同じ特徴空間で比較できるようになりました。一方で、検索結果の並び順を学習するランキング学習（LTR: Learning to Rank）では、行動実績やテキストに基づく特徴量を使うことが一般的です。画像の情報をどう取り込むかには、まだ検討の余地があります。 本記事では、日本語CLIPモデルで算出した商品画像と検索クエリの類似度をランキング学習モデルの特徴量として…]]></content>
+        <published>2026-09-01T08:00:00.000Z</published>
+    </entry>
+</feed>
