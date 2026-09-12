@@ -1,0 +1,208 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (はてなIT人気)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.json",
+    "description": "はてなブックマーク ITカテゴリ人気（厳選）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/yubais/n/nd4505991a6d6",
+            "content_html": "はてブ343件\n「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパクトが大きい。これは「ミレニアム懸賞問題」として100万ドルの賞金がかけられていた7問のひとつだからだ。いわば21世紀の七大難問と言っていい。 しかし、多くの有名な...",
+            "url": "https://note.com/yubais/n/nd4505991a6d6",
+            "title": "[はてブ343] AIが数学の難問を解決していいのか｜柞刈湯葉 (note.com)",
+            "summary": "はてブ343件\n「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパク",
+            "date_modified": "2026-09-12T10:56:24.000Z",
+            "date_published": "2026-09-12T10:56:24.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 343,
+                "originalTitle": "AIが数学の難問を解決していいのか｜柞刈湯葉",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ343件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+            "content_html": "はてブ198件\n「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表した。今後さらに多くの数学者の署名を募るという。米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受けての...",
+            "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+            "title": "[はてブ198] 数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞 (nikkei.com)",
+            "summary": "はてブ198件\n「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難",
+            "date_modified": "2026-09-12T02:48:57.000Z",
+            "date_published": "2026-09-12T02:48:57.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 198,
+                "originalTitle": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ198件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://note.com/shi3zblog/n/nd5fc5341b342",
+            "content_html": "はてブ140件\nDeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時代の幕開けなのだということを感じている。午前5...",
+            "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
+            "title": "[はてブ140] DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z (note.com)",
+            "summary": "はてブ140件\nDeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつ",
+            "date_modified": "2026-09-11T23:45:01.000Z",
+            "date_published": "2026-09-11T23:45:01.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 140,
+                "originalTitle": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ140件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://automaton-media.com/articles/newsjp/20260912-467049/",
+            "content_html": "はてブ125件\nレベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない レベルファイブの代表取締役社長を務める日野晃博氏は9月12日、先日おこなわれたオンライン発表イベント「LEVEL5 VISION 2026 II 夢」の中で、生成AIによる映像...",
+            "url": "https://automaton-media.com/articles/newsjp/20260912-467049/",
+            "title": "[はてブ125] レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON (automaton-media.com)",
+            "summary": "はてブ125件\nレベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”",
+            "date_modified": "2026-09-12T07:36:59.000Z",
+            "date_published": "2026-09-12T07:36:59.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 125,
+                "originalTitle": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ125件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
+            "content_html": "はてブ122件\n【読売新聞】 【ワシントン＝中根圭一】「数学界のノーベル賞」と呼ばれるフィールズ賞を受賞した森重文・京都大特別教授ら世界の数学者２５人が１１日、人工知能（ＡＩ）を使って企業が数学の難問を解く行為を非難する緊急声明を発表した。数学の理",
+            "url": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
+            "title": "[はてブ122] ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 (yomiuri.co.jp)",
+            "summary": "はてブ122件\n【読売新聞】 【ワシントン＝中根圭一】「数学界のノーベル賞」と呼ばれるフィールズ賞を受賞した森重文・京都大特別教授ら世界の数学者２５人が１１日、",
+            "date_modified": "2026-09-12T10:12:56.000Z",
+            "date_published": "2026-09-12T10:12:56.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 122,
+                "originalTitle": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ122件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
+            "content_html": "はてブ105件\n::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center bg=blue:: 声がでない ::center bg=blue size=2:: 😱 ::center bg=blue:: お聞き苦しいところありますがご...",
+            "url": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
+            "title": "[はてブ105] AI時代のWebフレームワークはどこへ行く？ (slides.yusu.ke)",
+            "summary": "はてブ105件\n::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ Sep",
+            "date_modified": "2026-09-12T07:11:39.000Z",
+            "date_published": "2026-09-12T07:11:39.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 105,
+                "originalTitle": "AI時代のWebフレームワークはどこへ行く？",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ105件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
+            "content_html": "はてブ94件\nフロントエンドカンファレンス福岡2026",
+            "url": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
+            "title": "[はてブ94] Reactの設計論 (speakerdeck.com)",
+            "summary": "はてブ94件\nフロントエンドカンファレンス福岡2026",
+            "date_modified": "2026-09-12T01:56:56.000Z",
+            "date_published": "2026-09-12T01:56:56.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 94,
+                "originalTitle": "Reactの設計論",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ94件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
+            "content_html": "はてブ66件\nDeleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではない...",
+            "url": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
+            "title": "[はてブ66] AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita (qiita.com)",
+            "summary": "はてブ66件\nDeleted articles cannot be recovered. Draft of this article would be also",
+            "date_modified": "2026-09-11T11:23:26.000Z",
+            "date_published": "2026-09-11T11:23:26.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 66,
+                "originalTitle": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ66件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://findy-code.io/media/articles/modoku-yusuktan-202609",
+            "content_html": "はてブ50件\n「あの人も読んでる」略して「も読」。さまざまな寄稿者が最近気になった情報や話題をシェアする企画です。他のテックな人たちがどんな情報を追っているのか、ちょっと覗いてみませんか？ みなさんこんにちは。 「あの人も読んでる」、第22回目の投稿です。maguro（X @yusuktan）がお届けします。 今回は、TailscaleがSQ...",
+            "url": "https://findy-code.io/media/articles/modoku-yusuktan-202609",
+            "title": "[はてブ50] SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media (findy-code.io)",
+            "summary": "はてブ50件\n「あの人も読んでる」略して「も読」。さまざまな寄稿者が最近気になった情報や話題をシェアする企画です。他のテックな人たちがどんな情報を追っているのか",
+            "date_modified": "2026-09-11T12:25:24.000Z",
+            "date_published": "2026-09-11T12:25:24.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 50,
+                "originalTitle": "SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ50件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        }
+    ]
+}

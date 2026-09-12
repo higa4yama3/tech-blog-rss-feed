@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research</id>
+    <title>RSS (Research)</title>
+    <updated>2026-09-12T22:11:53.156Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml"/>
+    <subtitle>リサーチ・長文</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</id>
+        <link href="https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"/>
+        <updated>2026-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting and conventional weapons development.]]></summary>
+        <content type="html"><![CDATA[Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting and conventional weapons development.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems. | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</id>
+        <link href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"/>
+        <updated>2026-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems. ]]></summary>
+        <content type="html"><![CDATA[We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems. ]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language. | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/formalizing-fermats-last-theorem</id>
+        <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"/>
+        <updated>2026-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Enterprise Frontier Safeguards with our customers | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/enterprise-frontier-safeguards</id>
+        <link href="https://www.anthropic.com/news/enterprise-frontier-safeguards"/>
+        <updated>2026-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving our alignment and security efforts | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/improving-alignment-security-efforts</id>
+        <link href="https://www.anthropic.com/news/improving-alignment-security-efforts"/>
+        <updated>2026-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></summary>
+        <content type="html"><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</id>
+        <link href="https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"/>
+        <updated>2026-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ]]></summary>
+        <content type="html"><![CDATA[We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding our support for scientists | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/expanding-support-for-scientists</id>
+        <link href="https://www.anthropic.com/news/expanding-support-for-scientists"/>
+        <updated>2026-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previewing the Model Hardware Standard | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/model-hardware-standard-research-preview</id>
+        <link href="https://www.anthropic.com/news/model-hardware-standard-research-preview"/>
+        <updated>2026-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ]]></summary>
+        <content type="html"><![CDATA[Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/enabling-independent-research</id>
+        <link href="https://www.anthropic.com/research/enabling-independent-research"/>
+        <updated>2026-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.]]></summary>
+        <content type="html"><![CDATA[Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Funding better evaluations of AI’s impact on wellbeing | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/wellbeing-research-grants</id>
+        <link href="https://www.anthropic.com/news/wellbeing-research-grants"/>
+        <updated>2026-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></summary>
+        <content type="html"><![CDATA[Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research. | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/Claude-accelerates-protein-design</id>
+        <link href="https://www.anthropic.com/research/Claude-accelerates-protein-design"/>
+        <updated>2026-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Two results show how Claude helps life sciences researchers speed up their work: designing protein binders from scratch and analyzing NMR and LC-MS data to speed chemical analysis.]]></summary>
+        <content type="html"><![CDATA[Two results show how Claude helps life sciences researchers speed up their work: designing protein binders from scratch and analyzing NMR and LC-MS data to speed chemical analysis.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Claude’s text watermark works | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/claude-text-watermark</id>
+        <link href="https://www.anthropic.com/news/claude-text-watermark"/>
+        <updated>2026-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Future Claude models will generate text that contains a watermark to comply with the EU AI Act. We answer questions about how it works and whether it affects outputs.]]></summary>
+        <content type="html"><![CDATA[Future Claude models will generate text that contains a watermark to comply with the EU AI Act. We answer questions about how it works and whether it affects outputs.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-08-14T00:00:00.000Z</published>
+    </entry>
+</feed>

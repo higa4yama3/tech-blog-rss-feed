@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Research)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml</link>
+        <description>リサーチ・長文</description>
+        <lastBuildDate>Sat, 12 Sep 2026 22:11:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Research)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</link>
+            <guid>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting and conventional weapons development.]]></description>
+            <content:encoded><![CDATA[Anthropic’s Frontier Red Team developed new evaluations to measure AI capabilities in tactical intelligence targeting and conventional weapons development.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems. | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
+            <guid>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems. ]]></description>
+            <content:encoded><![CDATA[We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems. ]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="webp" url="https://cdn.sanity.io/images/4zrzovbb/website/25a7c99743ebfb3b79cb98ffa2b9e928ad7e712b-2000x1125.webp" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language. | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+            <guid>https://www.anthropic.com/research/formalizing-fermats-last-theorem</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg" alt="Mathematical image reminiscent of elliptical curves"/>
+        </item>
+        <item>
+            <title><![CDATA[Developing Enterprise Frontier Safeguards with our customers | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+            <guid>https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=sky" alt="Hand with urban skyline and corporate buildings, representing business growth and enterprise development"/>
+        </item>
+        <item>
+            <title><![CDATA[Improving our alignment and security efforts | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+            <guid>https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></description>
+            <content:encoded><![CDATA[On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=cactus" alt="Hand with geometric shapes constructing a complex abstract form on white background"/>
+        </item>
+        <item>
+            <title><![CDATA[Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
+            <guid>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ]]></description>
+            <content:encoded><![CDATA[We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities. ]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=olive" alt="Geometric staircase steps ascending vertically with incremental progression"/>
+        </item>
+        <item>
+            <title><![CDATA[Expanding our support for scientists | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+            <guid>https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&amp;backgroundColor=olive" alt="Stylized hand and head silhouette with interconnected node and abstract geometric elements"/>
+        </item>
+        <item>
+            <title><![CDATA[Previewing the Model Hardware Standard | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+            <guid>https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ]]></description>
+            <content:encoded><![CDATA[Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. ]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://cdn.sanity.io/images/4zrzovbb/website/5008271abbababe59f4fbb01998697f7dd0b5b60-1280x720.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/enabling-independent-research</link>
+            <guid>https://www.anthropic.com/research/enabling-independent-research</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.]]></description>
+            <content:encoded><![CDATA[Earlier this year, we ran a pilot giving external researchers access to aggregate, real-world Claude usage data. Three research groups designed their own studies for Anthropic Insights, our privacy-preserving analysis tool. In this post, we share high-level results from those studies and what we learned running this pilot.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampBooks&amp;backgroundColor=heather" alt="Desk lamp beside stacked books on wooden surface with academic study materials"/>
+        </item>
+        <item>
+            <title><![CDATA[Funding better evaluations of AI’s impact on wellbeing | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+            <guid>https://www.anthropic.com/news/wellbeing-research-grants</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></description>
+            <content:encoded><![CDATA[Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&amp;backgroundColor=heather" alt="Hand with flower elements and head outline in stylized profile design"/>
+        </item>
+        <item>
+            <title><![CDATA[ScienceAug 18, 2026How Claude is accelerating protein design and analytical chemistryIn this post, we share two results that show how Claude can help life scientists increase the pace of their research. | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/Claude-accelerates-protein-design</link>
+            <guid>https://www.anthropic.com/research/Claude-accelerates-protein-design</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Two results show how Claude helps life sciences researchers speed up their work: designing protein binders from scratch and analyzing NMR and LC-MS data to speed chemical analysis.]]></description>
+            <content:encoded><![CDATA[Two results show how Claude helps life sciences researchers speed up their work: designing protein binders from scratch and analyzing NMR and LC-MS data to speed chemical analysis.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="png" url="https://cdn.sanity.io/images/4zrzovbb/website/e3758f1bc27af0786f4249cc1ab194fc2c6cce63-3840x2160.png" alt="An image of Claude-designed protein binders spelling out Anthropic"/>
+        </item>
+        <item>
+            <title><![CDATA[How Claude’s text watermark works | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/claude-text-watermark</link>
+            <guid>https://www.anthropic.com/news/claude-text-watermark</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Future Claude models will generate text that contains a watermark to comply with the EU AI Act. We answer questions about how it works and whether it affects outputs.]]></description>
+            <content:encoded><![CDATA[Future Claude models will generate text that contains a watermark to comply with the EU AI Act. We answer questions about how it works and whether it affects outputs.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather" alt="Ornate quill pen resting on a detailed hand, positioned against a textured background"/>
+        </item>
+    </channel>
+</rss>

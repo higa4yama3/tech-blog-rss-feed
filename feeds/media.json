@@ -1,0 +1,476 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Media)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.json",
+    "description": "高頻度メディアソース（件数上限あり）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+            "content_html": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。",
+            "url": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+            "title": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性 | GIGAZINE",
+            "summary": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/paying-attention-body-immune-response/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T14:00:00.000Z",
+            "date_published": "2026-09-12T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199533",
+            "content_html": "アメリカのライス大学などで行われた研究によって、自分の成功を打ち明けるかどうかは直前に相手が何を話したかで激変し、相手が失敗を明かした直後には、成功を語る気持ちが、相手が自分の結果を明かさなかった場合の4分の1以下にまで落ち込むことが明らかになりました。 自慢したいから成功を語り、恥ずかしいから失敗を隠す。 そう説明されてきた行動の裏で、人が重く見ていたのは自分の見え方よりも、目の前の相手の痛みのほうでした。 研究者は「誰かが苦労したと打ち明けたとき、人は張り合うためではなく、慰めるために自分の苦労を持ち出すのです」と述べています。 では、自分のほうがうまくいってしまったとき、人はその気まず…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199533",
+            "title": "相手が失敗したと聞いた瞬間、人は自分の成功を隠す | ナゾロジー",
+            "summary": "アメリカのライス大学などで行われた研究によって、自分の成功を打ち明けるかどうかは直前に相手が何を話したかで激変し、相手が失敗を明かした直後には、成功を語る気持ちが、相手が自分の結果を明かさなかった場合の4分の1以下にまで落ち込むことが明らかになりました。 自慢したいから成功を語り、恥ずかしいから失敗を隠す。 そう説明されてきた行動の裏で、人が重く見ていたのは自分の見え方よりも、目の前の相手の痛みの",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c9b980df7316016e82e7bb5f43b0955b.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:00:37.000Z",
+            "date_published": "2026-09-12T10:00:37.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "心理学"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "相手が失敗したと聞いた瞬間、人は自分の成功を隠す",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+            "content_html": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。",
+            "url": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+            "title": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに | GIGAZINE",
+            "summary": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/expelled-from-paradise-resonance-theater-trailer/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-12T10:00:00.000Z",
+            "date_published": "2026-09-12T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-viking-nun/",
+            "content_html": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。",
+            "url": "https://gigazine.net/news/20260912-viking-nun/",
+            "title": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」 | GIGAZINE",
+            "summary": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/viking-nun/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:00:00.000Z",
+            "date_published": "2026-09-12T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199506",
+            "content_html": "気体の圧力とは、目に見えない分子が無数にぶつかり続ける押し合いの合計で、その1回1回は小さく多すぎて、まとめてしか測れないもの、と語られてきました。 しかしアメリカのイェール大学（Yale University）などで行われた研究によって、気体の粒がたった1個ぶつかる瞬間が、1発ずつ検出されました。 検出器になったのは、レーザー光で宙に浮かべた直径100ナノメートルのガラスの球です。 研究では、クリプトン、キセノン、六フッ化硫黄という3種類の気体について、1個ずつの衝突が確かめられました。 研究内容の詳細は『arXiv』にて公開されており2026年8月7日に『Physical Review …",
+            "url": "https://nazology.kusuguru.co.jp/archives/199506",
+            "title": "気体に圧力を与える根本、「原子1個の衝突」を検出することに成功 | ナゾロジー",
+            "summary": "気体の圧力とは、目に見えない分子が無数にぶつかり続ける押し合いの合計で、その1回1回は小さく多すぎて、まとめてしか測れないもの、と語られてきました。 しかしアメリカのイェール大学（Yale University）などで行われた研究によって、気体の粒がたった1個ぶつかる瞬間が、1発ずつ検出されました。 検出器になったのは、レーザー光で宙に浮かべた直径100ナノメートルのガラスの球です。 研究では、ク",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/7e16d65ffe13a9182bb31c4cf369c0d9.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T09:00:02.000Z",
+            "date_published": "2026-09-12T09:00:02.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "物理学",
+                "光"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "気体に圧力を与える根本、「原子1個の衝突」を検出することに成功",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199524",
+            "content_html": "岩の上をクモが走る。近づいた鳥が最後に見るのは、その下で口を開けたヘビです。 イランに住むクモの尾を持つクサリヘビ(Pseudocerastes urarachnoides)は、尾の先にクモそっくりの飾りを持つ、科学が知る唯一の動物です。 じっと岩に紛れ、尾だけを小刻みに揺らして鳥をおびき寄せます。 ルーアン氏は、動く尾を見ると本物のクモでないとは信じがたいと言うほどです。 ポーランド科学アカデミーとフィールド博物館の研究チームは、この「クモ」の中に骨は一本もなく、形を変えた鱗だけでできていると発表しました。 調べたのは1968年に採集され、この種の基準になっている標本1体で、マイクロCT(…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199524",
+            "title": "ヘビの尾にある「クモ」はすべて皮膚でできていた | ナゾロジー",
+            "summary": "岩の上をクモが走る。近づいた鳥が最後に見るのは、その下で口を開けたヘビです。 イランに住むクモの尾を持つクサリヘビ(Pseudocerastes urarachnoides)は、尾の先にクモそっくりの飾りを持つ、科学が知る唯一の動物です。 じっと岩に紛れ、尾だけを小刻みに揺らして鳥をおびき寄せます。 ルーアン氏は、動く尾を見ると本物のクモでないとは信じがたいと言うほどです。 ポーランド科学アカデミ",
+            "image": {
+                "height": "475",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c383-fig-thumb.jpg",
+                "width": "665",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T06:31:32.000Z",
+            "date_published": "2026-09-12T06:31:32.000Z",
+            "author": {
+                "name": "天道銀河"
+            },
+            "tags": [
+                "動物",
+                "クモ",
+                "ヘビ",
+                "進化"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ヘビの尾にある「クモ」はすべて皮膚でできていた",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00682/082800105/",
+            "content_html": "",
+            "url": "https://business.nikkei.com/atcl/gen/19/00682/082800105/",
+            "title": "［2026年9月12日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00682/082800105/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T15:00:00.000Z",
+            "date_published": "2026-09-11T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［2026年9月12日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/digest/2140377.html",
+            "content_html": "",
+            "url": "https://forest.watch.impress.co.jp/docs/digest/2140377.html",
+            "title": "複数ページのPDFや画像の差分をヒートマップ表示でチェックできる「TERASIAS」　ほか【ダイジェストニュース】 | 窓の杜",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/377/0911.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T12:27:17.000Z",
+            "date_published": "2026-09-11T12:27:17.000Z",
+            "author": {
+                "name": "窓の杜編集部"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "複数ページのPDFや画像の差分をヒートマップ表示でチェックできる「TERASIAS」　ほか【ダイジェストニュース】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html",
+            "content_html": " Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html",
+            "title": "「Microsoft PowerToys」に追加されたローカルAI機能を試してみた | 窓の杜",
+            "summary": " Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/265/08.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T10:11:00.000Z",
+            "date_published": "2026-09-11T10:11:00.000Z",
+            "author": {
+                "name": "石田 賀津男"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 48,
+                "originalTitle": "「Microsoft PowerToys」に追加されたローカルAI機能を試してみた",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ48件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140330.html",
+            "content_html": " 米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140330.html",
+            "title": "「AOMEI Backupper」に未修正の脆弱性？ 実証コードも公開済み／6月に脆弱性情報が公開されるも未修正のまま放置されている模様 | 窓の杜",
+            "summary": " 米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/330/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T09:15:40.000Z",
+            "date_published": "2026-09-11T09:15:40.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「AOMEI Backupper」に未修正の脆弱性？ 実証コードも公開済み／6月に脆弱性情報が公開されるも未修正のまま放置されている模様",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140258.html",
+            "content_html": " 「GIMP」開発チームは9月10日（現地時間、以下同）、無償の画像編集・処理ソフト「GIMP」の最新安定版v3.2.6を公開した。ここ数カ月分のパッチや不具合修正、セキュリティアップデートをまとめたものとなっている。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140258.html",
+            "title": "画像編集ソフト「GIMP 3.2.6」が公開 ～8月に報じた脆弱性など、27件のCVEに対処／Mac版はビルド体制を一新してWindows・Linux版と同時公開に | 窓の杜",
+            "summary": " 「GIMP」開発チームは9月10日（現地時間、以下同）、無償の画像編集・処理ソフト「GIMP」の最新安定版v3.2.6を公開した。ここ数カ月分のパッチや不具合修正、セキュリティアップデートをまとめたものとなっている。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/258/gimp.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T08:21:00.000Z",
+            "date_published": "2026-09-11T08:21:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "画像編集ソフト「GIMP 3.2.6」が公開 ～8月に報じた脆弱性など、27件のCVEに対処／Mac版はビルド体制を一新してWindows・Linux版と同時公開に",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00122/00297/",
+            "content_html": "日本銀行は物価上昇率と米国の圧力を踏まえ、今週の政策決定会合で0.25％の利上げを決断する可能性が高い。平均で半年だった追加利上げのインターバルは3カ月短くなり、この流れは当面続きそうだ。高市早苗首相はひとまず容認しそうだが、日銀に対する厳しい姿勢を左右する人事が内閣改造で見られるか注目される。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00122/00297/",
+            "title": "日銀が0.25％の利上げを決断か　米圧力でペース短縮、年内に再追加も (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事",
+            "summary": "日本銀行は物価上昇率と米国の圧力を踏まえ、今週の政策決定会合で0.25％の利上げを決断する可能性が高い。平均で半年だった追加利上げのインターバルは3カ月短くなり、この流れは当面続きそうだ。高市早苗首相はひとまず容認しそうだが、日銀に対する厳しい姿勢を左右する人事が内閣改造で見られるか注目される。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00122/00297/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日銀が0.25％の利上げを決断か　米圧力でペース短縮、年内に再追加も (上野泰也の先読みマーケット)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00112/091100244/",
+            "content_html": "富士通は9月8日、ダイヤモンドスピン方式量子コンピューターのプロトタイプ（試作機）を開発したと発表した。実機開発を巡っては、撤退を決めたNECの研究人材を富士通が取り込み、加速する。10年、20年の長期戦ともいわれる開発で、戦法の違いが浮き彫りになってきた。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00112/091100244/",
+            "title": "量子計算機、続ける富士通と撤退するNEC　開発を阻む投資回収の壁   (日の丸電機サバイバル) | 日経ビジネス電子版　最新記事",
+            "summary": "富士通は9月8日、ダイヤモンドスピン方式量子コンピューターのプロトタイプ（試作機）を開発したと発表した。実機開発を巡っては、撤退を決めたNECの研究人材を富士通が取り込み、加速する。10年、20年の長期戦ともいわれる開発で、戦法の違いが浮き彫りになってきた。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00112/091100244/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "量子計算機、続ける富士通と撤退するNEC　開発を阻む投資回収の壁   (日の丸電機サバイバル)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00087/090900536/",
+            "content_html": "電気自動車（EV）のみならず、宇宙事業（スペースX）、通信衛星事業（スターリンク）、SNS（X）など次々と活動の領域を広げるイーロン・マスク氏。世界市場における、これらの事業の発展ぶりは、イーロン・マスク帝国を築き上げているかのようだ。2026年9月発売の『データで徹底解剖 イーロン・マスク帝国』（日経BP）はマスク氏の事業とリーダーとしての人物像にデータ分析で迫る。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00087/090900536/",
+            "title": "イーロン・マスク氏が実現したトヨタ生産方式の理想形　6～7倍速で工場設計 (Books) | 日経ビジネス電子版　最新記事",
+            "summary": "電気自動車（EV）のみならず、宇宙事業（スペースX）、通信衛星事業（スターリンク）、SNS（X）など次々と活動の領域を広げるイーロン・マスク氏。世界市場における、これらの事業の発展ぶりは、イーロン・マスク帝国を築き上げているかのようだ。2026年9月発売の『データで徹底解剖 イーロン・マスク帝国』（日経BP）はマスク氏の事業とリーダーとしての人物像にデータ分析で迫る。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00087/090900536/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "イーロン・マスク氏が実現したトヨタ生産方式の理想形　6～7倍速で工場設計 (Books)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/090800001/",
+            "content_html": "企業のコンプライアンスに関する不祥事は、今なお後を絶ちません。業績が好調な企業であっても、不祥事が発覚したことで信用を失い、経営危機に陥ることがあります。社会の価値観や法制度が変化し続ける中、企業にはコンプライアンスへの取り組みを絶えず見直し、進化させていくことが求められています。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/090800001/",
+            "title": "［ガバナンス小説スタート］副社長候補をフェアネス室へ　更迭か改革の切り札か (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "企業のコンプライアンスに関する不祥事は、今なお後を絶ちません。業績が好調な企業であっても、不祥事が発覚したことで信用を失い、経営危機に陥ることがあります。社会の価値観や法制度が変化し続ける中、企業にはコンプライアンスへの取り組みを絶えず見直し、進化させていくことが求められています。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/090800001/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［ガバナンス小説スタート］副社長候補をフェアネス室へ　更迭か改革の切り札か (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140240.html",
+            "content_html": " 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140240.html",
+            "title": "「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る | 窓の杜",
+            "summary": " 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/240/image2.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T07:26:00.000Z",
+            "date_published": "2026-09-11T07:26:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 46,
+                "originalTitle": "「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ46件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://qiita.com/official-columns/?p=35750",
+            "content_html": "2026年7月14日から8月25日まで、記事投稿キャンペーン「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」を開催しました！ご参加いただい […]",
+            "url": "https://qiita.com/official-columns/event/202609-sakura-internet-campaign/",
+            "title": "記事投稿キャンペーン結果発表！「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」 | Qiita Zine",
+            "summary": "2026年7月14日から8月25日まで、記事投稿キャンペーン「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」を開催しました！ご参加いただい […]",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://qiita.com/official-columns/wp-content/uploads/2026/09/image-1200x630-1.png",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-11T04:08:10.000Z",
+            "date_published": "2026-09-11T04:08:10.000Z",
+            "author": {
+                "name": "niwa.manaho"
+            },
+            "tags": [
+                "イベント",
+                "タイアップ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "記事投稿キャンペーン結果発表！「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」",
+                "blogTitle": "Qiita Zine",
+                "blogLink": "https://qiita.com/official-columns/",
+                "blogLinkMd5Hash": "ade79171100c6e0d10a8f274142e7072",
+                "favicon": "https://qiita.com/official-columns/wp-content/uploads/2019/12/cropped-favicon-32x32.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "Qiita"
+            }
+        }
+    ]
+}

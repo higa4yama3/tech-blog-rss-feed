@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-09-12T22:11:53.137Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>はてブと新しさで選んだ記事</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[AIに12機能を書かせたら、レビューに5営業日かかった | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/202260911/ai</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/202260911/ai"/>
+        <updated>2026-09-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技]]></summary>
+        <content type="html"><![CDATA[前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技術広報がインタビューし、記事にしています。今回は電子請求書発行システム「楽楽明細」の新しいオプション機能を、AIにほぼ実装させて約2か月でリリースした事例です。 本記事は、AIを使って順調に機能開発が…]]></content>
+        <published>2026-09-11T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft PowerToys」に追加されたローカルAI機能を試してみた | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html"/>
+        <updated>2026-09-11T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[ Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。]]></summary>
+        <content type="html"><![CDATA[ Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。]]></content>
+        <author>
+            <name>石田 賀津男</name>
+        </author>
+        <published>2026-09-11T10:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2140240.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2140240.html"/>
+        <updated>2026-09-11T07:26:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。]]></summary>
+        <content type="html"><![CDATA[ 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-11T07:26:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開 | Speee DEVELOPER BLOG]]></title>
+        <id>https://tech.speee.jp/entry/2026/09/09/133550</id>
+        <link href="https://tech.speee.jp/entry/2026/09/09/133550"/>
+        <updated>2026-09-09T04:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Speeeの大場です。 AIの助けを借りて、アプリケーションが動いた。そのとき、ブラウザから送られたリクエストがどう処理され、画面に結果が返ってくるのかを、自分の言葉で説明できるでしょうか。 これからエンジニアを目指す方にとって、「AIを使って開発しながら、何を、どこまで自分で理解すればよいのか」は悩ましい問いです。新卒エンジニアの教育を担う方も、成果物を作る経験を、技術への理解にどうつなげるかを]]></summary>
+        <content type="html"><![CDATA[Speeeの大場です。 AIの助けを借りて、アプリケーションが動いた。そのとき、ブラウザから送られたリクエストがどう処理され、画面に結果が返ってくるのかを、自分の言葉で説明できるでしょうか。 これからエンジニアを目指す方にとって、「AIを使って開発しながら、何を、どこまで自分で理解すればよいのか」は悩ましい問いです。新卒エンジニアの教育を担う方も、成果物を作る経験を、技術への理解にどうつなげるかを考える場面があるのではないでしょうか。 Speeeでは、この問いに向き合う取り組みとして、Webアプリケーション研修教材を公開します。この記事では、教材の背景にある問題意識と、学習の機会をどう設計した…]]></content>
+        <published>2026-09-09T04:35:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/memory-manager-context-reuse</id>
+        <link href="https://techblog.zozo.com/entry/memory-manager-context-reuse"/>
+        <updated>2026-09-10T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ZOZOTOWN開発本部Webバックエンドブロックの和氣です。普段はZOZOTOWNのバックエンドを担当しています。 日々の開発にClaude Codeを使っています。使ううちに、仕様や経緯を毎回プロンプトで説明し直していることに気づきました。そこで、Claude Codeとの会話をMarkdownで残し、作業に合わせたコンテキストをClaude Code自身が組み上げるよう]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ZOZOTOWN開発本部Webバックエンドブロックの和氣です。普段はZOZOTOWNのバックエンドを担当しています。 日々の開発にClaude Codeを使っています。使ううちに、仕様や経緯を毎回プロンプトで説明し直していることに気づきました。そこで、Claude Codeとの会話をMarkdownで残し、作業に合わせたコンテキストをClaude Code自身が組み上げるようにしました。以降、残したMarkdownを「メモリ」と呼びます（Claude Code標準のメモリ機能とは別物です。違いは後述します）。 現在、メモリは個人に閉じず、職種を跨いで十数人で共有しています…]]></content>
+        <published>2026-09-10T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159597</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597"/>
+        <updated>2026-09-08T08:30:45.000Z</updated>
+        <summary type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in]]></summary>
+        <content type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="MacBook"/>
+        <category label="macOS"/>
+        <category label="ツール"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-08T08:30:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | Blog on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/</id>
+        <link href="https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/"/>
+        <updated>2026-09-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する IT 基盤部第二グループで MySQL を 8.4 以降どのように動かし続けるかについて検討したことを紹介します。 結論としては Aurora などのマネージドサービスへの移行を選択しており、他の選択肢で実際に導入検証ができた部分も少ないのですが、変わり続けるデータ]]></summary>
+        <content type="html"><![CDATA[こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する IT 基盤部第二グループで MySQL を 8.4 以降どのように動かし続けるかについて検討したことを紹介します。 結論としては Aurora などのマネージドサービスへの移行を選択しており、他の選択肢で実際に導入検証ができた部分も少ないのですが、変わり続けるデータ …]]></content>
+        <published>2026-09-09T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RubyのHashがメモリ食いである理由を探ってメモリ使用量を削減した話（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159722</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_09/159722"/>
+        <updated>2026-09-09T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Shrinking Ruby Hashes | b]]></summary>
+        <content type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Shrinking Ruby Hashes | b]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="hash"/>
+        <category label="malloc"/>
+        <category label="Ruby"/>
+        <category label="オブジェクトシェイプ"/>
+        <category label="最適化"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-09T08:30:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践 | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-sda/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-sda/entry"/>
+        <updated>2026-09-09T00:02:07.000Z</updated>
+        <summary type="html"><![CDATA[生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間とAIが段階的に分析を進める仕様駆動データ分析（Specification-Driven Analy]]></summary>
+        <content type="html"><![CDATA[生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間とAIが段階的に分析を進める仕様駆動データ分析（Specification-Driven Analytics、以下SDA）というアプローチを検討しました。 なお、SDAは、仕様駆動開発などの考え方を基に、私たちが生成AIを使ったデータ分析で試行している進め方を整理したものです。新しい標準手法を提唱す…]]></content>
+        <published>2026-09-09T00:02:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏休みの宿題をオンスケで終えられなかった私が、AWS全冠を約2か月で完走できた理由 | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20260909a/</id>
+        <link href="https://future-architect.github.io/articles/20260909a/"/>
+        <updated>2026-09-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年7月から8月の約2か月で、AWS認定の残り11資格に一発合格し、全冠を達成しました。細かい学習計画は立てず、合格したその場で次の試験を予約する「予定先入れ・締切駆動」で進めた記録です。]]></summary>
+        <content type="html"><![CDATA[2026年7月から8月の約2か月で、AWS認定の残り11資格に一発合格し、全冠を達成しました。細かい学習計画は立てず、合格したその場で次の試験を予約する「予定先入れ・締切駆動」で進めた記録です。]]></content>
+        <published>2026-09-08T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/embulk-to-dlt-dbt</id>
+        <link href="https://www.m3tech.blog/entry/embulk-to-dlt-dbt"/>
+        <updated>2026-09-08T04:54:10.000Z</updated>
+        <summary type="html"><![CDATA[この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コンシューマーチームで大幅なメンテナンスな]]></summary>
+        <content type="html"><![CDATA[この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コンシューマーチームで大幅なメンテナンスなく元気に動いていたEmbulkですが、今年の夏に全部やめました。 なぜやめたのか、なぜ dlt + dbt なのか、やってみてどこでハマったのか、という順で書いています。 新しい技術の話はほとんどなく…]]></content>
+        <published>2026-09-08T04:54:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuineMakerを作った話と技術的な解説 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/quine-maker</id>
+        <link href="https://www.m3tech.blog/entry/quine-maker"/>
+        <updated>2026-09-09T04:11:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに エムスリー株式会社、業務執行役員VPoEの河合(@vaaaaanquish)です。 本記事は、私もGMとして在籍する「AskDoctors開発チーム」のブログリレー 5日目の記事です。 本記事では、私が個人開発した「QuineMaker」というサービスの技術面の紹介をします。 はじめに QuineMakerについて Quineについて Quineの作り方 画像からのQuine生成 画像に]]></summary>
+        <content type="html"><![CDATA[はじめに エムスリー株式会社、業務執行役員VPoEの河合(@vaaaaanquish)です。 本記事は、私もGMとして在籍する「AskDoctors開発チーム」のブログリレー 5日目の記事です。 本記事では、私が個人開発した「QuineMaker」というサービスの技術面の紹介をします。 はじめに QuineMakerについて Quineについて Quineの作り方 画像からのQuine生成 画像に対して適切なコードを見つける 色付きQuineの生成 動画からのQuine生成 動画からのQuineの難しさ おわりに We are hiring !!]]></content>
+        <published>2026-09-09T04:11:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby Webアプリケーションで使うセルフホスティングサーバーをセットアップする（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159297</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_10/159297"/>
+        <updated>2026-09-10T08:30:54.000Z</updated>
+        <summary type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setu]]></summary>
+        <content type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setu]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="Linux"/>
+        <category label="Ruby"/>
+        <category label="SSH"/>
+        <category label="Ubuntu"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-10T08:30:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話 | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-robotbu/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-robotbu/entry"/>
+        <updated>2026-09-08T04:22:03.000Z</updated>
+        <summary type="html"><![CDATA[従業員の家族を職場に招く「ファミリーデー」で、子どもたちに通信の仕組みを体験してもらうため、光ファイバーを使った音声通話装置を一から作りました。 この記事では、回路の試作やプリント基板・ケースの製作、人数分の量産、そして当日の実験教室の様子までをご紹介します。 はじめに AIロボット部とは 光ファイバーで「通信」を体験してもらう 通信装置を作る アナログ回路と格闘する プリント基板を作る ケースも]]></summary>
+        <content type="html"><![CDATA[従業員の家族を職場に招く「ファミリーデー」で、子どもたちに通信の仕組みを体験してもらうため、光ファイバーを使った音声通話装置を一から作りました。 この記事では、回路の試作やプリント基板・ケースの製作、人数分の量産、そして当日の実験教室の様子までをご紹介します。 はじめに AIロボット部とは 光ファイバーで「通信」を体験してもらう 通信装置を作る アナログ回路と格闘する プリント基板を作る ケースも3Dプリンターで作る そして量産へ…… 当日の様子 おわりに はじめに こんにちは、AIロボット部（社内サークル）部員の浅野秀平です。 普段はデジタル改革推進部で、社内のデータ分析の仕事をしています。…]]></content>
+        <published>2026-09-08T04:22:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary</id>
+        <link href="https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary"/>
+        <updated>2026-09-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段は、システムアーキテクチャの全体最適化など、モノリスからマイクロサービスへシステムをリプレイスする過程で生じる、複数チーム間の課題解決を主に担当しています。 本記事では、ZOZOの基幹システムリプレイスにおいてモノリスからマイクロサービスへ移行するために、イベントストーミングを起点にドメイン間の境界と責務の決定]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段は、システムアーキテクチャの全体最適化など、モノリスからマイクロサービスへシステムをリプレイスする過程で生じる、複数チーム間の課題解決を主に担当しています。 本記事では、ZOZOの基幹システムリプレイスにおいてモノリスからマイクロサービスへ移行するために、イベントストーミングを起点にドメイン間の境界と責務の決定をどのように進めたかを紹介します。あわせて、既存コードの解析と付箋への変換に使ったClaude CodeのAgent Skillsの設計を、付録で共有します。なお、イベントストーミング（業務で起きる出…]]></content>
+        <published>2026-09-08T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260912-paying-attention-body-immune-response/</id>
+        <link href="https://gigazine.net/news/20260912-paying-attention-body-immune-response/"/>
+        <updated>2026-09-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。]]></summary>
+        <content type="html"><![CDATA[体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。]]></content>
+        <published>2026-09-12T14:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/</id>
+        <link href="https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/"/>
+        <updated>2026-09-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。]]></summary>
+        <content type="html"><![CDATA[2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。]]></content>
+        <published>2026-09-12T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260912-viking-nun/</id>
+        <link href="https://gigazine.net/news/20260912-viking-nun/"/>
+        <updated>2026-09-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。]]></summary>
+        <content type="html"><![CDATA[9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。]]></content>
+        <published>2026-09-12T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yahoo!ニュースの表示高速化で広告のクリックは増えるのか | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20260910a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20260910a"/>
+        <updated>2026-09-10T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。LINEヤフーのディスプレイ広告（以下、ディスプレイ広告）の開発と兼務で、全社横断のWebパフォーマンス改善に取り組んでいるエンジニアの今宮です。一般にWebページの表示速度はユーザー体験...]]></summary>
+        <content type="html"><![CDATA[こんにちは。LINEヤフーのディスプレイ広告（以下、ディスプレイ広告）の開発と兼務で、全社横断のWebパフォーマンス改善に取り組んでいるエンジニアの今宮です。一般にWebページの表示速度はユーザー体験...]]></content>
+        <published>2026-09-10T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/screen-analyze-v2</id>
+        <link href="https://techblog.zozo.com/entry/screen-analyze-v2"/>
+        <updated>2026-09-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ZOZOTOWN開発2部Webバックエンドブロックのぐらです。普段はZOZOTOWNのバックエンド開発を担当しています。ZOZOTOWNのリプレイスでは、既存システムの仕様を正確に把握することが欠かせません。私たちはこの分析にAIを活用してきました。しかし、人間による追加調査がまだまだ必要という課題を抱えていました。本記事では、AIによる既存システムの分析ワークフローを作り直]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ZOZOTOWN開発2部Webバックエンドブロックのぐらです。普段はZOZOTOWNのバックエンド開発を担当しています。ZOZOTOWNのリプレイスでは、既存システムの仕様を正確に把握することが欠かせません。私たちはこの分析にAIを活用してきました。しかし、人間による追加調査がまだまだ必要という課題を抱えていました。本記事では、AIによる既存システムの分析ワークフローを作り直した過程と、そこで得られた知見を紹介します。]]></content>
+        <published>2026-09-09T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks | 松尾研究所テックブログのフィード]]></title>
+        <id>https://zenn.dev/mkj/articles/fad8adf0586665</id>
+        <link href="https://zenn.dev/mkj/articles/fad8adf0586665"/>
+        <updated>2026-09-08T02:50:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、松尾研究所 データサイエンティストの力岡です。今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。本コンペは、「AIエージェントのセキュリティ」]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、松尾研究所 データサイエンティストの力岡です。今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。本コンペは、「AIエージェントのセキュリティ」を題材にしたレッドチーミングコンペです。PublicリーダーボードとPrivateリーダーボードで順位がほとんど入れ替わる激しいシェイクアップが起き、2,802チームがPrivateで...]]></content>
+        <author>
+            <name>Rick</name>
+        </author>
+        <published>2026-09-08T02:50:05.000Z</published>
+    </entry>
+</feed>

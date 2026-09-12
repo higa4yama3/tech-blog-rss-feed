@@ -1,0 +1,585 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Discover)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.json",
+    "description": "はてブと新しさで選んだ記事",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/202260911/ai",
+            "content_html": "前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技術広報がインタビューし、記事にしています。今回は電子請求書発行システム「楽楽明細」の新しいオプション機能を、AIにほぼ実装させて約2か月でリリースした事例です。 本記事は、AIを使って順調に機能開発が…",
+            "url": "https://tech-blog.rakus.co.jp/entry/202260911/ai",
+            "title": "AIに12機能を書かせたら、レビューに5営業日かかった | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/67a3dca6cef3f2c356caf226f9e5323f19ae67ae/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260910%2F20260910114048.png",
+                "alt": "AIに12機能を書かせたら、レビューに5営業日かかった - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T06:00:00.000Z",
+            "date_published": "2026-09-11T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "AIに12機能を書かせたら、レビューに5営業日かかった",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ37件",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html",
+            "content_html": " Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html",
+            "title": "「Microsoft PowerToys」に追加されたローカルAI機能を試してみた | 窓の杜",
+            "summary": " Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/265/08.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T10:11:00.000Z",
+            "date_published": "2026-09-11T10:11:00.000Z",
+            "author": {
+                "name": "石田 賀津男"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 48,
+                "originalTitle": "「Microsoft PowerToys」に追加されたローカルAI機能を試してみた",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ48件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140240.html",
+            "content_html": " 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140240.html",
+            "title": "「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る | 窓の杜",
+            "summary": " 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/240/image2.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T07:26:00.000Z",
+            "date_published": "2026-09-11T07:26:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 46,
+                "originalTitle": "「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ46件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://tech.speee.jp/entry/2026/09/09/133550",
+            "content_html": "Speeeの大場です。 AIの助けを借りて、アプリケーションが動いた。そのとき、ブラウザから送られたリクエストがどう処理され、画面に結果が返ってくるのかを、自分の言葉で説明できるでしょうか。 これからエンジニアを目指す方にとって、「AIを使って開発しながら、何を、どこまで自分で理解すればよいのか」は悩ましい問いです。新卒エンジニアの教育を担う方も、成果物を作る経験を、技術への理解にどうつなげるかを考える場面があるのではないでしょうか。 Speeeでは、この問いに向き合う取り組みとして、Webアプリケーション研修教材を公開します。この記事では、教材の背景にある問題意識と、学習の機会をどう設計した…",
+            "url": "https://tech.speee.jp/entry/2026/09/09/133550",
+            "title": "「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開 | Speee DEVELOPER BLOG",
+            "summary": "Speeeの大場です。 AIの助けを借りて、アプリケーションが動いた。そのとき、ブラウザから送られたリクエストがどう処理され、画面に結果が返ってくるのかを、自分の言葉で説明できるでしょうか。 これからエンジニアを目指す方にとって、「AIを使って開発しながら、何を、どこまで自分で理解すればよいのか」は悩ましい問いです。新卒エンジニアの教育を担う方も、成果物を作る経験を、技術への理解にどうつなげるかを",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/6653586347153657344/14945776032073236195/1788928550",
+                "alt": "「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開 - Speee DEVELOPER BLOG"
+            },
+            "date_modified": "2026-09-09T04:35:50.000Z",
+            "date_published": "2026-09-09T04:35:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 82,
+                "originalTitle": "「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開",
+                "blogTitle": "Speee DEVELOPER BLOG",
+                "blogLink": "https://tech.speee.jp/",
+                "blogLinkMd5Hash": "5917629801b0fb9e81c819bf2fc16bcd",
+                "favicon": "https://tech.speee.jp/icon/favicon",
+                "pickReason": "はてブ82件",
+                "sourceTier": "core",
+                "sourceLabel": "Speee"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/memory-manager-context-reuse",
+            "content_html": "はじめに こんにちは、ZOZOTOWN開発本部Webバックエンドブロックの和氣です。普段はZOZOTOWNのバックエンドを担当しています。 日々の開発にClaude Codeを使っています。使ううちに、仕様や経緯を毎回プロンプトで説明し直していることに気づきました。そこで、Claude Codeとの会話をMarkdownで残し、作業に合わせたコンテキストをClaude Code自身が組み上げるようにしました。以降、残したMarkdownを「メモリ」と呼びます（Claude Code標準のメモリ機能とは別物です。違いは後述します）。 現在、メモリは個人に閉じず、職種を跨いで十数人で共有しています…",
+            "url": "https://techblog.zozo.com/entry/memory-manager-context-reuse",
+            "title": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOTOWN開発本部Webバックエンドブロックの和氣です。普段はZOZOTOWNのバックエンドを担当しています。 日々の開発にClaude Codeを使っています。使ううちに、仕様や経緯を毎回プロンプトで説明し直していることに気づきました。そこで、Claude Codeとの会話をMarkdownで残し、作業に合わせたコンテキストをClaude Code自身が組み上げるよう",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8bc1507296c76ee4bcdab237fd4b2dcf3d90e9c6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260908%2F20260908105835.png",
+                "alt": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:00:00.000Z",
+            "date_published": "2026-09-10T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 41,
+                "originalTitle": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ41件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159597",
+            "content_html": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597",
+            "title": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳） | TechRacho",
+            "summary": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/macos_setup_script_2026_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T08:30:45.000Z",
+            "date_published": "2026-09-08T08:30:45.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "MacBook",
+                "macOS",
+                "ツール",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 170,
+                "originalTitle": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ170件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+            "content_html": "こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する IT 基盤部第二グループで MySQL を 8.4 以降どのように動かし続けるかについて検討したことを紹介します。 結論としては Aurora などのマネージドサービスへの移行を選択しており、他の選択肢で実際に導入検証ができた部分も少ないのですが、変わり続けるデータ …",
+            "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+            "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | Blog on DeNA Engineering",
+            "summary": "こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する IT 基盤部第二グループで MySQL を 8.4 以降どのように動かし続けるかについて検討したことを紹介します。 結論としては Aurora などのマネージドサービスへの移行を選択しており、他の選択肢で実際に導入検証ができた部分も少ないのですが、変わり続けるデータ",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T15:00:00.000Z",
+            "date_published": "2026-09-09T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 55,
+                "originalTitle": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE]",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "はてブ55件",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159722",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Shrinking Ruby Hashes | b",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_09/159722",
+            "title": "RubyのHashがメモリ食いである理由を探ってメモリ使用量を削減した話（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Shrinking Ruby Hashes | b",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/ruby_shrinking_hashes_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T08:30:09.000Z",
+            "date_published": "2026-09-09T08:30:09.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "hash",
+                "malloc",
+                "Ruby",
+                "オブジェクトシェイプ",
+                "最適化",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 36,
+                "originalTitle": "RubyのHashがメモリ食いである理由を探ってメモリ使用量を削減した話（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ36件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-sda/entry",
+            "content_html": "生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間とAIが段階的に分析を進める仕様駆動データ分析（Specification-Driven Analytics、以下SDA）というアプローチを検討しました。 なお、SDAは、仕様駆動開発などの考え方を基に、私たちが生成AIを使ったデータ分析で試行している進め方を整理したものです。新しい標準手法を提唱す…",
+            "url": "https://engineers.ntt.com/entry/202609-sda/entry",
+            "title": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践 | NTT docomo Business Engineers' Blog",
+            "summary": "生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間とAIが段階的に分析を進める仕様駆動データ分析（Specification-Driven Analy",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5e395da232f1f690eebbd001d6cfaa879e094942/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20260908%2F20260908205726.png",
+                "alt": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践 - NTT docomo Business Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T00:02:07.000Z",
+            "date_published": "2026-09-09T00:02:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 34,
+                "originalTitle": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ34件",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ"
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20260909a/",
+            "content_html": "2026年7月から8月の約2か月で、AWS認定の残り11資格に一発合格し、全冠を達成しました。細かい学習計画は立てず、合格したその場で次の試験を予約する「予定先入れ・締切駆動」で進めた記録です。",
+            "url": "https://future-architect.github.io/articles/20260909a/",
+            "title": "夏休みの宿題をオンスケで終えられなかった私が、AWS全冠を約2か月で完走できた理由 | フューチャー技術ブログ",
+            "summary": "2026年7月から8月の約2か月で、AWS認定の残り11資格に一発合格し、全冠を達成しました。細かい学習計画は立てず、合格したその場で次の試験を予約する「予定先入れ・締切駆動」で進めた記録です。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20260909a/thumbnail.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T15:00:00.000Z",
+            "date_published": "2026-09-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 56,
+                "originalTitle": "夏休みの宿題をオンスケで終えられなかった私が、AWS全冠を約2か月で完走できた理由",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ56件",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/embulk-to-dlt-dbt",
+            "content_html": "この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コンシューマーチームで大幅なメンテナンスなく元気に動いていたEmbulkですが、今年の夏に全部やめました。 なぜやめたのか、なぜ dlt + dbt なのか、やってみてどこでハマったのか、という順で書いています。 新しい技術の話はほとんどなく…",
+            "url": "https://www.m3tech.blog/entry/embulk-to-dlt-dbt",
+            "title": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 | エムスリーテックブログ",
+            "summary": "この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コンシューマーチームで大幅なメンテナンスな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/bcbb8896dec324c1bf03ebbdad0f0a3376556962/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260908%2F20260908135411.png",
+                "alt": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T04:54:10.000Z",
+            "date_published": "2026-09-08T04:54:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 55,
+                "originalTitle": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ55件",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/quine-maker",
+            "content_html": "はじめに エムスリー株式会社、業務執行役員VPoEの河合(@vaaaaanquish)です。 本記事は、私もGMとして在籍する「AskDoctors開発チーム」のブログリレー 5日目の記事です。 本記事では、私が個人開発した「QuineMaker」というサービスの技術面の紹介をします。 はじめに QuineMakerについて Quineについて Quineの作り方 画像からのQuine生成 画像に対して適切なコードを見つける 色付きQuineの生成 動画からのQuine生成 動画からのQuineの難しさ おわりに We are hiring !!",
+            "url": "https://www.m3tech.blog/entry/quine-maker",
+            "title": "QuineMakerを作った話と技術的な解説 | エムスリーテックブログ",
+            "summary": "はじめに エムスリー株式会社、業務執行役員VPoEの河合(@vaaaaanquish)です。 本記事は、私もGMとして在籍する「AskDoctors開発チーム」のブログリレー 5日目の記事です。 本記事では、私が個人開発した「QuineMaker」というサービスの技術面の紹介をします。 はじめに QuineMakerについて Quineについて Quineの作り方 画像からのQuine生成 画像に",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/98edd529498c5b820d3cad2d5ede33add178a2b3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260909%2F20260909131223.png",
+                "alt": "QuineMakerを作った話と技術的な解説 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T04:11:58.000Z",
+            "date_published": "2026-09-09T04:11:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 22,
+                "originalTitle": "QuineMakerを作った話と技術的な解説",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ22件",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159297",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setu",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_10/159297",
+            "title": "Ruby Webアプリケーションで使うセルフホスティングサーバーをセットアップする（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setu",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/07/ruby_server_setup_for_ruby_app_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T08:30:54.000Z",
+            "date_published": "2026-09-10T08:30:54.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Linux",
+                "Ruby",
+                "SSH",
+                "Ubuntu",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "Ruby Webアプリケーションで使うセルフホスティングサーバーをセットアップする（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ10件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-robotbu/entry",
+            "content_html": "従業員の家族を職場に招く「ファミリーデー」で、子どもたちに通信の仕組みを体験してもらうため、光ファイバーを使った音声通話装置を一から作りました。 この記事では、回路の試作やプリント基板・ケースの製作、人数分の量産、そして当日の実験教室の様子までをご紹介します。 はじめに AIロボット部とは 光ファイバーで「通信」を体験してもらう 通信装置を作る アナログ回路と格闘する プリント基板を作る ケースも3Dプリンターで作る そして量産へ…… 当日の様子 おわりに はじめに こんにちは、AIロボット部（社内サークル）部員の浅野秀平です。 普段はデジタル改革推進部で、社内のデータ分析の仕事をしています。…",
+            "url": "https://engineers.ntt.com/entry/202609-robotbu/entry",
+            "title": "「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話 | NTT docomo Business Engineers' Blog",
+            "summary": "従業員の家族を職場に招く「ファミリーデー」で、子どもたちに通信の仕組みを体験してもらうため、光ファイバーを使った音声通話装置を一から作りました。 この記事では、回路の試作やプリント基板・ケースの製作、人数分の量産、そして当日の実験教室の様子までをご紹介します。 はじめに AIロボット部とは 光ファイバーで「通信」を体験してもらう 通信装置を作る アナログ回路と格闘する プリント基板を作る ケースも",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f608cb40a118bf28321fcc7a97d01cdd8bb033ef/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20260903%2F20260903105444.png",
+                "alt": "「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話 - NTT docomo Business Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T04:22:03.000Z",
+            "date_published": "2026-09-08T04:22:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 42,
+                "originalTitle": "「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ42件",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary",
+            "content_html": "はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段は、システムアーキテクチャの全体最適化など、モノリスからマイクロサービスへシステムをリプレイスする過程で生じる、複数チーム間の課題解決を主に担当しています。 本記事では、ZOZOの基幹システムリプレイスにおいてモノリスからマイクロサービスへ移行するために、イベントストーミングを起点にドメイン間の境界と責務の決定をどのように進めたかを紹介します。あわせて、既存コードの解析と付箋への変換に使ったClaude CodeのAgent Skillsの設計を、付録で共有します。なお、イベントストーミング（業務で起きる出…",
+            "url": "https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary",
+            "title": "「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段は、システムアーキテクチャの全体最適化など、モノリスからマイクロサービスへシステムをリプレイスする過程で生じる、複数チーム間の課題解決を主に担当しています。 本記事では、ZOZOの基幹システムリプレイスにおいてモノリスからマイクロサービスへ移行するために、イベントストーミングを起点にドメイン間の境界と責務の決定",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5b528708c497ce92af1eaf6b2831f5ecb3a7225b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260904%2F20260904172947.png",
+                "alt": "「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T08:00:00.000Z",
+            "date_published": "2026-09-08T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 32,
+                "originalTitle": "「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ32件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+            "content_html": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。",
+            "url": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+            "title": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性 | GIGAZINE",
+            "summary": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/paying-attention-body-immune-response/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T14:00:00.000Z",
+            "date_published": "2026-09-12T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+            "content_html": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。",
+            "url": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+            "title": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに | GIGAZINE",
+            "summary": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/expelled-from-paradise-resonance-theater-trailer/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-12T10:00:00.000Z",
+            "date_published": "2026-09-12T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-viking-nun/",
+            "content_html": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。",
+            "url": "https://gigazine.net/news/20260912-viking-nun/",
+            "title": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」 | GIGAZINE",
+            "summary": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/viking-nun/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:00:00.000Z",
+            "date_published": "2026-09-12T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260910a",
+            "content_html": "こんにちは。LINEヤフーのディスプレイ広告（以下、ディスプレイ広告）の開発と兼務で、全社横断のWebパフォーマンス改善に取り組んでいるエンジニアの今宮です。一般にWebページの表示速度はユーザー体験...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260910a",
+            "title": "Yahoo!ニュースの表示高速化で広告のクリックは増えるのか | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEヤフーのディスプレイ広告（以下、ディスプレイ広告）の開発と兼務で、全社横断のWebパフォーマンス改善に取り組んでいるエンジニアの今宮です。一般にWebページの表示速度はユーザー体験...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/febcec3fa1f91bfd4a819a888b9395d3/7d66e/35b13aa06dde48d89a0692b5a32e234b.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:00:00.000Z",
+            "date_published": "2026-09-10T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Yahoo!ニュースの表示高速化で広告のクリックは増えるのか",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/screen-analyze-v2",
+            "content_html": "はじめに こんにちは、ZOZOTOWN開発2部Webバックエンドブロックのぐらです。普段はZOZOTOWNのバックエンド開発を担当しています。ZOZOTOWNのリプレイスでは、既存システムの仕様を正確に把握することが欠かせません。私たちはこの分析にAIを活用してきました。しかし、人間による追加調査がまだまだ必要という課題を抱えていました。本記事では、AIによる既存システムの分析ワークフローを作り直した過程と、そこで得られた知見を紹介します。",
+            "url": "https://techblog.zozo.com/entry/screen-analyze-v2",
+            "title": "既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOTOWN開発2部Webバックエンドブロックのぐらです。普段はZOZOTOWNのバックエンド開発を担当しています。ZOZOTOWNのリプレイスでは、既存システムの仕様を正確に把握することが欠かせません。私たちはこの分析にAIを活用してきました。しかし、人間による追加調査がまだまだ必要という課題を抱えていました。本記事では、AIによる既存システムの分析ワークフローを作り直",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/13f4723cd7fa5105d5c10a0da4a67f0d064103f8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260907%2F20260907172834.png",
+                "alt": "既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T02:00:00.000Z",
+            "date_published": "2026-09-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/fad8adf0586665",
+            "content_html": "はじめにこんにちは、松尾研究所 データサイエンティストの力岡です。今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。本コンペは、「AIエージェントのセキュリティ」を題材にしたレッドチーミングコンペです。PublicリーダーボードとPrivateリーダーボードで順位がほとんど入れ替わる激しいシェイクアップが起き、2,802チームがPrivateで...",
+            "url": "https://zenn.dev/mkj/articles/fad8adf0586665",
+            "title": "Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks | 松尾研究所テックブログのフィード",
+            "summary": "はじめにこんにちは、松尾研究所 データサイエンティストの力岡です。今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。本コンペは、「AIエージェントのセキュリティ」",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--bxVAOzQQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E7%25B4%25B9%25E4%25BB%258B%25EF%25BC%259AAI%2520Agent%2520Security%2520-%2520Multi-Step%2520Tool%2520Attacks%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Rick%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkMTQ1MDUyZWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T02:50:05.000Z",
+            "date_published": "2026-09-08T02:50:05.000Z",
+            "author": {
+                "name": "Rick"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 8,
+                "originalTitle": "Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ8件",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所"
+            }
+        }
+    ]
+}

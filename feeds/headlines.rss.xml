@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Headlines)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        <description>HN・ITmedia速報など</description>
+        <lastBuildDate>Sat, 12 Sep 2026 22:11:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Headlines)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[05:28 ↑0 · https://news.ycombinator.com/item?id=49676849 comments · techcrunch.com]]></title>
+            <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
+            <guid>https://news.ycombinator.com/item?id=49676849</guid>
+            <pubDate>Sat, 12 Sep 2026 20:28:29 GMT</pubDate>
+            <description><![CDATA[While OpenAI has filed confidentially for an IPO, the company will not be going ]]></description>
+            <content:encoded><![CDATA[While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpeg" height="800" url="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[05:25 ↑0 · https://news.ycombinator.com/item?id=49676820 comments · withspecific.com]]></title>
+            <link>https://withspecific.com/benchmarks/real-swe</link>
+            <guid>https://news.ycombinator.com/item?id=49676820</guid>
+            <pubDate>Sat, 12 Sep 2026 20:25:48 GMT</pubDate>
+            <description><![CDATA[Real-SWE benchmarks frontier AI models on private production codebases licensed ]]></description>
+            <content:encoded><![CDATA[Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[04:57 ↑0 · https://news.ycombinator.com/item?id=49676577 comments · modelrift.com]]></title>
+            <link>https://modelrift.com/blog/cadquery-vs-openscad/</link>
+            <guid>https://news.ycombinator.com/item?id=49676577</guid>
+            <pubDate>Sat, 12 Sep 2026 19:57:19 GMT</pubDate>
+            <description><![CDATA[We gave six AI agents the same three printable parts to model, three in CadQuery]]></description>
+            <content:encoded><![CDATA[We gave six AI agents the same three printable parts to model, three in CadQuery and three in OpenSCAD, then verified every mesh independently. Both toolchains shipped. The difference is in how they fail.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://modelrift.com/og/blog/cadquery-vs-openscad.png"/>
+        </item>
+        <item>
+            <title><![CDATA[04:35 ↑0 · https://news.ycombinator.com/item?id=49676324 comments · youtube.com]]></title>
+            <link>https://www.youtube.com/watch</link>
+            <guid>https://news.ycombinator.com/item?id=49676324</guid>
+            <pubDate>Sat, 12 Sep 2026 19:35:36 GMT</pubDate>
+            <description><![CDATA[Enjoy the videos and music you love, upload original content, and share it all w]]></description>
+            <content:encoded><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://www.youtube.com/img/desktop/yt_1200.png"/>
+        </item>
+        <item>
+            <title><![CDATA[03:58 ↑0 · https://news.ycombinator.com/item?id=49675902 comments · hachyderm.io]]></title>
+            <link>https://hachyderm.io/@simontatham/117201594980991062</link>
+            <guid>https://news.ycombinator.com/item?id=49675902</guid>
+            <pubDate>Sat, 12 Sep 2026 18:58:57 GMT</pubDate>
+            <description><![CDATA[Article URL: https://hachyderm.io/@simontatham/117201594980991062Comments URL: h]]></description>
+            <content:encoded><![CDATA[Article URL: https://hachyderm.io/@simontatham/117201594980991062Comments URL: https://news.ycombinator.com/item?id=49675902Points: 77# Comments: 21]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[02:05 ↑0 · https://news.ycombinator.com/item?id=49674498 comments · arxiv.org]]></title>
+            <link>https://arxiv.org/abs/2609.01877</link>
+            <guid>https://news.ycombinator.com/item?id=49674498</guid>
+            <pubDate>Sat, 12 Sep 2026 17:05:31 GMT</pubDate>
+            <description><![CDATA[The transition from 5G to 6G is becoming concrete: the ITU-R IMT-2030 framework ]]></description>
+            <content:encoded><![CDATA[The transition from 5G to 6G is becoming concrete: the ITU-R IMT-2030 framework has established the high-level vision and capability set for 6G, while 3GPP Release 21 has defined the path toward the first 6G specifications. This raises a deliberately provocative question for the research and standards communities: will there be a 7G, and if so, what would justify it? This paper argues that 7G should not be treated as an inevitable numbering exercise or as a catalogue of more ambitious radio targ]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[01:25 ↑0 · https://news.ycombinator.com/item?id=49674050 comments · high5apps.github.io]]></title>
+            <link>https://high5apps.github.io/josm-plugin-website-wizard/</link>
+            <guid>https://news.ycombinator.com/item?id=49674050</guid>
+            <pubDate>Sat, 12 Sep 2026 16:25:08 GMT</pubDate>
+            <description><![CDATA[Website Wizard JOSM Plugin]]></description>
+            <content:encoded><![CDATA[Website Wizard JOSM Plugin]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[00:49 ↑0 · https://news.ycombinator.com/item?id=49673580 comments · righto.com]]></title>
+            <link>https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</link>
+            <guid>https://news.ycombinator.com/item?id=49673580</guid>
+            <pubDate>Sat, 12 Sep 2026 15:49:52 GMT</pubDate>
+            <description><![CDATA[In the 1970s, floating-point arithmetic was a mess. Computer manufacturers had a]]></description>
+            <content:encoded><![CDATA[In the 1970s, floating-point arithmetic was a mess. Computer manufacturers had a dozen incompatible arithmetic standards. Moreover, floating...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//blogger_img_proxy/AEn0k_tt5HCLxEyBPeWudKYJgmot1UnmxOr82KVo4FnQTRnZgM_vThdGIvr5QEsbSw31K8E3rMC7RuhsZagHKmuGZ-DnJTk26vKRvxMaDr-rMcxU1RU3YuGdRqLdoLwzOJL87A4M_KKNNjVyVog=w1200-h630-p-k-no-nu" url="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tt5HCLxEyBPeWudKYJgmot1UnmxOr82KVo4FnQTRnZgM_vThdGIvr5QEsbSw31K8E3rMC7RuhsZagHKmuGZ-DnJTk26vKRvxMaDr-rMcxU1RU3YuGdRqLdoLwzOJL87A4M_KKNNjVyVog=w1200-h630-p-k-no-nu"/>
+        </item>
+        <item>
+            <title><![CDATA[00:08 ↑0 · https://news.ycombinator.com/item?id=49673098 comments · economist.com]]></title>
+            <link>https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</link>
+            <guid>https://news.ycombinator.com/item?id=49673098</guid>
+            <pubDate>Sat, 12 Sep 2026 15:08:27 GMT</pubDate>
+            <description><![CDATA[But will its loans prove sound?]]></description>
+            <content:encoded><![CDATA[But will its loans prove sound?]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpg" height="1080" url="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai/promo.jpg" width="1920"/>
+        </item>
+        <item>
+            <title><![CDATA[23:45 ↑0 · https://news.ycombinator.com/item?id=49672842 comments · lalitm.com]]></title>
+            <link>https://lalitm.com/post/buildprof/</link>
+            <guid>https://news.ycombinator.com/item?id=49672842</guid>
+            <pubDate>Sat, 12 Sep 2026 14:45:28 GMT</pubDate>
+            <description><![CDATA[I built buildprof (Github), an open-source tracing tool that shows where the tim]]></description>
+            <content:encoded><![CDATA[I built buildprof (Github), an open-source tracing tool that shows where the time goes when you compile software on Linux. Here’s a realtime video of it profiling a clean build of ripgrep: Watch the …]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://lalitm.com/social-cards/buildprof.png" width="1200" alt="Social card for I made a build visualizer to understand Bun’s compile times"/>
+        </item>
+        <item>
+            <title><![CDATA[23:10 ↑0 · https://news.ycombinator.com/item?id=49672510 comments · darioamodei.com]]></title>
+            <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+            <guid>https://news.ycombinator.com/item?id=49672510</guid>
+            <pubDate>Sat, 12 Sep 2026 14:10:49 GMT</pubDate>
+            <description><![CDATA[Article URL: https://darioamodei.com/post/we-must-pace-the-frontierComments URL:]]></description>
+            <content:encoded><![CDATA[Article URL: https://darioamodei.com/post/we-must-pace-the-frontierComments URL: https://news.ycombinator.com/item?id=49672510Points: 449# Comments: 618]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[22:56 ↑0 · https://news.ycombinator.com/item?id=49672365 comments · transformer-circuits.pub]]></title>
+            <link>https://transformer-circuits.pub/2021/framework/index.html</link>
+            <guid>https://news.ycombinator.com/item?id=49672365</guid>
+            <pubDate>Sat, 12 Sep 2026 13:56:58 GMT</pubDate>
+            <description><![CDATA[Article URL: https://transformer-circuits.pub/2021/framework/index.htmlComments ]]></description>
+            <content:encoded><![CDATA[Article URL: https://transformer-circuits.pub/2021/framework/index.htmlComments URL: https://news.ycombinator.com/item?id=49672365Points: 69# Comments: 16]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[20:27 ↑0 · https://news.ycombinator.com/item?id=49671237 comments · blog.trailofbits.com]]></title>
+            <link>https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/</link>
+            <guid>https://news.ycombinator.com/item?id=49671237</guid>
+            <pubDate>Sat, 12 Sep 2026 11:27:55 GMT</pubDate>
+            <description><![CDATA[Signal recently launched Automatic Key Verification, a feature that helps valida]]></description>
+            <content:encoded><![CDATA[Signal recently launched Automatic Key Verification, a feature that helps validate that your chats are secure without requiring direct safety number comparison. Trail of Bits built and operates one of the three auditors that make this system trustworthy.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/signal-social-banner.png"/>
+        </item>
+        <item>
+            <title><![CDATA[20:13 ↑0 · https://news.ycombinator.com/item?id=49671159 comments · tedium.co]]></title>
+            <link>https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</link>
+            <guid>https://news.ycombinator.com/item?id=49671159</guid>
+            <pubDate>Sat, 12 Sep 2026 11:13:38 GMT</pubDate>
+            <description><![CDATA[iLands, a new AI agent-centric startup, is spamming creatives like me numerous t]]></description>
+            <content:encoded><![CDATA[iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.  ]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/" height="630" url="https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/?v=1789176752" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[16:54 ↑0 · https://news.ycombinator.com/item?id=49670032 comments · eiln.github.io]]></title>
+            <link>https://eiln.github.io/posts/ane.html</link>
+            <guid>https://news.ycombinator.com/item?id=49670032</guid>
+            <pubDate>Sat, 12 Sep 2026 07:54:03 GMT</pubDate>
+            <description><![CDATA[Article URL: https://eiln.github.io/posts/ane.htmlComments URL: https://news.yco]]></description>
+            <content:encoded><![CDATA[Article URL: https://eiln.github.io/posts/ane.htmlComments URL: https://news.ycombinator.com/item?id=49670032Points: 209# Comments: 29]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[13:09 ↑0 · https://news.ycombinator.com/item?id=49668706 comments · claymath.org]]></title>
+            <link>https://www.claymath.org/news/navier-stokes-announcement/</link>
+            <guid>https://news.ycombinator.com/item?id=49668706</guid>
+            <pubDate>Sat, 12 Sep 2026 04:09:43 GMT</pubDate>
+            <description><![CDATA[The Millennium Prize Problems were unveiled by the Clay Mathematics Institute (C]]></description>
+            <content:encoded><![CDATA[The Millennium Prize Problems were unveiled by the Clay Mathematics Institute (CMI) at a meeting in Paris in 2000 to celebrate “The Universality of Mathematical Thought”. These problems encapsulate some of the most difficult challenges that mathematicians were grappling with at the turn of the millennium. CMI’s purpose in articulating these problems and attaching a […]]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpeg" height="502" url="https://www.claymath.org/wp-content/uploads/2026/09/False_color_image_of_the_far_field_of_a_submerged_turbulent_jet.jpg" width="496"/>
+        </item>
+        <item>
+            <title><![CDATA[12:14 ↑0 · https://news.ycombinator.com/item?id=49668386 comments · autom.dev]]></title>
+            <link>https://www.autom.dev/blog/google-search-goto-links</link>
+            <guid>https://news.ycombinator.com/item?id=49668386</guid>
+            <pubDate>Sat, 12 Sep 2026 03:14:20 GMT</pubDate>
+            <description><![CDATA[Google is rolling out google.com/goto redirect URLs on SERPs. Here is what chang]]></description>
+            <content:encoded><![CDATA[Google is rolling out google.com/goto redirect URLs on SERPs. Here is what changed, why it targets scrapers, and how Autom updated its Google Search API.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//api/og" height="630" url="https://www.autom.dev/api/og?slug=google-search-goto-links&amp;locale=en" width="1200" alt="google.com/goto: Google's anti-scraping update"/>
+        </item>
+        <item>
+            <title><![CDATA[10:31 「壁紙DIY」とイマドキの超短焦点4Kプロジェクターを寝室で試したら検証が止められなくなった (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/12/2000001428/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/12/2000001428/</guid>
+            <pubDate>Sat, 12 Sep 2026 01:31:00 GMT</pubDate>
+            <description><![CDATA[壁際数cmの距離に置くだけで100インチ超えの大画面が手に入る超短焦点プロジェクターを試しました。（1/3 ページ）]]></description>
+            <content:encoded><![CDATA[壁際数cmの距離に置くだけで100インチ超えの大画面が手に入る超短焦点プロジェクターを試しました。（1/3 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/12/2000001428/10006287/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/12/2000001428/10006287/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[06:16 ↑0 · https://news.ycombinator.com/item?id=49665502 comments · supuk.ch]]></title>
+            <link>https://supuk.ch/papers/android-natt-keepalive-vpn-bypass</link>
+            <guid>https://news.ycombinator.com/item?id=49665502</guid>
+            <pubDate>Fri, 11 Sep 2026 21:16:48 GMT</pubDate>
+            <description><![CDATA[Technical report on Android VPN lockdown bypass via NAT-T keepalive offload.]]></description>
+            <content:encoded><![CDATA[Technical report on Android VPN lockdown bypass via NAT-T keepalive offload.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="900" url="https://supuk.ch/images/headers/android-natt-keepalive-post.jpg" width="1600" alt="Abstract network tunnel boundary with a small red signal escaping below the protected path."/>
+        </item>
+        <item>
+            <title><![CDATA[02:36 ↑0 · https://news.ycombinator.com/item?id=49662214 comments · snap.berkeley.edu]]></title>
+            <link>https://snap.berkeley.edu/</link>
+            <guid>https://news.ycombinator.com/item?id=49662214</guid>
+            <pubDate>Fri, 11 Sep 2026 17:36:11 GMT</pubDate>
+            <description><![CDATA[The Snap! Community. Snap! is a blocks-based programming language built by UC Be]]></description>
+            <content:encoded><![CDATA[The Snap! Community. Snap! is a blocks-based programming language built by UC Berkeley and used by hundreds of thousands of programmers around the world.]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[23:07 ↑0 · https://news.ycombinator.com/item?id=49658672 comments · wired.com]]></title>
+            <link>https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/</link>
+            <guid>https://news.ycombinator.com/item?id=49658672</guid>
+            <pubDate>Fri, 11 Sep 2026 14:07:08 GMT</pubDate>
+            <description><![CDATA[The agricultural machine manufacturer has a subscription service that lets owner]]></description>
+            <content:encoded><![CDATA[The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://media.wired.com/photos/6aa34b1b31130b4af58e1d2b/191:100/w_1280,c_limit/John-Deere-5ML-Tractor.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19:51 なぜ酒蔵の許諾なしに？　「VTuberコラボ日本酒」騒動、主催者が経緯説明　仲介者による調整で「準備進んでいると認識」 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001427/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001427/</guid>
+            <pubDate>Fri, 11 Sep 2026 10:51:13 GMT</pubDate>
+            <description><![CDATA[イベント団体「絶品グルメ屋台の会」は9月11日、神田明神納涼祭りに合わせて企画していた「VTuberコラボ日本酒」の販売を取りやめ、企画を中止すると発表した。同]]></description>
+            <content:encoded><![CDATA[イベント団体「絶品グルメ屋台の会」は9月11日、神田明神納涼祭りに合わせて企画していた「VTuberコラボ日本酒」の販売を取りやめ、企画を中止すると発表した。同企画を巡っては、製造元として告知されていた諸橋酒造（新潟県長岡市）が、コラボを「一切許諾したことはない」と声明を出したことで、物議を醸していた。同会は「結果として諸橋酒造の了解には至っていなかった」と説明し、謝罪した。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001427/10006277/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001427/10006277/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[19:25 テスラの無人タクシーが東京・青山に　ハンドルもペダルもない「Cybercab」　日本での展開は？ (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001424/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001424/</guid>
+            <pubDate>Fri, 11 Sep 2026 10:25:00 GMT</pubDate>
+            <description><![CDATA[ハンドルもペダルもない。Teslaが米国で無人タクシーとして走らせ始めた専用車両「Cybercab」の実車が、東京・青山に上陸した。塗装しないゴールドの樹脂ボデ]]></description>
+            <content:encoded><![CDATA[ハンドルもペダルもない。Teslaが米国で無人タクシーとして走らせ始めた専用車両「Cybercab」の実車が、東京・青山に上陸した。塗装しないゴールドの樹脂ボディー、上に開くバタフライドア、Netflixもカラオケも楽しめる車内。それにしても、タクシーなのになぜ2人乗りなのか。そして日本の公道は走れるのか。（1/3 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001424/10006270/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001424/10006270/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[17:28 本物そっくり“AI生成レシート“が経費精算の脅威に　マネフォ「自力で見破るのは難しい」　企業はどう備える？ (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001409/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001409/</guid>
+            <pubDate>Fri, 11 Sep 2026 08:28:06 GMT</pubDate>
+            <description><![CDATA[「AIで偽造された領収書画像を見せられた場合、企業側が自力で見破ることは難しい」――生成AIで作ったコンビニのレシート画像が、本物と見分けにくいほど精巧だとして]]></description>
+            <content:encoded><![CDATA[「AIで偽造された領収書画像を見せられた場合、企業側が自力で見破ることは難しい」――生成AIで作ったコンビニのレシート画像が、本物と見分けにくいほど精巧だとしてXで話題になっている。画像は米OpenAIが9月8日（現地時間）に発表した画像生成機能「ChatGPT Images 2.5」で生成したもので、経費精算などへの悪用を懸念する声も上がっている。経費精算サービスを提供するマネーフォワードに有効な対策を聞いた。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001409/10006175/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001409/10006175/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[16:55 松本デジタル相、24.6万件漏えい可能性について説明　「既知の脆弱性を対応前に悪用」 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001419/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001419/</guid>
+            <pubDate>Fri, 11 Sep 2026 07:55:52 GMT</pubDate>
+            <description><![CDATA[デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス」（GSS）が不正アクセスを受け、約24万6000件の個人情報が漏えいした可能性がある問]]></description>
+            <content:encoded><![CDATA[デジタル庁が運用する政府共通の業務基盤「ガバメントソリューションサービス」（GSS）が不正アクセスを受け、約24万6000件の個人情報が漏えいした可能性がある問題で、松本尚デジタル相は9月11日の記者会見で、悪用されたVPN機器の脆弱性を事前に把握していたと明らかにした。緊急度の高い他の脆弱性から順に対応を進めていた最中に、悪用されたという。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001419/10006212/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001419/10006212/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[15:57 OpenAI、最先端AI開発の減速を検討か　アルトマンCEOが社員に説明と米報道 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001418/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001418/</guid>
+            <pubDate>Fri, 11 Sep 2026 06:57:36 GMT</pubDate>
+            <description><![CDATA[米Bloombergは9月11日、米OpenAIが最先端AIの開発ペースを緩めることを検討していると報じた。サム・アルトマンCEOが全社会議で従業員に説明したと]]></description>
+            <content:encoded><![CDATA[米Bloombergは9月11日、米OpenAIが最先端AIの開発ペースを緩めることを検討していると報じた。サム・アルトマンCEOが全社会議で従業員に説明したという。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001418/10006210/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001418/10006210/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[15:32 VAIOが再び“挑戦”する理由　ノジマが後押し、独自のマルチフリップ機構が復活へ (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001417/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001417/</guid>
+            <pubDate>Fri, 11 Sep 2026 06:32:22 GMT</pubDate>
+            <description><![CDATA[25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。（1/2 ページ）]]></description>
+            <content:encoded><![CDATA[25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。（1/2 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001417/10006206/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001417/10006206/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[14:26 「すばやさがあがるリュック」など……ドラクエ商品予約にアクセス集中、エラー連発→完売　グラニフ謝罪、追加受注へ (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/11/2000001411/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/11/2000001411/</guid>
+            <pubDate>Fri, 11 Sep 2026 05:26:52 GMT</pubDate>
+            <description><![CDATA[深夜に待機して買えなかった利用者から不満が続出した。]]></description>
+            <content:encoded><![CDATA[深夜に待機して買えなかった利用者から不満が続出した。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/11/2000001411/10006183/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001411/10006183/2048"/>
+        </item>
+    </channel>
+</rss>

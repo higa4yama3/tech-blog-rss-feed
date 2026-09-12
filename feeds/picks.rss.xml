@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Picks)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        <description>厳選ピックアップ</description>
+        <lastBuildDate>Sat, 12 Sep 2026 22:11:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Picks)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ1件] 金獅子賞は『ウーマン・アンノウン』日本勢はコンペ受賞逃すも存在感【第83回ベネチア国際映画祭】 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0156877</link>
+            <guid>https://www.cinematoday.jp/news/N0156877</guid>
+            <pubDate>Sat, 12 Sep 2026 20:22:41 GMT</pubDate>
+            <description><![CDATA[はてブ1件
+現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。]]></description>
+            <content:encoded><![CDATA[はてブ1件
+現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/ZiepsQrAkEbi/_size_r1200x630/_v_1789244561/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[今日のブクマ] 【オランダのクリエイティブの現場から Vol.7】ブランドは「動き」までデザインする時代へ ｜Studio Dumbar/DEPT®（ロッテルダム） | iDID – クリエイターのための情報メディア]]></title>
+            <link>https://idid.team/articles/other/netherland-shiftbrain-07/</link>
+            <guid>https://idid.team/?p=4275</guid>
+            <pubDate>Sat, 12 Sep 2026 07:51:14 GMT</pubDate>
+            <description><![CDATA[今日のブクマ
+SHIFTBRAINのメンバーがオランダのクリエイティブエージェンシーを訪問し、現地で感じたことを全8回のシリーズとしてお届けしますシリーズ7回目に紹介するのは、オランダ・ロッテルダムを拠点とし、モーションデザインを活用したブランドアイデンティティで世界をリードするデザインスタジオ「Studio Dumbar/DEPT®」です。]]></description>
+            <content:encoded><![CDATA[今日のブクマ
+SHIFTBRAINのメンバーがオランダのクリエイティブエージェンシーを訪問し、現地で感じたことを全8回のシリーズとしてお届けしますシリーズ7回目に紹介するのは、オランダ・ロッテルダムを拠点とし、モーションデザインを活用したブランドアイデンティティで世界をリードするデザインスタジオ「Studio Dumbar/DEPT®」です。]]></content:encoded>
+            <category>Other</category>
+            <category>クリエイティブエージェンシー</category>
+            <category>グローバル</category>
+            <category>デザイン</category>
+            <category>design</category>
+            <category>curated</category>
+            <enclosure length="0" type="image/jpeg" height="1005" url="https://idid.team/wp-content/uploads/2026/09/dumbar-1024x536.jpg" width="1920"/>
+        </item>
+    </channel>
+</rss>

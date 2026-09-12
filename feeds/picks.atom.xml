@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (Picks)</title>
+    <updated>2026-09-12T22:11:53.136Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>厳選ピックアップ</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ1件] 金獅子賞は『ウーマン・アンノウン』日本勢はコンペ受賞逃すも存在感【第83回ベネチア国際映画祭】 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156877</id>
+        <link href="https://www.cinematoday.jp/news/N0156877"/>
+        <updated>2026-09-12T20:22:41.000Z</updated>
+        <summary type="html"><![CDATA[はてブ1件
+現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。]]></summary>
+        <content type="html"><![CDATA[はてブ1件
+現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。]]></content>
+        <published>2026-09-12T20:22:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[今日のブクマ] 【オランダのクリエイティブの現場から Vol.7】ブランドは「動き」までデザインする時代へ ｜Studio Dumbar/DEPT®（ロッテルダム） | iDID – クリエイターのための情報メディア]]></title>
+        <id>https://idid.team/?p=4275</id>
+        <link href="https://idid.team/articles/other/netherland-shiftbrain-07/"/>
+        <updated>2026-09-12T07:51:14.000Z</updated>
+        <summary type="html"><![CDATA[今日のブクマ
+SHIFTBRAINのメンバーがオランダのクリエイティブエージェンシーを訪問し、現地で感じたことを全8回のシリーズとしてお届けしますシリーズ7回目に紹介するのは、オランダ・ロッテルダムを拠点とし、モーションデザインを活用したブランドアイデンティティで世界をリードするデザインスタジオ「Studio Dumbar/DEPT®」です。]]></summary>
+        <content type="html"><![CDATA[今日のブクマ
+SHIFTBRAINのメンバーがオランダのクリエイティブエージェンシーを訪問し、現地で感じたことを全8回のシリーズとしてお届けしますシリーズ7回目に紹介するのは、オランダ・ロッテルダムを拠点とし、モーションデザインを活用したブランドアイデンティティで世界をリードするデザインスタジオ「Studio Dumbar/DEPT®」です。]]></content>
+        <author>
+            <name>idid_ohtake</name>
+        </author>
+        <category label="Other"/>
+        <category label="クリエイティブエージェンシー"/>
+        <category label="グローバル"/>
+        <category label="デザイン"/>
+        <category label="design"/>
+        <category label="curated"/>
+        <published>2026-09-12T07:51:14.000Z</published>
+    </entry>
+</feed>

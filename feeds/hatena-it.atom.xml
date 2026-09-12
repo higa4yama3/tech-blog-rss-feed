@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it</id>
+    <title>RSS (はてなIT人気)</title>
+    <updated>2026-09-12T22:11:53.159Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <subtitle>はてなブックマーク ITカテゴリ人気（厳選）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ343] AIが数学の難問を解決していいのか｜柞刈湯葉 (note.com)]]></title>
+        <id>https://note.com/yubais/n/nd4505991a6d6</id>
+        <link href="https://note.com/yubais/n/nd4505991a6d6"/>
+        <updated>2026-09-12T10:56:24.000Z</updated>
+        <summary type="html"><![CDATA[はてブ343件
+「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパク]]></summary>
+        <content type="html"><![CDATA[はてブ343件
+「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパクトが大きい。これは「ミレニアム懸賞問題」として100万ドルの賞金がかけられていた7問のひとつだからだ。いわば21世紀の七大難問と言っていい。 しかし、多くの有名な...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-12T10:56:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ198] 数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞 (nikkei.com)]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/"/>
+        <updated>2026-09-12T02:48:57.000Z</updated>
+        <summary type="html"><![CDATA[はてブ198件
+「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難]]></summary>
+        <content type="html"><![CDATA[はてブ198件
+「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表した。今後さらに多くの数学者の署名を募るという。米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受けての...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-12T02:48:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ140] DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z (note.com)]]></title>
+        <id>https://note.com/shi3zblog/n/nd5fc5341b342</id>
+        <link href="https://note.com/shi3zblog/n/nd5fc5341b342"/>
+        <updated>2026-09-11T23:45:01.000Z</updated>
+        <summary type="html"><![CDATA[はてブ140件
+DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつ]]></summary>
+        <content type="html"><![CDATA[はてブ140件
+DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時代の幕開けなのだということを感じている。午前5...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-11T23:45:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ125] レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON (automaton-media.com)]]></title>
+        <id>https://automaton-media.com/articles/newsjp/20260912-467049/</id>
+        <link href="https://automaton-media.com/articles/newsjp/20260912-467049/"/>
+        <updated>2026-09-12T07:36:59.000Z</updated>
+        <summary type="html"><![CDATA[はてブ125件
+レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”]]></summary>
+        <content type="html"><![CDATA[はてブ125件
+レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない レベルファイブの代表取締役社長を務める日野晃博氏は9月12日、先日おこなわれたオンライン発表イベント「LEVEL5 VISION 2026 II 夢」の中で、生成AIによる映像...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-12T07:36:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ122] ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 (yomiuri.co.jp)]]></title>
+        <id>https://www.yomiuri.co.jp/science/20260912-GYT1T00169/</id>
+        <link href="https://www.yomiuri.co.jp/science/20260912-GYT1T00169/"/>
+        <updated>2026-09-12T10:12:56.000Z</updated>
+        <summary type="html"><![CDATA[はてブ122件
+【読売新聞】 【ワシントン＝中根圭一】「数学界のノーベル賞」と呼ばれるフィールズ賞を受賞した森重文・京都大特別教授ら世界の数学者２５人が１１日、]]></summary>
+        <content type="html"><![CDATA[はてブ122件
+【読売新聞】 【ワシントン＝中根圭一】「数学界のノーベル賞」と呼ばれるフィールズ賞を受賞した森重文・京都大特別教授ら世界の数学者２５人が１１日、人工知能（ＡＩ）を使って企業が数学の難問を解く行為を非難する緊急声明を発表した。数学の理]]></content>
+        <category label="hatena"/>
+        <published>2026-09-12T10:12:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ105] AI時代のWebフレームワークはどこへ行く？ (slides.yusu.ke)]]></title>
+        <id>https://slides.yusu.ke/web-frameworks-in-the-ai-era</id>
+        <link href="https://slides.yusu.ke/web-frameworks-in-the-ai-era"/>
+        <updated>2026-09-12T07:11:39.000Z</updated>
+        <summary type="html"><![CDATA[はてブ105件
+::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ Sep]]></summary>
+        <content type="html"><![CDATA[はてブ105件
+::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center bg=blue:: 声がでない ::center bg=blue size=2:: 😱 ::center bg=blue:: お聞き苦しいところありますがご...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-12T07:11:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ94] Reactの設計論 (speakerdeck.com)]]></title>
+        <id>https://speakerdeck.com/uhyo/react-no-sekkeiron</id>
+        <link href="https://speakerdeck.com/uhyo/react-no-sekkeiron"/>
+        <updated>2026-09-12T01:56:56.000Z</updated>
+        <summary type="html"><![CDATA[はてブ94件
+フロントエンドカンファレンス福岡2026]]></summary>
+        <content type="html"><![CDATA[はてブ94件
+フロントエンドカンファレンス福岡2026]]></content>
+        <category label="hatena"/>
+        <published>2026-09-12T01:56:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ66] AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita (qiita.com)]]></title>
+        <id>https://qiita.com/infra365/items/aa30a54fc6f0849385a7</id>
+        <link href="https://qiita.com/infra365/items/aa30a54fc6f0849385a7"/>
+        <updated>2026-09-11T11:23:26.000Z</updated>
+        <summary type="html"><![CDATA[はてブ66件
+Deleted articles cannot be recovered. Draft of this article would be also]]></summary>
+        <content type="html"><![CDATA[はてブ66件
+Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではない...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-11T11:23:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ50] SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media (findy-code.io)]]></title>
+        <id>https://findy-code.io/media/articles/modoku-yusuktan-202609</id>
+        <link href="https://findy-code.io/media/articles/modoku-yusuktan-202609"/>
+        <updated>2026-09-11T12:25:24.000Z</updated>
+        <summary type="html"><![CDATA[はてブ50件
+「あの人も読んでる」略して「も読」。さまざまな寄稿者が最近気になった情報や話題をシェアする企画です。他のテックな人たちがどんな情報を追っているのか]]></summary>
+        <content type="html"><![CDATA[はてブ50件
+「あの人も読んでる」略して「も読」。さまざまな寄稿者が最近気になった情報や話題をシェアする企画です。他のテックな人たちがどんな情報を追っているのか、ちょっと覗いてみませんか？ みなさんこんにちは。 「あの人も読んでる」、第22回目の投稿です。maguro（X @yusuktan）がお届けします。 今回は、TailscaleがSQ...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-11T12:25:24.000Z</published>
+    </entry>
+</feed>

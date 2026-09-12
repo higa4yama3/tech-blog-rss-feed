@@ -1,0 +1,2905 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Core)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.json",
+    "description": "あっ、好きな記事をまとめたRSSフィード",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.cinematoday.jp/news/N0156796",
+            "content_html": "日曜劇場「VIVANT」（TBS系）の第18話（前半戦最終回）が、13日よる9時から放送される。",
+            "url": "https://www.cinematoday.jp/news/N0156796",
+            "title": "今夜「VIVANT」乃木＆ノコル率いる最強チーム完成【前半戦最終回あらすじ】 | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」（TBS系）の第18話（前半戦最終回）が、13日よる9時から放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/jfGEE-4dnW8D/_size_r1200x630/_v_1788867571/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T22:03:00.000Z",
+            "date_published": "2026-09-12T22:03:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "今夜「VIVANT」乃木＆ノコル率いる最強チーム完成【前半戦最終回あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156877",
+            "content_html": "現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。",
+            "url": "https://www.cinematoday.jp/news/N0156877",
+            "title": "金獅子賞は『ウーマン・アンノウン』日本勢はコンペ受賞逃すも存在感【第83回ベネチア国際映画祭】 | シネマトゥデイ",
+            "summary": "現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/ZiepsQrAkEbi/_size_r1200x630/_v_1789244561/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T20:22:41.000Z",
+            "date_published": "2026-09-12T20:22:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "金獅子賞は『ウーマン・アンノウン』日本勢はコンペ受賞逃すも存在感【第83回ベネチア国際映画祭】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+            "content_html": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。",
+            "url": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+            "title": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性 | GIGAZINE",
+            "summary": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/paying-attention-body-immune-response/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T14:00:00.000Z",
+            "date_published": "2026-09-12T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156863",
+            "content_html": "13日放送の日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）第18話で、シンガーソングライターのレイヤマダが演じる“別班レディ”が本格登場。",
+            "url": "https://www.cinematoday.jp/news/N0156863",
+            "title": "「VIVANT」謎多き“別班レディ”、氏名＆主要勤務歴が判明へ　ついに乃木と初接触 | シネマトゥデイ",
+            "summary": "13日放送の日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）第18話で、シンガーソングライターのレイヤマダが演じる“別班レディ”が本格登場。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/sfjAkBKtYjn7/_size_r1200x630/_v_1789187127/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T12:00:00.000Z",
+            "date_published": "2026-09-12T12:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「VIVANT」謎多き“別班レディ”、氏名＆主要勤務歴が判明へ　ついに乃木と初接触",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156864",
+            "content_html": "13日に放送されるTBS日曜劇場「VIVANT」の第18話（第2シーズン前半戦最終回）より、ノコル（二宮和也）とチョッキー（オーム・タナパック）の姿を捉えた場面写真が先行公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156864",
+            "title": "「VIVANT」ノコルの様子がおかしい…チョッキーとの対面カット先行公開 | シネマトゥデイ",
+            "summary": "13日に放送されるTBS日曜劇場「VIVANT」の第18話（第2シーズン前半戦最終回）より、ノコル（二宮和也）とチョッキー（オーム・タナパック）の姿を捉えた場面写真が先行公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/KOBHX76NX87N/_size_r1200x630/_v_1789187074/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T11:00:00.000Z",
+            "date_published": "2026-09-12T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「VIVANT」ノコルの様子がおかしい…チョッキーとの対面カット先行公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156860",
+            "content_html": "推理作家・横溝正史によるミステリーの金字塔を清水崇監督が完全新作として映画化する『八つ墓村』（9月18日公開）より、B'zの松本孝弘が率いるハードロック・バンドTMG（Tak Matsumoto Group）が書き下ろした主題歌「DOOM」を使用した特別主題歌予告映像が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156860",
+            "title": "完全新作『八つ墓村』B'z松本孝弘率いるTMGの主題歌入り予告映像が公開 | シネマトゥデイ",
+            "summary": "推理作家・横溝正史によるミステリーの金字塔を清水崇監督が完全新作として映画化する『八つ墓村』（9月18日公開）より、B'zの松本孝弘が率いるハードロック・バンドTMG（Tak Matsumoto Group）が書き下ろした主題歌「DOOM」を使用した特別主題歌予告映像が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/eRIcQIPQq0BT/_size_r1200x630/_v_1789131749/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T11:00:00.000Z",
+            "date_published": "2026-09-12T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "完全新作『八つ墓村』B'z松本孝弘率いるTMGの主題歌入り予告映像が公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156684",
+            "content_html": "映画『グレムリン』で主演を務めたザック・ギャリガンと監督のジョー・ダンテが12日、東京ドームシティ プリズムホールにて開催中の「東京ホラー特区!!2026」のスペシャルステージに出席。",
+            "url": "https://www.cinematoday.jp/news/N0156684",
+            "title": "『グレムリン』ギズモは可愛いままで…ジョー・ダンテ監督、スピルバーグの要望に慌てた42年前「とにかく大変だった」 | シネマトゥデイ",
+            "summary": "映画『グレムリン』で主演を務めたザック・ギャリガンと監督のジョー・ダンテが12日、東京ドームシティ プリズムホールにて開催中の「東京ホラー特区!!2026」のスペシャルステージに出席。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/BKHtIyBeOUB9/_size_r1200x630/_v_1789207781/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:09:41.000Z",
+            "date_published": "2026-09-12T10:09:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『グレムリン』ギズモは可愛いままで…ジョー・ダンテ監督、スピルバーグの要望に慌てた42年前「とにかく大変だった」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156720",
+            "content_html": "『ミッドサマー』などで知られる気鋭のスタジオ・A24が、インターネット発の都市伝説を映画化した『バックルームズ』。",
+            "url": "https://www.cinematoday.jp/news/N0156720",
+            "title": "「進撃の巨人」＆今敏監督から影響を受けた“若き天才”　21歳の俊英が『バックルームズ』を監督するまで【インタビュー】 | シネマトゥデイ",
+            "summary": "『ミッドサマー』などで知られる気鋭のスタジオ・A24が、インターネット発の都市伝説を映画化した『バックルームズ』。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/z0Ujy4izcz1g/_size_r1200x630/_v_1789133703/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:02:00.000Z",
+            "date_published": "2026-09-12T10:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「進撃の巨人」＆今敏監督から影響を受けた“若き天才”　21歳の俊英が『バックルームズ』を監督するまで【インタビュー】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199533",
+            "content_html": "アメリカのライス大学などで行われた研究によって、自分の成功を打ち明けるかどうかは直前に相手が何を話したかで激変し、相手が失敗を明かした直後には、成功を語る気持ちが、相手が自分の結果を明かさなかった場合の4分の1以下にまで落ち込むことが明らかになりました。 自慢したいから成功を語り、恥ずかしいから失敗を隠す。 そう説明されてきた行動の裏で、人が重く見ていたのは自分の見え方よりも、目の前の相手の痛みのほうでした。 研究者は「誰かが苦労したと打ち明けたとき、人は張り合うためではなく、慰めるために自分の苦労を持ち出すのです」と述べています。 では、自分のほうがうまくいってしまったとき、人はその気まず…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199533",
+            "title": "相手が失敗したと聞いた瞬間、人は自分の成功を隠す | ナゾロジー",
+            "summary": "アメリカのライス大学などで行われた研究によって、自分の成功を打ち明けるかどうかは直前に相手が何を話したかで激変し、相手が失敗を明かした直後には、成功を語る気持ちが、相手が自分の結果を明かさなかった場合の4分の1以下にまで落ち込むことが明らかになりました。 自慢したいから成功を語り、恥ずかしいから失敗を隠す。 そう説明されてきた行動の裏で、人が重く見ていたのは自分の見え方よりも、目の前の相手の痛みの",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c9b980df7316016e82e7bb5f43b0955b.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:00:37.000Z",
+            "date_published": "2026-09-12T10:00:37.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "心理学"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "相手が失敗したと聞いた瞬間、人は自分の成功を隠す",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+            "content_html": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。",
+            "url": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+            "title": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに | GIGAZINE",
+            "summary": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/expelled-from-paradise-resonance-theater-trailer/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-12T10:00:00.000Z",
+            "date_published": "2026-09-12T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260912-viking-nun/",
+            "content_html": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。",
+            "url": "https://gigazine.net/news/20260912-viking-nun/",
+            "title": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」 | GIGAZINE",
+            "summary": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/12/viking-nun/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T10:00:00.000Z",
+            "date_published": "2026-09-12T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156870",
+            "content_html": "映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日）の公開を1週間後に控えた12日、主演の織田裕二、共演の趣里、本広克行監督が福岡・太宰府天満宮を訪問し、映画の大ヒット祈願を行った。",
+            "url": "https://www.cinematoday.jp/news/N0156870",
+            "title": "『踊る大捜査線』織田裕二＆趣里＆本広監督が太宰府天満宮でヒット祈願「いつまでも『踊る』を作れますように」 | シネマトゥデイ",
+            "summary": "映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日）の公開を1週間後に控えた12日、主演の織田裕二、共演の趣里、本広克行監督が福岡・太宰府天満宮を訪問し、映画の大ヒット祈願を行った。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/nSiaHjY4lV81/_size_r1200x630/_v_1789205692/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T09:34:52.000Z",
+            "date_published": "2026-09-12T09:34:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『踊る大捜査線』織田裕二＆趣里＆本広監督が太宰府天満宮でヒット祈願「いつまでも『踊る』を作れますように」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156858",
+            "content_html": "TVアニメ「名探偵コナン」の放送30周年を記念して、日本テレビ系・金曜ロードショーで9月25日に放送される2時間スペシャル「名探偵コナン 30号殺人事件」（よる9時~）の主題歌が倉木麻衣の新曲「ハレルヤ」に決定し、メインビジュアルと「全員出動PV」が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156858",
+            "title": "「名探偵コナン 30号殺人事件」豪華メンバー集結ビジュアル公開　主題歌は倉木麻衣が担当！ | シネマトゥデイ",
+            "summary": "TVアニメ「名探偵コナン」の放送30周年を記念して、日本テレビ系・金曜ロードショーで9月25日に放送される2時間スペシャル「名探偵コナン 30号殺人事件」（よる9時~）の主題歌が倉木麻衣の新曲「ハレルヤ」に決定し、メインビジュアルと「全員出動PV」が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/J_G8Y8h-tcay/_size_r1200x630/_v_1789127504/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T09:30:00.000Z",
+            "date_published": "2026-09-12T09:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「名探偵コナン 30号殺人事件」豪華メンバー集結ビジュアル公開　主題歌は倉木麻衣が担当！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199506",
+            "content_html": "気体の圧力とは、目に見えない分子が無数にぶつかり続ける押し合いの合計で、その1回1回は小さく多すぎて、まとめてしか測れないもの、と語られてきました。 しかしアメリカのイェール大学（Yale University）などで行われた研究によって、気体の粒がたった1個ぶつかる瞬間が、1発ずつ検出されました。 検出器になったのは、レーザー光で宙に浮かべた直径100ナノメートルのガラスの球です。 研究では、クリプトン、キセノン、六フッ化硫黄という3種類の気体について、1個ずつの衝突が確かめられました。 研究内容の詳細は『arXiv』にて公開されており2026年8月7日に『Physical Review …",
+            "url": "https://nazology.kusuguru.co.jp/archives/199506",
+            "title": "気体に圧力を与える根本、「原子1個の衝突」を検出することに成功 | ナゾロジー",
+            "summary": "気体の圧力とは、目に見えない分子が無数にぶつかり続ける押し合いの合計で、その1回1回は小さく多すぎて、まとめてしか測れないもの、と語られてきました。 しかしアメリカのイェール大学（Yale University）などで行われた研究によって、気体の粒がたった1個ぶつかる瞬間が、1発ずつ検出されました。 検出器になったのは、レーザー光で宙に浮かべた直径100ナノメートルのガラスの球です。 研究では、ク",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/7e16d65ffe13a9182bb31c4cf369c0d9.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T09:00:02.000Z",
+            "date_published": "2026-09-12T09:00:02.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "物理学",
+                "光"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "気体に圧力を与える根本、「原子1個の衝突」を検出することに成功",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199524",
+            "content_html": "岩の上をクモが走る。近づいた鳥が最後に見るのは、その下で口を開けたヘビです。 イランに住むクモの尾を持つクサリヘビ(Pseudocerastes urarachnoides)は、尾の先にクモそっくりの飾りを持つ、科学が知る唯一の動物です。 じっと岩に紛れ、尾だけを小刻みに揺らして鳥をおびき寄せます。 ルーアン氏は、動く尾を見ると本物のクモでないとは信じがたいと言うほどです。 ポーランド科学アカデミーとフィールド博物館の研究チームは、この「クモ」の中に骨は一本もなく、形を変えた鱗だけでできていると発表しました。 調べたのは1968年に採集され、この種の基準になっている標本1体で、マイクロCT(…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199524",
+            "title": "ヘビの尾にある「クモ」はすべて皮膚でできていた | ナゾロジー",
+            "summary": "岩の上をクモが走る。近づいた鳥が最後に見るのは、その下で口を開けたヘビです。 イランに住むクモの尾を持つクサリヘビ(Pseudocerastes urarachnoides)は、尾の先にクモそっくりの飾りを持つ、科学が知る唯一の動物です。 じっと岩に紛れ、尾だけを小刻みに揺らして鳥をおびき寄せます。 ルーアン氏は、動く尾を見ると本物のクモでないとは信じがたいと言うほどです。 ポーランド科学アカデミ",
+            "image": {
+                "height": "475",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c383-fig-thumb.jpg",
+                "width": "665",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T06:31:32.000Z",
+            "date_published": "2026-09-12T06:31:32.000Z",
+            "author": {
+                "name": "天道銀河"
+            },
+            "tags": [
+                "動物",
+                "クモ",
+                "ヘビ",
+                "進化"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ヘビの尾にある「クモ」はすべて皮膚でできていた",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156683",
+            "content_html": "映画『ターミネーター2』でジョン・コナーを演じたエドワード・ファーロングとサラ・コナー役のリンダ・ハミルトンが12日、東京ドームシティ プリズムホールにて開催中の「東京ホラー特区!!2026」スペシャルステージに出席。",
+            "url": "https://www.cinematoday.jp/news/N0156683",
+            "title": "『ターミネーター2』で人生一変　エドワード・ファーロング、“母”リンダ・ハミルトンに感謝「僕の最初の先生」 | シネマトゥデイ",
+            "summary": "映画『ターミネーター2』でジョン・コナーを演じたエドワード・ファーロングとサラ・コナー役のリンダ・ハミルトンが12日、東京ドームシティ プリズムホールにて開催中の「東京ホラー特区!!2026」スペシャルステージに出席。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/ULp4FC7Ir2nb/_size_r1200x630/_v_1789191707/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T05:41:47.000Z",
+            "date_published": "2026-09-12T05:41:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『ターミネーター2』で人生一変　エドワード・ファーロング、“母”リンダ・ハミルトンに感謝「僕の最初の先生」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156862",
+            "content_html": "日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）の第2シーズンから、“最大の宿敵”として登場した民間情報組織「シンシー」の責任者ハン・リンシンを演じている俳優・宮下今日子。",
+            "url": "https://www.cinematoday.jp/news/N0156862",
+            "title": "「VIVANT」宮下今日子、ハン・リンシンの三つ編みは自ら提案　シンシー責任者の今後「どんどん恐ろしく」 | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）の第2シーズンから、“最大の宿敵”として登場した民間情報組織「シンシー」の責任者ハン・リンシンを演じている俳優・宮下今日子。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/mx9nH5AOKiLB/_size_r1200x630/_v_1789137564/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T03:00:00.000Z",
+            "date_published": "2026-09-12T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「VIVANT」宮下今日子、ハン・リンシンの三つ編みは自ら提案　シンシー責任者の今後「どんどん恐ろしく」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156851",
+            "content_html": "クリストファー・ノーラン監督の最新作映画『オデュッセイア』（全国公開中）より、俳優の藤岡弘、と元レスリング日本代表の浜口京子が4D上映を体当たり体験する特別動画が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156851",
+            "title": "藤岡弘、＆浜口京子、4Dで戦闘モードに！『オデュッセイア』特別動画が公開 | シネマトゥデイ",
+            "summary": "クリストファー・ノーラン監督の最新作映画『オデュッセイア』（全国公開中）より、俳優の藤岡弘、と元レスリング日本代表の浜口京子が4D上映を体当たり体験する特別動画が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/YGcANqwOtvLP/_size_r1200x630/_v_1789112768/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T03:00:00.000Z",
+            "date_published": "2026-09-12T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "藤岡弘、＆浜口京子、4Dで戦闘モードに！『オデュッセイア』特別動画が公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156853",
+            "content_html": "テレビ朝日系で放送中の特撮ドラマ「角醒ハンター オメガホーン」（毎週日曜午前9時30分～）のスピンオフ「角醒ハンター オメガホーン ハンターたちの黙秘録 withギャバン」より、今後の配信ラインナップが発表された。",
+            "url": "https://www.cinematoday.jp/news/N0156853",
+            "title": "「オメガホーン黙示録」今後のラインナップ発表　ゲンノウにバーサーの魔の手、和仁淵が“ギャバンの極意”聞き出す | シネマトゥデイ",
+            "summary": "テレビ朝日系で放送中の特撮ドラマ「角醒ハンター オメガホーン」（毎週日曜午前9時30分～）のスピンオフ「角醒ハンター オメガホーン ハンターたちの黙秘録 withギャバン」より、今後の配信ラインナップが発表された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/E9SQ4onErzPI/_size_r1200x630/_v_1789115177/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T01:00:00.000Z",
+            "date_published": "2026-09-12T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「オメガホーン黙示録」今後のラインナップ発表　ゲンノウにバーサーの魔の手、和仁淵が“ギャバンの極意”聞き出す",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156846",
+            "content_html": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第8話「復活せよ！古の兵器！」が、13日午前9時30分よりテレビ朝日系にて放送される。",
+            "url": "https://www.cinematoday.jp/news/N0156846",
+            "title": "「角醒ハンター オメガホーン」レイジが“古の発掘兵器”を操縦【第8話あらすじ】 | シネマトゥデイ",
+            "summary": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第8話「復活せよ！古の兵器！」が、13日午前9時30分よりテレビ朝日系にて放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/PSB3eldujR9c/_size_r1200x630/_v_1789106392/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T00:10:00.000Z",
+            "date_published": "2026-09-12T00:10:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「角醒ハンター オメガホーン」レイジが“古の発掘兵器”を操縦【第8話あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156861",
+            "content_html": "日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）の飯田和孝プロデューサーが、6日に放送された第17話の反響を振り返りながら、第2シーズンからAIを導入した狙いを明かした。",
+            "url": "https://www.cinematoday.jp/news/N0156861",
+            "title": "「VIVANT」続編からAIを導入した理由　プロデューサーが明かす“大きな狙い” | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）の飯田和孝プロデューサーが、6日に放送された第17話の反響を振り返りながら、第2シーズンからAIを導入した狙いを明かした。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Xo8WC6xm7upz/_size_r1200x630/_v_1789135869/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T00:00:00.000Z",
+            "date_published": "2026-09-12T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「VIVANT」続編からAIを導入した理由　プロデューサーが明かす“大きな狙い”",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156826",
+            "content_html": "連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）でダブル主演を務める見上愛（一ノ瀬りん役）と上坂樹里（大家直美役）が、主人公それぞれの思い人である島田健次郎（佐野晶哉）と小川吾郎（甲斐翔真）について語った。",
+            "url": "https://www.cinematoday.jp/news/N0156826",
+            "title": "「風、薫る」思い出に残るシマケン＆吾郎との時間　見上愛×上坂樹里が振り返る | シネマトゥデイ",
+            "summary": "連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）でダブル主演を務める見上愛（一ノ瀬りん役）と上坂樹里（大家直美役）が、主人公それぞれの思い人である島田健次郎（佐野晶哉）と小川吾郎（甲斐翔真）について語った。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/aLEpbHL5NofR/_size_r1200x630/_v_1789027464/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T23:15:00.000Z",
+            "date_published": "2026-09-11T23:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「風、薫る」思い出に残るシマケン＆吾郎との時間　見上愛×上坂樹里が振り返る",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156827",
+            "content_html": "見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、14日に第25週「風媒花」第121回が放送。",
+            "url": "https://www.cinematoday.jp/news/N0156827",
+            "title": "朝ドラ「風、薫る」ツヤ（東野絢香）がりん（見上愛）と直美（上坂樹里）を訪ねる 第121回あらすじ | シネマトゥデイ",
+            "summary": "見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、14日に第25週「風媒花」第121回が放送。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/4bWaMyUef1_O/_size_r1200x630/_v_1789025434/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T23:15:00.000Z",
+            "date_published": "2026-09-11T23:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "朝ドラ「風、薫る」ツヤ（東野絢香）がりん（見上愛）と直美（上坂樹里）を訪ねる 第121回あらすじ",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156849",
+            "content_html": "特撮ドラマ「仮面ライダーマイス」（テレビ朝日系）の第2話「モダンウサギと走るカメ」が、13日午前9時から放送される。",
+            "url": "https://www.cinematoday.jp/news/N0156849",
+            "title": "「仮面ライダーマイス」第2話あらすじ　“卯”の仮面ライダーダット登場 | シネマトゥデイ",
+            "summary": "特撮ドラマ「仮面ライダーマイス」（テレビ朝日系）の第2話「モダンウサギと走るカメ」が、13日午前9時から放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/bWwJwj2M9uW1/_size_r1200x630/_v_1789116232/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T23:02:00.000Z",
+            "date_published": "2026-09-11T23:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「仮面ライダーマイス」第2話あらすじ　“卯”の仮面ライダーダット登場",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156617",
+            "content_html": "織田裕二が刑事・青島俊作を再演する映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日全国公開）で、『踊る大捜査線』シリーズ初参加を果たした俳優・趣里。",
+            "url": "https://www.cinematoday.jp/news/N0156617",
+            "title": "趣里、『踊る大捜査線』で巡り会えた「愛おしくて大切な存在」役者人生に刻まれた青島俊作との時間 | シネマトゥデイ",
+            "summary": "織田裕二が刑事・青島俊作を再演する映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（9月18日全国公開）で、『踊る大捜査線』シリーズ初参加を果たした俳優・趣里。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/bWxZpZBQGF9f/_size_r1200x630/_v_1789031394/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T22:10:00.000Z",
+            "date_published": "2026-09-11T22:10:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "趣里、『踊る大捜査線』で巡り会えた「愛おしくて大切な存在」役者人生に刻まれた青島俊作との時間",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156859",
+            "content_html": "11日に公開を迎えた、藤本タツキ原作、是枝裕和の監督・脚本・編集による実写映画『ルックバック』が、開催中の第83回ベネチア国際映画祭において、映画祭から独立した団体や審査員から贈られる公式独立賞（Collateral Award）を3つ受賞した。",
+            "url": "https://www.cinematoday.jp/news/N0156859",
+            "title": "実写映画『ルックバック』ベネチアで公式独立賞3冠　コンペ部門の結果は13日発表 | シネマトゥデイ",
+            "summary": "11日に公開を迎えた、藤本タツキ原作、是枝裕和の監督・脚本・編集による実写映画『ルックバック』が、開催中の第83回ベネチア国際映画祭において、映画祭から独立した団体や審査員から贈られる公式独立賞（Collateral Award）を3つ受賞した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/icKNHPDUuy0Y/_size_r1200x630/_v_1789129647/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T21:00:00.000Z",
+            "date_published": "2026-09-11T21:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "実写映画『ルックバック』ベネチアで公式独立賞3冠　コンペ部門の結果は13日発表",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00682/082800105/",
+            "content_html": "",
+            "url": "https://business.nikkei.com/atcl/gen/19/00682/082800105/",
+            "title": "［2026年9月12日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00682/082800105/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T15:00:00.000Z",
+            "date_published": "2026-09-11T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［2026年9月12日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/digest/2140377.html",
+            "content_html": "",
+            "url": "https://forest.watch.impress.co.jp/docs/digest/2140377.html",
+            "title": "複数ページのPDFや画像の差分をヒートマップ表示でチェックできる「TERASIAS」　ほか【ダイジェストニュース】 | 窓の杜",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/377/0911.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T12:27:17.000Z",
+            "date_published": "2026-09-11T12:27:17.000Z",
+            "author": {
+                "name": "窓の杜編集部"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "複数ページのPDFや画像の差分をヒートマップ表示でチェックできる「TERASIAS」　ほか【ダイジェストニュース】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156850",
+            "content_html": "クリストファー・ノーラン監督が長編映画史上初めて全編IMAXフィルム撮影を敢行し、世界興行収入16億ドル突破の大ヒットを記録している超大作『オデュッセイア』が本日、全国861スクリーンで日本公開を迎えた。",
+            "url": "https://www.cinematoday.jp/news/N0156850",
+            "title": "『オデュッセイア』日本での先行上映の興収発表 | シネマトゥデイ",
+            "summary": "クリストファー・ノーラン監督が長編映画史上初めて全編IMAXフィルム撮影を敢行し、世界興行収入16億ドル突破の大ヒットを記録している超大作『オデュッセイア』が本日、全国861スクリーンで日本公開を迎えた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/fL-rDUwEMlWV/_size_r1200x630/_v_1789110676/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T11:00:00.000Z",
+            "date_published": "2026-09-11T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『オデュッセイア』日本での先行上映の興収発表",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156786",
+            "content_html": "出口夏希と蒔田彩珠が11日、TOHOシネマズ日比谷で行われた実写映画『ルックバック』初日舞台あいさつに、七瀬ふうり、岡田六花、野呂佳代と共に登壇。",
+            "url": "https://www.cinematoday.jp/news/N0156786",
+            "title": "スタオベに涙も…出口夏希＆蒔田彩珠、実写『ルックバック』ベネチアの感激振り返る | シネマトゥデイ",
+            "summary": "出口夏希と蒔田彩珠が11日、TOHOシネマズ日比谷で行われた実写映画『ルックバック』初日舞台あいさつに、七瀬ふうり、岡田六花、野呂佳代と共に登壇。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/4wdYzmWSH2yD/_size_r1200x630/_v_1789124029/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T10:53:49.000Z",
+            "date_published": "2026-09-11T10:53:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "スタオベに涙も…出口夏希＆蒔田彩珠、実写『ルックバック』ベネチアの感激振り返る",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156857",
+            "content_html": "第83回ベネチア国際映画祭アウト・オブ・コンペティション部門に正式出品されている歌舞伎俳優・市川團十郎のドキュメンタリー映画『襲名』が、同映画祭の公式独立賞である「Cinema &amp;amp; Arts Award」最優秀作品賞を受賞した。",
+            "url": "https://www.cinematoday.jp/news/N0156857",
+            "title": "市川團十郎のドキュメンタリー映画『襲名』がベネチア映画祭で快挙！日本映画として初の「Cinema &amp; Arts Award」最優秀作品賞受賞 | シネマトゥデイ",
+            "summary": "第83回ベネチア国際映画祭アウト・オブ・コンペティション部門に正式出品されている歌舞伎俳優・市川團十郎のドキュメンタリー映画『襲名』が、同映画祭の公式独立賞である「Cinema &amp;amp; Arts Award」最優秀作品賞を受賞した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/a6ejnq-s1Rct/_size_r1200x630/_v_1789123177/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T10:39:37.000Z",
+            "date_published": "2026-09-11T10:39:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "市川團十郎のドキュメンタリー映画『襲名』がベネチア映画祭で快挙！日本映画として初の「Cinema &amp; Arts Award」最優秀作品賞受賞",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156855",
+            "content_html": "今夜の日本テレビ系「金曜ロードショー」にて、ジェームズ・キャメロン監督の名作『タイタニック』後編（よる9時～）が放送される。",
+            "url": "https://www.cinematoday.jp/news/N0156855",
+            "title": "金ローで放送！『タイタニック』のキーアイテム“碧洋のハート”は実在するのか？ | シネマトゥデイ",
+            "summary": "今夜の日本テレビ系「金曜ロードショー」にて、ジェームズ・キャメロン監督の名作『タイタニック』後編（よる9時～）が放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/fCrZgO-v3MHh/_size_r1200x630/_v_1789185106/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T10:20:00.000Z",
+            "date_published": "2026-09-11T10:20:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "金ローで放送！『タイタニック』のキーアイテム“碧洋のハート”は実在するのか？",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html",
+            "content_html": " Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html",
+            "title": "「Microsoft PowerToys」に追加されたローカルAI機能を試してみた | 窓の杜",
+            "summary": " Windows用カスタマイズユーティリティ「Microsoft PowerToys」の最新版となるv0.101.2362.0で、「Advanced Paste」という機能にCopilot+ PC専用の機能が追加された。本ソフトは古くからあるものだが、そこに新しいAI機能が搭載されたという点で面白いのでご紹介したい。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/265/08.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T10:11:00.000Z",
+            "date_published": "2026-09-11T10:11:00.000Z",
+            "author": {
+                "name": "石田 賀津男"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 48,
+                "originalTitle": "「Microsoft PowerToys」に追加されたローカルAI機能を試してみた",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ48件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/page/A0009837",
+            "content_html": "映画ゴジラシリーズ最新作『ゴジラ-0.0』（ゴジラマイナスゼロ）が2026年11月3日に全国公開される。",
+            "url": "https://www.cinematoday.jp/page/A0009837",
+            "title": "映画『ゴジラ-0.0』キャラクター・キャスト【まとめ】 | シネマトゥデイ",
+            "summary": "映画ゴジラシリーズ最新作『ゴジラ-0.0』（ゴジラマイナスゼロ）が2026年11月3日に全国公開される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/_XU5TiMtycEE/_size_r1200x630/_v_1789120575/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T09:56:15.000Z",
+            "date_published": "2026-09-11T09:56:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "映画『ゴジラ-0.0』キャラクター・キャスト【まとめ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140330.html",
+            "content_html": " 米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140330.html",
+            "title": "「AOMEI Backupper」に未修正の脆弱性？ 実証コードも公開済み／6月に脆弱性情報が公開されるも未修正のまま放置されている模様 | 窓の杜",
+            "summary": " 米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/330/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T09:15:40.000Z",
+            "date_published": "2026-09-11T09:15:40.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「AOMEI Backupper」に未修正の脆弱性？ 実証コードも公開済み／6月に脆弱性情報が公開されるも未修正のまま放置されている模様",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156854",
+            "content_html": "映画『恋するプリテンダー』『マダム・ウェブ』などの女優シドニー・スウィーニー（28）が第83回ベネチア国際映画祭開催中のベネチアで、シアーやレース素材で透け感のある服を次々とまとい、注目の的となった。",
+            "url": "https://www.cinematoday.jp/news/N0156854",
+            "title": "シドニー・スウィーニー、透けてるトップスでベネチアに | シネマトゥデイ",
+            "summary": "映画『恋するプリテンダー』『マダム・ウェブ』などの女優シドニー・スウィーニー（28）が第83回ベネチア国際映画祭開催中のベネチアで、シアーやレース素材で透け感のある服を次々とまとい、注目の的となった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/4QWIR_C8ZtA2/_size_r1200x630/_v_1789117798/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T09:09:58.000Z",
+            "date_published": "2026-09-11T09:09:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "シドニー・スウィーニー、透けてるトップスでベネチアに",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156852",
+            "content_html": "『野火』『鉄男』などで知られる塚本晋也監督の最新作『ネルソンさん、あなたは人を殺しましたか？』が9月11日より劇場公開を迎えた。",
+            "url": "https://www.cinematoday.jp/news/N0156852",
+            "title": "『ネルソンさん、あなたは人を殺しましたか？』ベネチア観客の熱い感想に手応え　塚本晋也監督、現地コメント動画公開 | シネマトゥデイ",
+            "summary": "『野火』『鉄男』などで知られる塚本晋也監督の最新作『ネルソンさん、あなたは人を殺しましたか？』が9月11日より劇場公開を迎えた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/xwLXJyaIGBcd/_size_r1200x630/_v_1789112268/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T09:00:00.000Z",
+            "date_published": "2026-09-11T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『ネルソンさん、あなたは人を殺しましたか？』ベネチア観客の熱い感想に手応え　塚本晋也監督、現地コメント動画公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156848",
+            "content_html": "「チェンソーマン」「ルックバック」などの漫画家・藤本タツキと、アニメーション映画『我々は宇宙人』（9月25日全国公開）で企画・脚本・監督を務めた門脇康平によるスペシャル対談の音声がYouTubeで公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156848",
+            "title": "藤本タツキ「ここ3年はこれ以上面白いものは出てこない」と絶賛　アニメ『我々は宇宙人』門脇康平監督と焼肉囲む対談公開 | シネマトゥデイ",
+            "summary": "「チェンソーマン」「ルックバック」などの漫画家・藤本タツキと、アニメーション映画『我々は宇宙人』（9月25日全国公開）で企画・脚本・監督を務めた門脇康平によるスペシャル対談の音声がYouTubeで公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/kulpXlJ47J8x/_size_r1200x630/_v_1789107849/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T09:00:00.000Z",
+            "date_published": "2026-09-11T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "藤本タツキ「ここ3年はこれ以上面白いものは出てこない」と絶賛　アニメ『我々は宇宙人』門脇康平監督と焼肉囲む対談公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156838",
+            "content_html": "横浜流星が主演を務める10月期のTBS系金曜ドラマ「LOST10（ロストテン）」（毎週金曜よる10時～）の新キャストが発表され、松下洸平と市川実日子の出演が決定した。",
+            "url": "https://www.cinematoday.jp/news/N0156838",
+            "title": "松下洸平＆市川実日子、横浜流星主演「LOST10」に出演決定！主要キャラ10名勢ぞろい | シネマトゥデイ",
+            "summary": "横浜流星が主演を務める10月期のTBS系金曜ドラマ「LOST10（ロストテン）」（毎週金曜よる10時～）の新キャストが発表され、松下洸平と市川実日子の出演が決定した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/RM_1YTSM02t4/_size_r1200x630/_v_1789098539/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T09:00:00.000Z",
+            "date_published": "2026-09-11T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "松下洸平＆市川実日子、横浜流星主演「LOST10」に出演決定！主要キャラ10名勢ぞろい",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159441",
+            "content_html": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Beyond Enumerable: Testi",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_11/159441",
+            "title": "Ruby の Enumerable を超える: 確率的データ構造 「ブルームフィルタ」編（翻訳） | TechRacho",
+            "summary": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Beyond Enumerable: Testi",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/ruby_beyond_enumerable_bloomfilter_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T08:30:34.000Z",
+            "date_published": "2026-09-11T08:30:34.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Ruby",
+                "アルゴリズム",
+                "確率的データ構造",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Ruby の Enumerable を超える: 確率的データ構造 「ブルームフィルタ」編（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140258.html",
+            "content_html": " 「GIMP」開発チームは9月10日（現地時間、以下同）、無償の画像編集・処理ソフト「GIMP」の最新安定版v3.2.6を公開した。ここ数カ月分のパッチや不具合修正、セキュリティアップデートをまとめたものとなっている。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140258.html",
+            "title": "画像編集ソフト「GIMP 3.2.6」が公開 ～8月に報じた脆弱性など、27件のCVEに対処／Mac版はビルド体制を一新してWindows・Linux版と同時公開に | 窓の杜",
+            "summary": " 「GIMP」開発チームは9月10日（現地時間、以下同）、無償の画像編集・処理ソフト「GIMP」の最新安定版v3.2.6を公開した。ここ数カ月分のパッチや不具合修正、セキュリティアップデートをまとめたものとなっている。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/258/gimp.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T08:21:00.000Z",
+            "date_published": "2026-09-11T08:21:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "画像編集ソフト「GIMP 3.2.6」が公開 ～8月に報じた脆弱性など、27件のCVEに対処／Mac版はビルド体制を一新してWindows・Linux版と同時公開に",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156839",
+            "content_html": "人気ドラマ「プリズン・ブレイク」のリブート版「プリズン・ブレイク：ブラック・クリーク（原題） / Prison Break: Black Creek」の撮影が始まったことを、米Huluがティザー映像と共に発表した。",
+            "url": "https://www.cinematoday.jp/news/N0156839",
+            "title": "「プリズン・ブレイク」リブート版、ティザー映像公開！ | シネマトゥデイ",
+            "summary": "人気ドラマ「プリズン・ブレイク」のリブート版「プリズン・ブレイク：ブラック・クリーク（原題） / Prison Break: Black Creek」の撮影が始まったことを、米Huluがティザー映像と共に発表した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Aw0muZylMwhJ/_size_r1200x630/_v_1789114561/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:16:01.000Z",
+            "date_published": "2026-09-11T08:16:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「プリズン・ブレイク」リブート版、ティザー映像公開！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00122/00297/",
+            "content_html": "日本銀行は物価上昇率と米国の圧力を踏まえ、今週の政策決定会合で0.25％の利上げを決断する可能性が高い。平均で半年だった追加利上げのインターバルは3カ月短くなり、この流れは当面続きそうだ。高市早苗首相はひとまず容認しそうだが、日銀に対する厳しい姿勢を左右する人事が内閣改造で見られるか注目される。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00122/00297/",
+            "title": "日銀が0.25％の利上げを決断か　米圧力でペース短縮、年内に再追加も (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事",
+            "summary": "日本銀行は物価上昇率と米国の圧力を踏まえ、今週の政策決定会合で0.25％の利上げを決断する可能性が高い。平均で半年だった追加利上げのインターバルは3カ月短くなり、この流れは当面続きそうだ。高市早苗首相はひとまず容認しそうだが、日銀に対する厳しい姿勢を左右する人事が内閣改造で見られるか注目される。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00122/00297/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日銀が0.25％の利上げを決断か　米圧力でペース短縮、年内に再追加も (上野泰也の先読みマーケット)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00112/091100244/",
+            "content_html": "富士通は9月8日、ダイヤモンドスピン方式量子コンピューターのプロトタイプ（試作機）を開発したと発表した。実機開発を巡っては、撤退を決めたNECの研究人材を富士通が取り込み、加速する。10年、20年の長期戦ともいわれる開発で、戦法の違いが浮き彫りになってきた。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00112/091100244/",
+            "title": "量子計算機、続ける富士通と撤退するNEC　開発を阻む投資回収の壁   (日の丸電機サバイバル) | 日経ビジネス電子版　最新記事",
+            "summary": "富士通は9月8日、ダイヤモンドスピン方式量子コンピューターのプロトタイプ（試作機）を開発したと発表した。実機開発を巡っては、撤退を決めたNECの研究人材を富士通が取り込み、加速する。10年、20年の長期戦ともいわれる開発で、戦法の違いが浮き彫りになってきた。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00112/091100244/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "量子計算機、続ける富士通と撤退するNEC　開発を阻む投資回収の壁   (日の丸電機サバイバル)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00087/090900536/",
+            "content_html": "電気自動車（EV）のみならず、宇宙事業（スペースX）、通信衛星事業（スターリンク）、SNS（X）など次々と活動の領域を広げるイーロン・マスク氏。世界市場における、これらの事業の発展ぶりは、イーロン・マスク帝国を築き上げているかのようだ。2026年9月発売の『データで徹底解剖 イーロン・マスク帝国』（日経BP）はマスク氏の事業とリーダーとしての人物像にデータ分析で迫る。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00087/090900536/",
+            "title": "イーロン・マスク氏が実現したトヨタ生産方式の理想形　6～7倍速で工場設計 (Books) | 日経ビジネス電子版　最新記事",
+            "summary": "電気自動車（EV）のみならず、宇宙事業（スペースX）、通信衛星事業（スターリンク）、SNS（X）など次々と活動の領域を広げるイーロン・マスク氏。世界市場における、これらの事業の発展ぶりは、イーロン・マスク帝国を築き上げているかのようだ。2026年9月発売の『データで徹底解剖 イーロン・マスク帝国』（日経BP）はマスク氏の事業とリーダーとしての人物像にデータ分析で迫る。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00087/090900536/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "イーロン・マスク氏が実現したトヨタ生産方式の理想形　6～7倍速で工場設計 (Books)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/090800001/",
+            "content_html": "企業のコンプライアンスに関する不祥事は、今なお後を絶ちません。業績が好調な企業であっても、不祥事が発覚したことで信用を失い、経営危機に陥ることがあります。社会の価値観や法制度が変化し続ける中、企業にはコンプライアンスへの取り組みを絶えず見直し、進化させていくことが求められています。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/090800001/",
+            "title": "［ガバナンス小説スタート］副社長候補をフェアネス室へ　更迭か改革の切り札か (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "企業のコンプライアンスに関する不祥事は、今なお後を絶ちません。業績が好調な企業であっても、不祥事が発覚したことで信用を失い、経営危機に陥ることがあります。社会の価値観や法制度が変化し続ける中、企業にはコンプライアンスへの取り組みを絶えず見直し、進化させていくことが求められています。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/090800001/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T08:00:00.000Z",
+            "date_published": "2026-09-11T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［ガバナンス小説スタート］副社長候補をフェアネス室へ　更迭か改革の切り札か (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/09/11/165709",
+            "content_html": "バクラク事業部ソフトウェアエンジニアの矢田(@0e2b3c)です。 LayerXは2026年9月12日(土)に開催されるフロントエンドカンファレンス福岡 2026にシルバースポンサーとして協賛させていただきます。 加えて、弊社ソフトウェアエンジニアのあない(@pirosikick)が登壇者として参加を予定しています。 スポンサーブースのご紹介 TSKaigi 2026に引き続き、社内の面白かった・苦労した実装を紹介するブースを出展予定です。 弊社の各チームにフロントエンドに関するインタビューを行い、それをスライドとしてまとめたものをブースにて展示します。 前回は弊社の事業の1つであるバクラク事…",
+            "url": "https://tech.layerx.co.jp/entry/2026/09/11/165709",
+            "title": "フロントエンドカンファレンス福岡 2026にシルバースポンサーとして協賛します #fec_fukuoka | LayerX エンジニアブログ",
+            "summary": "バクラク事業部ソフトウェアエンジニアの矢田(@0e2b3c)です。 LayerXは2026年9月12日(土)に開催されるフロントエンドカンファレンス福岡 2026にシルバースポンサーとして協賛させていただきます。 加えて、弊社ソフトウェアエンジニアのあない(@pirosikick)が登壇者として参加を予定しています。 スポンサーブースのご紹介 TSKaigi 2026に引き続き、社内の面白かった・",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/19fff93057957fb83a70c95a80cd3be1174c2e72/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyata0e2b3c%2F20260911%2F20260911164447.jpg",
+                "alt": "フロントエンドカンファレンス福岡 2026にシルバースポンサーとして協賛します #fec_fukuoka - LayerX エンジニアブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T07:57:09.000Z",
+            "date_published": "2026-09-11T07:57:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "フロントエンドカンファレンス福岡 2026にシルバースポンサーとして協賛します #fec_fukuoka",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2140240.html",
+            "content_html": " 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2140240.html",
+            "title": "「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る | 窓の杜",
+            "summary": " 米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2140/240/image2.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T07:26:00.000Z",
+            "date_published": "2026-09-11T07:26:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 46,
+                "originalTitle": "「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ46件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/11/150000",
+            "content_html": "こんにちは。技術本部 Sansan Engineering Unit Mobile Applicationグループの細田です。 社内のモバイルアプリから共通の認証基盤を利用できるよう、ログインやトークン管理を提供するSDKを開発しています。 現在Sansanでは「モバイルブログリレー」を実施しています。今回は、SDKのiOSとAndroidに分かれていた認証処理をRustへ移行する際に実装・学習・レビューの役割をどのように分けて進めたかを紹介します。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/11/150000",
+            "title": "AIで実装速度を高めながら、人間の理解を保つ — 認証基盤SDKのRust化で見直した開発フロー | Sansan Tech Blog",
+            "summary": "こんにちは。技術本部 Sansan Engineering Unit Mobile Applicationグループの細田です。 社内のモバイルアプリから共通の認証基盤を利用できるよう、ログインやトークン管理を提供するSDKを開発しています。 現在Sansanでは「モバイルブログリレー」を実施しています。今回は、SDKのiOSとAndroidに分かれていた認証処理をRustへ移行する際に実装・学習・",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8b6e9c2f8a22a48084bc8bfccebb6b4bac71924b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260911%2F20260911150002.png",
+                "alt": "AIで実装速度を高めながら、人間の理解を保つ — 認証基盤SDKのRust化で見直した開発フロー - Sansan Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T06:00:00.000Z",
+            "date_published": "2026-09-11T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AIで実装速度を高めながら、人間の理解を保つ — 認証基盤SDKのRust化で見直した開発フロー",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/202260911/ai",
+            "content_html": "前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技術広報がインタビューし、記事にしています。今回は電子請求書発行システム「楽楽明細」の新しいオプション機能を、AIにほぼ実装させて約2か月でリリースした事例です。 本記事は、AIを使って順調に機能開発が…",
+            "url": "https://tech-blog.rakus.co.jp/entry/202260911/ai",
+            "title": "AIに12機能を書かせたら、レビューに5営業日かかった | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/67a3dca6cef3f2c356caf226f9e5323f19ae67ae/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260910%2F20260910114048.png",
+                "alt": "AIに12機能を書かせたら、レビューに5営業日かかった - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T06:00:00.000Z",
+            "date_published": "2026-09-11T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "AIに12機能を書かせたら、レビューに5営業日かかった",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ37件",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156682",
+            "content_html": "映画『ターミネーター』シリーズのサラ・コナー役で知られるリンダ・ハミルトンが11日、東京ドームシティ プリズムホール（東京都文京区）で開催された「東京ホラー特区!!2026」（9月11日～13日）のオープニングセレモニーに出席。",
+            "url": "https://www.cinematoday.jp/news/N0156682",
+            "title": "『ターミネーター』リンダ・ハミルトン、3度目の来日！“息子”エドワード・ファーロングとホラーの祭典に参加 | シネマトゥデイ",
+            "summary": "映画『ターミネーター』シリーズのサラ・コナー役で知られるリンダ・ハミルトンが11日、東京ドームシティ プリズムホール（東京都文京区）で開催された「東京ホラー特区!!2026」（9月11日～13日）のオープニングセレモニーに出席。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/68o9pk8I1_5S/_size_r1200x630/_v_1789104381/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T05:26:21.000Z",
+            "date_published": "2026-09-11T05:26:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『ターミネーター』リンダ・ハミルトン、3度目の来日！“息子”エドワード・ファーロングとホラーの祭典に参加",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156834",
+            "content_html": "尾上松也と城田優がダブル主演を務めるミュージカル「RRR」（2027年3月29日開幕）より、力強い眼差しを向ける二人のアツい姿を捉えたメインビジュアルが公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156834",
+            "title": "ミュージカル「RRR」尾上松也＆城田優のアツすぎるメインビジュアル公開 | シネマトゥデイ",
+            "summary": "尾上松也と城田優がダブル主演を務めるミュージカル「RRR」（2027年3月29日開幕）より、力強い眼差しを向ける二人のアツい姿を捉えたメインビジュアルが公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/ghdiz023nWSx/_size_r1200x630/_v_1789094724/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T05:00:00.000Z",
+            "date_published": "2026-09-11T05:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ミュージカル「RRR」尾上松也＆城田優のアツすぎるメインビジュアル公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://qiita.com/official-columns/?p=35750",
+            "content_html": "2026年7月14日から8月25日まで、記事投稿キャンペーン「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」を開催しました！ご参加いただい […]",
+            "url": "https://qiita.com/official-columns/event/202609-sakura-internet-campaign/",
+            "title": "記事投稿キャンペーン結果発表！「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」 | Qiita Zine",
+            "summary": "2026年7月14日から8月25日まで、記事投稿キャンペーン「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」を開催しました！ご参加いただい […]",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://qiita.com/official-columns/wp-content/uploads/2026/09/image-1200x630-1.png",
+                "width": "1200"
+            },
+            "date_modified": "2026-09-11T04:08:10.000Z",
+            "date_published": "2026-09-11T04:08:10.000Z",
+            "author": {
+                "name": "niwa.manaho"
+            },
+            "tags": [
+                "イベント",
+                "タイアップ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "記事投稿キャンペーン結果発表！「OpenAI・Anthropic互換APIを無料で使おう！『さくらのAI Engine』3,000リクエスト使い切りチャレンジ」",
+                "blogTitle": "Qiita Zine",
+                "blogLink": "https://qiita.com/official-columns/",
+                "blogLinkMd5Hash": "ade79171100c6e0d10a8f274142e7072",
+                "favicon": "https://qiita.com/official-columns/wp-content/uploads/2019/12/cropped-favicon-32x32.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "Qiita"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156824",
+            "content_html": "サンドラ・ブロックとニコール・キッドマンがダブル主演を務める映画『プラクティカル・マジック／魔女たちの秘密』（11月27日全国公開）より、特別フィーチャレット映像が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0156824",
+            "title": "『プラクティカル・マジック』続編なぜ今？フィーチャレット映像で明かされる | シネマトゥデイ",
+            "summary": "サンドラ・ブロックとニコール・キッドマンがダブル主演を務める映画『プラクティカル・マジック／魔女たちの秘密』（11月27日全国公開）より、特別フィーチャレット映像が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/JYLtFwQvUDGF/_size_r1200x630/_v_1789029760/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T03:00:00.000Z",
+            "date_published": "2026-09-11T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『プラクティカル・マジック』続編なぜ今？フィーチャレット映像で明かされる",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156820",
+            "content_html": "2026年8月14日に逝去した前衛芸術家・草間彌生さんを偲び、その素顔と創作活動に密着したドキュメンタリー映画『≒草間彌生 わたし大好き』（2008）の追悼上映が、10月2日よりヒューマントラストシネマ有楽町、アップリンク吉祥寺ほか全国にて急遽実施されることが決定した。",
+            "url": "https://www.cinematoday.jp/news/N0156820",
+            "title": "急遽決定！ドキュメンタリー映画『≒草間彌生 わたし大好き』追悼上映 | シネマトゥデイ",
+            "summary": "2026年8月14日に逝去した前衛芸術家・草間彌生さんを偲び、その素顔と創作活動に密着したドキュメンタリー映画『≒草間彌生 わたし大好き』（2008）の追悼上映が、10月2日よりヒューマントラストシネマ有楽町、アップリンク吉祥寺ほか全国にて急遽実施されることが決定した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/xx741FFVZZUa/_size_r1200x630/_v_1789025211/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T03:00:00.000Z",
+            "date_published": "2026-09-11T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "急遽決定！ドキュメンタリー映画『≒草間彌生 わたし大好き』追悼上映",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/11/113000",
+            "content_html": "Author: Yoichi Tagaya, Head of the Data Intelligence Engineering Unit Sansan Data Intelligence is the data quality management solution, released in December 2025. I’ve come to believe this product sits on the frontlines of the rapidly changing AI era. In the application layer—the place NVIDIA CEO Je…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/11/113000",
+            "title": "Why Join Sansan Data Intelligence in the Age of AI | Sansan Tech Blog",
+            "summary": "Author: Yoichi Tagaya, Head of the Data Intelligence Engineering Unit Sansan Data Intelligence is the data quality management solution, released in December 2025. I’ve come to believe this product sit",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032072385946/1789093801",
+                "alt": "Why Join Sansan Data Intelligence in the Age of AI - Sansan Tech Blog"
+            },
+            "date_modified": "2026-09-11T02:30:00.000Z",
+            "date_published": "2026-09-11T02:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Why Join Sansan Data Intelligence in the Age of AI",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=65204",
+            "content_html": "GPT‑Liveの仕組みとAPI実装を整理し、CodexでiOSデモを開発。会話速度・割り込み・タスク化まで一",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/65204/",
+            "title": "GPT‑LiveをCodexで最速検証。iOSデモを数時間で作ってみた。 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "GPT‑Liveの仕組みとAPI実装を整理し、CodexでiOSデモを開発。会話速度・割り込み・タスク化まで一",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T02:00:53.000Z",
+            "date_published": "2026-09-11T02:00:53.000Z",
+            "author": {
+                "name": "Ken Takao"
+            },
+            "tags": [
+                "エンジニア",
+                "AI",
+                "Codex",
+                "GPT-Live",
+                "iOS",
+                "SwiftUI"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT‑LiveをCodexで最速検証。iOSデモを数時間で作ってみた。",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/zozotown-android-modularization",
+            "content_html": "はじめに こんにちは、ZOZOTOWN開発2部Androidブロックの大江です。普段はZOZOTOWN Androidの開発を担当しています。 ZOZOTOWN Androidは10年以上にわたって開発されています。機能追加を重ねる中で、特定のモジュールが肥大化したり、モジュール構成が複雑になったりしたため、改善に取り組んでいます。 本記事では、こうしたモジュール構成について、課題とその解決に向けて段階的に進めてきた取り組みを中心に紹介します。",
+            "url": "https://techblog.zozo.com/entry/zozotown-android-modularization",
+            "title": "ZOZOTOWN Androidのマルチモジュール構成を段階的に整理する | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOTOWN開発2部Androidブロックの大江です。普段はZOZOTOWN Androidの開発を担当しています。 ZOZOTOWN Androidは10年以上にわたって開発されています。機能追加を重ねる中で、特定のモジュールが肥大化したり、モジュール構成が複雑になったりしたため、改善に取り組んでいます。 本記事では、こうしたモジュール構成について、課題とその解決に向け",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c3c8e029097a13b19da0c6d1d8f340efc060158e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260909%2F20260909182431.png",
+                "alt": "ZOZOTOWN Androidのマルチモジュール構成を段階的に整理する - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T02:00:00.000Z",
+            "date_published": "2026-09-11T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ZOZOTOWN Androidのマルチモジュール構成を段階的に整理する",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156833",
+            "content_html": "マーベル・シネマティック・ユニバース（MCU）で新たに製作される映画『X-MEN』でのエンジェル役はエイサ・ジャーマンが務めると、Deadlineなどが報じた。",
+            "url": "https://www.cinematoday.jp/news/N0156833",
+            "title": "MCU版『X-MEN』エンジェル役が決定！ | シネマトゥデイ",
+            "summary": "マーベル・シネマティック・ユニバース（MCU）で新たに製作される映画『X-MEN』でのエンジェル役はエイサ・ジャーマンが務めると、Deadlineなどが報じた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Ib6Qth4yxYp1/_size_r1200x630/_v_1789090059/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-11T01:11:00.000Z",
+            "date_published": "2026-09-11T01:11:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MCU版『X-MEN』エンジェル役が決定！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/hybrid-subnet-explained",
+            "content_html": "G-gen の本間です。Google Cloud のネットワーク機能であるハイブリッドサブネットについて解説します。ハイブリッドサブネット機能を使うと、オンプレミスネットワークと VPC ネットワーク間で、同じ IP アドレス範囲を共有できます。 概要 ハイブリッドサブネットとは 料金 仕様 ルーティング ルートのアドバタイズ プロキシ ARP の使用 ハイブリッドサブネットを使用した VM 移行 制約事項と注意点 概要 IP アドレスの管理 使用できない環境・サービス オンプレミスネットワーク ルーティング 使用できない通信 概要 ハイブリッドサブネットとは ハイブリッドサブネットとは、Go…",
+            "url": "https://blog.g-gen.co.jp/entry/hybrid-subnet-explained",
+            "title": "Google Cloudのハイブリッドサブネット機能を解説 | G-gen Tech Blog",
+            "summary": "G-gen の本間です。Google Cloud のネットワーク機能であるハイブリッドサブネットについて解説します。ハイブリッドサブネット機能を使うと、オンプレミスネットワークと VPC ネットワーク間で、同じ IP アドレス範囲を共有できます。 概要 ハイブリッドサブネットとは 料金 仕様 ルーティング ルートのアドバタイズ プロキシ ARP の使用 ハイブリッドサブネットを使用した VM 移行",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/6e033714f8e77a4a2867174f83806e15877c0312/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260911%2F20260911090006.png",
+                "alt": "Google Cloudのハイブリッドサブネット機能を解説 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-11T00:00:00.000Z",
+            "date_published": "2026-09-11T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Google Cloudのハイブリッドサブネット機能を解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156462",
+            "content_html": "連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）でダブル主演を務める見上愛と上坂樹里が、1年間共に駆け抜けた二人だからこそ得られた信頼関係、お互いのリスペクトできる部分などを語った。",
+            "url": "https://www.cinematoday.jp/news/N0156462",
+            "title": "「風、薫る」見上愛＆上坂樹里、心強かったバディの存在　“朝ドラ”撮了を経た現在地 | シネマトゥデイ",
+            "summary": "連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）でダブル主演を務める見上愛と上坂樹里が、1年間共に駆け抜けた二人だからこそ得られた信頼関係、お互いのリスペクトできる部分などを語った。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/jby7O3JF-Hd2/_size_r1200x630/_v_1789026511/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T23:15:00.000Z",
+            "date_published": "2026-09-10T23:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「風、薫る」見上愛＆上坂樹里、心強かったバディの存在　“朝ドラ”撮了を経た現在地",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156825",
+            "content_html": "俳優の見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか ※土曜は1週間の振り返り）。",
+            "url": "https://www.cinematoday.jp/news/N0156825",
+            "title": "朝ドラ「風、薫る」ツヤ（東野絢香）がりん（見上愛）らに頼み込む 第25週あらすじ | シネマトゥデイ",
+            "summary": "俳優の見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか ※土曜は1週間の振り返り）。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/mbmFHxxi1o_W/_size_r1200x630/_v_1789024192/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T23:15:00.000Z",
+            "date_published": "2026-09-10T23:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "朝ドラ「風、薫る」ツヤ（東野絢香）がりん（見上愛）らに頼み込む 第25週あらすじ",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=65832",
+            "content_html": "目次 はじめに DevinConとは 自己紹介 WINTICKETとDevin活用 Agent設計技術の変遷",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/65832/",
+            "title": "DevinCon2026登壇報告 WINTICKETにおけるアラート対応自動化 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "目次 はじめに DevinConとは 自己紹介 WINTICKETとDevin活用 Agent設計技術の変遷",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T23:00:11.000Z",
+            "date_published": "2026-09-10T23:00:11.000Z",
+            "author": {
+                "name": "杉山 雄大"
+            },
+            "tags": [
+                "エンジニア",
+                "Devin",
+                "DevinCon",
+                "SRE",
+                "SRE Agent",
+                "WINTICKET",
+                "カンファレンス"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DevinCon2026登壇報告 WINTICKETにおけるアラート対応自動化",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156829",
+            "content_html": "埼玉県さいたま市で52年間にわたり市民に親しまれてきた沼影市民プールの最後の夏を記録した映画『沼影市民プール』（公開中）。",
+            "url": "https://www.cinematoday.jp/news/N0156829",
+            "title": "『沼影市民プール』浦和で5日間連続で満席回　イベント続々決定 | シネマトゥデイ",
+            "summary": "埼玉県さいたま市で52年間にわたり市民に親しまれてきた沼影市民プールの最後の夏を記録した映画『沼影市民プール』（公開中）。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/KAJUExLn-ilg/_size_r1200x630/_v_1789035365/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T23:00:00.000Z",
+            "date_published": "2026-09-10T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『沼影市民プール』浦和で5日間連続で満席回　イベント続々決定",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://blog.fltech.dev/entry/2026/09/11/roman2026-ja",
+            "content_html": "はじめに こんにちは、フィジカルAI研究所の山口と森山です。 私たちは2026年8月24日から28日に福岡県北九州市で開催された国際会議「The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)」に参加し、2件の研究成果を発表しました。本記事では、RO-MAN 2026の会場の様子、発表内容の概要、さらに会場で印象に残った研究を紹介します。",
+            "url": "https://blog.fltech.dev/entry/2026/09/11/roman2026-ja",
+            "title": "RO-MAN 2026に2件採択！～人とロボットの協調を実現する技術～ | fltech - 富士通研究所の技術ブログ",
+            "summary": "はじめに こんにちは、フィジカルAI研究所の山口と森山です。 私たちは2026年8月24日から28日に福岡県北九州市で開催された国際会議「The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)」に参加し、2件の研究成果を発表しました。本記事では、RO-MAN ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/379626fb8f28ac782ee20544b8a5fdfa277bb006/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20260911%2F20260911080010.jpg",
+                "alt": "RO-MAN 2026に2件採択！～人とロボットの協調を実現する技術～ - fltech - 富士通研究所の技術ブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T23:00:00.000Z",
+            "date_published": "2026-09-10T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "RO-MAN 2026に2件採択！～人とロボットの協調を実現する技術～",
+                "blogTitle": "fltech - 富士通研究所の技術ブログ",
+                "blogLink": "https://blog.fltech.dev/",
+                "blogLinkMd5Hash": "d2545eca8d1e39c3f6f70e9393bda9cd",
+                "favicon": "https://blog.fltech.dev/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "富士通研究所"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159297",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setu",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_10/159297",
+            "title": "Ruby Webアプリケーションで使うセルフホスティングサーバーをセットアップする（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setu",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/07/ruby_server_setup_for_ruby_app_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T08:30:54.000Z",
+            "date_published": "2026-09-10T08:30:54.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Linux",
+                "Ruby",
+                "SSH",
+                "Ubuntu",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "Ruby Webアプリケーションで使うセルフホスティングサーバーをセットアップする（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ10件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66153",
+            "content_html": "こんにちは。株式会社サイバーエージェントのAmebaLIFE事業部でAndroidアプリエンジニアをしている寺",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66153/",
+            "title": "DroidKaigi 2026に参加しました | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "こんにちは。株式会社サイバーエージェントのAmebaLIFE事業部でAndroidアプリエンジニアをしている寺",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T07:58:11.000Z",
+            "date_published": "2026-09-10T07:58:11.000Z",
+            "author": {
+                "name": "nozo_mi"
+            },
+            "tags": [
+                "エンジニア",
+                "AI活用",
+                "Android",
+                "DroidKaigi",
+                "共著"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DroidKaigi 2026に参加しました",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/10/150748",
+            "content_html": "この記事は、SmartHRのタレントマネジメント領域にご興味をお持ちの方向けに、私たちがどのようなプロダクトを作り、その開発にどのような難しさや面白さがあるのかを紹介するものです。 お気軽にカジュアル面談のお申し込みをお待ちしております！ 募集中の職種 SmartHR エンジニア採用ページにて、タレントマネジメント領域の求人を掲載しています。ぜひご覧ください！ 【事業領域】ウェブアプリケーションエンジニア（プレイングマネージャー候補） なぜSmartHRがタレントマネジメントプロダクトを開発するのか 突然ですが、質問です。 あなたの組織の離職率が30%だったとします。原因はどこにあり、何から手…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/10/150748",
+            "title": "SmartHRのタレントマネジメントプロダクトにご興味をお持ちの方へ | SmartHR Tech Blog",
+            "summary": "この記事は、SmartHRのタレントマネジメント領域にご興味をお持ちの方向けに、私たちがどのようなプロダクトを作り、その開発にどのような難しさや面白さがあるのかを紹介するものです。 お気軽にカジュアル面談のお申し込みをお待ちしております！ 募集中の職種 SmartHR エンジニア採用ページにて、タレントマネジメント領域の求人を掲載しています。ぜひご覧ください！ 【事業領域】ウェブアプリケーションエ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a89062a19f554bef1aaaa78a635f547bfe108844/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260910%2F20260910150750.png",
+                "alt": "SmartHRのタレントマネジメントプロダクトにご興味をお持ちの方へ - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T06:07:48.000Z",
+            "date_published": "2026-09-10T06:07:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SmartHRのタレントマネジメントプロダクトにご興味をお持ちの方へ",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/10/150000",
+            "content_html": "営業AXサービス「Sansan」の機能開発では、プロダクトマネジャーとアーキテクトが、企画の要件を整理する段階から連携しています。「本当に必要な開発なのか」「どうすればユーザーに早く価値を届けられるのか」。 さまざまな機能を持ち、ユーザーの多いSansanだからこそ考える必要がある問いです。今回のインタビューでは、プロダクトマネジャーの杉原とアーキテクトの佐藤に、機能をユーザーへ届けるまでの連携や、Sansan開発ならではの面白さについて聞きました。 杉原 健太 / Kenta Sugihara Sansan事業部 プロダクト室 2017年にSansan株式会社に入社。入社後はWebアプリケー…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/10/150000",
+            "title": "「早く価値を届ける」ために。Sansanのプロダクトマネジャーとアーキテクトが一緒に考える、機能開発の裏側 | Sansan Tech Blog",
+            "summary": "営業AXサービス「Sansan」の機能開発では、プロダクトマネジャーとアーキテクトが、企画の要件を整理する段階から連携しています。「本当に必要な開発なのか」「どうすればユーザーに早く価値を届けられるのか」。 さまざまな機能を持ち、ユーザーの多いSansanだからこそ考える必要がある問いです。今回のインタビューでは、プロダクトマネジャーの杉原とアーキテクトの佐藤に、機能をユーザーへ届けるまでの連携や",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/efc27c1b00e98ca81228535da6a52855f610673e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260909%2F20260909153432.jpg",
+                "alt": "「早く価値を届ける」ために。Sansanのプロダクトマネジャーとアーキテクトが一緒に考える、機能開発の裏側 - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T06:00:00.000Z",
+            "date_published": "2026-09-10T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「早く価値を届ける」ために。Sansanのプロダクトマネジャーとアーキテクトが一緒に考える、機能開発の裏側",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/4d7621a39feb0a",
+            "content_html": "TL;DROpenAI 主催の Kaggle コンペ「AI Agent Security - Multi-Step Tool Attacks」（AI エージェントへのレッドチーミング）に参加しました。勝ち負けとは別に、AIセキュリティ研究者として得た気づきが3つあります。ブラックボックスでも「挙動の差」から内部を推定可能 上位者は、採点にかかった時間の差から非公開ガードレールで攻撃可能な経路を特定していました。ブラックボックスの対象に対して、応答の差異から脆弱性を探るというペネトレーションテストの発想を身をもって学びました。レッドチーミングとしての工夫の軸 ガードレールが...",
+            "url": "https://zenn.dev/mkj/articles/4d7621a39feb0a",
+            "title": "Kaggleのセキュリティコンペ「AI Agent Security - Multi-Step Tool Attacks」のふり返りと供養 | 松尾研究所テックブログのフィード",
+            "summary": "TL;DROpenAI 主催の Kaggle コンペ「AI Agent Security - Multi-Step Tool Attacks」（AI エージェントへのレッドチーミング）に参加しました。勝ち負けとは別に、AIセキュリティ研究者として得た気づきが3つあります。ブラックボックスでも「挙動の差」から内部を推定可能 上位者は、採点にかかった時間の差から非公開ガードレールで攻撃可能な経路を特定",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--5Bskos2Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E3%2580%258CAI%2520Agent%2520Security%2520-%2520Multi-Step%2520Tool%2520Atta...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25B3%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkMDZjNWUyYTQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:50:05.000Z",
+            "date_published": "2026-09-10T02:50:05.000Z",
+            "author": {
+                "name": "クリリン"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Kaggleのセキュリティコンペ「AI Agent Security - Multi-Step Tool Attacks」のふり返りと供養",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/fde-is-fun",
+            "content_html": "自己紹介 LayerXのAi Workforce事業部で、Forward Deployed Engineer (FDE)をやっている 川端 (lemon)です。 今年の2月に入社し、FDEとして働き始めて、半年ほどが経ちました。 今回は、FDEというキャリアの位置付けと、LayerXのAi Workforce事業部でFDEをやることの魅力についてお話しできればと思っております。 私はこれまで、アプリ開発エンジニア、チームと向き合うEM、プロダクト立ち上げのPdMや事業開発といったキャリアを歩んできました。 様々なキャリアを経験する中でも、自分たちの仕事で人に喜んでもらい、価値を届けることを重視…",
+            "url": "https://tech.layerx.co.jp/entry/fde-is-fun",
+            "title": "AI時代、エンジニアの職域はどこまで広がるか？お客さまの業務プロセス自体を変革するFDEの面白さ | LayerX エンジニアブログ",
+            "summary": "自己紹介 LayerXのAi Workforce事業部で、Forward Deployed Engineer (FDE)をやっている 川端 (lemon)です。 今年の2月に入社し、FDEとして働き始めて、半年ほどが経ちました。 今回は、FDEというキャリアの位置付けと、LayerXのAi Workforce事業部でFDEをやることの魅力についてお話しできればと思っております。 私はこれまで、アプ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/70cd37d7fb6acfdd2b330429ff0d14e30b46778e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fipod_nana%2F20260910%2F20260910111242.png",
+                "alt": "AI時代、エンジニアの職域はどこまで広がるか？お客さまの業務プロセス自体を変革するFDEの面白さ - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:41:11.000Z",
+            "date_published": "2026-09-10T02:41:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "AI時代、エンジニアの職域はどこまで広がるか？お客さまの業務プロセス自体を変革するFDEの面白さ",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX"
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37540",
+            "content_html": "Starlinkが日本に登場したのは2022年10月です。登場からそろそろ4年が経過し、様々な場面で活用されてきています。 今回、宮崎ケーブルテレビ株式会社（以...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37540",
+            "title": "Starlinkを花火大会の生中継で活用 〜観客席映像をSRT伝送で検証してみた〜 | IIJ Engineers Blog",
+            "summary": "Starlinkが日本に登場したのは2022年10月です。登場からそろそろ4年が経過し、様々な場面で活用されてきています。 今回、宮崎ケーブルテレビ株式会社（以...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/08/8e5a45d7fd30e07bed422174518b9840.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T02:08:13.000Z",
+            "date_published": "2026-09-10T02:08:13.000Z",
+            "author": {
+                "name": "谷口 崇"
+            },
+            "tags": [
+                "技術情報",
+                "Starlink",
+                "Starlink 事例紹介"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Starlinkを花火大会の生中継で活用 〜観客席映像をSRT伝送で検証してみた〜",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ"
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260910a",
+            "content_html": "こんにちは。LINEヤフーのディスプレイ広告（以下、ディスプレイ広告）の開発と兼務で、全社横断のWebパフォーマンス改善に取り組んでいるエンジニアの今宮です。一般にWebページの表示速度はユーザー体験...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260910a",
+            "title": "Yahoo!ニュースの表示高速化で広告のクリックは増えるのか | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEヤフーのディスプレイ広告（以下、ディスプレイ広告）の開発と兼務で、全社横断のWebパフォーマンス改善に取り組んでいるエンジニアの今宮です。一般にWebページの表示速度はユーザー体験...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/febcec3fa1f91bfd4a819a888b9395d3/7d66e/35b13aa06dde48d89a0692b5a32e234b.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:00:00.000Z",
+            "date_published": "2026-09-10T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Yahoo!ニュースの表示高速化で広告のクリックは増えるのか",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー"
+            }
+        },
+        {
+            "id": "https://developersblog.dmm.com/entry/2026/09/10/110000",
+            "content_html": "AIルールを育てることにした背景 まずは手動で試し、コストで一度つまずいた 実際の仕組み ルールファイルの管理方法 実際に生成されたルールの例 運用コスト 完全自動にはしなかった 今後の展望と課題 おわりに こんにちは。DMMオンラインサロン アーキテクトグループ エンジニアの土橋です。アーキテクトグループでは、オンラインサロンのシステム刷新プロジェクト「neon」と新規サービス開発に従事しています。 CursorやClaude Codeで実装を進める中で、同じレビュー指摘が何度も繰り返される、という課題がありました。指摘はそのPRの中で流れてしまい、次の実装に活きません。そこでPRマージを起…",
+            "url": "https://developersblog.dmm.com/entry/2026/09/10/110000",
+            "title": "PRレビューのコメントからAIルールを育てる仕組みを作ってみた | DMM Developers Blog",
+            "summary": "AIルールを育てることにした背景 まずは手動で試し、コストで一度つまずいた 実際の仕組み ルールファイルの管理方法 実際に生成されたルールの例 運用コスト 完全自動にはしなかった 今後の展望と課題 おわりに こんにちは。DMMオンラインサロン アーキテクトグループ エンジニアの土橋です。アーキテクトグループでは、オンラインサロンのシステム刷新プロジェクト「neon」と新規サービス開発に従事していま",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/71599d47f943ad23f45bb0a82f0bd4dc380621d5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260818%2F20260818204232.png",
+                "alt": "PRレビューのコメントからAIルールを育てる仕組みを作ってみた - DMM Developers Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:00:00.000Z",
+            "date_published": "2026-09-10T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "PRレビューのコメントからAIルールを育てる仕組みを作ってみた",
+                "blogTitle": "DMM Developers Blog",
+                "blogLink": "https://developersblog.dmm.com/",
+                "blogLinkMd5Hash": "400eb9d3d1b0e34637a4d3e559ecaa80",
+                "favicon": "https://developersblog.dmm.com/icon/favicon",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "DMM"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/10/110000",
+            "content_html": "Sansanでは、新卒入社のエンジニア・研究員たちが数多く活躍しています。 なぜSansanを選び、入社後にどんな経験を積み、これから何を目指しているのか。 「Sansan Sakura Stories」では、その「過去・現在・未来」を通して、一人ひとりの等身大の姿をお届けします。今回のインタビューでは、2025年に新卒で入社し、現在は経理AXサービス「Bill One」の請求書領域で開発をリードする今村に話を聞きました。 今村 悠聖 / Yusei ImamuraBill One APプロダクト開発部2025年4月に新卒として入社。大学時代は100名を超える学生エンジニア団体の代表を務め、並…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/10/110000",
+            "title": "選んだ会社で選択肢を増やす。 Bill Oneで広がった新卒エンジニアのキャリア | Sansan Tech Blog",
+            "summary": "Sansanでは、新卒入社のエンジニア・研究員たちが数多く活躍しています。 なぜSansanを選び、入社後にどんな経験を積み、これから何を目指しているのか。 「Sansan Sakura Stories」では、その「過去・現在・未来」を通して、一人ひとりの等身大の姿をお届けします。今回のインタビューでは、2025年に新卒で入社し、現在は経理AXサービス「Bill One」の請求書領域で開発をリード",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/204a2f3630ab0348bdf8416ab8f7775b901da827/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260909%2F20260909152401.jpg",
+                "alt": "選んだ会社で選択肢を増やす。 Bill Oneで広がった新卒エンジニアのキャリア - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-10T02:00:00.000Z",
+            "date_published": "2026-09-10T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "選んだ会社で選択肢を増やす。 Bill Oneで広がった新卒エンジニアのキャリア",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/memory-manager-context-reuse",
+            "content_html": "はじめに こんにちは、ZOZOTOWN開発本部Webバックエンドブロックの和氣です。普段はZOZOTOWNのバックエンドを担当しています。 日々の開発にClaude Codeを使っています。使ううちに、仕様や経緯を毎回プロンプトで説明し直していることに気づきました。そこで、Claude Codeとの会話をMarkdownで残し、作業に合わせたコンテキストをClaude Code自身が組み上げるようにしました。以降、残したMarkdownを「メモリ」と呼びます（Claude Code標準のメモリ機能とは別物です。違いは後述します）。 現在、メモリは個人に閉じず、職種を跨いで十数人で共有しています…",
+            "url": "https://techblog.zozo.com/entry/memory-manager-context-reuse",
+            "title": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOTOWN開発本部Webバックエンドブロックの和氣です。普段はZOZOTOWNのバックエンドを担当しています。 日々の開発にClaude Codeを使っています。使ううちに、仕様や経緯を毎回プロンプトで説明し直していることに気づきました。そこで、Claude Codeとの会話をMarkdownで残し、作業に合わせたコンテキストをClaude Code自身が組み上げるよう",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8bc1507296c76ee4bcdab237fd4b2dcf3d90e9c6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260908%2F20260908105835.png",
+                "alt": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T02:00:00.000Z",
+            "date_published": "2026-09-10T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 41,
+                "originalTitle": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ41件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66226",
+            "content_html": "はじめに はじめまして。大阪電気通信大学 情報通信工学部 情報工学科3年の多田早澄です。 2026年8月の1か",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66226/",
+            "title": "インシデント調査エージェントを開発した話 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "はじめに はじめまして。大阪電気通信大学 情報通信工学部 情報工学科3年の多田早澄です。 2026年8月の1か",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T01:06:57.000Z",
+            "date_published": "2026-09-10T01:06:57.000Z",
+            "author": {
+                "name": "internship"
+            },
+            "tags": [
+                "エンジニア",
+                "ABEMA",
+                "インターンシップ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "インシデント調査エージェントを開発した話",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/cloud-run-delayed-jobs-explained",
+            "content_html": "G-gen の佐々木です。当記事では、実行開始を最大12時間遅らせる代わりに安価に Cloud Run jobs を実行できる機能、遅延ジョブ（delayed job）について解説します。 概要 Cloud Run jobs とは 遅延ジョブとは ユースケース 遅延ジョブの基本 仕組み トリガーの選び方 タスクのタイムアウト上限 料金比較 単価の比較 月額の試算 注意点 設定手順 遅延ジョブの作成 通常ジョブを遅延実行する 動作確認 待機中の実行の状態 タスクのタイムアウト上限の確認 Cloud Scheduler による平日と週末の使い分けの例 構成 設計上の注意 必要なロール Schedu…",
+            "url": "https://blog.g-gen.co.jp/entry/cloud-run-delayed-jobs-explained",
+            "title": "Cloud Run jobsの遅延ジョブを解説 | G-gen Tech Blog",
+            "summary": "G-gen の佐々木です。当記事では、実行開始を最大12時間遅らせる代わりに安価に Cloud Run jobs を実行できる機能、遅延ジョブ（delayed job）について解説します。 概要 Cloud Run jobs とは 遅延ジョブとは ユースケース 遅延ジョブの基本 仕組み トリガーの選び方 タスクのタイムアウト上限 料金比較 単価の比較 月額の試算 注意点 設定手順 遅延ジョブの作成",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/105f550366245074771d3c43a0f7cde920697c4c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260910%2F20260910090002.png",
+                "alt": "Cloud Run jobsの遅延ジョブを解説 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-10T00:00:00.000Z",
+            "date_published": "2026-09-10T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud Run jobsの遅延ジョブを解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66276",
+            "content_html": "はじめに CyberAgent の 27卒のサーバーサイドエンジニア内定者として内定者バイトをしていた 三村雄 エンジニア",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66276/",
+            "title": "ABEMA の開発者ツールの改善 : コスト最適化とマルチクラスタ対応 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "はじめに CyberAgent の 27卒のサーバーサイドエンジニア内定者として内定者バイトをしていた 三村雄 エンジニア",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T23:00:56.000Z",
+            "date_published": "2026-09-09T23:00:56.000Z",
+            "author": {
+                "name": "Yuto Mimura"
+            },
+            "tags": [
+                "エンジニア",
+                "ABEMA",
+                "Go",
+                "kubernetes",
+                "SRE"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ABEMA の開発者ツールの改善 : コスト最適化とマルチクラスタ対応",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=65395",
+            "content_html": "グループIT推進本部でライセンスの管理をしている鷹雄です。 今回はサイバーエージェントで導入しているAIサービ",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/65395/",
+            "title": "音声入力は「速く書く」だけではない。Aqua Voice Enterpriseを導入した理由 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "グループIT推進本部でライセンスの管理をしている鷹雄です。 今回はサイバーエージェントで導入しているAIサービ",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T23:00:21.000Z",
+            "date_published": "2026-09-09T23:00:21.000Z",
+            "author": {
+                "name": "Ken Takao"
+            },
+            "tags": [
+                "エンジニア",
+                "AI活用",
+                "Enterprise SaaS",
+                "生産性向上",
+                "音声入力"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "音声入力は「速く書く」だけではない。Aqua Voice Enterpriseを導入した理由",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+            "content_html": "こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する IT 基盤部第二グループで MySQL を 8.4 以降どのように動かし続けるかについて検討したことを紹介します。 結論としては Aurora などのマネージドサービスへの移行を選択しており、他の選択肢で実際に導入検証ができた部分も少ないのですが、変わり続けるデータ …",
+            "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+            "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | Blog on DeNA Engineering",
+            "summary": "こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する IT 基盤部第二グループで MySQL を 8.4 以降どのように動かし続けるかについて検討したことを紹介します。 結論としては Aurora などのマネージドサービスへの移行を選択しており、他の選択肢で実際に導入検証ができた部分も少ないのですが、変わり続けるデータ",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T15:00:00.000Z",
+            "date_published": "2026-09-09T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 55,
+                "originalTitle": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE]",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "はてブ55件",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159722",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Shrinking Ruby Hashes | b",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_09/159722",
+            "title": "RubyのHashがメモリ食いである理由を探ってメモリ使用量を削減した話（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Shrinking Ruby Hashes | b",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/ruby_shrinking_hashes_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T08:30:09.000Z",
+            "date_published": "2026-09-09T08:30:09.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "hash",
+                "malloc",
+                "Ruby",
+                "オブジェクトシェイプ",
+                "最適化",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 36,
+                "originalTitle": "RubyのHashがメモリ食いである理由を探ってメモリ使用量を削減した話（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ36件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://mackerel.io/ja/blog/entry/weekly/20260909",
+            "content_html": "こんにちは、Mackerel CREチームの須藤(id:do-su-0805)です。今回のアップデート内容をお知らせいたします。 AWSインテグレーションによるALB連携にてIPv6に関するメトリックの取得に対応しました APMのトレース検索で検索対象とする時間範囲に10分より短い間隔を指定できるようになりました 監視ルール一覧に最終アラート発生日時と直近30日のアラート発生回数を表示するようになりました 監視ルール一覧をソートできるようになりました 概算使用量メトリックでログのデータ量がわかるようになりました terraform-provider-mackerelでURL外形監視のIPバージ…",
+            "url": "https://mackerel.io/ja/blog/entry/weekly/20260909",
+            "title": "AWSインテグレーションによるALB連携にてIPv6に関するメトリックの取得に対応しました ほか5件のアップデート | Mackerel ブログ #mackerelio",
+            "summary": "こんにちは、Mackerel CREチームの須藤(id:do-su-0805)です。今回のアップデート内容をお知らせいたします。 AWSインテグレーションによるALB連携にてIPv6に関するメトリックの取得に対応しました APMのトレース検索で検索対象とする時間範囲に10分より短い間隔を指定できるようになりました 監視ルール一覧に最終アラート発生日時と直近30日のアラート発生回数を表示するようにな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4ffdf8501a2524dc18795367581298db819053be/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20260908%2F20260908232631.png",
+                "alt": "AWSインテグレーションによるALB連携にてIPv6に関するメトリックの取得に対応しました ほか5件のアップデート - Mackerel ブログ #mackerelio",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T08:14:57.000Z",
+            "date_published": "2026-09-09T08:14:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWSインテグレーションによるALB連携にてIPv6に関するメトリックの取得に対応しました ほか5件のアップデート",
+                "blogTitle": "Mackerel ブログ #mackerelio",
+                "blogLink": "https://mackerel.io/ja/blog/",
+                "blogLinkMd5Hash": "6274999a3d0a169575b1c551d2730aae",
+                "favicon": "https://mackerel.io/ja/blog/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Mackerel"
+            }
+        },
+        {
+            "id": "https://tech.speee.jp/entry/2026/09/09/133550",
+            "content_html": "Speeeの大場です。 AIの助けを借りて、アプリケーションが動いた。そのとき、ブラウザから送られたリクエストがどう処理され、画面に結果が返ってくるのかを、自分の言葉で説明できるでしょうか。 これからエンジニアを目指す方にとって、「AIを使って開発しながら、何を、どこまで自分で理解すればよいのか」は悩ましい問いです。新卒エンジニアの教育を担う方も、成果物を作る経験を、技術への理解にどうつなげるかを考える場面があるのではないでしょうか。 Speeeでは、この問いに向き合う取り組みとして、Webアプリケーション研修教材を公開します。この記事では、教材の背景にある問題意識と、学習の機会をどう設計した…",
+            "url": "https://tech.speee.jp/entry/2026/09/09/133550",
+            "title": "「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開 | Speee DEVELOPER BLOG",
+            "summary": "Speeeの大場です。 AIの助けを借りて、アプリケーションが動いた。そのとき、ブラウザから送られたリクエストがどう処理され、画面に結果が返ってくるのかを、自分の言葉で説明できるでしょうか。 これからエンジニアを目指す方にとって、「AIを使って開発しながら、何を、どこまで自分で理解すればよいのか」は悩ましい問いです。新卒エンジニアの教育を担う方も、成果物を作る経験を、技術への理解にどうつなげるかを",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/6653586347153657344/14945776032073236195/1788928550",
+                "alt": "「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開 - Speee DEVELOPER BLOG"
+            },
+            "date_modified": "2026-09-09T04:35:50.000Z",
+            "date_published": "2026-09-09T04:35:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 82,
+                "originalTitle": "「なぜ動くのか」を説明できるエンジニアへ。自作で学ぶWebアプリケーション研修教材を公開",
+                "blogTitle": "Speee DEVELOPER BLOG",
+                "blogLink": "https://tech.speee.jp/",
+                "blogLinkMd5Hash": "5917629801b0fb9e81c819bf2fc16bcd",
+                "favicon": "https://tech.speee.jp/icon/favicon",
+                "pickReason": "はてブ82件",
+                "sourceTier": "core",
+                "sourceLabel": "Speee"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/quine-maker",
+            "content_html": "はじめに エムスリー株式会社、業務執行役員VPoEの河合(@vaaaaanquish)です。 本記事は、私もGMとして在籍する「AskDoctors開発チーム」のブログリレー 5日目の記事です。 本記事では、私が個人開発した「QuineMaker」というサービスの技術面の紹介をします。 はじめに QuineMakerについて Quineについて Quineの作り方 画像からのQuine生成 画像に対して適切なコードを見つける 色付きQuineの生成 動画からのQuine生成 動画からのQuineの難しさ おわりに We are hiring !!",
+            "url": "https://www.m3tech.blog/entry/quine-maker",
+            "title": "QuineMakerを作った話と技術的な解説 | エムスリーテックブログ",
+            "summary": "はじめに エムスリー株式会社、業務執行役員VPoEの河合(@vaaaaanquish)です。 本記事は、私もGMとして在籍する「AskDoctors開発チーム」のブログリレー 5日目の記事です。 本記事では、私が個人開発した「QuineMaker」というサービスの技術面の紹介をします。 はじめに QuineMakerについて Quineについて Quineの作り方 画像からのQuine生成 画像に",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/98edd529498c5b820d3cad2d5ede33add178a2b3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260909%2F20260909131223.png",
+                "alt": "QuineMakerを作った話と技術的な解説 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T04:11:58.000Z",
+            "date_published": "2026-09-09T04:11:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 22,
+                "originalTitle": "QuineMakerを作った話と技術的な解説",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ22件",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/09/130000",
+            "content_html": "はじめに チューニングをしよう 問題発生 本当に必要か考える まとめ はじめに はじめまして、Sansan Engineering Unit Product Reliability Groupの狩野です。 2021年に新卒入社してから現在まで、営業AXサービス「Sansan」の開発に携わっています。 Sansanは現在1万社以上で利用いただいており、数億件規模の名刺をはじめとする膨大なデータを扱っています。 そんなSansanでは新規機能の開発だけでなく既存機能のパフォーマンス改善にも継続的に取り組んでおり、ここ1年でPC版の画面レスポンスタイムを約40%短縮することに成功しています。 本記事…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/09/130000",
+            "title": "マルチテナントアプリケーションのクエリチューニング実例 | Sansan Tech Blog",
+            "summary": "はじめに チューニングをしよう 問題発生 本当に必要か考える まとめ はじめに はじめまして、Sansan Engineering Unit Product Reliability Groupの狩野です。 2021年に新卒入社してから現在まで、営業AXサービス「Sansan」の開発に携わっています。 Sansanは現在1万社以上で利用いただいており、数億件規模の名刺をはじめとする膨大なデータを扱っ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4888bc3d9ca320516ec54f7d17ce4c2c4ce22716/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260909%2F20260909231145.png",
+                "alt": "マルチテナントアプリケーションのクエリチューニング実例 - Sansan Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T04:00:00.000Z",
+            "date_published": "2026-09-09T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "マルチテナントアプリケーションのクエリチューニング実例",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/09/113000",
+            "content_html": "Sansan株式会社は、2026年9月11日（金）に東京都中野区の中野セントラルパークサウスで開催されるGo Conference 2026に、ブロンズスポンサーとして協賛します。 Go Conferenceは、プログラミング言語Goのユーザーコミュニティが主催するカンファレンスです。 今回、Sansanとして初めて協賛することになり、社内でGoを利用しているエンジニアを中心に有志で参加を予定しています。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/09/113000",
+            "title": "Go Conference 2026にブロンズスポンサーとして初協賛します | Sansan Tech Blog",
+            "summary": "Sansan株式会社は、2026年9月11日（金）に東京都中野区の中野セントラルパークサウスで開催されるGo Conference 2026に、ブロンズスポンサーとして協賛します。 Go Conferenceは、プログラミング言語Goのユーザーコミュニティが主催するカンファレンスです。 今回、Sansanとして初めて協賛することになり、社内でGoを利用しているエンジニアを中心に有志で参加を予定して",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032064932164/1788923721",
+                "alt": "Go Conference 2026にブロンズスポンサーとして初協賛します - Sansan Tech Blog"
+            },
+            "date_modified": "2026-09-09T02:30:00.000Z",
+            "date_published": "2026-09-09T02:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Go Conference 2026にブロンズスポンサーとして初協賛します",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://developersblog.dmm.com/entry/2026/09/09/110000",
+            "content_html": "はじめに SRE NEXT 2026とは ― 「Inclusive SRE」を掲げた約1,000人規模のカンファレンス 発表内容ダイジェスト ― 「オブザーバビリティ、本当に活用できてる？」 なぜこのテーマで登壇したのか 発表の要点 当日の様子と参加者の反応 「あの発表を見ました」から始まった対話 Ask the Speakerでの対話 登壇準備での苦労と工夫 登壇を通じた学び ― 理想論より「実践知」が伝わる 今後の展望 ― 評価から「自動改善」へ まとめ はじめに こんにちは。ITインフラ本部 SRE部の庭野です。 2026年7月10日（金）〜11日（土）に開催された「SRE NEXT 2…",
+            "url": "https://developersblog.dmm.com/entry/2026/09/09/110000",
+            "title": "SRE NEXT 2026に登壇しました ― オブザーバビリティ成熟度をAPI連携×生成AIで自動評価した話 | DMM Developers Blog",
+            "summary": "はじめに SRE NEXT 2026とは ― 「Inclusive SRE」を掲げた約1,000人規模のカンファレンス 発表内容ダイジェスト ― 「オブザーバビリティ、本当に活用できてる？」 なぜこのテーマで登壇したのか 発表の要点 当日の様子と参加者の反応 「あの発表を見ました」から始まった対話 Ask the Speakerでの対話 登壇準備での苦労と工夫 登壇を通じた学び ― 理想論より「実",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/63a34a81a7cc7b70c386053115a7b13f6fda82bc/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260903%2F20260903155933.png",
+                "alt": "SRE NEXT 2026に登壇しました ― オブザーバビリティ成熟度をAPI連携×生成AIで自動評価した話 - DMM Developers Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T02:00:00.000Z",
+            "date_published": "2026-09-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "SRE NEXT 2026に登壇しました ― オブザーバビリティ成熟度をAPI連携×生成AIで自動評価した話",
+                "blogTitle": "DMM Developers Blog",
+                "blogLink": "https://developersblog.dmm.com/",
+                "blogLinkMd5Hash": "400eb9d3d1b0e34637a4d3e559ecaa80",
+                "favicon": "https://developersblog.dmm.com/icon/favicon",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "DMM"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/screen-analyze-v2",
+            "content_html": "はじめに こんにちは、ZOZOTOWN開発2部Webバックエンドブロックのぐらです。普段はZOZOTOWNのバックエンド開発を担当しています。ZOZOTOWNのリプレイスでは、既存システムの仕様を正確に把握することが欠かせません。私たちはこの分析にAIを活用してきました。しかし、人間による追加調査がまだまだ必要という課題を抱えていました。本記事では、AIによる既存システムの分析ワークフローを作り直した過程と、そこで得られた知見を紹介します。",
+            "url": "https://techblog.zozo.com/entry/screen-analyze-v2",
+            "title": "既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOTOWN開発2部Webバックエンドブロックのぐらです。普段はZOZOTOWNのバックエンド開発を担当しています。ZOZOTOWNのリプレイスでは、既存システムの仕様を正確に把握することが欠かせません。私たちはこの分析にAIを活用してきました。しかし、人間による追加調査がまだまだ必要という課題を抱えていました。本記事では、AIによる既存システムの分析ワークフローを作り直",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/13f4723cd7fa5105d5c10a0da4a67f0d064103f8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260907%2F20260907172834.png",
+                "alt": "既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T02:00:00.000Z",
+            "date_published": "2026-09-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "既存システムのAI分析ワークフローを作り直す ── レビュー負担を減らす3つの改善",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-sda/entry",
+            "content_html": "生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間とAIが段階的に分析を進める仕様駆動データ分析（Specification-Driven Analytics、以下SDA）というアプローチを検討しました。 なお、SDAは、仕様駆動開発などの考え方を基に、私たちが生成AIを使ったデータ分析で試行している進め方を整理したものです。新しい標準手法を提唱す…",
+            "url": "https://engineers.ntt.com/entry/202609-sda/entry",
+            "title": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践 | NTT docomo Business Engineers' Blog",
+            "summary": "生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間とAIが段階的に分析を進める仕様駆動データ分析（Specification-Driven Analy",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5e395da232f1f690eebbd001d6cfaa879e094942/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20260908%2F20260908205726.png",
+                "alt": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践 - NTT docomo Business Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T00:02:07.000Z",
+            "date_published": "2026-09-09T00:02:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 34,
+                "originalTitle": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ34件",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/m2vm-from-aws-to-google-cloud",
+            "content_html": "G-gen の本間です。当記事では、Migrate to Virtual Machines を使って、Amazon Web Services（AWS）から Google Cloud へ仮想マシンを移行する方法を解説します。 はじめに Migrate to Virtual Machines とは サポートされる環境 移行手順の概要 前提事項 AWS 側の設定 Google Cloud 側の設定 注意点 AWS 側の設定 Google Cloud 側の設定 インスタンスのレプリケーション ターゲットインスタンスの定義 テストクローンの作成と動作確認 カットオーバー レプリケーションの最終処理 はじ…",
+            "url": "https://blog.g-gen.co.jp/entry/m2vm-from-aws-to-google-cloud",
+            "title": "Migrate to Virtual Machinesを使ってAWSからGoogle CloudにVMを移行する方法 | G-gen Tech Blog",
+            "summary": "G-gen の本間です。当記事では、Migrate to Virtual Machines を使って、Amazon Web Services（AWS）から Google Cloud へ仮想マシンを移行する方法を解説します。 はじめに Migrate to Virtual Machines とは サポートされる環境 移行手順の概要 前提事項 AWS 側の設定 Google Cloud 側の設定 注意",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/3fc4bf95090937895e46659694c3b9e36fe8fe08/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260909%2F20260909090143.png",
+                "alt": "Migrate to Virtual Machinesを使ってAWSからGoogle CloudにVMを移行する方法 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-09T00:00:00.000Z",
+            "date_published": "2026-09-09T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Migrate to Virtual Machinesを使ってAWSからGoogle CloudにVMを移行する方法",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/09/spec-and-verify-loop-proxysql-eks/",
+            "content_html": "  はじめに  こんにちは。IT 本部 IT 基盤部第一グループの山本です。 2022 年に、   ProxySQL を使って Aurora MySQL の新規接続の遅延を解消した話   を書きました。今回はその続きで、当時 EC2 上に置いた ProxySQL1 を EKS2 へ移した際の話です。 ただし今回紹介したいのはその移行の手順ではありません。ProxySQL 自体 …",
+            "url": "https://engineering.dena.com/blog/2026/09/spec-and-verify-loop-proxysql-eks/",
+            "title": "AI に実装を任せるための仕様と検証ループ 〜ProxySQL に足りない機能を実装で埋めた〜 [DeNA インフラ SRE] | Blog on DeNA Engineering",
+            "summary": "  はじめに  こんにちは。IT 本部 IT 基盤部第一グループの山本です。 2022 年に、   ProxySQL を使って Aurora MySQL の新規接続の遅延を解消した話   を書きました。今回はその続きで、当時 EC2 上に置いた ProxySQL1 を EKS2 へ移した際の話です。 ただし今回紹介したいのはその移行の手順ではありません。ProxySQL 自体 …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/09/spec-and-verify-loop-proxysql-eks/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T15:00:00.000Z",
+            "date_published": "2026-09-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI に実装を任せるための仕様と検証ループ 〜ProxySQL に足りない機能を実装で埋めた〜 [DeNA インフラ SRE]",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA"
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20260909a/",
+            "content_html": "2026年7月から8月の約2か月で、AWS認定の残り11資格に一発合格し、全冠を達成しました。細かい学習計画は立てず、合格したその場で次の試験を予約する「予定先入れ・締切駆動」で進めた記録です。",
+            "url": "https://future-architect.github.io/articles/20260909a/",
+            "title": "夏休みの宿題をオンスケで終えられなかった私が、AWS全冠を約2か月で完走できた理由 | フューチャー技術ブログ",
+            "summary": "2026年7月から8月の約2か月で、AWS認定の残り11資格に一発合格し、全冠を達成しました。細かい学習計画は立てず、合格したその場で次の試験を予約する「予定先入れ・締切駆動」で進めた記録です。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20260909a/thumbnail.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T15:00:00.000Z",
+            "date_published": "2026-09-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 56,
+                "originalTitle": "夏休みの宿題をオンスケで終えられなかった私が、AWS全冠を約2か月で完走できた理由",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ56件",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159597",
+            "content_html": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597",
+            "title": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳） | TechRacho",
+            "summary": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/macos_setup_script_2026_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T08:30:45.000Z",
+            "date_published": "2026-09-08T08:30:45.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "MacBook",
+                "macOS",
+                "ツール",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 170,
+                "originalTitle": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ170件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary",
+            "content_html": "はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段は、システムアーキテクチャの全体最適化など、モノリスからマイクロサービスへシステムをリプレイスする過程で生じる、複数チーム間の課題解決を主に担当しています。 本記事では、ZOZOの基幹システムリプレイスにおいてモノリスからマイクロサービスへ移行するために、イベントストーミングを起点にドメイン間の境界と責務の決定をどのように進めたかを紹介します。あわせて、既存コードの解析と付箋への変換に使ったClaude CodeのAgent Skillsの設計を、付録で共有します。なお、イベントストーミング（業務で起きる出…",
+            "url": "https://techblog.zozo.com/entry/bo-stock-replace-domain-boundary",
+            "title": "「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ECプラットフォーム部マイクロサービス戦略ブロックの半澤です。普段は、システムアーキテクチャの全体最適化など、モノリスからマイクロサービスへシステムをリプレイスする過程で生じる、複数チーム間の課題解決を主に担当しています。 本記事では、ZOZOの基幹システムリプレイスにおいてモノリスからマイクロサービスへ移行するために、イベントストーミングを起点にドメイン間の境界と責務の決定",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5b528708c497ce92af1eaf6b2831f5ecb3a7225b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260904%2F20260904172947.png",
+                "alt": "「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T08:00:00.000Z",
+            "date_published": "2026-09-08T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 32,
+                "originalTitle": "「みんなのもの」の在庫は、1つのドメインとして成立するのか ── 20年もののモノリスから境界と責務を決めるまで",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ32件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/embulk-to-dlt-dbt",
+            "content_html": "この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コンシューマーチームで大幅なメンテナンスなく元気に動いていたEmbulkですが、今年の夏に全部やめました。 なぜやめたのか、なぜ dlt + dbt なのか、やってみてどこでハマったのか、という順で書いています。 新しい技術の話はほとんどなく…",
+            "url": "https://www.m3tech.blog/entry/embulk-to-dlt-dbt",
+            "title": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 | エムスリーテックブログ",
+            "summary": "この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コンシューマーチームで大幅なメンテナンスな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/bcbb8896dec324c1bf03ebbdad0f0a3376556962/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260908%2F20260908135411.png",
+                "alt": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 - エムスリーテックブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T04:54:10.000Z",
+            "date_published": "2026-09-08T04:54:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 55,
+                "originalTitle": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ55件",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-robotbu/entry",
+            "content_html": "従業員の家族を職場に招く「ファミリーデー」で、子どもたちに通信の仕組みを体験してもらうため、光ファイバーを使った音声通話装置を一から作りました。 この記事では、回路の試作やプリント基板・ケースの製作、人数分の量産、そして当日の実験教室の様子までをご紹介します。 はじめに AIロボット部とは 光ファイバーで「通信」を体験してもらう 通信装置を作る アナログ回路と格闘する プリント基板を作る ケースも3Dプリンターで作る そして量産へ…… 当日の様子 おわりに はじめに こんにちは、AIロボット部（社内サークル）部員の浅野秀平です。 普段はデジタル改革推進部で、社内のデータ分析の仕事をしています。…",
+            "url": "https://engineers.ntt.com/entry/202609-robotbu/entry",
+            "title": "「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話 | NTT docomo Business Engineers' Blog",
+            "summary": "従業員の家族を職場に招く「ファミリーデー」で、子どもたちに通信の仕組みを体験してもらうため、光ファイバーを使った音声通話装置を一から作りました。 この記事では、回路の試作やプリント基板・ケースの製作、人数分の量産、そして当日の実験教室の様子までをご紹介します。 はじめに AIロボット部とは 光ファイバーで「通信」を体験してもらう 通信装置を作る アナログ回路と格闘する プリント基板を作る ケースも",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f608cb40a118bf28321fcc7a97d01cdd8bb033ef/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FN%2FNTTCom%2F20260903%2F20260903105444.png",
+                "alt": "「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話 - NTT docomo Business Engineers' Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T04:22:03.000Z",
+            "date_published": "2026-09-08T04:22:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 42,
+                "originalTitle": "「ひかりでんわ」を作って学ぶ、子ども向け通信実験教室をやった話",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ42件",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/08/130000",
+            "content_html": "本記事は、Sansanモバイルブログリレーの記事として公開しています。 Sansanモバイルブログリレーとは SansanのMobile Application グループでは、iOSDC Japan 2026やDroidKaigi 2026の開催にあわせて、モバイルアプリ業界をより一層盛り上げるために、日々の開発で得た知見をブログリレー形式で発信することを始めました。 アプリ開発の設計、運用、チームでの取り組みなど、実際のプロダクト開発を通じて得られた学びを共有することで、モバイルアプリの開発に携わる方々の参考になれば幸いです。 はじめに こんにちは。技術本部 Sansan Engineeri…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/08/130000",
+            "title": "新卒2年目、初めてづくしの機能開発 ── 新卒2年目のAIサーチ開発記 | Sansan Tech Blog",
+            "summary": "本記事は、Sansanモバイルブログリレーの記事として公開しています。 Sansanモバイルブログリレーとは SansanのMobile Application グループでは、iOSDC Japan 2026やDroidKaigi 2026の開催にあわせて、モバイルアプリ業界をより一層盛り上げるために、日々の開発で得た知見をブログリレー形式で発信することを始めました。 アプリ開発の設計、運用、チー",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/7b58c7c4d9734821477c2226c42d6bea80ea8efe/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260908%2F20260908130011.png",
+                "alt": "新卒2年目、初めてづくしの機能開発 ── 新卒2年目のAIサーチ開発記 - Sansan Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T04:00:00.000Z",
+            "date_published": "2026-09-08T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "新卒2年目、初めてづくしの機能開発 ── 新卒2年目のAIサーチ開発記",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/fad8adf0586665",
+            "content_html": "はじめにこんにちは、松尾研究所 データサイエンティストの力岡です。今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。本コンペは、「AIエージェントのセキュリティ」を題材にしたレッドチーミングコンペです。PublicリーダーボードとPrivateリーダーボードで順位がほとんど入れ替わる激しいシェイクアップが起き、2,802チームがPrivateで...",
+            "url": "https://zenn.dev/mkj/articles/fad8adf0586665",
+            "title": "Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks | 松尾研究所テックブログのフィード",
+            "summary": "はじめにこんにちは、松尾研究所 データサイエンティストの力岡です。今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。本コンペは、「AIエージェントのセキュリティ」",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--bxVAOzQQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E7%25B4%25B9%25E4%25BB%258B%25EF%25BC%259AAI%2520Agent%2520Security%2520-%2520Multi-Step%2520Tool%2520Attacks%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Rick%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkMTQ1MDUyZWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T02:50:05.000Z",
+            "date_published": "2026-09-08T02:50:05.000Z",
+            "author": {
+                "name": "Rick"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 8,
+                "originalTitle": "Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ8件",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/20260821-girls-meet-stem",
+            "content_html": "はじめに こんにちは。Developer Engagementブロックの@wirohaです。8月21日（金）に、ZOZOにて中高生女子を対象とした体験イベント「ZOZOTOWN・WEARを支える技術と働き方を知ろう！」を開催しました。 これは公益財団法人山田進太郎D&amp;I財団が実施する「Girls Meet STEM」プログラムの一環です。中高生女子がSTEM（科学・技術・工学・数学）分野で働く人やSTEM分野で学ぶ学生、実際の現場に触れることで、将来の可能性を広げる機会を提供することを目的としています。ZOZOではこの活動の意義に共感し2024年より参画しており、今回は4度目の開催です。 今回…",
+            "url": "https://techblog.zozo.com/entry/20260821-girls-meet-stem",
+            "title": "Girls Meet STEM 2026夏「ZOZOTOWN・WEARを支える技術と働き方を知ろう！」を開催しました！ | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは。Developer Engagementブロックの@wirohaです。8月21日（金）に、ZOZOにて中高生女子を対象とした体験イベント「ZOZOTOWN・WEARを支える技術と働き方を知ろう！」を開催しました。 これは公益財団法人山田進太郎D&amp;I財団が実施する「Girls Meet STEM」プログラムの一環です。中高生女子がSTEM（科学・技術・工学・数学）分野で働く人や",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/fb23cacd5aca998a5c2df2ea6e5b800a315d44df/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260827%2F20260827171922.png",
+                "alt": "Girls Meet STEM 2026夏「ZOZOTOWN・WEARを支える技術と働き方を知ろう！」を開催しました！ - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T02:00:00.000Z",
+            "date_published": "2026-09-08T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Girls Meet STEM 2026夏「ZOZOTOWN・WEARを支える技術と働き方を知ろう！」を開催しました！",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/08/100000",
+            "content_html": "3週間・14営業日の就業インターンで、本番リリースを2件。 どちらも全社員の権限管理とセキュリティーに、直接効果的な影響を及ぼす仕組みを、コーポレートシステム部として初めて受け入れる就業インターン生に任せました。 この記事で伝えたいことは、主に2つです。 学生の方へ：コーポレートエンジニアリングは、地味に見えるかもしれません。しかし、全社員の働き方やセキュリティーに直接効果的な影響を及ぼす、本番の仕組みを作れる仕事です。短い期間でも、設計・実装・運用・関係者調整まで含めて、主体的に関わった実感を得られる領域です。 インターンを受け入れるテック企業、とくに情シス部門で意思決定する方へ：短期インタ…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/08/100000",
+            "title": "情シス部門が就業インターン生に「全社に効果的な影響を及ぼす本番リリース」を任せた3週間 | Sansan Tech Blog",
+            "summary": "3週間・14営業日の就業インターンで、本番リリースを2件。 どちらも全社員の権限管理とセキュリティーに、直接効果的な影響を及ぼす仕組みを、コーポレートシステム部として初めて受け入れる就業インターン生に任せました。 この記事で伝えたいことは、主に2つです。 学生の方へ：コーポレートエンジニアリングは、地味に見えるかもしれません。しかし、全社員の働き方やセキュリティーに直接効果的な影響を及ぼす、本番の",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032069912327/1788829210",
+                "alt": "情シス部門が就業インターン生に「全社に効果的な影響を及ぼす本番リリース」を任せた3週間 - Sansan Tech Blog"
+            },
+            "date_modified": "2026-09-08T01:00:00.000Z",
+            "date_published": "2026-09-08T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "情シス部門が就業インターン生に「全社に効果的な影響を及ぼす本番リリース」を任せた3週間",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/08/093129",
+            "content_html": "こんにちは。SmartHRでプロダクトエンジニアをしているdelhi09です。私が所属するチームは「基本機能」と呼ばれるSmartHR最大のRailsアプリケーションの開発に携わっています。 私たちのチームでは2026年前期の約半年間にわたり、本業のフィーチャー開発の傍らで結合テストへのAI活用の検証を進めてきました。本記事はその試行錯誤の総括と知見の共有です。 前置きしておくと、AIを活用したことで結合テストが速く楽になりましたというような成功談ではありません。むしろうまくいかなかった話のほうが多いです。しかし、うまくいかなかった話を共有することで、読んでいただいた皆さんにとって、結合テスト…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/08/093129",
+            "title": "結合テスト工程へのAI導入の現在地 ── あるスクラムチームの半年間の試行錯誤 | SmartHR Tech Blog",
+            "summary": "こんにちは。SmartHRでプロダクトエンジニアをしているdelhi09です。私が所属するチームは「基本機能」と呼ばれるSmartHR最大のRailsアプリケーションの開発に携わっています。 私たちのチームでは2026年前期の約半年間にわたり、本業のフィーチャー開発の傍らで結合テストへのAI活用の検証を進めてきました。本記事はその試行錯誤の総括と知見の共有です。 前置きしておくと、AIを活用したこ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4a87d641379db3180b86a755db84b6f521a8f376/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260908%2F20260908093131.png",
+                "alt": "結合テスト工程へのAI導入の現在地 ── あるスクラムチームの半年間の試行錯誤 - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T00:31:29.000Z",
+            "date_published": "2026-09-08T00:31:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "結合テスト工程へのAI導入の現在地 ── あるスクラムチームの半年間の試行錯誤",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR"
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/google-secops-detection-engineering-agent",
+            "content_html": "G-gen の三浦です。当記事では、Google SecOps の AI エージェントである Detection Engineering エージェントを使い、ある脅威を既存のルールで検出できるかを Antigravity CLI から評価した結果を紹介します。 概要 Google SecOps とは Detection Engineering エージェントとは 注意点 検証の手順 事前準備 必要な IAM ロール 対象ログのパーサー Application Default Credentials の構成 Antigravity CLI への SecOps MCP サーバーの登録 コンテキストの…",
+            "url": "https://blog.g-gen.co.jp/entry/google-secops-detection-engineering-agent",
+            "title": "Google SecOpsのAIエージェントで脅威を検出できるか評価する | G-gen Tech Blog",
+            "summary": "G-gen の三浦です。当記事では、Google SecOps の AI エージェントである Detection Engineering エージェントを使い、ある脅威を既存のルールで検出できるかを Antigravity CLI から評価した結果を紹介します。 概要 Google SecOps とは Detection Engineering エージェントとは 注意点 検証の手順 事前準備 必要な",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0d83b622df0efd7b5d2992a7a9a14ced0dce61ec/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260831%2F20260831095355.png",
+                "alt": "Google SecOpsのAIエージェントで脅威を検出できるか評価する - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T00:00:00.000Z",
+            "date_published": "2026-09-08T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Google SecOpsのAIエージェントで脅威を検出できるか評価する",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen"
+            }
+        },
+        {
+            "id": "https://nttdocomo-developers.jp/entry/2026/09/08/090000",
+            "content_html": "はじめに 6Gテック部 無線デバイス技術担当の井山です。 来るべき6G時代にも欠かすことのできない無線技術の1つ「EMC」。2026年6月には、このEMCをテーマに産学連携イベント「EMCJ Touchpoint」が開催されました。 今と未来のEMC研究者は何を考え、何を語ったのか？ 本記事では当日の様子や企業視点で学び感じたことをご紹介します。 【本記事でわかること】 EMCJ Touchpointについて EMC研究に取組む学生のみなさんの姿 企業視点で得たフィードバック はじめに EMCとは？ EMCJ Touchpointの概要 ポスターセッション－学生研究はどこまで進化？30件以上の…",
+            "url": "https://nttdocomo-developers.jp/entry/2026/09/08/090000",
+            "title": "EMC分野で広がる産学連携の新たなカタチ　学生と企業の交流イベント「EMCJ Touchpoint」参加レポート | ENGINEERING BLOG ドコモ開発者ブログ",
+            "summary": "はじめに 6Gテック部 無線デバイス技術担当の井山です。 来るべき6G時代にも欠かすことのできない無線技術の1つ「EMC」。2026年6月には、このEMCをテーマに産学連携イベント「EMCJ Touchpoint」が開催されました。 今と未来のEMC研究者は何を考え、何を語ったのか？ 本記事では当日の様子や企業視点で学び感じたことをご紹介します。 【本記事でわかること】 EMCJ Touchpoi",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f22573a07a853221afeb9d69a159bf7b76bd72c9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnttdocomord%2F20260908%2F20260908090001.png",
+                "alt": "EMC分野で広がる産学連携の新たなカタチ　学生と企業の交流イベント「EMCJ Touchpoint」参加レポート - ENGINEERING BLOG ドコモ開発者ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-08T00:00:00.000Z",
+            "date_published": "2026-09-08T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "EMC分野で広がる産学連携の新たなカタチ　学生と企業の交流イベント「EMCJ Touchpoint」参加レポート",
+                "blogTitle": "ENGINEERING BLOG ドコモ開発者ブログ",
+                "blogLink": "https://nttdocomo-developers.jp/",
+                "blogLinkMd5Hash": "bec42f7db35950281b5c16ec5742a54f",
+                "favicon": "https://nttdocomo-developers.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "NTT ドコモ"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000",
+            "content_html": "Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁流が谷を埋め、集落を呑み込んでいる。しかしNYTの衛星画像でスケールを確認して、話がまったく違うことがわかった*1。山の高所で氷河と岩盤が崩れ、氷、岩、泥、水が一体となって谷を駆け下り、地形そのものを…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000",
+            "title": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c1cc049bc49baf3ec9e2b0f5eab9ad4cab91436d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260830%2F20260830073552.jpg",
+                "alt": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-30T22:00:00.000Z",
+            "date_published": "2026-08-30T22:00:00.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249",
+            "content_html": "火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年以上、100人を超える人間で様々に検討してきたことは『風の谷という希望』に相当に体系立てて書いた。その後もブログにいくつか書いている。講演や取材の依頼の大半をご辞退せざるを得ない状況でもあり、まずはそ…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249",
+            "title": "集約の外側にも、国土はある — コンパクトシティが答えていないこと | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0952beca351cda84dc1908de42558dfcbf4eba1f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20201101%2F20201101124006.jpg",
+                "alt": "集約の外側にも、国土はある — コンパクトシティが答えていないこと - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-22T14:12:49.000Z",
+            "date_published": "2026-08-22T14:12:49.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 81,
+                "originalTitle": "集約の外側にも、国土はある — コンパクトシティが答えていないこと",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158",
+            "content_html": "制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にならず、孤独や無力感に耐えられなければ、権威への服従や画一化へと自由を手放してしまう、そんな話だ。自由からの逃走 新版作者:エーリッヒ・フロム東京創元社Amazonあの頃、店でも部屋でもよく流れていた曲…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158",
+            "title": "Killing Me Softly——AI時代に「自らに由る」とは | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/39ff8c9ef5b63e27c817d123febe267f5afd3912/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260816%2F20260816011427.jpg",
+                "alt": "Killing Me Softly——AI時代に「自らに由る」とは - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-15T16:51:58.000Z",
+            "date_published": "2026-08-15T16:51:58.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Killing Me Softly——AI時代に「自らに由る」とは",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/07/19/015456",
+            "content_html": "A scholar in his niche. Trinity College, Cambridge (2010) 2008年、このブログを書き始めた頃、読者の方からの質問に答える形で、「大学院教育で何ができると、人が育ったと言えるのか」という論考を書いた。気がつけば、もう18年前になる。kaz-ataka.hatenablog.com日米双方の研究大学の大学院に身を置いた目から見ると、日本の大学院における博士号と、米国のPhDは、かなり異なるものを指しているのではないか。そう整理したのが、2008年のあの論考だった。日本では博士号は、ともすれば、大学院に入り、長い時間研究を続け、論文を書き、…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/07/19/015456",
+            "title": "数えることは、見ることではない — 日本の博士課程にある二つの伸びしろ | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "A scholar in his niche. Trinity College, Cambridge (2010) 2008年、このブログを書き始めた頃、読者の方からの質問に答える形で、「大学院教育で何ができると、人が育ったと言えるのか」という論考を書いた。気がつけば、もう18年前になる。kaz-ataka.hatenablog.com日米双方の研究大学の大学院に身を置いた目から見ると、日本の大学",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/3e8f3debf3e5a24359f3b2d2440e46ddc2eb4126/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260719%2F20260719013009.jpg",
+                "alt": "数えることは、見ることではない — 日本の博士課程にある二つの伸びしろ - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-07-18T16:54:56.000Z",
+            "date_published": "2026-07-18T16:54:56.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 64,
+                "originalTitle": "数えることは、見ることではない — 日本の博士課程にある二つの伸びしろ",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        }
+    ]
+}

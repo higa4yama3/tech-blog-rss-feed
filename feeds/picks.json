@@ -1,0 +1,72 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Picks)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "厳選ピックアップ",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.cinematoday.jp/news/N0156877",
+            "content_html": "はてブ1件\n現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。",
+            "url": "https://www.cinematoday.jp/news/N0156877",
+            "title": "[はてブ1件] 金獅子賞は『ウーマン・アンノウン』日本勢はコンペ受賞逃すも存在感【第83回ベネチア国際映画祭】 | シネマトゥデイ",
+            "summary": "はてブ1件\n現地時間12日、第83回ベネチア国際映画祭コンペティション部門の授賞式がイタリアで行われ、最高賞にあたる金獅子賞をデンマークのマイ・エル＝トーキー監督による『ウーマン・アンノウン（英題） / Woman Unknown』が受賞した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/ZiepsQrAkEbi/_size_r1200x630/_v_1789244561/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-12T20:22:41.000Z",
+            "date_published": "2026-09-12T20:22:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "金獅子賞は『ウーマン・アンノウン』日本勢はコンペ受賞逃すも存在感【第83回ベネチア国際映画祭】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://idid.team/?p=4275",
+            "content_html": "今日のブクマ\nSHIFTBRAINのメンバーがオランダのクリエイティブエージェンシーを訪問し、現地で感じたことを全8回のシリーズとしてお届けしますシリーズ7回目に紹介するのは、オランダ・ロッテルダムを拠点とし、モーションデザインを活用したブランドアイデンティティで世界をリードするデザインスタジオ「Studio Dumbar/DEPT®」です。",
+            "url": "https://idid.team/articles/other/netherland-shiftbrain-07/",
+            "title": "[今日のブクマ] 【オランダのクリエイティブの現場から Vol.7】ブランドは「動き」までデザインする時代へ ｜Studio Dumbar/DEPT®（ロッテルダム） | iDID – クリエイターのための情報メディア",
+            "summary": "今日のブクマ\nSHIFTBRAINのメンバーがオランダのクリエイティブエージェンシーを訪問し、現地で感じたことを全8回のシリーズとしてお届けしますシリーズ7回目に紹介するのは、オランダ・ロッテルダムを拠点とし、モーションデザインを活用したブランドアイデンティティで世界をリードするデザインスタジオ「Studio Dumbar/DEPT®」です。",
+            "image": {
+                "height": "1005",
+                "type": "image/jpeg",
+                "url": "https://idid.team/wp-content/uploads/2026/09/dumbar-1024x536.jpg",
+                "width": "1920"
+            },
+            "date_modified": "2026-09-12T07:51:14.000Z",
+            "date_published": "2026-09-12T07:51:14.000Z",
+            "author": {
+                "name": "idid_ohtake"
+            },
+            "tags": [
+                "Other",
+                "クリエイティブエージェンシー",
+                "グローバル",
+                "デザイン",
+                "design",
+                "curated"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【オランダのクリエイティブの現場から Vol.7】ブランドは「動き」までデザインする時代へ ｜Studio Dumbar/DEPT®（ロッテルダム）",
+                "blogTitle": "iDID – クリエイターのための情報メディア",
+                "blogLink": "https://idid.team/",
+                "blogLinkMd5Hash": "e308077426c0a6b0e57fb06bde905884",
+                "favicon": "https://idid.team/wp-content/themes/idid_260827/assets/img/favicon.ico",
+                "pickReason": "今日のブクマ",
+                "sourceTier": "curated",
+                "sourceLabel": "iDID"
+            }
+        }
+    ]
+}
