@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Media)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml</link>
+        <description>高頻度メディアソース（件数上限あり）</description>
+        <lastBuildDate>Tue, 15 Sep 2026 16:51:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Media)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[「十分眠っている」と感じる人にも睡眠不足の疑い、自覚だけでは分からない | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/199686</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=199686</guid>
+            <pubDate>Tue, 15 Sep 2026 14:09:59 GMT</pubDate>
+            <description><![CDATA[昼休み、机に伏せて5分。ゆうべは7時間寝たはずなのに、と首をひねる。 眠っている間のことは、ほとんど記憶に残りません。 だから睡眠の状態を正確に知るには、脳波のような客観的な計測が要ります。 ところが日常生活で睡眠を実際に測る手段は限られ、不眠症の診断は本人が「眠れない」と訴えるかどうかに頼っています。 筑波大学の研究チームは、睡眠健診を受けた421人の自宅での脳波と質問票の答えを突き合わせ、本人]]></description>
+            <content:encoded><![CDATA[昼休み、机に伏せて5分。ゆうべは7時間寝たはずなのに、と首をひねる。 眠っている間のことは、ほとんど記憶に残りません。 だから睡眠の状態を正確に知るには、脳波のような客観的な計測が要ります。 ところが日常生活で睡眠を実際に測る手段は限られ、不眠症の診断は本人が「眠れない」と訴えるかどうかに頼っています。 筑波大学の研究チームは、睡眠健診を受けた421人の自宅での脳波と質問票の答えを突き合わせ、本人の自覚と医師の評価がどれだけ一致するかを調べました。 対象は日本の20〜79歳で、睡眠障害の治療を受けていない人。 結果、睡眠に不調を感じている人の66％は、客観的な計測で問題が見つかりませんでした…]]></content:encoded>
+            <category>健康</category>
+            <category>医療</category>
+            <enclosure length="0" type="jpg" height="941" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c150-fig-thumb.jpg" width="1672"/>
+        </item>
+        <item>
+            <title><![CDATA[会社を丸ごとAIに経営させるAIエージェント「Pion」が登場、メール・電話・銀行機能まで使って事業を自律運営 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20260915-pion/</link>
+            <guid>https://gigazine.net/news/20260915-pion/</guid>
+            <pubDate>Tue, 15 Sep 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[AIに文章作成や調査を任せるだけでなく、会社の経営そのものをAIエージェントに任せるためのプラットフォーム「Pion」をAndon Labsが発表しました。PionではAIエージェントが長時間動き続け、メールや電話、ブラウザ、銀行機能などを使いながら事業運営を進めます。]]></description>
+            <content:encoded><![CDATA[AIに文章作成や調査を任せるだけでなく、会社の経営そのものをAIエージェントに任せるためのプラットフォーム「Pion」をAndon Labsが発表しました。PionではAIエージェントが長時間動き続け、メールや電話、ブラウザ、銀行機能などを使いながら事業運営を進めます。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://i.gzn.jp/img/2026/09/15/pion/00.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[心不全、肝硬変、関節リウマチ――爪の根元の「赤い半月」に集まった70年分の報告 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/199698</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=199698</guid>
+            <pubDate>Tue, 15 Sep 2026 13:00:40 GMT</pubDate>
+            <description><![CDATA[爪の根元にある、白い半月。 この部分が、赤みを帯びて見えることがあります。 米ラトガース・ニュージャージー医科大学（Rutgers NJMS）の研究者らは今回、1950年代から2025年までに報告された「赤い爪半月」の症例を集め、どんな病気と一緒に現れるのか、そして爪だけの問題とどう見分けるのかを1本の論文に整理しました。 そして、全身の病気を背景に持つ赤い半月は、両手の複数の爪に左右対称に現れる]]></description>
+            <content:encoded><![CDATA[爪の根元にある、白い半月。 この部分が、赤みを帯びて見えることがあります。 米ラトガース・ニュージャージー医科大学（Rutgers NJMS）の研究者らは今回、1950年代から2025年までに報告された「赤い爪半月」の症例を集め、どんな病気と一緒に現れるのか、そして爪だけの問題とどう見分けるのかを1本の論文に整理しました。 そして、全身の病気を背景に持つ赤い半月は、両手の複数の爪に左右対称に現れることが多く、親指でもっとも目立つと述べています。 では、なぜ体の奥の異変が、よりによって爪の付け根に現れるのでしょうか。 論文は2026年7月29日、医学誌『The American Journal…]]></content:encoded>
+            <category>医療</category>
+            <enclosure length="0" type="jpg" height="600" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/167750a6c97f3841ee5b8eb5d6932a33.jpg" width="900"/>
+        </item>
+        <item>
+            <title><![CDATA[絶滅寸前の「対馬のヤマネコ」に前例のない半分の尻尾――イエネコの痕跡はみつからず | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/199690</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=199690</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:40 GMT</pubDate>
+            <description><![CDATA[日本の京都大学（KyotoU）などの研究チームが、対馬で通常の半分ほどの長さしかない尾をもつツシマヤマネコを見つけました。 ツシマヤマネコが属するベンガルヤマネコの仲間で短尾の個体が報告されたのは、把握されている限り初めてです。 しかも尾に異常のある個体は1頭ではなく、島内の複数地点で少なくとも3頭が確認されています。 研究チームがまず疑ったのは、同じ島で暮らすイエネコ（飼い猫）との交雑でした。 ]]></description>
+            <content:encoded><![CDATA[日本の京都大学（KyotoU）などの研究チームが、対馬で通常の半分ほどの長さしかない尾をもつツシマヤマネコを見つけました。 ツシマヤマネコが属するベンガルヤマネコの仲間で短尾の個体が報告されたのは、把握されている限り初めてです。 しかも尾に異常のある個体は1頭ではなく、島内の複数地点で少なくとも3頭が確認されています。 研究チームがまず疑ったのは、同じ島で暮らすイエネコ（飼い猫）との交雑でした。 筆頭著者の松本悠貴氏は「珍しい見た目はすぐに交雑を疑わせますが、外見だけで結論を出す前に、ゲノムが実際に何を語っているのかを客観的に確かめたかった」と述べています。 短い尻尾は、本当にイエネコから持…]]></content:encoded>
+            <category>動物</category>
+            <category>DNA</category>
+            <category>ネコ</category>
+            <category>日本</category>
+            <enclosure length="0" type="jpg" height="600" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/761324d770ce45eb31925eb976f9ab9f.jpg" width="900"/>
+        </item>
+        <item>
+            <title><![CDATA[ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？ | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20260915-sunk-cost/</link>
+            <guid>https://gigazine.net/news/20260915-sunk-cost/</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。]]></description>
+            <content:encoded><![CDATA[PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/09/15/sunk-cost/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[本棚や机といったDIY家具の「設計」「材料一覧確認」「作り方確認」まで実行できるウェブアプリ「ShopSpec」 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20260915-shopspec-diy/</link>
+            <guid>https://gigazine.net/news/20260915-shopspec-diy/</guid>
+            <pubDate>Tue, 15 Sep 2026 11:00:00 GMT</pubDate>
+            <description><![CDATA[「ShopSpec」は本棚や机の設計から組み立て手順解説まで担ってくれるDIYお助けアプリです。表記は英語で寸法もインチで示されていますが、スライダーを動かして家具を設計しているだけでも楽しいアプリに仕上がっています。]]></description>
+            <content:encoded><![CDATA[「ShopSpec」は本棚や机の設計から組み立て手順解説まで担ってくれるDIYお助けアプリです。表記は英語で寸法もインチで示されていますが、スライダーを動かして家具を設計しているだけでも楽しいアプリに仕上がっています。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/09/15/shopspec-diy/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[フォントを自動分類できる高速フォントビューワー「xlnk Font Palette」v1.0.0　ほか【ダイジェストニュース】 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/digest/2141133.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/digest/2141133.html</guid>
+            <pubDate>Tue, 15 Sep 2026 09:04:55 GMT</pubDate>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"/>
+        </item>
+        <item>
+            <title><![CDATA[大成建設、「借金ゼロ」の経営を転換　攻めの調達、有利子負債は3年で倍に (攻める資金調達 ) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00927/090800006/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00927/090800006/</guid>
+            <pubDate>Tue, 15 Sep 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[大手ゼネコンの大成建設は、長年続けてきた「無借金」を返上した。2021年に策定した中期経営計画には「実質無借金の維持」の文言を盛り込んだが、24年に出した現在の中計では消した。借り入れを避けるスタンスで培ってきた信用力を生かし、成長投資に必要な資金を積極的に集める。]]></description>
+            <content:encoded><![CDATA[大手ゼネコンの大成建設は、長年続けてきた「無借金」を返上した。2021年に策定した中期経営計画には「実質無借金の維持」の文言を盛り込んだが、24年に出した現在の中計では消した。借り入れを避けるスタンスで培ってきた信用力を生かし、成長投資に必要な資金を積極的に集める。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00927/090800006/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft、「Windows Age API」を発表 ～保護者管理「Family Safety」の改善も継続／承認の遅れやレポートの抜けを改善、年齢確認もOSレベルで | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2141013.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2141013.html</guid>
+            <pubDate>Tue, 15 Sep 2026 08:19:00 GMT</pubDate>
+            <description><![CDATA[ 保護者が子どものPCやスマートフォンを管理する「ペアレンタルコントロール」ソリューションとして、Microsoftは「Family Safety」などを提供している。これらは一定の効果を挙げているが、なかには『子どもからの利用リクエストを承認したのになかなか反映されない』『レポートにでてこないアプリがある』といった不満を抱えるユーザーもいたという。]]></description>
+            <content:encoded><![CDATA[ 保護者が子どものPCやスマートフォンを管理する「ペアレンタルコントロール」ソリューションとして、Microsoftは「Family Safety」などを提供している。これらは一定の効果を挙げているが、なかには『子どもからの利用リクエストを承認したのになかなか反映されない』『レポートにでてこないアプリがある』といった不満を抱えるユーザーもいたという。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2141/013/microsoft_family_safety.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[隈研吾氏もデザインの無印良品の家　源流はクルマも売る異色企業 (無印良品の反攻) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00794/091400011/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00794/091400011/</guid>
+            <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[「デザインのためのデザインではない」「白いキャンバスのような家」「日本家屋のパクリ」――。良品計画グループが手掛ける注文住宅「無印良品の家」には、無印良品のデザイン思想がちりばめられている。]]></description>
+            <content:encoded><![CDATA[「デザインのためのデザインではない」「白いキャンバスのような家」「日本家屋のパクリ」――。良品計画グループが手掛ける注文住宅「無印良品の家」には、無印良品のデザイン思想がちりばめられている。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00794/091400011/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3Dプリンターで建築生産を刷新、デジファブに存在感　有力ベンチャー7社 (日経クロステック) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00297/091400317/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00297/091400317/</guid>
+            <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[「未活用材をテクノロジーで建築へ変換する」をテーマに掲げるのがXENCE（ゼンス）だ。竹中工務店で中大規模建築の設計に従事していた小澤巧太郎最高経営責任者（CEO）が2022年に創業した。未活用木材を使った建築設計システムの開発や、デジタルファブリケーション技術を使った建築部材の研究開発などを手掛ける。]]></description>
+            <content:encoded><![CDATA[「未活用材をテクノロジーで建築へ変換する」をテーマに掲げるのがXENCE（ゼンス）だ。竹中工務店で中大規模建築の設計に従事していた小澤巧太郎最高経営責任者（CEO）が2022年に創業した。未活用木材を使った建築設計システムの開発や、デジタルファブリケーション技術を使った建築部材の研究開発などを手掛ける。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00297/091400317/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[抗菌薬原薬の安全保障で「脱中国依存」　国産化へ明治HDはメド、塩野義は苦闘 (橋本宗明が医薬・医療を読む) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00110/091100245/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00110/091100245/</guid>
+            <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[明治ホールディングス（HD）傘下の製薬企業、Meiji Seika ファルマの永里敏秋社長は2026年7月、都内で開催した記者説明会で、抗菌薬の原薬とその原料の国内生産に向け、生産設備などの整備が順調に進んでいることを紹介。「（富士フイルム富山化学、大塚化学との）3社による取り組みで製造のメドはついた」と語った。]]></description>
+            <content:encoded><![CDATA[明治ホールディングス（HD）傘下の製薬企業、Meiji Seika ファルマの永里敏秋社長は2026年7月、都内で開催した記者説明会で、抗菌薬の原薬とその原料の国内生産に向け、生産設備などの整備が順調に進んでいることを紹介。「（富士フイルム富山化学、大塚化学との）3社による取り組みで製造のメドはついた」と語った。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00110/091100245/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[声のAI模倣、法務省が権利侵害の指針公表　月75万円収益の投稿者も (コンテンツ戦国時代) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00797/091100009/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00797/091100009/</guid>
+            <pubDate>Tue, 15 Sep 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[ショート動画を再生すると有名声優によく似た声の解説が聞こえてきたーー。SNSに溢れる生成AIが作り出した「声」。法務省は8月、著名人の「声」が模倣された場合、権利保護の対象になりうる具体例を公表した。AI時代の課題に直面した声優業界では、権利侵害の防止と技術活用の両立を目指す動きが広がっている。]]></description>
+            <content:encoded><![CDATA[ショート動画を再生すると有名声優によく似た声の解説が聞こえてきたーー。SNSに溢れる生成AIが作り出した「声」。法務省は8月、著名人の「声」が模倣された場合、権利保護の対象になりうる具体例を公表した。AI時代の課題に直面した声優業界では、権利侵害の防止と技術活用の両立を目指す動きが広がっている。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00797/091100009/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple、一斉セキュリティアップデート ～OSや「Safari」、「Xcode」など10製品で／「macOS 27 Golden Gate」では200件を超える修正 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2140993.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2140993.html</guid>
+            <pubDate>Tue, 15 Sep 2026 06:50:00 GMT</pubDate>
+            <description><![CDATA[ 米Appleは9月14日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27」「iPadOS 27」、「macOS 27 Golden Gate」も含め、10製品が対象となっている（括弧内はCVE番号が割り振られた脆弱性の件数）。]]></description>
+            <content:encoded><![CDATA[ 米Appleは9月14日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27」「iPadOS 27」、「macOS 27 Golden Gate」も含め、10製品が対象となっている（括弧内はCVE番号が割り振られた脆弱性の件数）。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2140/993/apple.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「Perplexity」のローカルAIエージェント「Portable Computer」がWindowsでも利用可能に、VRAM 24GB以上のNVIDIA RTX GPUで／ローカル完結する処理ならクレジット不要 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2140871.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2140871.html</guid>
+            <pubDate>Tue, 15 Sep 2026 05:50:00 GMT</pubDate>
+            <description><![CDATA[ 米NVIDIAは9月14日（現地時間）、米Perplexityの「Portable Computer」が「NVIDIA RTX」GPUを搭載したWindows PCで利用可能になったと発表した。「Portable Computer」は「Perplexity Computer」のローカル版にあたるAIエージェント。これまでは「NVIDIA DGX Spark」やLinuxを搭載したRTX PCでし]]></description>
+            <content:encoded><![CDATA[ 米NVIDIAは9月14日（現地時間）、米Perplexityの「Portable Computer」が「NVIDIA RTX」GPUを搭載したWindows PCで利用可能になったと発表した。「Portable Computer」は「Perplexity Computer」のローカル版にあたるAIエージェント。これまでは「NVIDIA DGX Spark」やLinuxを搭載したRTX PCでしか利用できなかった。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2140/871/nvidia_perplexity.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Windows 11のデスクトップ背景（壁紙）設定に多くのブラッシュアップ、DIB画像も壁紙に | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/insiderpre/2141114.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/insiderpre/2141114.html</guid>
+            <pubDate>Tue, 15 Sep 2026 04:51:00 GMT</pubDate>
+            <description><![CDATA[ このコーナーでは、「Windows 11 Insider Preview」ビルドでテストされている最新のOS機能を紹介します。ただし、テストの結果、紹介した機能が製品版OSに搭載されないこともあります。あらかじめご留意ください。]]></description>
+            <content:encoded><![CDATA[ このコーナーでは、「Windows 11 Insider Preview」ビルドでテストされている最新のOS機能を紹介します。ただし、テストの結果、紹介した機能が製品版OSに搭載されないこともあります。あらかじめご留意ください。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2141/114/image3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[HTMLのcamera要素、CSSで最上行と最上列を固定表示した表を実装できるなど、Chrome 153で追加された新機能 | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/chrome-153-adds-3-new-css-feature.html</link>
+            <guid>https://coliss.com/?p=84597</guid>
+            <pubDate>Tue, 15 Sep 2026 00:36:12 GMT</pubDate>
+            <description><![CDATA[先週アップデートされたChrome 153に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、最上行と最上列を固定表示した表をCSSで実装できる「単一軸のスク]]></description>
+            <content:encoded><![CDATA[先週アップデートされたChrome 153に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、最上行と最上列を固定表示した表をCSSで実装できる「単一軸のスク]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>サイト構築 -CSS</category>
+            <category>ブラウザ -Chrome</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202603/2026091201@2x.png"/>
+        </item>
+    </channel>
+</rss>

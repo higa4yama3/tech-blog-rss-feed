@@ -1,0 +1,164 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (はてなIT人気)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.json",
+    "description": "はてなブックマーク ITカテゴリ人気（厳選）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://diehardtales.com/n/nc359b58d9d57",
+            "content_html": "はてブ572件\nよくきたな。おれは逆噴射聡一郎だ。おれは毎日ものすごい量のテキストを書いているが、だれにも読ませるつもりはない。だがおれは今回ノーランの新作『オデュッセイア』が真の男の映画だったので、何としても今すぐそれを書き残しておまえに伝えねばならないと考えた。 もし・・・おまえがまだオデッセイヤを観に行って...",
+            "url": "https://diehardtales.com/n/nc359b58d9d57",
+            "title": "[はてブ572] 【日報】おまえは今すぐIMAXに『オデュッセイア』をみにいけ（逆噴射聡一郎）｜ニンジャスレイヤー公式/ダイハードテイルズ (diehardtales.com)",
+            "summary": "はてブ572件\nよくきたな。おれは逆噴射聡一郎だ。おれは毎日ものすごい量のテキストを書いているが、だれにも読ませるつもりはない。だがおれは今回ノーランの新作『オ",
+            "date_modified": "2026-09-14T12:39:30.000Z",
+            "date_published": "2026-09-14T12:39:30.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 572,
+                "originalTitle": "【日報】おまえは今すぐIMAXに『オデュッセイア』をみにいけ（逆噴射聡一郎）｜ニンジャスレイヤー公式/ダイハードテイルズ",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ572件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+            "content_html": "はてブ331件\n配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+            "title": "[はてブ331] 無人タクシー、東京で来年運行へ　GO、Waymo、日本交通が合意 (itmedia.co.jp)",
+            "summary": "はてブ331件\n配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が",
+            "date_modified": "2026-09-15T01:09:50.000Z",
+            "date_published": "2026-09-15T01:09:50.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 331,
+                "originalTitle": "無人タクシー、東京で来年運行へ　GO、Waymo、日本交通が合意",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ331件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://note.com/dennotai/n/n433ee03289a5",
+            "content_html": "はてブ156件\n『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた 9月8日、「永江一石のITマーケティング日記」と言うブログに、このようなエントリが出ました。（以後、「このブログ」と言います） https://www.land...",
+            "url": "https://note.com/dennotai/n/n433ee03289a5",
+            "title": "[はてブ156] 『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた｜川邊健太郎 (note.com)",
+            "summary": "はてブ156件\n『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメン",
+            "date_modified": "2026-09-15T00:44:15.000Z",
+            "date_published": "2026-09-15T00:44:15.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 156,
+                "originalTitle": "『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた｜川邊健太郎",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ156件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+            "content_html": "はてブ106件\n株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を...",
+            "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+            "title": "[はてブ106] 生成AIが書いたドキュメントを読みたくない - Qiita (qiita.com)",
+            "summary": "はてブ106件\n株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやP",
+            "date_modified": "2026-09-14T11:11:06.000Z",
+            "date_published": "2026-09-14T11:11:06.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 106,
+                "originalTitle": "生成AIが書いたドキュメントを読みたくない - Qiita",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ106件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://blog.tinect.jp/",
+            "content_html": "はてブ104件\n2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれたのは、確かまだ本格的に暑くなり始める前の初夏の月曜日、朝に妻が産気づいたので私は会社に連絡をして、割と無理やりめに休みをもらいました。 その後、長男が昼頃に生まれ...",
+            "url": "https://blog.tinect.jp/",
+            "title": "[はてブ104] 「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい (blog.tinect.jp)",
+            "summary": "はてブ104件\n2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれた",
+            "date_modified": "2026-09-15T00:15:10.000Z",
+            "date_published": "2026-09-15T00:15:10.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 104,
+                "originalTitle": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ104件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
+            "content_html": "はてブ87件\n",
+            "url": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
+            "title": "[はてブ87] 三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch (kaden.watch.impress.co.jp)",
+            "summary": "はてブ87件\n",
+            "date_modified": "2026-09-15T04:56:57.000Z",
+            "date_published": "2026-09-15T04:56:57.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 87,
+                "originalTitle": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ87件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
+            "content_html": "はてブ71件\nAIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…",
+            "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
+            "title": "[はてブ71] AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents (speakerdeck.com)",
+            "summary": "はてブ71件\nAIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AI",
+            "date_modified": "2026-09-15T09:49:31.000Z",
+            "date_published": "2026-09-15T09:49:31.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 71,
+                "originalTitle": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ71件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        }
+    ]
+}

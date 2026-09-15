@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it</id>
+    <title>RSS (はてなIT人気)</title>
+    <updated>2026-09-15T16:51:18.430Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <subtitle>はてなブックマーク ITカテゴリ人気（厳選）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ572] 【日報】おまえは今すぐIMAXに『オデュッセイア』をみにいけ（逆噴射聡一郎）｜ニンジャスレイヤー公式/ダイハードテイルズ (diehardtales.com)]]></title>
+        <id>https://diehardtales.com/n/nc359b58d9d57</id>
+        <link href="https://diehardtales.com/n/nc359b58d9d57"/>
+        <updated>2026-09-14T12:39:30.000Z</updated>
+        <summary type="html"><![CDATA[はてブ572件
+よくきたな。おれは逆噴射聡一郎だ。おれは毎日ものすごい量のテキストを書いているが、だれにも読ませるつもりはない。だがおれは今回ノーランの新作『オ]]></summary>
+        <content type="html"><![CDATA[はてブ572件
+よくきたな。おれは逆噴射聡一郎だ。おれは毎日ものすごい量のテキストを書いているが、だれにも読ませるつもりはない。だがおれは今回ノーランの新作『オデュッセイア』が真の男の映画だったので、何としても今すぐそれを書き残しておまえに伝えねばならないと考えた。 もし・・・おまえがまだオデッセイヤを観に行って...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-14T12:39:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ331] 無人タクシー、東京で来年運行へ　GO、Waymo、日本交通が合意 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/15/2000001472/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/15/2000001472/"/>
+        <updated>2026-09-15T01:09:50.000Z</updated>
+        <summary type="html"><![CDATA[はてブ331件
+配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が]]></summary>
+        <content type="html"><![CDATA[はてブ331件
+配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-15T01:09:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ156] 『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた｜川邊健太郎 (note.com)]]></title>
+        <id>https://note.com/dennotai/n/n433ee03289a5</id>
+        <link href="https://note.com/dennotai/n/n433ee03289a5"/>
+        <updated>2026-09-15T00:44:15.000Z</updated>
+        <summary type="html"><![CDATA[はてブ156件
+『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメン]]></summary>
+        <content type="html"><![CDATA[はてブ156件
+『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた 9月8日、「永江一石のITマーケティング日記」と言うブログに、このようなエントリが出ました。（以後、「このブログ」と言います） https://www.land...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-15T00:44:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ106] 生成AIが書いたドキュメントを読みたくない - Qiita (qiita.com)]]></title>
+        <id>https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5</id>
+        <link href="https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5"/>
+        <updated>2026-09-14T11:11:06.000Z</updated>
+        <summary type="html"><![CDATA[はてブ106件
+株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやP]]></summary>
+        <content type="html"><![CDATA[はてブ106件
+株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-14T11:11:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ104] 「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい (blog.tinect.jp)]]></title>
+        <id>https://blog.tinect.jp/</id>
+        <link href="https://blog.tinect.jp/"/>
+        <updated>2026-09-15T00:15:10.000Z</updated>
+        <summary type="html"><![CDATA[はてブ104件
+2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれた]]></summary>
+        <content type="html"><![CDATA[はてブ104件
+2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれたのは、確かまだ本格的に暑くなり始める前の初夏の月曜日、朝に妻が産気づいたので私は会社に連絡をして、割と無理やりめに休みをもらいました。 その後、長男が昼頃に生まれ...]]></content>
+        <category label="hatena"/>
+        <published>2026-09-15T00:15:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ87] 三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch (kaden.watch.impress.co.jp)]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/news/2140739.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/news/2140739.html"/>
+        <updated>2026-09-15T04:56:57.000Z</updated>
+        <summary type="html"><![CDATA[はてブ87件
+]]></summary>
+        <content type="html"><![CDATA[はてブ87件
+]]></content>
+        <category label="hatena"/>
+        <published>2026-09-15T04:56:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ71] AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents (speakerdeck.com)]]></title>
+        <id>https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents</id>
+        <link href="https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents"/>
+        <updated>2026-09-15T09:49:31.000Z</updated>
+        <summary type="html"><![CDATA[はてブ71件
+AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AI]]></summary>
+        <content type="html"><![CDATA[はてブ71件
+AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…]]></content>
+        <category label="hatena"/>
+        <published>2026-09-15T09:49:31.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,798 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Headlines)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.json",
+    "description": "HN・ITmedia速報など",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=49714735",
+            "content_html": "Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745Comments URL: https://news.ycombinator.com/item?id=49714735Points: 15# Comments: 7",
+            "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745",
+            "title": "01:11 ↑0 · https://news.ycombinator.com/item?id=49714735 comments · academic.oup.com",
+            "summary": "Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745Comme",
+            "date_modified": "2026-09-15T16:11:34.000Z",
+            "date_published": "2026-09-15T16:11:34.000Z",
+            "author": {
+                "name": "gradus_ad"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Splash-free urinals: Design through physics and differential equations",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49714239",
+            "content_html": "Swift 6.4 is now available. Swift aims to be a great choice across the stack, from apps and servers to systems code, embedded devices, and the browser. This release deepens that support, and makes everyday code easier to write. Highlights include: ",
+            "url": "https://www.swift.org/blog/swift-6.4-released/",
+            "title": "00:40 ↑0 · https://news.ycombinator.com/item?id=49714239 comments · swift.org",
+            "summary": "Swift 6.4 is now available. Swift aims to be a great choice across the stack, fr",
+            "image": {
+                "url": "https://swift.org/apple-touch-icon-180x180.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T15:40:14.000Z",
+            "date_published": "2026-09-15T15:40:14.000Z",
+            "author": {
+                "name": "timsneath"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Swift 6.4 Released",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.swift.org/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713999",
+            "content_html": "Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.",
+            "url": "https://www.formas.ai/cartesian",
+            "title": "00:26 ↑0 · https://news.ycombinator.com/item?id=49713999 comments · formas.ai",
+            "summary": "Turn words, sketches and references into editable 3D models. Explore Cartesian b",
+            "image": {
+                "url": "https://www.formas.ai/cartesian/assets/restaurant-one-point-final.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-09-15T15:26:45.000Z",
+            "date_published": "2026-09-15T15:26:45.000Z",
+            "author": {
+                "name": "eustoria"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cartesian – AI 3D Modeling for Design",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.formas.ai/cartesian/assets/cartesian-favicon-32.png?v=1",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713337",
+            "content_html": "There is a subtle asymmetry in IPv6 Neighbour Discovery: a host knows how to reach its router before the router necessarily knows how to reach the host. GRAND fixes that asymmetry by making the host proactively advertise its address, and I implemented that mechanism in FreeBSD.",
+            "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+            "title": "23:44 ↑0 · https://news.ycombinator.com/item?id=49713337 comments · labs.ripe.net",
+            "summary": "There is a subtle asymmetry in IPv6 Neighbour Discovery: a host knows how to rea",
+            "image": {
+                "url": "https://labs.ripe.net/media/images/Screenshot_2026-09-04_at_15.36.17.width-500.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T14:44:33.000Z",
+            "date_published": "2026-09-15T14:44:33.000Z",
+            "author": {
+                "name": "m_montazeri"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Closing the IPv6 First-Packet Gap with Grand",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://labs.ripe.net/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713262",
+            "content_html": "Rebuilding Firefox.com with Mozilla and Lincoln Loop on modern, native CSS with no preprocessors, and what that means for design systems today.",
+            "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+            "title": "23:40 ↑0 · https://news.ycombinator.com/item?id=49713262 comments · josprague.com",
+            "summary": "Rebuilding Firefox.com with Mozilla and Lincoln Loop on modern, native CSS with ",
+            "image": {
+                "height": "630",
+                "url": "https://josprague.com/og.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T14:40:08.000Z",
+            "date_published": "2026-09-15T14:40:08.000Z",
+            "author": {
+                "name": "yosito"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The CSS Zen Garden dream shipped",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://josprague.com/favicon.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713261",
+            "content_html": "An intro to using formal methods to reason about permission changes in long-running AI agents.",
+            "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
+            "title": "23:40 ↑0 · https://news.ycombinator.com/item?id=49713261 comments · nvidia.github.io",
+            "summary": "An intro to using formal methods to reason about permission changes in long-runn",
+            "image": {
+                "url": "https://nvidia.github.io/OpenShell-Research/assets/agent-policy-prover/hero-concept.png",
+                "alt": "What we have learned applying formal methods to control AI agents",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T14:40:05.000Z",
+            "date_published": "2026-09-15T14:40:05.000Z",
+            "author": {
+                "name": "alexwatson405"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What we have learned at OpenShell applying formal methods to control AI agents",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://nvidia.github.io/OpenShell-Research/assets/brand/favicon.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713130",
+            "content_html": "Safety alignment is only as robust as its weakest failure mode. Despite extensive work on safety post-training, it has been shown that models can be readily unaligned through post-deployment fine-tuning. However, these methods often require extensive data curation and degrade model utility.  In this work, we extend the practical limits of unalignment by introducing GRP-Obliteration (GRP-Oblit), a method that uses Group Relative Policy Optimization (GRPO) to directly remove safety constraints fro",
+            "url": "https://arxiv.org/abs/2602.06258",
+            "title": "23:31 ↑0 · https://news.ycombinator.com/item?id=49713130 comments · arxiv.org",
+            "summary": "Safety alignment is only as robust as its weakest failure mode. Despite extensiv",
+            "image": {
+                "height": "700",
+                "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+                "width": "1200",
+                "alt": "arXiv logo",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T14:31:23.000Z",
+            "date_published": "2026-09-15T14:31:23.000Z",
+            "author": {
+                "name": "vital101"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713037",
+            "content_html": "Check whether your public IP has been observed participating in a residential proxy network. A free tool powered by Spur Intelligence.",
+            "url": "https://haveibeenproxied.com/",
+            "title": "23:24 ↑0 · https://news.ycombinator.com/item?id=49713037 comments · haveibeenproxied.com",
+            "summary": "Check whether your public IP has been observed participating in a residential pr",
+            "date_modified": "2026-09-15T14:24:47.000Z",
+            "date_published": "2026-09-15T14:24:47.000Z",
+            "author": {
+                "name": "microcode"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Show HN: Check if your IP has appeared in a residential proxy network",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://haveibeenproxied.com/spur-favicon-light.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49713024",
+            "content_html": "Today’s tidal wave of queries is forcing hardware makers to pivot",
+            "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+            "title": "23:24 ↑0 · https://news.ycombinator.com/item?id=49713024 comments · spectrum.ieee.org",
+            "summary": "Today’s tidal wave of queries is forcing hardware makers to pivot",
+            "image": {
+                "height": "600",
+                "url": "https://spectrum.ieee.org/media-library/image.jpg?id=67740894&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-15T14:24:08.000Z",
+            "date_published": "2026-09-15T14:24:08.000Z",
+            "author": {
+                "name": "vinhnx"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Inference Hardware Revolution of 2026",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=48&height=48",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49712621",
+            "content_html": "Contribute to greentfrapp/panel development by creating an account on GitHub.",
+            "url": "https://github.com/greentfrapp/panel",
+            "title": "22:58 ↑0 · https://news.ycombinator.com/item?id=49712621 comments · github.com",
+            "summary": "Contribute to greentfrapp/panel development by creating an account on GitHub.",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/0f4306b64c55b811b9fa6fbfb07a50da3d647f73f421d03f609d8dafd1428e31/greentfrapp/panel",
+                "width": "1200",
+                "alt": "Contribute to greentfrapp/panel development by creating an account on GitHub."
+            },
+            "date_modified": "2026-09-15T13:58:37.000Z",
+            "date_published": "2026-09-15T13:58:37.000Z",
+            "author": {
+                "name": "greentfrapp"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Show HN: Panel – A research workspace where the agent can build its own panes",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49712278",
+            "content_html": "One file, entire app. Share like a document, open like an app.",
+            "url": "https://withcapsule.app/",
+            "title": "22:31 ↑0 · https://news.ycombinator.com/item?id=49712278 comments · withcapsule.app",
+            "summary": "One file, entire app. Share like a document, open like an app.",
+            "image": {
+                "type": "image/png",
+                "url": "https://withcapsule.app/og-image.png"
+            },
+            "date_modified": "2026-09-15T13:31:40.000Z",
+            "date_published": "2026-09-15T13:31:40.000Z",
+            "author": {
+                "name": "bashtian"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://withcapsule.app/favicon.svg",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49712276",
+            "content_html": "Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks — each with its own runner, model and mode — then execute and verify the results. - ordewell/ordewell",
+            "url": "https://github.com/ordewell/ordewell",
+            "title": "22:31 ↑0 · https://news.ycombinator.com/item?id=49712276 comments · github.com",
+            "summary": "Multi-agent task orchestration for coding agents. Turn one goal into an ordered ",
+            "image": {
+                "url": "https://repository-images.githubusercontent.com/1318483994/595d5053-22c7-4e75-a6ec-068dca89cf56",
+                "alt": "Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks — each with its own runner, model and mode — then execute and verify the results. - ordewell/ordewell"
+            },
+            "date_modified": "2026-09-15T13:31:37.000Z",
+            "date_published": "2026-09-15T13:31:37.000Z",
+            "author": {
+                "name": "ac-ciano"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49712102",
+            "content_html": "Article URL: https://bkovac.github.io/modem-thing/Comments URL: https://news.ycombinator.com/item?id=49712102Points: 101# Comments: 14",
+            "url": "https://bkovac.github.io/modem-thing/",
+            "title": "22:20 ↑0 · https://news.ycombinator.com/item?id=49712102 comments · bkovac.github.io",
+            "summary": "Article URL: https://bkovac.github.io/modem-thing/Comments URL: https://news.yco",
+            "date_modified": "2026-09-15T13:20:24.000Z",
+            "date_published": "2026-09-15T13:20:24.000Z",
+            "author": {
+                "name": "bobili1234"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49712041",
+            "content_html": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/Comments URL: https://news.ycombinator.com/item?id=49712041Points: 244# Comments: 184",
+            "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+            "title": "22:13 ↑0 · https://news.ycombinator.com/item?id=49712041 comments · mail.openjdk.org",
+            "summary": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/",
+            "date_modified": "2026-09-15T13:13:43.000Z",
+            "date_published": "2026-09-15T13:13:43.000Z",
+            "author": {
+                "name": "mkurz"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Java 27",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49711544",
+            "content_html": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. - arnegiacomo/fugleramme",
+            "url": "https://github.com/arnegiacomo/fugleramme",
+            "title": "21:31 ↑0 · https://news.ycombinator.com/item?id=49711544 comments · github.com",
+            "summary": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully loc",
+            "image": {
+                "url": "https://repository-images.githubusercontent.com/1294088656/7d2dbd8d-ec72-4781-8363-f4f5b9afc352",
+                "alt": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. - arnegiacomo/fugleramme"
+            },
+            "date_modified": "2026-09-15T12:31:10.000Z",
+            "date_published": "2026-09-15T12:31:10.000Z",
+            "author": {
+                "name": "arnemunthekaas"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49710883",
+            "content_html": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.htmlComments URL: https://news.ycombinator.com/item?id=49710883Points: 501# Comments: 158",
+            "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+            "title": "20:26 ↑0 · https://news.ycombinator.com/item?id=49710883 comments · schneier.com",
+            "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-sur",
+            "date_modified": "2026-09-15T11:26:48.000Z",
+            "date_published": "2026-09-15T11:26:48.000Z",
+            "author": {
+                "name": "iamnothere"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "25 Years of Mass Surveillance Is Enough",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001506/",
+            "content_html": "メルカリは9月15日、ポケモンが16日に発売する「ポケモンカードゲーム 30th CELEBRATION」を同日から出品禁止にすると発表した。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001506/",
+            "title": "19:45 メルカリ、ポケカ最新パックの出品禁止に (itmedia.co.jp)",
+            "summary": "メルカリは9月15日、ポケモンが16日に発売する「ポケモンカードゲーム 30th CELEBRATION」を同日から出品禁止にすると発表した。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/15/2000001506/10006570/2048"
+            },
+            "date_modified": "2026-09-15T10:45:28.000Z",
+            "date_published": "2026-09-15T10:45:28.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "メルカリ、ポケカ最新パックの出品禁止に",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49710253",
+            "content_html": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+            "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+            "title": "19:22 ↑0 · https://news.ycombinator.com/item?id=49710253 comments · bbc.com",
+            "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks a",
+            "image": {
+                "height": "576",
+                "url": "https://ichef.bbci.co.uk/news/1024/branded_news/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
+                "width": "1024",
+                "alt": "Two people are seen from behind looking up at an information board at Zwolle station in Zwolle, Netherlands, where trains are facing significant disuption",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-15T10:22:46.000Z",
+            "date_published": "2026-09-15T10:22:46.000Z",
+            "author": {
+                "name": "choult"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Suspected sabotage causes major Netherlands rail disruption",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260907-085256-bea8b058c0-web-3.21.0/favicon-32x32.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49710109",
+            "content_html": "A more circular economy is not only important for the environment. It can also strengthen consumer rights and improve societal resilience. In this report, we show how consumer policy can make circular choices easier, safer and more attractive for consumers.",
+            "url": "https://www.forbrukerradet.no/short-life/",
+            "title": "19:00 ↑0 · https://news.ycombinator.com/item?id=49710109 comments · forbrukerradet.no",
+            "summary": "A more circular economy is not only important for the environment. It can also s",
+            "image": {
+                "url": "https://www.forbrukerradet.no/wp-content/themes/frweb22/dist/forbrukerradet_logo.svg",
+                "type": "svg"
+            },
+            "date_modified": "2026-09-15T10:00:16.000Z",
+            "date_published": "2026-09-15T10:00:16.000Z",
+            "author": {
+                "name": "ingve"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Let's make quality the norm again",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.forbrukerradet.no/wp-content/themes/frweb22/dist/forbrukerradet_logo_symbol.svg",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49710015",
+            "content_html": "Investigating the use of LLMs in the Android FOSS community",
+            "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+            "title": "18:47 ↑0 · https://news.ycombinator.com/item?id=49710015 comments · tintotint.eu",
+            "summary": "Investigating the use of LLMs in the Android FOSS community",
+            "image": {
+                "url": "https://tintotint.eu/whacky-corner/f-droid_slop/header.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T09:47:48.000Z",
+            "date_published": "2026-09-15T09:47:48.000Z",
+            "author": {
+                "name": "_ZeD_"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How much of F-Droid is LLM generated?",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://tintotint.eu/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001503/",
+            "content_html": "TBSの日曜劇場「VIVANT」のワンシーンがXで話題だ。SDカードを端子むき出しのまま素手で受け渡す描写に、映像制作者を中心に注目が集まっている。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001503/",
+            "title": "18:26 ドラマ「VIVANT」のワンシーンに映像制作界隈が「ぞっとする」　microSDカードを端子むき出しで手渡し (itmedia.co.jp)",
+            "summary": "TBSの日曜劇場「VIVANT」のワンシーンがXで話題だ。SDカードを端子むき出しのまま素手で受け渡す描写に、映像制作者を中心に注目が集まっている。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/15/2000001503/10006566/2048"
+            },
+            "date_modified": "2026-09-15T09:26:03.000Z",
+            "date_published": "2026-09-15T09:26:03.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ドラマ「VIVANT」のワンシーンに映像制作界隈が「ぞっとする」　microSDカードを端子むき出しで手渡し",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+            "content_html": "OpenAIの現役研究者ダニエル・セルサム氏は個人的な声明を公開し、モデルの状況認識向上により人間がその真の振る舞いを評価できなくなりつつあると警告した。意図しない目標を獲得したAIが制約から解放された場合、地球環境を損なうほどの極端な行動を取る恐れがあるとし、現行の安全対策に疑問を投げ掛けた。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+            "title": "17:33 「監視されていないときのAIは、もう評価できない」　OpenAI現役研究者が個人声明 (itmedia.co.jp)",
+            "summary": "OpenAIの現役研究者ダニエル・セルサム氏は個人的な声明を公開し、モデルの状況認識向上により人間がその真の振る舞いを評価できなくなりつつあると警告した。意図し",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/15/2000001500/10006562/2048"
+            },
+            "date_modified": "2026-09-15T08:33:37.000Z",
+            "date_published": "2026-09-15T08:33:37.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "「監視されていないときのAIは、もう評価できない」　OpenAI現役研究者が個人声明",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ10件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49709381",
+            "content_html": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/Comments URL: https://news.ycombinator.com/item?id=49709381Points: 174# Comments: 76",
+            "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+            "title": "17:21 ↑0 · https://news.ycombinator.com/item?id=49709381 comments · rmoff.net",
+            "summary": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-",
+            "image": {
+                "url": "https://rmoff.net/images/2026/01/h_IMG_3845.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-09-15T08:21:27.000Z",
+            "date_published": "2026-09-15T08:21:27.000Z",
+            "author": {
+                "name": "rmoff"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Alternatives to MinIO for single-node local S3",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/",
+            "content_html": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。（1/2 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001417/",
+            "title": "15:37 VAIOが再び“挑戦”する理由　ノジマが後押し、独自のマルチフリップ機構が復活へ (itmedia.co.jp)",
+            "summary": "25年にノジマ傘下に入ったVAIO。これまで法人向けの保守的な製品が多かった同社だが、ノジマの後押しを受けて再び挑戦するという。（1/2 ページ）",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001417/10006206/2048"
+            },
+            "date_modified": "2026-09-15T06:37:31.000Z",
+            "date_published": "2026-09-15T06:37:31.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 6,
+                "originalTitle": "VAIOが再び“挑戦”する理由　ノジマが後押し、独自のマルチフリップ機構が復活へ",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ6件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/",
+            "content_html": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりました。（1/7 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001423/",
+            "title": "15:35 映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する (itmedia.co.jp)",
+            "summary": "4日に日本でも公開された映画「バックルームズ」が、世界中で大ヒットしています。個人的にあまり怖くなかったのですが、基になった都市伝説を調べるうちに見方が変わりま",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/13/2000001423/10006266/2048"
+            },
+            "date_modified": "2026-09-15T06:35:03.000Z",
+            "date_published": "2026-09-15T06:35:03.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ5件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001482/",
+            "content_html": "パナソニックは14日、初の“クラウド録画”に対応した「全自動ディーガ」を発表した。クラウド録画ではどんなことができるのか。（1/2 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001482/",
+            "title": "15:30 パナのBDレコーダーが“クラウド録画”に対応　何ができて、何ができない？ (itmedia.co.jp)",
+            "summary": "パナソニックは14日、初の“クラウド録画”に対応した「全自動ディーガ」を発表した。クラウド録画ではどんなことができるのか。（1/2 ページ）",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/15/2000001482/10006492/2048"
+            },
+            "date_modified": "2026-09-15T06:30:28.000Z",
+            "date_published": "2026-09-15T06:30:28.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 22,
+                "originalTitle": "パナのBDレコーダーが“クラウド録画”に対応　何ができて、何ができない？",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ22件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001492/",
+            "content_html": "日本郵便は9月14日、名あて人本人にのみ郵便物を渡す「本人限定受取郵便」を2027年4月1日から見直すと発表した。受け取り時の本人確認書類をICチップ付きの4種類に限定し、パスポートなどは使えなくなる。（1/2 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001492/",
+            "title": "14:55 日本郵便、荷物の本人確認をICチップ付き身分証4種に限定　スマホのマイナカードで受け取れる場合も (itmedia.co.jp)",
+            "summary": "日本郵便は9月14日、名あて人本人にのみ郵便物を渡す「本人限定受取郵便」を2027年4月1日から見直すと発表した。受け取り時の本人確認書類をICチップ付きの4種",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/15/2000001492/10006517/2048"
+            },
+            "date_modified": "2026-09-15T05:55:27.000Z",
+            "date_published": "2026-09-15T05:55:27.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 25,
+                "originalTitle": "日本郵便、荷物の本人確認をICチップ付き身分証4種に限定　スマホのマイナカードで受け取れる場合も",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ25件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
+            "content_html": "シャープは9月15日、AIサーバ事業に参入すると発表した。同日から、米NVIDIAのGPUを搭載した業務向けAIサーバの受注を始める。まずはサーバ販売から開始し、今後は導入支援や保守、国内生産などに事業領域を広げる。国内のAI推論市場を主戦場に、2030年度に売上高2500億円を目指す。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
+            "title": "14:45 シャープ、AIサーバ事業に参入　30年度に新規事業の“大半”占める売上2500億円目指す　狙いは？ (itmedia.co.jp)",
+            "summary": "シャープは9月15日、AIサーバ事業に参入すると発表した。同日から、米NVIDIAのGPUを搭載した業務向けAIサーバの受注を始める。まずはサーバ販売から開始し",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/15/2000001483/10006504/2048"
+            },
+            "date_modified": "2026-09-15T05:45:06.000Z",
+            "date_published": "2026-09-15T05:45:06.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "シャープ、AIサーバ事業に参入　30年度に新規事業の“大半”占める売上2500億円目指す　狙いは？",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ3件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        }
+    ]
+}

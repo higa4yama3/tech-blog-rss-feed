@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-09-15T16:51:18.417Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>はてブと新しさで選んだ記事</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Local LLMを部署内に提供！ Local LLM Model as a Serviceとその取り組みについて | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202607-local-llm-maas/entry</id>
+        <link href="https://engineers.ntt.com/entry/202607-local-llm-maas/entry"/>
+        <updated>2026-09-14T06:19:11.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの福田です。 普段はAIエージェントの検証や開発と、チーム内資産のDevOpsに取り組んでいます。 コーディングエージェントの普及によって、LLMは日々の開発で欠かせない道具となりました。 その多くはクラウド型のサービスを通じて利用されており、高性能なモデルをすぐに使える環境が整っています。 同時に、日々の開発で常用するものだからこそ、扱うデータや利用の実態を自組]]></summary>
+        <content type="html"><![CDATA[こんにちは、イノベーションセンターの福田です。 普段はAIエージェントの検証や開発と、チーム内資産のDevOpsに取り組んでいます。 コーディングエージェントの普及によって、LLMは日々の開発で欠かせない道具となりました。 その多くはクラウド型のサービスを通じて利用されており、高性能なモデルをすぐに使える環境が整っています。 同時に、日々の開発で常用するものだからこそ、扱うデータや利用の実態を自組織の内側に収めておきたい場面も出てきます。 そのため、クラウド型のサービスを活用しつつ、自組織で動かす選択肢も併せ持っておくことには意味があります。 自組織の管理下にあるGPUでモデルを動かせば、デー…]]></content>
+        <published>2026-09-14T06:19:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越境を可能にする、人とAIのためのデザインシステム | Findy Tech Blog]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/09/14/070000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/09/14/070000"/>
+        <updated>2026-09-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！CTO室でエンジニアをやっている別府(@_nuk00_)です！ 今回の記事では、AIがデザイン案を自動で作成する時代に、なぜ管理コストのかかるデザインシステムを作ったのか。その理由と、デザインシステムの中身を紹介します。 記事は前編と後編の2つに分けています。 前編にあたるこの記事では、土台となる「人とAIが協働するデザインシステムの作り方」を紹介します。 後編では、その土台の上でモッ]]></summary>
+        <content type="html"><![CDATA[こんにちは！CTO室でエンジニアをやっている別府(@_nuk00_)です！ 今回の記事では、AIがデザイン案を自動で作成する時代に、なぜ管理コストのかかるデザインシステムを作ったのか。その理由と、デザインシステムの中身を紹介します。 記事は前編と後編の2つに分けています。 前編にあたるこの記事では、土台となる「人とAIが協働するデザインシステムの作り方」を紹介します。 後編では、その土台の上でモック作成やレビューをAIに任せて、業務がどのように変わったのかをお伝えします。 PO・デザイナー・エンジニアが役割を越えてUIを作っているチームの方に、特に読んでもらいたい内容です。 AIで、専門外の人…]]></content>
+        <published>2026-09-13T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？ | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260915-sunk-cost/</id>
+        <link href="https://gigazine.net/news/20260915-sunk-cost/"/>
+        <updated>2026-09-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。]]></summary>
+        <content type="html"><![CDATA[PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。]]></content>
+        <published>2026-09-15T12:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[必読] 自ら、問いに向かい合うことの有難さについて | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045"/>
+        <updated>2026-09-13T08:50:45.000Z</updated>
+        <summary type="html"><![CDATA[1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stoke]]></summary>
+        <content type="html"><![CDATA[1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stokesだけで約270万回のメッセージをやり取りし、約1300億output tokenを生成したという。最初のエージェントを走らせてから約88時間後、AIは解に到達した。9月1日に着手し、6日にはLean…]]></content>
+        <category label="essay"/>
+        <published>2026-09-13T08:50:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Perplexity」のローカルAIエージェント「Portable Computer」がWindowsでも利用可能に、VRAM 24GB以上のNVIDIA RTX GPUで／ローカル完結する処理ならクレジット不要 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2140871.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2140871.html"/>
+        <updated>2026-09-15T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米NVIDIAは9月14日（現地時間）、米Perplexityの「Portable Computer」が「NVIDIA RTX」GPUを搭載したWindows PCで利用可能になったと発表した。「Portable Computer」は「Perplexity Computer」のローカル版にあたるAIエージェント。これまでは「NVIDIA DGX Spark」やLinuxを搭載したRTX PCでし]]></summary>
+        <content type="html"><![CDATA[ 米NVIDIAは9月14日（現地時間）、米Perplexityの「Portable Computer」が「NVIDIA RTX」GPUを搭載したWindows PCで利用可能になったと発表した。「Portable Computer」は「Perplexity Computer」のローカル版にあたるAIエージェント。これまでは「NVIDIA DGX Spark」やLinuxを搭載したRTX PCでしか利用できなかった。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-15T05:50:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本棚や机といったDIY家具の「設計」「材料一覧確認」「作り方確認」まで実行できるウェブアプリ「ShopSpec」 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260915-shopspec-diy/</id>
+        <link href="https://gigazine.net/news/20260915-shopspec-diy/"/>
+        <updated>2026-09-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ShopSpec」は本棚や机の設計から組み立て手順解説まで担ってくれるDIYお助けアプリです。表記は英語で寸法もインチで示されていますが、スライダーを動かして家具を設計しているだけでも楽しいアプリに仕上がっています。]]></summary>
+        <content type="html"><![CDATA[「ShopSpec」は本棚や机の設計から組み立て手順解説まで担ってくれるDIYお助けアプリです。表記は英語で寸法もインチで示されていますが、スライダーを動かして家具を設計しているだけでも楽しいアプリに仕上がっています。]]></content>
+        <published>2026-09-15T11:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに12機能を書かせたら、レビューに5営業日かかった | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/202260911/ai</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/202260911/ai"/>
+        <updated>2026-09-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技]]></summary>
+        <content type="html"><![CDATA[前提：楽楽明細とは別のアプリとして作った 起きたこと：12機能を1本のプルリクにまとめた 原因：4層の名前までしか決めていなかった 対策：機械に判定させる範囲を広げ、人が見る範囲を絞る 実例：レビューで通せなかった箇所 次にやるなら：プルリクの切り方から変える チェックリスト：着手前に決めておく項目 編集後記：インタビューを終えて ラクス技術広報です。 開発本部では、各部署のAI活用の取り組みを技術広報がインタビューし、記事にしています。今回は電子請求書発行システム「楽楽明細」の新しいオプション機能を、AIにほぼ実装させて約2か月でリリースした事例です。 本記事は、AIを使って順調に機能開発が…]]></content>
+        <published>2026-09-11T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3件] 速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159987</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_15/159987"/>
+        <updated>2026-09-15T08:46:38.000Z</updated>
+        <summary type="html"><![CDATA[はてブ3件
+現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></summary>
+        <content type="html"><![CDATA[はてブ3件
+現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="JSON"/>
+        <category label="Ruby"/>
+        <category label="Ruby on Rails"/>
+        <published>2026-09-15T08:46:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セガの技術本部とは？“技術で支える”ってこういうことなんだな、の話 | SEGA TECH Blog]]></title>
+        <id>https://techblog.sega.jp/entry/dev-tech-20260914</id>
+        <link href="https://techblog.sega.jp/entry/dev-tech-20260914"/>
+        <updated>2026-09-14T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。セガCTOの矢儀です。私はセガ・アトラスをはじめとしたセガグループの技術相談を受けるお仕事や、対外的な技術の窓口をしています。今回は私の所属するセガの技術本部を紹介します。]]></summary>
+        <content type="html"><![CDATA[こんにちは。セガCTOの矢儀です。私はセガ・アトラスをはじめとしたセガグループの技術相談を受けるお仕事や、対外的な技術の窓口をしています。今回は私の所属するセガの技術本部を紹介します。]]></content>
+        <published>2026-09-14T01:00:00.000Z</published>
+    </entry>
+</feed>

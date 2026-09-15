@@ -1,0 +1,97 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Picks)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "厳選ピックアップ",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/09/15/180022",
+            "content_html": "お気に入りブログ\nこんにちは！LayerXのQAエンジニアの前田(mae)です。 この度、LayerXは2026年9月18日（金）に開催される「JaSST'26 Niigata（ソフトウェアテストシンポジウム 2026 新潟）」に、ゴールドスポンサーとして協賛いたします。 また、LayerXから4名のメンバーが登壇し、現地会場であるNINNO（ニーノ）ではブース出展も行います！ 各セッションでは、AI時代における品質をどのように見立て、継続的に高めていくのかをLayerXの実践をもとにお話しします。 JaSST'26 Niigata とは JaSST（Japan Symposium on Software Te…",
+            "url": "https://tech.layerx.co.jp/entry/2026/09/15/180022",
+            "title": "[お気に入りブログ] JaSST'26 Niigata にゴールドスポンサーとして協賛し、メンバー4名が登壇します！ブースも出展します #JaSST | LayerX エンジニアブログ",
+            "summary": "お気に入りブログ\nこんにちは！LayerXのQAエンジニアの前田(mae)です。 この度、LayerXは2026年9月18日（金）に開催される「JaSST'26 Niigata（ソフトウェアテストシンポジウム 2026 新潟）」に、ゴールドスポンサーとして協賛いたします。 また、LayerXから4名のメンバーが登壇し、現地会場であるNINNO（ニーノ）ではブース出展も行います！ 各セッションでは、",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/fb9dfad33d65044939b71674845da8fe87f89e27/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmae_qa%2F20260915%2F20260915181557.png",
+                "alt": "JaSST'26 Niigata にゴールドスポンサーとして協賛し、メンバー4名が登壇します！ブースも出展します #JaSST - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T09:00:22.000Z",
+            "date_published": "2026-09-15T09:00:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "JaSST'26 Niigata にゴールドスポンサーとして協賛し、メンバー4名が登壇します！ブースも出展します #JaSST",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX"
+            }
+        },
+        {
+            "id": "https://tech-blog.abeja.asia/entry/rsj2026-report-202609",
+            "content_html": "お気に入りブログ\nこんにちは、ABEJAの高野(たかいと)です。 2026年9月1日(火)〜4日(金)の4日間、金沢大学(金沢市角間町)にて開催された第44回日本ロボット学会学術講演会 (RSJ2026) に参加してきました。 弊社はPhysical AIにも注力しており、最新技術の獲得、実務への活用、来年以降の発表に向けた準備などを目標に、4名のメンバーが参加しました。 本記事では、オープンフォーラム「社会実装に向けたPhysical AIの現在と今後の展開」のパネルディスカッションの様子と、参加メンバーの印象に残った発表を一部抜粋して報告します。 なお、本記事では研究の大まかな概要と注目したポイントを取り上…",
+            "url": "https://tech-blog.abeja.asia/entry/rsj2026-report-202609",
+            "title": "[お気に入りブログ] 第44回日本ロボット学会学術講演会 (RSJ2026) 参加報告 | ABEJA Tech Blog",
+            "summary": "お気に入りブログ\nこんにちは、ABEJAの高野(たかいと)です。 2026年9月1日(火)〜4日(金)の4日間、金沢大学(金沢市角間町)にて開催された第44回日本ロボット学会学術講演会 (RSJ2026) に参加してきました。 弊社はPhysical AIにも注力しており、最新技術の獲得、実務への活用、来年以降の発表に向けた準備などを目標に、4名のメンバーが参加しました。 本記事では、オープンフォ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/fd236ff0f0814a38023d1958e0e3b345a92b8b03/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakaito0423%2F20260915%2F20260915132458.png",
+                "alt": "第44回日本ロボット学会学術講演会 (RSJ2026) 参加報告 - ABEJA Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T09:00:00.000Z",
+            "date_published": "2026-09-15T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "第44回日本ロボット学会学術講演会 (RSJ2026) 参加報告",
+                "blogTitle": "ABEJA Tech Blog",
+                "blogLink": "https://tech-blog.abeja.asia/",
+                "blogLinkMd5Hash": "4eddafba91da903c83459e18ac1d86c0",
+                "favicon": "https://tech-blog.abeja.asia/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "ABEJA"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159987",
+            "content_html": "はてブ3件\n現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_15/159987",
+            "title": "[はてブ3件] 速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー | TechRacho",
+            "summary": "はてブ3件\n現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/09/rails_8131_ruby407_json_decode_error_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T08:46:38.000Z",
+            "date_published": "2026-09-15T08:46:38.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "JSON",
+                "Ruby",
+                "Ruby on Rails"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        }
+    ]
+}

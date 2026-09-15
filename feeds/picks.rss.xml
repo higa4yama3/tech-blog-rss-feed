@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Picks)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        <description>厳選ピックアップ</description>
+        <lastBuildDate>Tue, 15 Sep 2026 16:51:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Picks)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[お気に入りブログ] JaSST'26 Niigata にゴールドスポンサーとして協賛し、メンバー4名が登壇します！ブースも出展します #JaSST | LayerX エンジニアブログ]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/09/15/180022</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/09/15/180022</guid>
+            <pubDate>Tue, 15 Sep 2026 09:00:22 GMT</pubDate>
+            <description><![CDATA[お気に入りブログ
+こんにちは！LayerXのQAエンジニアの前田(mae)です。 この度、LayerXは2026年9月18日（金）に開催される「JaSST'26 Niigata（ソフトウェアテストシンポジウム 2026 新潟）」に、ゴールドスポンサーとして協賛いたします。 また、LayerXから4名のメンバーが登壇し、現地会場であるNINNO（ニーノ）ではブース出展も行います！ 各セッションでは、]]></description>
+            <content:encoded><![CDATA[お気に入りブログ
+こんにちは！LayerXのQAエンジニアの前田(mae)です。 この度、LayerXは2026年9月18日（金）に開催される「JaSST'26 Niigata（ソフトウェアテストシンポジウム 2026 新潟）」に、ゴールドスポンサーとして協賛いたします。 また、LayerXから4名のメンバーが登壇し、現地会場であるNINNO（ニーノ）ではブース出展も行います！ 各セッションでは、AI時代における品質をどのように見立て、継続的に高めていくのかをLayerXの実践をもとにお話しします。 JaSST'26 Niigata とは JaSST（Japan Symposium on Software Te…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/fb9dfad33d65044939b71674845da8fe87f89e27/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmae_qa%2F20260915%2F20260915181557.png" alt="JaSST'26 Niigata にゴールドスポンサーとして協賛し、メンバー4名が登壇します！ブースも出展します #JaSST - LayerX エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[お気に入りブログ] 第44回日本ロボット学会学術講演会 (RSJ2026) 参加報告 | ABEJA Tech Blog]]></title>
+            <link>https://tech-blog.abeja.asia/entry/rsj2026-report-202609</link>
+            <guid>https://tech-blog.abeja.asia/entry/rsj2026-report-202609</guid>
+            <pubDate>Tue, 15 Sep 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[お気に入りブログ
+こんにちは、ABEJAの高野(たかいと)です。 2026年9月1日(火)〜4日(金)の4日間、金沢大学(金沢市角間町)にて開催された第44回日本ロボット学会学術講演会 (RSJ2026) に参加してきました。 弊社はPhysical AIにも注力しており、最新技術の獲得、実務への活用、来年以降の発表に向けた準備などを目標に、4名のメンバーが参加しました。 本記事では、オープンフォ]]></description>
+            <content:encoded><![CDATA[お気に入りブログ
+こんにちは、ABEJAの高野(たかいと)です。 2026年9月1日(火)〜4日(金)の4日間、金沢大学(金沢市角間町)にて開催された第44回日本ロボット学会学術講演会 (RSJ2026) に参加してきました。 弊社はPhysical AIにも注力しており、最新技術の獲得、実務への活用、来年以降の発表に向けた準備などを目標に、4名のメンバーが参加しました。 本記事では、オープンフォーラム「社会実装に向けたPhysical AIの現在と今後の展開」のパネルディスカッションの様子と、参加メンバーの印象に残った発表を一部抜粋して報告します。 なお、本記事では研究の大まかな概要と注目したポイントを取り上…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/fd236ff0f0814a38023d1958e0e3b345a92b8b03/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakaito0423%2F20260915%2F20260915132458.png" alt="第44回日本ロボット学会学術講演会 (RSJ2026) 参加報告 - ABEJA Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ3件] 速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー | TechRacho]]></title>
+            <link>https://techracho.bpsinc.jp/hachi8833/2026_09_15/159987</link>
+            <guid>https://techracho.bpsinc.jp/?p=159987</guid>
+            <pubDate>Tue, 15 Sep 2026 08:46:38 GMT</pubDate>
+            <description><![CDATA[はてブ3件
+現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></description>
+            <content:encoded><![CDATA[はてブ3件
+現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></content:encoded>
+            <category>Ruby / Rails関連</category>
+            <category>JSON</category>
+            <category>Ruby</category>
+            <category>Ruby on Rails</category>
+            <enclosure length="0" type="png" height="720" url="https://techracho.bpsinc.jp/wp-content/uploads/2026/09/rails_8131_ruby407_json_decode_error_eyecatch-min.png" width="1200"/>
+        </item>
+    </channel>
+</rss>
