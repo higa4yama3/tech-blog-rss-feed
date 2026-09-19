@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Picks)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "厳選ピックアップ",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.cinematoday.jp/news/N0157010",
+            "content_html": "ピックアップ\n女優の黒島結菜が19日、海の森水上競技場にて行われた映画『4アウト －もう一度、プレイボール－』（11月6日公開）公開記念イベントに、松本利夫、寺田ユースケ、吉田葵と共に登壇。",
+            "url": "https://www.cinematoday.jp/news/N0157010",
+            "title": "[ピックアップ] 黒島結菜、小池百合子都知事、プロ野球界のレジェンドと映画イベント登壇　座長・相葉雅紀からビデオメッセージ | シネマトゥデイ",
+            "summary": "ピックアップ\n女優の黒島結菜が19日、海の森水上競技場にて行われた映画『4アウト －もう一度、プレイボール－』（11月6日公開）公開記念イベントに、松本利夫、寺田ユースケ、吉田葵と共に登壇。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/69RdJqiqfFwV/_size_r1200x630/_v_1789817594/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T11:35:00.000Z",
+            "date_published": "2026-09-19T11:35:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "黒島結菜、小池百合子都知事、プロ野球界のレジェンドと映画イベント登壇　座長・相葉雅紀からビデオメッセージ",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026",
+            "content_html": "はてブ2件\nこんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。 2026年9月10~11日に開催された Snowflake World Tour Tokyo 2026 で、2つのセッションに登壇してきました。今回は、会場の様子と登壇した内容を紹介しようと思います。 Snowflake World Tour Tokyo 2026 とは？ Snowflake World Tour Tokyo は、Snowflake の最新技術や、企業によるデータ基盤の構築・AI 活用の事例を紹介する、Snowflake 主催のカンファレンスです。今年はグランドプリンスホテル新高輪 国際館パ…",
+            "url": "https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026",
+            "title": "[はてブ2件] Snowflake World Tour Tokyo 2026 で登壇してきました | LayerX エンジニアブログ",
+            "summary": "はてブ2件\nこんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。 2026年9月10~11日に開催された Snowflake World Tour Tokyo 2026 で、2つのセッションに登壇してきました。今回は、会場の様子と登壇した内容を紹介しようと思います。 Snowflake World Tour Tokyo 2026 とは？ Snowflake Wor",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c885471bde78907ae3639e94e377d54ba7580e21/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcivitaspo%2F20260919%2F20260919084122.png",
+                "alt": "Snowflake World Tour Tokyo 2026 で登壇してきました - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T23:55:22.000Z",
+            "date_published": "2026-09-18T23:55:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Snowflake World Tour Tokyo 2026 で登壇してきました",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX"
+            }
+        }
+    ]
+}

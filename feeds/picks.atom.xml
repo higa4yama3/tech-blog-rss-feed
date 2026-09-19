@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (Picks)</title>
+    <updated>2026-09-19T12:28:01.102Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>厳選ピックアップ</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[ピックアップ] 黒島結菜、小池百合子都知事、プロ野球界のレジェンドと映画イベント登壇　座長・相葉雅紀からビデオメッセージ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157010</id>
+        <link href="https://www.cinematoday.jp/news/N0157010"/>
+        <updated>2026-09-19T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[ピックアップ
+女優の黒島結菜が19日、海の森水上競技場にて行われた映画『4アウト －もう一度、プレイボール－』（11月6日公開）公開記念イベントに、松本利夫、寺田ユースケ、吉田葵と共に登壇。]]></summary>
+        <content type="html"><![CDATA[ピックアップ
+女優の黒島結菜が19日、海の森水上競技場にて行われた映画『4アウト －もう一度、プレイボール－』（11月6日公開）公開記念イベントに、松本利夫、寺田ユースケ、吉田葵と共に登壇。]]></content>
+        <published>2026-09-19T11:35:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ2件] Snowflake World Tour Tokyo 2026 で登壇してきました | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026</id>
+        <link href="https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026"/>
+        <updated>2026-09-18T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[はてブ2件
+こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。 2026年9月10~11日に開催された Snowflake World Tour Tokyo 2026 で、2つのセッションに登壇してきました。今回は、会場の様子と登壇した内容を紹介しようと思います。 Snowflake World Tour Tokyo 2026 とは？ Snowflake Wor]]></summary>
+        <content type="html"><![CDATA[はてブ2件
+こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。 2026年9月10~11日に開催された Snowflake World Tour Tokyo 2026 で、2つのセッションに登壇してきました。今回は、会場の様子と登壇した内容を紹介しようと思います。 Snowflake World Tour Tokyo 2026 とは？ Snowflake World Tour Tokyo は、Snowflake の最新技術や、企業によるデータ基盤の構築・AI 活用の事例を紹介する、Snowflake 主催のカンファレンスです。今年はグランドプリンスホテル新高輪 国際館パ…]]></content>
+        <published>2026-09-18T23:55:22.000Z</published>
+    </entry>
+</feed>

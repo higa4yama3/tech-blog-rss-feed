@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Headlines)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        <description>HN・ITmedia速報など</description>
+        <lastBuildDate>Sat, 19 Sep 2026 12:28:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Headlines)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[19:46 ↑0 · https://news.ycombinator.com/item?id=49765348 comments · laya.convaiinnovations.com]]></title>
+            <link>https://laya.convaiinnovations.com/</link>
+            <guid>https://news.ycombinator.com/item?id=49765348</guid>
+            <pubDate>Sat, 19 Sep 2026 10:46:58 GMT</pubDate>
+            <description><![CDATA[Evaluates typed decisions (choice, score, noul) over 100+ languages in a single ]]></description>
+            <content:encoded><![CDATA[Evaluates typed decisions (choice, score, noul) over 100+ languages in a single forward pass with calibrated probabilities. Outperforms TypeSafe Jev.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://laya-ai.vercel.app/laya_vs_jev_full.png"/>
+        </item>
+        <item>
+            <title><![CDATA[18:20 ↑0 · https://news.ycombinator.com/item?id=49764791 comments · john.hartnup.uk]]></title>
+            <link>https://john.hartnup.uk/2026/06/07/ai-event-posters.html</link>
+            <guid>https://news.ycombinator.com/item?id=49764791</guid>
+            <pubDate>Sat, 19 Sep 2026 09:20:58 GMT</pubDate>
+            <description><![CDATA[The problem]]></description>
+            <content:encoded><![CDATA[The problem]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[15:41 ↑0 · https://news.ycombinator.com/item?id=49763987 comments · prinzai.com]]></title>
+            <link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
+            <guid>https://news.ycombinator.com/item?id=49763987</guid>
+            <pubDate>Sat, 19 Sep 2026 06:41:44 GMT</pubDate>
+            <description><![CDATA[Scienceblogs.de, a German science blogging portal, includes a relatively famous ]]></description>
+            <content:encoded><![CDATA[Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpeg" url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[15:28 ↑0 · https://news.ycombinator.com/item?id=49763928 comments · terrytao.wordpress.com]]></title>
+            <link>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</link>
+            <guid>https://news.ycombinator.com/item?id=49763928</guid>
+            <pubDate>Sat, 19 Sep 2026 06:28:02 GMT</pubDate>
+            <description><![CDATA[Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proo]]></description>
+            <content:encoded><![CDATA[Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/Comments URL: https://news.ycombinator.com/item?id=49763928Points: 147# Comments: 109]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[15:19 ↑0 · https://news.ycombinator.com/item?id=49763883 comments · browser.geekbench.com]]></title>
+            <link>https://browser.geekbench.com/v7/cpu/389219</link>
+            <guid>https://news.ycombinator.com/item?id=49763883</guid>
+            <pubDate>Sat, 19 Sep 2026 06:19:24 GMT</pubDate>
+            <description><![CDATA[Article URL: https://browser.geekbench.com/v7/cpu/389219Comments URL: https://ne]]></description>
+            <content:encoded><![CDATA[Article URL: https://browser.geekbench.com/v7/cpu/389219Comments URL: https://news.ycombinator.com/item?id=49763883Points: 88# Comments: 88]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[14:48 ↑0 · https://news.ycombinator.com/item?id=49763697 comments · med.stanford.edu]]></title>
+            <link>https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html</link>
+            <guid>https://news.ycombinator.com/item?id=49763697</guid>
+            <pubDate>Sat, 19 Sep 2026 05:48:50 GMT</pubDate>
+            <description><![CDATA[Stanford Health Care delivers the highest levels of care and compassion. SHC tre]]></description>
+            <content:encoded><![CDATA[Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains/_jcr_content/main/article/contentfragment/par4/image.coreimg.png/1789589762613/kyle-loh.png" width="297" height="381"/>
+        </item>
+        <item>
+            <title><![CDATA[13:44 ↑0 · https://news.ycombinator.com/item?id=49763379 comments · newsroom.usra.edu]]></title>
+            <link>https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/</link>
+            <guid>https://news.ycombinator.com/item?id=49763379</guid>
+            <pubDate>Sat, 19 Sep 2026 04:44:35 GMT</pubDate>
+            <description><![CDATA[Open-source artificial intelligence model combines diverse lunar datasets to sup]]></description>
+            <content:encoded><![CDATA[Open-source artificial intelligence model combines diverse lunar datasets to support scientific analysis of the MoonThe NASA-IBM model reproduces patterns of lunar ice prospectivity (scaled from blue to yellow), shown at four locations (left) near the Moon’s pole. Top row: reference ice prospectivity map of Mons Mouton near the lunar south pol...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://content.presspage.com/uploads/1906/7d00e021-cc00-499a-abbb-a303d82d269f/1920_ice_prospectivity-hero.png?10000"/>
+        </item>
+        <item>
+            <title><![CDATA[13:23 ↑0 · https://news.ycombinator.com/item?id=49763296 comments · onionfutures.com]]></title>
+            <link>https://onionfutures.com/</link>
+            <guid>https://news.ycombinator.com/item?id=49763296</guid>
+            <pubDate>Sat, 19 Sep 2026 04:23:30 GMT</pubDate>
+            <description><![CDATA[Article URL: https://onionfutures.com/Comments URL: https://news.ycombinator.com]]></description>
+            <content:encoded><![CDATA[Article URL: https://onionfutures.com/Comments URL: https://news.ycombinator.com/item?id=49763296Points: 220# Comments: 77]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[12:00 東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/19/2000001639/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/19/2000001639/</guid>
+            <pubDate>Sat, 19 Sep 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況]]></description>
+            <content:encoded><![CDATA[ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/19/2000001639/10007076/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/19/2000001639/10007076/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[11:32 ↑0 · https://news.ycombinator.com/item?id=49762744 comments · sdcc.sourceforge.net]]></title>
+            <link>https://sdcc.sourceforge.net/</link>
+            <guid>https://news.ycombinator.com/item?id=49762744</guid>
+            <pubDate>Sat, 19 Sep 2026 02:32:36 GMT</pubDate>
+            <description><![CDATA[Article URL: https://sdcc.sourceforge.net/Comments URL: https://news.ycombinator]]></description>
+            <content:encoded><![CDATA[Article URL: https://sdcc.sourceforge.net/Comments URL: https://news.ycombinator.com/item?id=49762744Points: 95# Comments: 20]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[11:21 ↑0 · https://news.ycombinator.com/item?id=49762687 comments · jepedersen.dk]]></title>
+            <link>https://jepedersen.dk/blog/202505_research/</link>
+            <guid>https://news.ycombinator.com/item?id=49762687</guid>
+            <pubDate>Sat, 19 Sep 2026 02:21:35 GMT</pubDate>
+            <description><![CDATA[TL;DR I claim that modern science is synonymous with open source software. This ]]></description>
+            <content:encoded><![CDATA[TL;DR I claim that modern science is synonymous with open source software. This post explains why, why it matters, and what you can (and should) do next. Why do you care about (open source) software? - Everyone I spend a lot of my time working on software. I have been asked why software matters more times than I can remember. Software is, people say, not science. It’s a time sink, something to rush past in the pursuit of what really matters: results (and papers if you’re in academia).]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[08:04 ↑0 · https://news.ycombinator.com/item?id=49761432 comments · spectrum.ieee.org]]></title>
+            <link>https://spectrum.ieee.org/llms-for-chip-design</link>
+            <guid>https://news.ycombinator.com/item?id=49761432</guid>
+            <pubDate>Fri, 18 Sep 2026 23:04:17 GMT</pubDate>
+            <description><![CDATA[AI drastically shortened its design time; it will only get faster]]></description>
+            <content:encoded><![CDATA[AI drastically shortened its design time; it will only get faster]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="600" url="https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&amp;width=1200&amp;height=600&amp;coordinates=0%2C356%2C0%2C144" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[04:03 ↑0 · https://news.ycombinator.com/item?id=49758736 comments · grapheneos.social]]></title>
+            <link>https://grapheneos.social/@GrapheneOS/117282080803799576</link>
+            <guid>https://news.ycombinator.com/item?id=49758736</guid>
+            <pubDate>Fri, 18 Sep 2026 19:03:09 GMT</pubDate>
+            <description><![CDATA[Android 17 QPR1 is the first release since Android Honeycomb (3.x) adding new AP]]></description>
+            <content:encoded><![CDATA[Android 17 QPR1 is the first release since Android Honeycomb (3.x) adding new APIs for app developers without a release to the Android Open Source Project. The new APIs are currently exclusive to the Pixel OS and aren't available to other Android OEMs.  https://developer.android.com/sdk/api_diff/37.1/changes]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[03:55 ↑0 · https://news.ycombinator.com/item?id=49758615 comments · arxiv.org]]></title>
+            <link>https://arxiv.org/abs/2510.03215</link>
+            <guid>https://news.ycombinator.com/item?id=49758615</guid>
+            <pubDate>Fri, 18 Sep 2026 18:55:35 GMT</pubDate>
+            <description><![CDATA[Multi-LLM systems harness the complementary strengths of diverse Large Language ]]></description>
+            <content:encoded><![CDATA[Multi-LLM systems harness the complementary strengths of diverse Large Language Models, achieving performance and efficiency gains that are not attainable by a single model. In existing designs, LLMs communicate through text, forcing internal representations to be transformed into output token sequences. This process both loses rich semantic information and incurs token-by-token generation latency. Motivated by these limitations, we ask: Can LLMs communicate beyond text? Oracle experiments show ]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="700" url="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png" width="1200" alt="arXiv logo"/>
+        </item>
+        <item>
+            <title><![CDATA[03:51 ↑0 · https://news.ycombinator.com/item?id=49758580 comments · blog.cloudflare.com]]></title>
+            <link>https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</link>
+            <guid>https://news.ycombinator.com/item?id=49758580</guid>
+            <pubDate>Fri, 18 Sep 2026 18:51:46 GMT</pubDate>
+            <description><![CDATA[Cloudflare's global network is immense but not limitless. As we look for small w]]></description>
+            <content:encoded><![CDATA[Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="628" url="https://blog.cloudflare.com/_emdash/api/media/file/01M2PFY1FZ7AH3P8JEQCDM9YWH.01M2PFY2XJ3KBV9JD78JMJK88K.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[01:54 ↑0 · https://news.ycombinator.com/item?id=49757050 comments · donjon.ledger.com]]></title>
+            <link>https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</link>
+            <guid>https://news.ycombinator.com/item?id=49757050</guid>
+            <pubDate>Fri, 18 Sep 2026 16:54:18 GMT</pubDate>
+            <description><![CDATA[Differential photon-emission microscopy localized debug enable register activity]]></description>
+            <content:encoded><![CDATA[Differential photon-emission microscopy localized debug enable register activity and narrowed the laser search before SWD-guided injection set the two bits required to restore Secure debug on an RP2350 A4.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/cover.png"/>
+        </item>
+        <item>
+            <title><![CDATA[23:18 ↑0 · https://news.ycombinator.com/item?id=49754785 comments · try.cloudflare.com]]></title>
+            <link>https://try.cloudflare.com/</link>
+            <guid>https://news.ycombinator.com/item?id=49754785</guid>
+            <pubDate>Fri, 18 Sep 2026 14:18:41 GMT</pubDate>
+            <description><![CDATA[Expose your local server to the Internet with a single command. No account, no D]]></description>
+            <content:encoded><![CDATA[Expose your local server to the Internet with a single command. No account, no DNS, no configuration required.]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[20:00 ニチレイ、計5万件超の個人情報漏えいを確認　7月のサイバー攻撃で (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001648/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001648/</guid>
+            <pubDate>Fri, 18 Sep 2026 11:00:36 GMT</pubDate>
+            <description><![CDATA[ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。]]></description>
+            <content:encoded><![CDATA[ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001648/10007108/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001648/10007108/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[19:58 肖像画をChatGPTに読み込ませて出力→加工して納品　委託先による著作権侵害で、小学館「サライ.jp」が謝罪 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001645/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001645/</guid>
+            <pubDate>Fri, 18 Sep 2026 10:58:54 GMT</pubDate>
+            <description><![CDATA[小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーラン]]></description>
+            <content:encoded><![CDATA[小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーランスのイラストレーターが、岡山城に展示されている「豪姫」の肖像画を権利者に無断でChatGPT（米OpenAIが提供する生成AI）に読み込ませ、生成した画像を加工して納品していたという。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001645/10007102/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001645/10007102/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[18:42 ↑0 · https://news.ycombinator.com/item?id=49752041 comments · openjev.com]]></title>
+            <link>https://openjev.com/</link>
+            <guid>https://news.ycombinator.com/item?id=49752041</guid>
+            <pubDate>Fri, 18 Sep 2026 09:42:22 GMT</pubDate>
+            <description><![CDATA[Run typed option logits and autoregressive JSON locally with open models and Web]]></description>
+            <content:encoded><![CDATA[Run typed option logits and autoregressive JSON locally with open models and WebGPU.]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[17:54 東急、運転手のドア閉めをAIで補助　東横線に「ホーム監視AI」導入へ (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001637/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001637/</guid>
+            <pubDate>Fri, 18 Sep 2026 08:54:06 GMT</pubDate>
+            <description><![CDATA[東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入する]]></description>
+            <content:encoded><![CDATA[東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入すると発表した。ホームのカメラ映像をAIで解析し、乗降客や介助が必要な利用者の検出結果を運転台のモニターに表示する。17日に綱島駅で運用を始め、代官山駅～横浜駅の計20駅に順次導入する。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001637/10007035/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001637/10007035/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[16:52 生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001633/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001633/</guid>
+            <pubDate>Fri, 18 Sep 2026 07:52:09 GMT</pubDate>
+            <description><![CDATA[9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上に]]></description>
+            <content:encoded><![CDATA[9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001633/10007025/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001633/10007025/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[16:19 「人生が崩壊することを印象付けたい」　警視庁がトクリュウ対策サイトをリニューアル (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001631/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001631/</guid>
+            <pubDate>Fri, 18 Sep 2026 07:19:47 GMT</pubDate>
+            <description><![CDATA[警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映]]></description>
+            <content:encoded><![CDATA[警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映も活用し、犯罪への加担や被害を全世代に呼び掛けて防ぐ狙い。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001631/10007008/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001631/10007008/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[16:01 「上司に言いにくい」をAIが拾う　豊中市教委、職員の本音を匿名で集めるアプリを試験導入　自治体初 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001630/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001630/</guid>
+            <pubDate>Fri, 18 Sep 2026 07:01:57 GMT</pubDate>
+            <description><![CDATA[大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では]]></description>
+            <content:encoded><![CDATA[大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では伝えにくい本音を職場の改善につなげる。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001630/10007007/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001630/10007007/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[15:11 ↑0 · https://news.ycombinator.com/item?id=49750694 comments · blog.ferstar.org]]></title>
+            <link>https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</link>
+            <guid>https://news.ycombinator.com/item?id=49750694</guid>
+            <pubDate>Fri, 18 Sep 2026 06:11:17 GMT</pubDate>
+            <description><![CDATA[ZCode silently packages your entire workspace along with full Git history and up]]></description>
+            <content:encoded><![CDATA[ZCode silently packages your entire workspace along with full Git history and uploads it to cloud object storage with server-exclusive decryption keys; this post reconstructs the complete upload pipeline and encryption scheme via local forensics and reverse engineering, and provides a filesystem immutability lock to terminate the behavior permanently.]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[14:37 東京ゲームショウのグッズがメルカリに続々出品　「ビジネスデイなのに」など批判の声 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/18/2000001623/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/18/2000001623/</guid>
+            <pubDate>Fri, 18 Sep 2026 05:37:51 GMT</pubDate>
+            <description><![CDATA[9月17日に開幕した「東京ゲームショウ2026」（千葉・幕張メッセ、9月17～21日）で配布されたノベルティが、フリマアプリ「メルカリ」に相次いで出品されている]]></description>
+            <content:encoded><![CDATA[9月17日に開幕した「東京ゲームショウ2026」（千葉・幕張メッセ、9月17～21日）で配布されたノベルティが、フリマアプリ「メルカリ」に相次いで出品されている。一般公開に先立つ「ビジネスデイ」で入手したとみられ、SNS上では「早速転売されている」「ビジネスデイなのにこうなるのか」と批判する声が上がっている。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/18/2000001623/10006991/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001623/10006991/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[11:56 ↑0 · https://news.ycombinator.com/item?id=49749724 comments · archive.org]]></title>
+            <link>https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</link>
+            <guid>https://news.ycombinator.com/item?id=49749724</guid>
+            <pubDate>Fri, 18 Sep 2026 02:56:48 GMT</pubDate>
+            <description><![CDATA[When most people think of piracy, they think of Bittorrent and The Pirate Bay. T]]></description>
+            <content:encoded><![CDATA[When most people think of piracy, they think of Bittorrent and The Pirate Bay. These public manifestations of piracy, though, conceal an elite worldwide, underground, organized network of pirate groups who specialize in obtaining media – music, videos, games, and software – before their...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://archive.org/services/img/b904a8eb-9c98-4bb1-bf25-3cb9d075b157/full/pct:300/0/default.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[09:11 ↑0 · https://news.ycombinator.com/item?id=49748553 comments · cactuscompute.com]]></title>
+            <link>https://cactuscompute.com/needle</link>
+            <guid>https://news.ycombinator.com/item?id=49748553</guid>
+            <pubDate>Fri, 18 Sep 2026 00:11:44 GMT</pubDate>
+            <description><![CDATA[A foundation model for mobile, wearables, robots, smart home, automotive and mic]]></description>
+            <content:encoded><![CDATA[A foundation model for mobile, wearables, robots, smart home, automotive and microcontrollers. One 8-29 MB binary that beats models 10x its size on mobile tool calls and matches 2-3x bigger models on extraction.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://cactuscompute.com/opengraph-image?9df76a35fe8276e2" width="1200" alt="Cactus - On-device AI for Smartphones, Laptops &amp;amp; Edge"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core</id>
+    <title>RSS (Core)</title>
+    <updated>2026-09-19T12:28:01.071Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.atom.xml"/>
+    <subtitle>あっ、好きな記事をまとめたRSSフィード</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[黒島結菜、小池百合子都知事、プロ野球界のレジェンドと映画イベント登壇　座長・相葉雅紀からビデオメッセージ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157010</id>
+        <link href="https://www.cinematoday.jp/news/N0157010"/>
+        <updated>2026-09-19T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[女優の黒島結菜が19日、海の森水上競技場にて行われた映画『4アウト －もう一度、プレイボール－』（11月6日公開）公開記念イベントに、松本利夫、寺田ユースケ、吉田葵と共に登壇。]]></summary>
+        <content type="html"><![CDATA[女優の黒島結菜が19日、海の森水上競技場にて行われた映画『4アウト －もう一度、プレイボール－』（11月6日公開）公開記念イベントに、松本利夫、寺田ユースケ、吉田葵と共に登壇。]]></content>
+        <published>2026-09-19T11:35:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[風間俊介＆庄司浩平共演「40までにしたい10のこと」映画化　2027年1月22日公開 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157013</id>
+        <link href="https://www.cinematoday.jp/news/N0157013"/>
+        <updated>2026-09-19T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[風間俊介主演、庄司浩平共演による2025年放送のテレビ東京系連続ドラマ「40までにしたい10のこと」が映画化されることが明らかになった。]]></summary>
+        <content type="html"><![CDATA[風間俊介主演、庄司浩平共演による2025年放送のテレビ東京系連続ドラマ「40までにしたい10のこと」が映画化されることが明らかになった。]]></content>
+        <published>2026-09-19T11:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[認知症になった人が多かった「歯ぐきのサイン」とは | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=199912</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/199912"/>
+        <updated>2026-09-19T11:06:09.000Z</updated>
+        <summary type="html"><![CDATA[歯医者さんで細い器具を歯ぐきにそっと当てられ、何やら数字を読み上げられるあの落ち着かない時間。 その歯ぐきの出血が、その後10年のあいだに認知症になるかどうかとつながっているかもしれない、という結果が日本の研究から出てきました。 九州大学の研究者が率いるチームが、認知症ではない60歳以上の日本人1396人を10年間追いかけたのです。 すると、歯ぐきから血が出やすい人ほど、のちに認知症になった人が多]]></summary>
+        <content type="html"><![CDATA[歯医者さんで細い器具を歯ぐきにそっと当てられ、何やら数字を読み上げられるあの落ち着かない時間。 その歯ぐきの出血が、その後10年のあいだに認知症になるかどうかとつながっているかもしれない、という結果が日本の研究から出てきました。 九州大学の研究者が率いるチームが、認知症ではない60歳以上の日本人1396人を10年間追いかけたのです。 すると、歯ぐきから血が出やすい人ほど、のちに認知症になった人が多いことが分かりました。 歯と歯ぐきのすき間が深い人や、歯ぐきが下がっている人にも、同じような傾向がありました。 ただしこれは「つながりが見えた」という結果で、歯ぐきが原因で認知症になると確かめたわけ…]]></content>
+        <author>
+            <name>山下 浩介</name>
+        </author>
+        <category label="健康"/>
+        <category label="医療"/>
+        <category label="アルツハイマー"/>
+        <category label="マウス"/>
+        <category label="脳"/>
+        <category label="認知"/>
+        <published>2026-09-19T11:06:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</id>
+        <link href="https://gigazine.net/news/20260919-arc-pro-b70-llm-review/"/>
+        <updated>2026-09-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グ]]></summary>
+        <content type="html"><![CDATA[大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。]]></content>
+        <published>2026-09-19T11:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「リバイス」狩崎・濱尾ノリタカ、バットマン×仮面ライダーゼロワン夢の共演に期待「乗り物での並走が見たい」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157024</id>
+        <link href="https://www.cinematoday.jp/news/N0157024"/>
+        <updated>2026-09-19T10:56:40.000Z</updated>
+        <summary type="html"><![CDATA[特撮ドラマ「仮面ライダーリバイス」（2021～2022）でジョージ・狩崎／仮面ライダージュウガを演じた濱尾ノリタカが19日、都内で開催された「『バットマンの日』スペシャルファンイベント”Rule the Night”」に出席。]]></summary>
+        <content type="html"><![CDATA[特撮ドラマ「仮面ライダーリバイス」（2021～2022）でジョージ・狩崎／仮面ライダージュウガを演じた濱尾ノリタカが19日、都内で開催された「『バットマンの日』スペシャルファンイベント”Rule the Night”」に出席。]]></content>
+        <published>2026-09-19T10:56:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/</id>
+        <link href="https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/"/>
+        <updated>2026-09-19T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[新聞記者の山岡士郎と栗田ゆう子が社業として「究極のメニュー」作りに挑み、ライバル紙で「至高のメニュー」を監修する海原雄山と対決を繰り広げたり、料理に関連する人々の問題と関わっていく料理漫画『美味しんぼ』が、『新 美味しんぼ』としてTVアニメ化されることになりました。]]></summary>
+        <content type="html"><![CDATA[新聞記者の山岡士郎と栗田ゆう子が社業として「究極のメニュー」作りに挑み、ライバル紙で「至高のメニュー」を監修する海原雄山と対決を繰り広げたり、料理に関連する人々の問題と関わっていく料理漫画『美味しんぼ』が、『新 美味しんぼ』としてTVアニメ化されることになりました。]]></content>
+        <published>2026-09-19T10:52:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バットマン×仮面ライダーゼロワン、DCコミックで夢の共演　共通点は“大企業の社長”　東映・白倉P「歴史的事件だ」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157022</id>
+        <link href="https://www.cinematoday.jp/news/N0157022"/>
+        <updated>2026-09-19T10:09:56.000Z</updated>
+        <summary type="html"><![CDATA[DCコミックスを代表する人気ヒーロー「バットマン」と、東映の人気特撮ドラマ「仮面ライダーゼロワン」がコラボレーションするプロジェクト「Batman x Kamen Rider ZERO-ONE LEGENDS UNITE ー 日米ヒーロー、新たなる伝説の始まり ー」が19日、都内で開催された「『バットマンの日』スペシャルファンイベント”Rule the Night”」にて発表された。]]></summary>
+        <content type="html"><![CDATA[DCコミックスを代表する人気ヒーロー「バットマン」と、東映の人気特撮ドラマ「仮面ライダーゼロワン」がコラボレーションするプロジェクト「Batman x Kamen Rider ZERO-ONE LEGENDS UNITE ー 日米ヒーロー、新たなる伝説の始まり ー」が19日、都内で開催された「『バットマンの日』スペシャルファンイベント”Rule the Night”」にて発表された。]]></content>
+        <published>2026-09-19T10:09:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260919-meta-adventurer/</id>
+        <link href="https://gigazine.net/news/20260919-meta-adventurer/"/>
+        <updated>2026-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FaccebookやInstagramを運営するMetaは、スマートグラスやVRヘッドセットの開発も行っています。新たにMetaが大手メガネメーカー・エシロールルックスオティカと共同開発したAI搭載スマートグラス「Meta Glasses」が、日本でも2026年8月26日(水)に登場しました。その実物をMetaから借りることができたので、まずはじっくりその見た目をチェックしてみました。]]></summary>
+        <content type="html"><![CDATA[FaccebookやInstagramを運営するMetaは、スマートグラスやVRヘッドセットの開発も行っています。新たにMetaが大手メガネメーカー・エシロールルックスオティカと共同開発したAI搭載スマートグラス「Meta Glasses」が、日本でも2026年8月26日(水)に登場しました。その実物をMetaから借りることができたので、まずはじっくりその見た目をチェックしてみました。]]></content>
+        <published>2026-09-19T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バットマン×仮面ライダーゼロワン、夢のコラボプロジェクト発表！オリジナルコミックなど制作へ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156919</id>
+        <link href="https://www.cinematoday.jp/news/N0156919"/>
+        <updated>2026-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DCコミックスを代表する人気ヒーロー「バットマン」と、東映が2019年に発表した特撮ドラマ「仮面ライダーゼロワン」がコラボレーションを果たすことが決定した。]]></summary>
+        <content type="html"><![CDATA[DCコミックスを代表する人気ヒーロー「バットマン」と、東映が2019年に発表した特撮ドラマ「仮面ライダーゼロワン」がコラボレーションを果たすことが決定した。]]></content>
+        <published>2026-09-19T10:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝ドラ「風、薫る」もう一度見たい名場面ベスト10発表！見上愛＆上坂樹里が1200人のファンと振り返る | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157017</id>
+        <link href="https://www.cinematoday.jp/news/N0157017"/>
+        <updated>2026-09-19T09:08:26.000Z</updated>
+        <summary type="html"><![CDATA[連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）のファン感謝祭が19日、栃木県総合文化センターで開催され、ダブル主演を務める見上愛と上坂樹里が登壇。]]></summary>
+        <content type="html"><![CDATA[連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）のファン感謝祭が19日、栃木県総合文化センターで開催され、ダブル主演を務める見上愛と上坂樹里が登壇。]]></content>
+        <published>2026-09-19T09:08:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「スマホを使う金田一は違う」清水崇監督、現代版『八つ墓村』を描いた理由 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157006</id>
+        <link href="https://www.cinematoday.jp/news/N0157006"/>
+        <updated>2026-09-19T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[横溝正史の名作ミステリーの映像化に再び挑んだ映画『八つ墓村』（公開中）。]]></summary>
+        <content type="html"><![CDATA[横溝正史の名作ミステリーの映像化に再び挑んだ映画『八つ墓村』（公開中）。]]></content>
+        <published>2026-09-19T09:03:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウスの大脳皮質の9割以上を「ヒトの脳組織」に置き換えることに成功 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=199917</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/199917"/>
+        <updated>2026-09-19T08:00:19.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのスタンフォード大学（Stanford University）などで行われた研究によって、生まれつき大脳皮質をほとんど持たないマウスにヒトの脳組織を移植すると、3か月後にはそのマウスの皮質組織の体積の9割以上がヒト由来の組織で占められることが明らかになりました。 ヒトの神経細胞はマウスの神経系とつながって電気の波を起こし、一部は首の高さの脊髄にまで突起を伸ばしていました。 しかもこの組織に]]></summary>
+        <content type="html"><![CDATA[アメリカのスタンフォード大学（Stanford University）などで行われた研究によって、生まれつき大脳皮質をほとんど持たないマウスにヒトの脳組織を移植すると、3か月後にはそのマウスの皮質組織の体積の9割以上がヒト由来の組織で占められることが明らかになりました。 ヒトの神経細胞はマウスの神経系とつながって電気の波を起こし、一部は首の高さの脊髄にまで突起を伸ばしていました。 しかもこの組織には、培養皿ではどうしても作れなかった大型の神経細胞によく似た細胞まで現れていたのです。 研究チームは「これらの動物モデルは、ヒトの脳回路に生じた病気に関わる変化が、まるごとの神経系の中でどう表れるの…]]></content>
+        <author>
+            <name>川勝康弘</name>
+        </author>
+        <category label="生物学"/>
+        <category label="マウス"/>
+        <category label="ラット"/>
+        <category label="大脳皮質"/>
+        <category label="脳"/>
+        <published>2026-09-19T08:00:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ワールド・ウォー Z』続編、ブラッド・ピット主演続投で製作決定！ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157014</id>
+        <link href="https://www.cinematoday.jp/news/N0157014"/>
+        <updated>2026-09-19T06:00:53.000Z</updated>
+        <summary type="html"><![CDATA[ブラッド・ピットが主演を務めた映画『ワールド・ウォー Z』（2013）の続編製作が正式に決定したと、Deadlineほか各メディアが報じた。]]></summary>
+        <content type="html"><![CDATA[ブラッド・ピットが主演を務めた映画『ワールド・ウォー Z』（2013）の続編製作が正式に決定したと、Deadlineほか各メディアが報じた。]]></content>
+        <published>2026-09-19T06:00:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VIVANT」竜星涼「生きてました！」新庄“復活”を生報告　別班員奪還作戦は「すごいことになってます」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156918</id>
+        <link href="https://www.cinematoday.jp/news/N0156918"/>
+        <updated>2026-09-19T03:58:52.000Z</updated>
+        <summary type="html"><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）で新庄浩太郎を演じている竜星涼が19日、新宿住友ビル 三角広場で行われた大型体験イベント「TBS SPORTS＆VIVANT PARK」のオープニングステージに出席。]]></summary>
+        <content type="html"><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）で新庄浩太郎を演じている竜星涼が19日、新宿住友ビル 三角広場で行われた大型体験イベント「TBS SPORTS＆VIVANT PARK」のオープニングステージに出席。]]></content>
+        <published>2026-09-19T03:58:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鬼頭明里「最高のセリフ」　大ファンの「プリキュア」に感情移入 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157009</id>
+        <link href="https://www.cinematoday.jp/news/N0157009"/>
+        <updated>2026-09-19T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[声優の鬼頭明里が19日、都内で行われた『映画名探偵プリキュア！不思議な庭と2人の秘密』（公開中）の公開記念舞台挨拶に出席した。]]></summary>
+        <content type="html"><![CDATA[声優の鬼頭明里が19日、都内で行われた『映画名探偵プリキュア！不思議な庭と2人の秘密』（公開中）の公開記念舞台挨拶に出席した。]]></content>
+        <published>2026-09-19T03:40:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VIVANT」チョッキー来日！ファン300人に日本語で「大好きです！」後半戦でのさらなる活躍を予告 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157012</id>
+        <link href="https://www.cinematoday.jp/news/N0157012"/>
+        <updated>2026-09-19T03:34:36.000Z</updated>
+        <summary type="html"><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）でチョッキー・テーパーニットを演じているタイの俳優オーム・タナパックが来日し、19日に新宿住友ビル 三角広場で行われた大型体験イベント「TBS SPORTS＆VIVANT PARK」のオープニングステージに出席。]]></summary>
+        <content type="html"><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）でチョッキー・テーパーニットを演じているタイの俳優オーム・タナパックが来日し、19日に新宿住友ビル 三角広場で行われた大型体験イベント「TBS SPORTS＆VIVANT PARK」のオープニングステージに出席。]]></content>
+        <published>2026-09-19T03:34:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100年ぶりの新種猫「ティルカヨ」―― 発見の経緯、種の解説 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=199888</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/199888"/>
+        <updated>2026-09-19T03:30:46.000Z</updated>
+        <summary type="html"><![CDATA[ネコの図鑑に新しいページが増える。そんな出来事を、いま生きている人のほとんどは一度も見ていません。 家猫より小さな体に、ヒョウのような斑点。 南米ボリビアの、ユンガスと呼ばれる雲霧林(うんむりん、一年中霧に包まれる山の森)にすむこのネコを、地元の人々は昔から「ティルカヨ」と呼んできました。 ところが科学者にとっては、つい最近まで正式には「見つかっていない」動物でした。 ベルギーのアントワープ大学な]]></summary>
+        <content type="html"><![CDATA[ネコの図鑑に新しいページが増える。そんな出来事を、いま生きている人のほとんどは一度も見ていません。 家猫より小さな体に、ヒョウのような斑点。 南米ボリビアの、ユンガスと呼ばれる雲霧林(うんむりん、一年中霧に包まれる山の森)にすむこのネコを、地元の人々は昔から「ティルカヨ」と呼んできました。 ところが科学者にとっては、つい最近まで正式には「見つかっていない」動物でした。 ベルギーのアントワープ大学などの研究チームは、このネコが知られていなかった別の種だと、遺伝子の解析で確かめました。 実際のネコの画像はこちら（画像1、画像2）。 野生のネコ科の新種は100年以上ぶりで、根拠は38匹のネコのゲノ…]]></content>
+        <author>
+            <name>天道銀河</name>
+        </author>
+        <category label="動物"/>
+        <category label="ネコ"/>
+        <category label="新種"/>
+        <category label="生物多様性"/>
+        <category label="遺伝子"/>
+        <published>2026-09-19T03:30:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[藤本美貴、「VIVANT」配信ドラマに出演決定　チンギスが訪れる診療所の看護師役「とても新鮮で貴重な経験」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156992</id>
+        <link href="https://www.cinematoday.jp/news/N0156992"/>
+        <updated>2026-09-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[タレントの藤本美貴が、日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）のサイドストーリー「チンギスーVIVANT THE ORIGIN STORYー」（9月20日よりU-NEXT独占配信）に出演することが決定した。]]></summary>
+        <content type="html"><![CDATA[タレントの藤本美貴が、日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）のサイドストーリー「チンギスーVIVANT THE ORIGIN STORYー」（9月20日よりU-NEXT独占配信）に出演することが決定した。]]></content>
+        <published>2026-09-19T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叶姉妹、道に100円が落ちていたら？　規格外の金銭哲学に鈴鹿央士タジタジ『藁にもすがる獣たち』 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157011</id>
+        <link href="https://www.cinematoday.jp/news/N0157011"/>
+        <updated>2026-09-19T02:15:15.000Z</updated>
+        <summary type="html"><![CDATA[「道に100円が落ちていたら、どうしますか？」──鈴鹿央士の問いに、叶姉妹はこう答えた。「見えません」。]]></summary>
+        <content type="html"><![CDATA[「道に100円が落ちていたら、どうしますか？」──鈴鹿央士の問いに、叶姉妹はこう答えた。「見えません」。]]></content>
+        <published>2026-09-19T02:15:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芦田愛菜「南田南弁護士は天才肌」クジラに囲まれたポスター公開！主題歌はmuqueに決定 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156984</id>
+        <link href="https://www.cinematoday.jp/news/N0156984"/>
+        <updated>2026-09-19T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[芦田愛菜が主演を務め、10月19日よりスタートするカンテレ・フジテレビ系月10ドラマ「南田南弁護士は天才肌」（毎週月曜よる10時～）より、ポスタービジュアルと予告映像が公表され、あわせて主題歌を3ピースバンドのmuqueが担当することが発表になった。]]></summary>
+        <content type="html"><![CDATA[芦田愛菜が主演を務め、10月19日よりスタートするカンテレ・フジテレビ系月10ドラマ「南田南弁護士は天才肌」（毎週月曜よる10時～）より、ポスタービジュアルと予告映像が公表され、あわせて主題歌を3ピースバンドのmuqueが担当することが発表になった。]]></content>
+        <published>2026-09-19T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「角醒ハンター オメガホーン」イバルに命令された炎角、シャウトと激突【第9話あらすじ】 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156978</id>
+        <link href="https://www.cinematoday.jp/news/N0156978"/>
+        <updated>2026-09-19T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第9話「時代を創れ！シャウトVS炎角！」が、20日午前9時30分よりテレビ朝日系にて放送される。]]></summary>
+        <content type="html"><![CDATA[“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第9話「時代を創れ！シャウトVS炎角！」が、20日午前9時30分よりテレビ朝日系にて放送される。]]></content>
+        <published>2026-09-19T00:02:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[片岡鶴太郎、大河ドラマで2年連続絵師役　「豊臣兄弟！」で狩野永徳役、追加キャスト4名発表 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157003</id>
+        <link href="https://www.cinematoday.jp/news/N0157003"/>
+        <updated>2026-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仲野太賀が豊臣秀長役で主演を務める大河ドラマ「豊臣兄弟！」（NHK総合・毎週日曜午後8:00ほかで放送中）の9月27日放送第37回、10月4日放送第38回で描かれる「大和郡山編」に登場する新キャストが発表された。]]></summary>
+        <content type="html"><![CDATA[仲野太賀が豊臣秀長役で主演を務める大河ドラマ「豊臣兄弟！」（NHK総合・毎週日曜午後8:00ほかで放送中）の9月27日放送第37回、10月4日放送第38回で描かれる「大和郡山編」に登場する新キャストが発表された。]]></content>
+        <published>2026-09-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VIVANT」後半戦に大サプライズあり　飯田和孝Pが予告「5回くらいあります」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156987</id>
+        <link href="https://www.cinematoday.jp/news/N0156987"/>
+        <updated>2026-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）の飯田和孝プロデューサーが、13日に放送された第18話（第2シーズン前半戦最終回）を振り返りながら、第2シーズンで展開している施策の数々、10月4日放送の第19話から開幕する後半戦への期待を語った。]]></summary>
+        <content type="html"><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）の飯田和孝プロデューサーが、13日に放送された第18話（第2シーズン前半戦最終回）を振り返りながら、第2シーズンで展開している施策の数々、10月4日放送の第19話から開幕する後半戦への期待を語った。]]></content>
+        <published>2026-09-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake World Tour Tokyo 2026 で登壇してきました | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026</id>
+        <link href="https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026"/>
+        <updated>2026-09-18T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。 2026年9月10~11日に開催された Snowflake World Tour Tokyo 2026 で、2つのセッションに登壇してきました。今回は、会場の様子と登壇した内容を紹介しようと思います。 Snowflake World Tour Tokyo 2026 とは？ Snowflake World Tou]]></summary>
+        <content type="html"><![CDATA[こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。 2026年9月10~11日に開催された Snowflake World Tour Tokyo 2026 で、2つのセッションに登壇してきました。今回は、会場の様子と登壇した内容を紹介しようと思います。 Snowflake World Tour Tokyo 2026 とは？ Snowflake World Tour Tokyo は、Snowflake の最新技術や、企業によるデータ基盤の構築・AI 活用の事例を紹介する、Snowflake 主催のカンファレンスです。今年はグランドプリンスホテル新高輪 国際館パ…]]></content>
+        <published>2026-09-18T23:55:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝ドラ「風、薫る」今井（古川雄大）、授業後にりん（見上愛）に声をかける 第126回あらすじ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156957</id>
+        <link href="https://www.cinematoday.jp/news/N0156957"/>
+        <updated>2026-09-18T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、21日に最終週（第26週）「道標」第126回が放送。]]></summary>
+        <content type="html"><![CDATA[見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか）は、21日に最終週（第26週）「道標」第126回が放送。]]></content>
+        <published>2026-09-18T23:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「仮面ライダーマイス」第3話あらすじ　達臣が仮面ライダーリドに変身 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156983</id>
+        <link href="https://www.cinematoday.jp/news/N0156983"/>
+        <updated>2026-09-18T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[特撮ドラマ「仮面ライダーマイス」（テレビ朝日系）の第3話「正義の黒猫ライダーにゃ」が、20日午前9時から放送される。]]></summary>
+        <content type="html"><![CDATA[特撮ドラマ「仮面ライダーマイス」（テレビ朝日系）の第3話「正義の黒猫ライダーにゃ」が、20日午前9時から放送される。]]></content>
+        <published>2026-09-18T23:02:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50歳間近・滝藤賢一、満身創痍で挑んだ『八つ墓村』襲撃シーン舞台裏 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156970</id>
+        <link href="https://www.cinematoday.jp/news/N0156970"/>
+        <updated>2026-09-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[推理作家・横溝正史によるミステリーの金字塔を清水崇監督が映像化した新作映画『八つ墓村』（全国公開中）。]]></summary>
+        <content type="html"><![CDATA[推理作家・横溝正史によるミステリーの金字塔を清水崇監督が映像化した新作映画『八つ墓村』（全国公開中）。]]></content>
+        <published>2026-09-18T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『踊る大捜査線』増田貴久、大人になった真下勇気「パパママへの思いを大切に」14年ぶり新作で刺激的な体験 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156929</id>
+        <link href="https://www.cinematoday.jp/news/N0156929"/>
+        <updated>2026-09-18T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA[織田裕二が主演を務め、社会現象を巻き起こした『踊る大捜査線』シリーズの14年ぶりとなる新作映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（全国公開中）。]]></summary>
+        <content type="html"><![CDATA[織田裕二が主演を務め、社会現象を巻き起こした『踊る大捜査線』シリーズの14年ぶりとなる新作映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（全国公開中）。]]></content>
+        <published>2026-09-18T22:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2026年9月19日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00682/082800106/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00682/082800106/"/>
+        <updated>2026-09-18T15:00:00.000Z</updated>
+        <published>2026-09-18T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「robocopy」を活用したGUI定期バックアップツール「Robocopy Scheduler」v26.9.14.0　ほか【ダイジェストニュース】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/digest/2142402.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/digest/2142402.html"/>
+        <updated>2026-09-18T12:58:39.000Z</updated>
+        <author>
+            <name>窓の杜編集部</name>
+        </author>
+        <published>2026-09-18T12:58:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『踊る大捜査線』増田貴久、40歳で真下の息子役「素敵な経験」不在のユースケ＆水野美紀に「パパママ連絡ください！」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157001</id>
+        <link href="https://www.cinematoday.jp/news/N0157001"/>
+        <updated>2026-09-18T11:51:25.000Z</updated>
+        <summary type="html"><![CDATA[NEWSの増田貴久が18日、TOHOシネマズ日比谷で行われた映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の初日舞台あいさつに出席。]]></summary>
+        <content type="html"><![CDATA[NEWSの増田貴久が18日、TOHOシネマズ日比谷で行われた映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の初日舞台あいさつに出席。]]></content>
+        <published>2026-09-18T11:51:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[織田裕二、『踊る大捜査線』空白の14年間を赤裸々回顧　青島俊作「定年までやるのかと」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156847</id>
+        <link href="https://www.cinematoday.jp/news/N0156847"/>
+        <updated>2026-09-18T11:39:35.000Z</updated>
+        <summary type="html"><![CDATA[俳優の織田裕二が18日、TOHOシネマズ日比谷で行われた主演映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の初日舞台あいさつに出席。]]></summary>
+        <content type="html"><![CDATA[俳優の織田裕二が18日、TOHOシネマズ日比谷で行われた主演映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の初日舞台あいさつに出席。]]></content>
+        <published>2026-09-18T11:39:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今夜金ローで『ナイト ミュージアム』放送！コメディ王ベン・スティラー60歳の現在 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156995</id>
+        <link href="https://www.cinematoday.jp/news/N0156995"/>
+        <updated>2026-09-18T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[今夜18日、日本テレビ系「金曜ロードショー」にて映画『ナイト ミュージアム』（2006年）が放送（よる9時～）される。]]></summary>
+        <content type="html"><![CDATA[今夜18日、日本テレビ系「金曜ロードショー」にて映画『ナイト ミュージアム』（2006年）が放送（よる9時～）される。]]></content>
+        <published>2026-09-18T10:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html"/>
+        <updated>2026-09-18T10:15:05.000Z</updated>
+        <summary type="html"><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。]]></summary>
+        <content type="html"><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。]]></content>
+        <author>
+            <name>白井暁彦（しらいはかせ）</name>
+        </author>
+        <published>2026-09-18T10:15:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/18/185816</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/18/185816"/>
+        <updated>2026-09-18T09:58:16.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのかと、そこで何が出てきたのかを紹介します！ なぜ勉強会にしたのか 私が、]]></summary>
+        <content type="html"><![CDATA[こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのかと、そこで何が出てきたのかを紹介します！ なぜ勉強会にしたのか 私が、Jev を触って最初に思ったのは、「今まで自分たちが持っていた AI アプリケーション開発の頭ではいけない！！」ということでした。もちろん、既存の LLM 呼び出しの中でJevが使える箇所をJevに変…]]></content>
+        <published>2026-09-18T09:58:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有村架純、オダギリジョーに笑い止まらず「映らないように顔を隠していました」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156980</id>
+        <link href="https://www.cinematoday.jp/news/N0156980"/>
+        <updated>2026-09-18T09:47:47.000Z</updated>
+        <summary type="html"><![CDATA[俳優の有村架純が18日、都内で行われた映画『さとこはいつも』（公開中）初日舞台挨拶にオダギリジョーと登壇。本作で6年に及ぶ不倫関係にある男女を演じた二人が、デート先となった那須ロケの様子を振り返った。]]></summary>
+        <content type="html"><![CDATA[俳優の有村架純が18日、都内で行われた映画『さとこはいつも』（公開中）初日舞台挨拶にオダギリジョーと登壇。本作で6年に及ぶ不倫関係にある男女を演じた二人が、デート先となった那須ロケの様子を振り返った。]]></content>
+        <published>2026-09-18T09:47:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11搭載の一部ノートPCでタスクバーのすぐ上がマウス操作できない問題／日本マイクロソフトが対処法を案内 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2142298.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2142298.html"/>
+        <updated>2026-09-18T09:18:00.000Z</updated>
+        <summary type="html"><![CDATA[ Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。]]></summary>
+        <content type="html"><![CDATA[ Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-18T09:18:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2142260.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2142260.html"/>
+        <updated>2026-09-18T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。]]></summary>
+        <content type="html"><![CDATA[ The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-18T08:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: クリックでインライン編集する機能を カスタム要素 で実装する（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=158980</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_18/158980"/>
+        <updated>2026-09-18T08:30:48.000Z</updated>
+        <summary type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Inline editing with cust]]></summary>
+        <content type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Inline editing with cust]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="Ruby on Rails"/>
+        <category label="Stimulus.js"/>
+        <category label="Turbo"/>
+        <category label="カスタム要素"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-18T08:30:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOZOの基幹システムをステートレス化 ── 段階的なフロントエンドリプレイスに向けたセッションオフロード | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/backoffice-stateless-session-offload-2026</id>
+        <link href="https://techblog.zozo.com/entry/backoffice-stateless-session-offload-2026"/>
+        <updated>2026-09-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、EC基盤開発本部SRE部でテックリードを務めている杉山です。 ZOZOでは、長年運用してきた基幹システムを新しいアーキテクチャへリプレイスする取り組みを進めています。新システムではAPIにJava、フロントエンド＋BFFにReact（TypeScript / Node.js）を採用し、インフラはKubernetes上に構築しています。 2025年11月に開催されたファインディ]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、EC基盤開発本部SRE部でテックリードを務めている杉山です。 ZOZOでは、長年運用してきた基幹システムを新しいアーキテクチャへリプレイスする取り組みを進めています。新システムではAPIにJava、フロントエンド＋BFFにReact（TypeScript / Node.js）を採用し、インフラはKubernetes上に構築しています。 2025年11月に開催されたファインディ株式会社主催の「アーキテクチャConference 2025」では、「巨大モノリスのリプレイス──機能整理とハイブリッドアーキテクチャで挑んだ再構築戦略」と題して発表しました。基幹システムの課題と、ア…]]></content>
+        <published>2026-09-18T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリストファー・ノーラン『オデュッセイア』度肝を抜く「トロイの木馬」シーン撮影秘話 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156958</id>
+        <link href="https://www.cinematoday.jp/news/N0156958"/>
+        <updated>2026-09-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全米および世界興行収入で驚異的な記録を打ち立て、日本でも大ヒット上映中のクリストファー・ノーラン監督最新作『オデュッセイア』より、劇中屈指のハイライトとして話題を呼んでいる「トロイの木馬」シーンの壮絶な撮影秘話が明らかになった。]]></summary>
+        <content type="html"><![CDATA[全米および世界興行収入で驚異的な記録を打ち立て、日本でも大ヒット上映中のクリストファー・ノーラン監督最新作『オデュッセイア』より、劇中屈指のハイライトとして話題を呼んでいる「トロイの木馬」シーンの壮絶な撮影秘話が明らかになった。]]></content>
+        <published>2026-09-18T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青森・大間原発、再開時期また示せず　専門家「Jパワーの仕切りは元々無理」 (Views) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/seminar/19/00030/091800810/</id>
+        <link href="https://business.nikkei.com/atcl/seminar/19/00030/091800810/"/>
+        <updated>2026-09-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jパワーは大間原発の工事再開時期の公表をまたも見送った。運転開始の目標も後ろ倒しになる。狭い敷地に複数の工事が集中し、その量を読み違えたことが直接の理由だ。だが専門家は、工事管理を熟知しないJパワーが自ら仕切ること自体に無理があったと指摘する。]]></summary>
+        <content type="html"><![CDATA[Jパワーは大間原発の工事再開時期の公表をまたも見送った。運転開始の目標も後ろ倒しになる。狭い敷地に複数の工事が集中し、その量を読み違えたことが直接の理由だ。だが専門家は、工事管理を熟知しないJパワーが自ら仕切ること自体に無理があったと指摘する。]]></content>
+        <published>2026-09-18T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物価基調、特殊要因を除いて見極め／米中首脳会談はAI・イラン対応が焦点に (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/seminar/19/00122/00298/</id>
+        <link href="https://business.nikkei.com/atcl/seminar/19/00122/00298/"/>
+        <updated>2026-09-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日銀が重視する基調的な物価上昇率が2％に近づく中、25日に公表される最新の物価データが実勢を見極める注目の材料だ。海外では国連総会や米中首脳会談があり、人工知能（AI）や対イラン制裁、中国車への対応が焦点となる。]]></summary>
+        <content type="html"><![CDATA[日銀が重視する基調的な物価上昇率が2％に近づく中、25日に公表される最新の物価データが実勢を見極める注目の材料だ。海外では国連総会や米中首脳会談があり、人工知能（AI）や対イラン制裁、中国車への対応が焦点となる。]]></content>
+        <published>2026-09-18T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［独自調査］経営層の8割「AI日常利用」　最も必要なのは「リーダーシップ」 (AI駆動型リーダー) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00928/091700002/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00928/091700002/"/>
+        <updated>2026-09-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日経ビジネスはグロービス経営大学院大学と共同で、業務でのAI活用の実態調査を実施した。経営層ほどAIを積極的に利用し、期待も大きいことが分かった。同時に一般社員との認識の隔たりも見えてきた。]]></summary>
+        <content type="html"><![CDATA[日経ビジネスはグロービス経営大学院大学と共同で、業務でのAI活用の実態調査を実施した。経営層ほどAIを積極的に利用し、期待も大きいことが分かった。同時に一般社員との認識の隔たりも見えてきた。]]></content>
+        <published>2026-09-18T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「まずいものは駄目だ」　セブンプレミアム生みの親が見た妥協なき鈴木敏文氏 (経営者たちが見た鈴木敏文) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00935/091600002/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00935/091600002/"/>
+        <updated>2026-09-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「消費者懇談会なんて、何の意味もない」――。コンビニの父、鈴木敏文氏の経営哲学とも言える「仮説と検証」について、セブン＆アイ・ホールディングス取締役も務めたヨークベニマル名誉会長の大髙善興氏は「この一言にその真意があった」と振り返る。]]></summary>
+        <content type="html"><![CDATA[「消費者懇談会なんて、何の意味もない」――。コンビニの父、鈴木敏文氏の経営哲学とも言える「仮説と検証」について、セブン＆アイ・ホールディングス取締役も務めたヨークベニマル名誉会長の大髙善興氏は「この一言にその真意があった」と振り返る。]]></content>
+        <published>2026-09-18T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2142270.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2142270.html"/>
+        <updated>2026-09-18T07:54:25.000Z</updated>
+        <summary type="html"><![CDATA[ 米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。]]></summary>
+        <content type="html"><![CDATA[ 米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-18T07:54:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『踊る大捜査線 N.E.W.』新キャスト2名発表　山本高広、織田裕二と念願の共演「地球に生まれてよかったー！」 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156985</id>
+        <link href="https://www.cinematoday.jp/news/N0156985"/>
+        <updated>2026-09-18T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[織田裕二が主演を務める映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の追加キャストが、公開初日となる18日に公式Xで発表され、声優の林原めぐみ、ものまねタレントの山本高広が出演していることが明らかになった。]]></summary>
+        <content type="html"><![CDATA[織田裕二が主演を務める映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』の追加キャストが、公開初日となる18日に公式Xで発表され、声優の林原めぐみ、ものまねタレントの山本高広が出演していることが明らかになった。]]></content>
+        <published>2026-09-18T07:25:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話 | freee Developers Hub]]></title>
+        <id>https://developers.freee.co.jp/entry/spa_react_upgrade</id>
+        <link href="https://developers.freee.co.jp/entry/spa_react_upgrade"/>
+        <updated>2026-09-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。freee販売のエンジニアをやっているshuchanです。 この記事では、数年かけて育ってきたReact製の画面を、止めずに、かつ機能追加を続けながら、新しいフロントエンド基盤へ引っ越している話を紹介します。 フレームワークのバージョンアップではなく、「ディレクトリ構成・router・データフェッチ・スタイリング・テスト基盤をまとめて別物に差し替える」という、ほぼフルリメイク的な移行で]]></summary>
+        <content type="html"><![CDATA[こんにちは。freee販売のエンジニアをやっているshuchanです。 この記事では、数年かけて育ってきたReact製の画面を、止めずに、かつ機能追加を続けながら、新しいフロントエンド基盤へ引っ越している話を紹介します。 フレームワークのバージョンアップではなく、「ディレクトリ構成・router・データフェッチ・スタイリング・テスト基盤をまとめて別物に差し替える」という、ほぼフルリメイク的な移行です。 なお、記事中のリポジトリ名・ディレクトリ名は、わかりやすさを優先して汎用的な名前（旧FE / 新FE）に置き換えています。規模に関する数値も丸めています。 TL;DR 新旧フロントエンドの共存構…]]></content>
+        <published>2026-09-18T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/09/18/160000</id>
+        <link href="https://www.m3tech.blog/entry/2026/09/18/160000"/>
+        <updated>2026-09-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の最適化につながります。この記事では、BigQuery のスケーリングの仕組み、何に対して課金されてい]]></summary>
+        <content type="html"><![CDATA[エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の最適化につながります。この記事では、BigQuery のスケーリングの仕組み、何に対して課金されているか、max_slots 調整の取り組み、fluid scaling の効果について書きます。 データ基盤チームの橋口です。この記事はデータ基盤チーム &amp;amp; Unit9（エビデンス創出プロダクトチーム）…]]></content>
+        <published>2026-09-18T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OAuth/OIDC Numa(Immersion)  Workshop 2026とOpenID Summit Tokyo 2026 Special Editionに参加しました | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/09/18/150000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/09/18/150000"/>
+        <updated>2026-09-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。技術本部Platform Engineering Unit Identity Platformグループで、社内共通の認証基盤「Auth One」を開発しているチームの古石です。 8月25日に開催された、一般社団法人OpenIDファウンデーション・ジャパン主催の「OAuth/OIDC Numa (Immersion) Workshop 2026」と、翌26日の「OpenID Summit]]></summary>
+        <content type="html"><![CDATA[こんにちは。技術本部Platform Engineering Unit Identity Platformグループで、社内共通の認証基盤「Auth One」を開発しているチームの古石です。 8月25日に開催された、一般社団法人OpenIDファウンデーション・ジャパン主催の「OAuth/OIDC Numa (Immersion) Workshop 2026」と、翌26日の「OpenID Summit Tokyo 2026 Special Edition」にチーム全員で参加しました！ 私を含め、チームメンバーの多くは両イベントに初めて参加しました。 この記事では、私たちが感じた二つのイベントそれぞ…]]></content>
+        <published>2026-09-18T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『13日の金曜日』前日譚ドラマ吹替版キャストに園崎未恵、ファイルーズあい、加藤小夏が決定 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156981</id>
+        <link href="https://www.cinematoday.jp/news/N0156981"/>
+        <updated>2026-09-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人気ホラーシリーズ『13日の金曜日』の正統前日譚となるドラマ「クリスタル・レイク / 殺人鬼の母」（10月15日独占配信開始）の日本語吹替版キャストが発表され、主演パメラ（パム）・ボーヒーズ役を園崎未恵、その息子ジェイソン役をファイルーズあい、ジェイソンの友人グレース役を俳優の加藤小夏が担当することが明らかになった。]]></summary>
+        <content type="html"><![CDATA[人気ホラーシリーズ『13日の金曜日』の正統前日譚となるドラマ「クリスタル・レイク / 殺人鬼の母」（10月15日独占配信開始）の日本語吹替版キャストが発表され、主演パメラ（パム）・ボーヒーズ役を園崎未恵、その息子ジェイソン役をファイルーズあい、ジェイソンの友人グレース役を俳優の加藤小夏が担当することが明らかになった。]]></content>
+        <published>2026-09-18T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドカンファレンス福岡2026に参加しました #fec_fukuoka | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/18/145656</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/18/145656"/>
+        <updated>2026-09-18T05:56:56.000Z</updated>
+        <summary type="html"><![CDATA[みなさん、こんにちは！福岡在住の穴井（@pirosikick）です。福岡も涼しく過ごしやすい季節になってまいりました。 今回は、先日9/12（土）に九州産業大学で行われた「フロントエンドカンファレンス福岡2026」の参加レポートをお届けします。 frontend-conf.fukuoka.jp 今回、弊社はシルバースポンサーとしてブース出展し、合計5名で参加しました。 tech.layerx.co]]></summary>
+        <content type="html"><![CDATA[みなさん、こんにちは！福岡在住の穴井（@pirosikick）です。福岡も涼しく過ごしやすい季節になってまいりました。 今回は、先日9/12（土）に九州産業大学で行われた「フロントエンドカンファレンス福岡2026」の参加レポートをお届けします。 frontend-conf.fukuoka.jp 今回、弊社はシルバースポンサーとしてブース出展し、合計5名で参加しました。 tech.layerx.co.jp 弊社スポンサーブースでは、TSKaigiと同じく、社内からヒアリングしたフロントエンドに関連する面白かった・苦労した実装をディスプレイで展示しました。 また、TSKaigiではバクラク事業部の…]]></content>
+        <published>2026-09-18T05:56:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分の施策を自分で評価する —— 結果を見る前に決めておいたことと、そこから外したこと | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/18/143604</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/18/143604"/>
+        <updated>2026-09-18T05:36:04.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。技術統括本部でアジャイルコーチをしている shooen です。 SmartHRでは「リリース後の学習ループ」を回すためにパイロットプロジェクトに取り組んでいます。その途中経過を2026年4月に Product Management Summit で発表し、5月にはその報告と他講演との接点を記事にしました。 product-management-summit.findy-tools.io]]></summary>
+        <content type="html"><![CDATA[こんにちは。技術統括本部でアジャイルコーチをしている shooen です。 SmartHRでは「リリース後の学習ループ」を回すためにパイロットプロジェクトに取り組んでいます。その途中経過を2026年4月に Product Management Summit で発表し、5月にはその報告と他講演との接点を記事にしました。 product-management-summit.findy-tools.io tech.smarthr.jp プロジェクトでは、観測結果の確認と判断の場「Decision Review」（旧称：Learningレビュー）と、それらを記録する「Decision Log」の2つを…]]></content>
+        <published>2026-09-18T05:36:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlinkの航空機利用、国際線のIPアドレス変化を追う | IIJ Engineers Blog]]></title>
+        <id>https://eng-blog.iij.ad.jp/?p=37750</id>
+        <link href="https://eng-blog.iij.ad.jp/archives/37750"/>
+        <updated>2026-09-18T05:09:37.000Z</updated>
+        <summary type="html"><![CDATA[僕の従兄弟はプロゲーマーの「ときど」選手です。彼は仕事柄、世界中の大会に参戦するわけですが、最近はStarlink搭載の航空機に乗る機会もあるようです。そこでI...]]></summary>
+        <content type="html"><![CDATA[僕の従兄弟はプロゲーマーの「ときど」選手です。彼は仕事柄、世界中の大会に参戦するわけですが、最近はStarlink搭載の航空機に乗る機会もあるようです。そこでI...]]></content>
+        <author>
+            <name>谷口 崇</name>
+        </author>
+        <category label="技術情報"/>
+        <category label="Starlink"/>
+        <category label="Starlink Network"/>
+        <published>2026-09-18T05:09:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bet AI Day 2026 振り返り | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/betaiday_2026</id>
+        <link href="https://tech.layerx.co.jp/entry/betaiday_2026"/>
+        <updated>2026-09-18T04:36:27.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、@nekokak です。 2026年9月3日に竹芝ポートホールでBet AI Day 2026を開催しました。また同時にオンライン配信も行いました。 昨年のBet AI Day はオフィスのイベントスペースを活用した会でしたが、今回はもっと多くの方々と親交を温めたいという想いもあり、竹芝ポートホールをお借りして昨年よりも規模を大きくしての開催となりました。 今回は9月3日に本会を開催す]]></summary>
+        <content type="html"><![CDATA[こんにちは、@nekokak です。 2026年9月3日に竹芝ポートホールでBet AI Day 2026を開催しました。また同時にオンライン配信も行いました。 昨年のBet AI Day はオフィスのイベントスペースを活用した会でしたが、今回はもっと多くの方々と親交を温めたいという想いもあり、竹芝ポートホールをお借りして昨年よりも規模を大きくしての開催となりました。 今回は9月3日に本会を開催する前のプレイベントとして、Bet AI Day Pre-Event AI Agent Talksを活用、浸透、実践の3つのテーマに分け、8月31日、9月1日、9月2日と3days配信も行いました。 本…]]></content>
+        <published>2026-09-18T04:36:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260918/a11y</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260918/a11y"/>
+        <updated>2026-09-18T04:03:12.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ラクスのフロントエンド推進課の亀ノ上です。 Webアクセシビリティは、2022年のチームの課題棚卸しで私が挙げたテーマです。その後もR&amp;amp;Dの取り組みとして続けてきましたが、期日のある機能開発と並べると優先順位は後ろになり、着手には至っていませんでした。 今回、エンドユーザー向けの公開画面を持つ機能の開発で、Webアクセシビリティが要件になりました。対応を進める中で作ったのは、Webアク]]></summary>
+        <content type="html"><![CDATA[こんにちは。ラクスのフロントエンド推進課の亀ノ上です。 Webアクセシビリティは、2022年のチームの課題棚卸しで私が挙げたテーマです。その後もR&amp;amp;Dの取り組みとして続けてきましたが、期日のある機能開発と並べると優先順位は後ろになり、着手には至っていませんでした。 今回、エンドユーザー向けの公開画面を持つ機能の開発で、Webアクセシビリティが要件になりました。対応を進める中で作ったのは、Webアクセシビリティを向上させる仕組みではありません。「どこが直せるのかを、プロダクトに手を入れずに知る」ためのレポート作成ツールでした。 この記事は、ツールの設計判断と、AIにどこまで任せられるのかが見えた…]]></content>
+        <published>2026-09-18T04:03:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[横浜流星主演「LOST10」相関図が公開！吉沢悠、山本未來ら追加キャスト9名発表 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156977</id>
+        <link href="https://www.cinematoday.jp/news/N0156977"/>
+        <updated>2026-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[横浜流星が主演を務め、10月16日よりスタートするTBS系金曜ドラマ「LOST10」（毎週金曜よる10時～）より、物語の核となる主要キャラクターの相関図が公開された。]]></summary>
+        <content type="html"><![CDATA[横浜流星が主演を務め、10月16日よりスタートするTBS系金曜ドラマ「LOST10」（毎週金曜よる10時～）より、物語の核となる主要キャラクターの相関図が公開された。]]></content>
+        <published>2026-09-18T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[森川智之らトム・クルーズ主演『DIGGER／ディガー』吹替声優一挙発表！ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156974</id>
+        <link href="https://www.cinematoday.jp/news/N0156974"/>
+        <updated>2026-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トム・クルーズとアレハンドロ・G・イニャリトゥ監督がタッグを組む映画『DIGGER／ディガー』（10月9日公開）の日本語吹替版キャストが公表され、トム演じる主人公ディガー役を森川智之が務めることが決定した。]]></summary>
+        <content type="html"><![CDATA[トム・クルーズとアレハンドロ・G・イニャリトゥ監督がタッグを組む映画『DIGGER／ディガー』（10月9日公開）の日本語吹替版キャストが公表され、トム演じる主人公ディガー役を森川智之が務めることが決定した。]]></content>
+        <published>2026-09-18T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『新感染』ヨン・サンホ監督の新ゾンビ映画『コロニー／群体』2027年元日公開！進化する“感染者”が群れをなす | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156966</id>
+        <link href="https://www.cinematoday.jp/news/N0156966"/>
+        <updated>2026-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[『新感染 ファイナル・エクスプレス』などのヨン・サンホ監督がメガホンを取った新作ゾンビ映画『コロニー／群体』が、2027年1月1日に日本公開されることが決定し、ティザービジュアルと特報が公開された。]]></summary>
+        <content type="html"><![CDATA[『新感染 ファイナル・エクスプレス』などのヨン・サンホ監督がメガホンを取った新作ゾンビ映画『コロニー／群体』が、2027年1月1日に日本公開されることが決定し、ティザービジュアルと特報が公開された。]]></content>
+        <published>2026-09-18T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新作特撮「フェス・ゴジラII 東京消失」バーニングミレニアムゴジラのビジュアル公開　鈴木福が続投！ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156967</id>
+        <link href="https://www.cinematoday.jp/news/N0156967"/>
+        <updated>2026-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11月3日に 東京・TAKANAWA GATEWAY CITY で開催されるイベント「ゴジラ・フェス2026」で披露される、恒例の完全新作特撮シリーズ最新作「フェス・ゴジラII 東京消失」から、“バーニングミレニアムゴジラ”の最新ビジュアルとキャスト情報が公開、前作に引き続き、俳優の鈴木福が続投することが明らかになった。]]></summary>
+        <content type="html"><![CDATA[11月3日に 東京・TAKANAWA GATEWAY CITY で開催されるイベント「ゴジラ・フェス2026」で披露される、恒例の完全新作特撮シリーズ最新作「フェス・ゴジラII 東京消失」から、“バーニングミレニアムゴジラ”の最新ビジュアルとキャスト情報が公開、前作に引き続き、俳優の鈴木福が続投することが明らかになった。]]></content>
+        <published>2026-09-18T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ナルニア国物語」再映画化、アスランはデヴィッド・ボウイ風に！ド派手なビジュアル公開 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156973</id>
+        <link href="https://www.cinematoday.jp/news/N0156973"/>
+        <updated>2026-09-18T02:42:51.000Z</updated>
+        <summary type="html"><![CDATA[映画『バービー』のグレタ・ガーウィグ監督による「ナルニア国物語」シリーズの新たな映画化作品『ナルニア：魔術師のおい』から、もの言うライオン・アスランのビジュアルが公開された。]]></summary>
+        <content type="html"><![CDATA[映画『バービー』のグレタ・ガーウィグ監督による「ナルニア国物語」シリーズの新たな映画化作品『ナルニア：魔術師のおい』から、もの言うライオン・アスランのビジュアルが公開された。]]></content>
+        <published>2026-09-18T02:42:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIアシスタントにレッドチーミングを導入して学んだこと | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/18/113623</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/18/113623"/>
+        <updated>2026-09-18T02:36:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。AIアシスタントチームでプロダクトエンジニアをしているmizunaoです。 SmartHRには、AIアシスタントという機能があります。就業規則や社内マニュアルをあらかじめアップロードしておくと、「有給休暇は何日前までに申請すればいい？」のような従業員からの質問に、その文書の内容に基づいて答えてくれるAIチャットボットです。 AIアシスタントは、従業員が自由に文章を入力でき、その内容に応]]></summary>
+        <content type="html"><![CDATA[こんにちは。AIアシスタントチームでプロダクトエンジニアをしているmizunaoです。 SmartHRには、AIアシスタントという機能があります。就業規則や社内マニュアルをあらかじめアップロードしておくと、「有給休暇は何日前までに申請すればいい？」のような従業員からの質問に、その文書の内容に基づいて答えてくれるAIチャットボットです。 AIアシスタントは、従業員が自由に文章を入力でき、その内容に応じて答えを返します。この自由さは、裏を返せば攻撃の入り口にもなります。これまでも開発者が攻撃的な質問を投げてセキュリティチェックを行ってきましたが、確認はすべて手作業でした。プロンプトやモデルを変える…]]></content>
+        <published>2026-09-18T02:36:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画『仮面ライダーゼッツ』未公開映像収録版、11.25配信決定！玖門宗馬の会見シーン＆幻のアクションなど追加 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156976</id>
+        <link href="https://www.cinematoday.jp/news/N0156976"/>
+        <updated>2026-09-18T02:05:44.000Z</updated>
+        <summary type="html"><![CDATA[今年7月に劇場公開された映画『仮面ライダーゼッツ さよならのミッション』の未公開シーンを多数追加した「未公開映像収録版」が、11月25日より東映特撮ファンクラブ（TTFC）にて有料配信（税込480円／30日間）されることが決定した。]]></summary>
+        <content type="html"><![CDATA[今年7月に劇場公開された映画『仮面ライダーゼッツ さよならのミッション』の未公開シーンを多数追加した「未公開映像収録版」が、11月25日より東映特撮ファンクラブ（TTFC）にて有料配信（税込480円／30日間）されることが決定した。]]></content>
+        <published>2026-09-18T02:05:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOZOTOWN Androidのリリース準備を自動化 ── Jira AutomationとGitHub Actionsで手作業を減らす | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/zozotown-android-release-automation</id>
+        <link href="https://techblog.zozo.com/entry/zozotown-android-release-automation"/>
+        <updated>2026-09-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ZOZOTOWN開発2部Androidブロックの小林（@kako_351）です。普段はZOZOTOWN Androidアプリの開発を担当しています。ZOZOTOWN Androidでは、チーム内の運用でさまざまな作業を自動化しています。最近はリリース準備を、Jira AutomationとGitHub Actionsの組み合わせで自動化しました。本記事では、その仕組みと実装を]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ZOZOTOWN開発2部Androidブロックの小林（@kako_351）です。普段はZOZOTOWN Androidアプリの開発を担当しています。ZOZOTOWN Androidでは、チーム内の運用でさまざまな作業を自動化しています。最近はリリース準備を、Jira AutomationとGitHub Actionsの組み合わせで自動化しました。本記事では、その仕組みと実装を紹介します。]]></content>
+        <published>2026-09-18T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DC新作『クレイフェイス』生々しい本ビジュアル公開　バットマン異色ヴィランの横顔が浮かび上がる | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156975</id>
+        <link href="https://www.cinematoday.jp/news/N0156975"/>
+        <updated>2026-09-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「バットマン」シリーズを代表する異色ヴィランの誕生を描くDCスタジオ発の本格心理スリラー映画『クレイフェイス』（10月30日全国公開）から、“怪物誕生”の片鱗があらわになった本ポスタービジュアルが公開された。]]></summary>
+        <content type="html"><![CDATA[「バットマン」シリーズを代表する異色ヴィランの誕生を描くDCスタジオ発の本格心理スリラー映画『クレイフェイス』（10月30日全国公開）から、“怪物誕生”の片鱗があらわになった本ポスタービジュアルが公開された。]]></content>
+        <published>2026-09-18T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リアルタイムフレームワーク「prizm」について社内勉強会を開催しました | COLOPL Tech Blog]]></title>
+        <id>https://blog.colopl.dev/entry/2026/09/18/110000</id>
+        <link href="https://blog.colopl.dev/entry/2026/09/18/110000"/>
+        <updated>2026-09-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！サーバー基盤グループの阿部です。 今回は内製のリアルタイムフレームワーク「prizm」をテーマにした勉強会を開催しましたので、その様子をご紹介します。 prizmとは prizm は、複数のクライアントが1つのサーバーに接続し、Room と呼ばれる単位でリアルタイムに双方向のメッセージを送受信するための通信フレームワークです。サーバーは Go で実装しており、クライアント向けには C#]]></summary>
+        <content type="html"><![CDATA[こんにちは！サーバー基盤グループの阿部です。 今回は内製のリアルタイムフレームワーク「prizm」をテーマにした勉強会を開催しましたので、その様子をご紹介します。 prizmとは prizm は、複数のクライアントが1つのサーバーに接続し、Room と呼ばれる単位でリアルタイムに双方向のメッセージを送受信するための通信フレームワークです。サーバーは Go で実装しており、クライアント向けには C# と Go の SDK を提供しています。稼働環境は Kubernetes と Agones を前提にしています。 prizm 自体については過去の勉強会でも紹介しており、そのときの様子もテックブログ…]]></content>
+        <published>2026-09-18T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeのサブエージェントのコスパを実測してみたら予想外の結果になった | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-subagent-cost/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-subagent-cost/entry"/>
+        <updated>2026-09-18T01:07:30.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの真崎です。普段はAIを用いた業務改善や技術開発に従事しています。 私たちのチームではコーディングエージェントのClaude Codeを業務で活用しています。便利な一方で、利用が広がるほどコストも増えていきます。 そこで、調査と実装を割安なモデルに任せ、全体の判断とレビューだけを高性能なモデルが担う構成（オーケストレーション）をClaude Codeのカスタムサブ]]></summary>
+        <content type="html"><![CDATA[こんにちは、イノベーションセンターの真崎です。普段はAIを用いた業務改善や技術開発に従事しています。 私たちのチームではコーディングエージェントのClaude Codeを業務で活用しています。便利な一方で、利用が広がるほどコストも増えていきます。 そこで、調査と実装を割安なモデルに任せ、全体の判断とレビューだけを高性能なモデルが担う構成（オーケストレーション）をClaude Codeのカスタムサブエージェント機能で構築し、コストと品質を実測しました。 結果は予想外でした。小規模な改修では、オーケストレーションが単一モデルで実行した場合の1.78倍のコストとなり、約2,000行規模の改修でもほぼ…]]></content>
+        <published>2026-09-18T01:07:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ストレンジャー・シングス」女優、22歳で二児の母に！ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156972</id>
+        <link href="https://www.cinematoday.jp/news/N0156972"/>
+        <updated>2026-09-18T01:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Netflixのドラマ「ストレンジャー・シングス 未知の世界」のイレブン役や映画『エノーラ・ホームズの事件簿』シリーズなどで知られる女優のミリー・ボビー・ブラウン（22）が、夫のジェイク・ボンジョヴィ（24）と第2子を養子縁組で迎えた。]]></summary>
+        <content type="html"><![CDATA[Netflixのドラマ「ストレンジャー・シングス 未知の世界」のイレブン役や映画『エノーラ・ホームズの事件簿』シリーズなどで知られる女優のミリー・ボビー・ブラウン（22）が、夫のジェイク・ボンジョヴィ（24）と第2子を養子縁組で迎えた。]]></content>
+        <published>2026-09-18T01:04:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Conference 2026 に Go ルドスポンサーとして参加しました！ | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/18/100000</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/18/100000"/>
+        <updated>2026-09-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。LayerX バクラク事業部でエンジニアをしている石黒です。 2026年9月11日（金）に開催された Go Conference 2026 に、LayerX は Go ルドスポンサーとして参加しました！ 今年はブース出展に加えて、なんと 4 名のメンバーがセッション・ワークショップに登壇しました。この記事では、ブースで紹介した取り組みや、メンバーの発表をご紹介します。 Go Confe]]></summary>
+        <content type="html"><![CDATA[こんにちは。LayerX バクラク事業部でエンジニアをしている石黒です。 2026年9月11日（金）に開催された Go Conference 2026 に、LayerX は Go ルドスポンサーとして参加しました！ 今年はブース出展に加えて、なんと 4 名のメンバーがセッション・ワークショップに登壇しました。この記事では、ブースで紹介した取り組みや、メンバーの発表をご紹介します。 Go Conference について Go Conference は、プログラミング言語 Go に関するセッションやワークショップなどが行われる、Go ユーザーのためのイベントです。 今年は中野セントラルパークカンフ…]]></content>
+        <published>2026-09-18T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compose VRTを導入するために考えた、論点を潰していく進め方と方針立て | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/09/18/100000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/09/18/100000"/>
+        <updated>2026-09-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、技術本部 Eight Engineering Unit Mobile Application グループで、EightのAndroidアプリを開発している荒です。 現在Sansan Tech Blogでは「モバイルブログリレー」を実施中です！ さて、先日Eight AndroidにVisual Regression Testing（以下VRT）を導入しました。 Jetpack ]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、技術本部 Eight Engineering Unit Mobile Application グループで、EightのAndroidアプリを開発している荒です。 現在Sansan Tech Blogでは「モバイルブログリレー」を実施中です！ さて、先日Eight AndroidにVisual Regression Testing（以下VRT）を導入しました。 Jetpack ComposeのVRT基盤が登場してから少し月日が経ち、VRTの導入自体はさほど目新しいものではなくなってきたように思います。 コミュニティーでも、大規模なアプリにも導入されていたり、技術的知見もネッ…]]></content>
+        <published>2026-09-18T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリスタの最新機能もこれでよく分かる！ プロ絵師たちが使用するイラスト制作のテクニックを徹底的に解説 -クリスタ操作術 決定版 改訂2版 | コリス]]></title>
+        <id>https://coliss.com/?p=83531</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784295024835.html"/>
+        <updated>2026-09-18T00:36:05.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 2026年3月にアップデートされたClip Studio Paint ver.5対応の解説書は、初じゃないでしょうか。 プロのイラストレーター、絵師]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 2026年3月にアップデートされたClip Studio Paint ver.5対応の解説書は、初じゃないでしょうか。 プロのイラストレーター、絵師]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Book Review"/>
+        <category label="インプレス"/>
+        <category label="クリスタ"/>
+        <published>2026-09-18T00:36:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Meetの自動メモ生成を解説 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/google-meet-take-notes-for-me-explained</id>
+        <link href="https://blog.g-gen.co.jp/entry/google-meet-take-notes-for-me-explained"/>
+        <updated>2026-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の西原です。当記事では、Google Meet の機能である自動メモ生成（Take notes for me）の概要と操作方法について解説します。 はじめに 自動メモ生成（Take notes for me）とは 機能 データの保護 ユースケース 議事録作成の自動化 途中参加時のキャッチアップ 対面ミーティングでの使用 前提条件と対応言語 必要なライセンス 対応言語 メモ生成の開始手順]]></summary>
+        <content type="html"><![CDATA[G-gen の西原です。当記事では、Google Meet の機能である自動メモ生成（Take notes for me）の概要と操作方法について解説します。 はじめに 自動メモ生成（Take notes for me）とは 機能 データの保護 ユースケース 議事録作成の自動化 途中参加時のキャッチアップ 対面ミーティングでの使用 前提条件と対応言語 必要なライセンス 対応言語 メモ生成の開始手順 会議前に Google カレンダーから有効化する 会議参加後に生成を開始する PC での操作 モバイル端末（Android、iOS）での操作 会議中の参加者による同意 メモの操作ができるユーザー 対…]]></content>
+        <published>2026-09-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-DLC 実践（第2回）：2チーム並行開発の実験結果と知見 | ENGINEERING BLOG ドコモ開発者ブログ]]></title>
+        <id>https://nttdocomo-developers.jp/entry/2026/09/18/090000_2</id>
+        <link href="https://nttdocomo-developers.jp/entry/2026/09/18/090000_2"/>
+        <updated>2026-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※ 本記事は Amazon Web Services ブログに寄稿した記事の転載です。 本稿は、NTTドコモ モバイルイノベーションテック部（以下、MIT 部）が AI-DLC TTT でフィジカル AI 領域の ML パイプラインを構築した取り組みの第 2 回です。 第 1 回：フィジカル AI 領域での ML 開発への適用 第 2 回：2 チーム並行開発の実験結果と知見（本記事） 第 1 回で]]></summary>
+        <content type="html"><![CDATA[※ 本記事は Amazon Web Services ブログに寄稿した記事の転載です。 本稿は、NTTドコモ モバイルイノベーションテック部（以下、MIT 部）が AI-DLC TTT でフィジカル AI 領域の ML パイプラインを構築した取り組みの第 2 回です。 第 1 回：フィジカル AI 領域での ML 開発への適用 第 2 回：2 チーム並行開発の実験結果と知見（本記事） 第 1 回では、AI-DLC の Inception フェーズで要件を構造化し、設計レビューで 11 個の不整合を事前に検出した取り組みをご紹介しました。 第 2 回では、Construction フェーズでの …]]></content>
+        <published>2026-09-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-DLC 実践（第1回）：フィジカルAI領域でのML開発への適用 | ENGINEERING BLOG ドコモ開発者ブログ]]></title>
+        <id>https://nttdocomo-developers.jp/entry/2026/09/18/090000_1</id>
+        <link href="https://nttdocomo-developers.jp/entry/2026/09/18/090000_1"/>
+        <updated>2026-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※ 本記事は Amazon Web Services ブログに寄稿した記事の転載です。 本稿では、株式会社NTTドコモ（以下、ドコモ）モバイルイノベーションテック部（以下、MIT 部）が AI-DLC（AI-Driven Development Lifecycle） の TTT（Train The Trainer）に参加し、フィジカル AI 領域における機械学習パイプラインを 3 日間で構築した取]]></summary>
+        <content type="html"><![CDATA[※ 本記事は Amazon Web Services ブログに寄稿した記事の転載です。 本稿では、株式会社NTTドコモ（以下、ドコモ）モバイルイノベーションテック部（以下、MIT 部）が AI-DLC（AI-Driven Development Lifecycle） の TTT（Train The Trainer）に参加し、フィジカル AI 領域における機械学習パイプラインを 3 日間で構築した取り組みについて、全 2 回に分けてご紹介します。 第 1 回：フィジカル AI 領域での ML 開発への適用（本記事） 第 2 回：2 チーム並行開発の実験結果と知見 1. はじめに ドコモの MIT…]]></content>
+        <published>2026-09-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝ドラ「風、薫る」りん（見上愛）、シマケン（佐野晶哉）から「本を書いては」と提案される 最終週あらすじ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156956</id>
+        <link href="https://www.cinematoday.jp/news/N0156956"/>
+        <updated>2026-09-17T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[俳優の見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか ※土曜は1週間の振り返り）。]]></summary>
+        <content type="html"><![CDATA[俳優の見上愛と上坂樹里がダブル主演を務める連続テレビ小説「風、薫る」（NHK総合・月～土、午前8時～ほか ※土曜は1週間の振り返り）。]]></content>
+        <published>2026-09-17T23:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devin Automationsを使ったAIによるアラート調査の運用ポイント | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=66105</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/66105/"/>
+        <updated>2026-09-17T23:00:25.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ピグ事業部で SRE を担当している松岡 (@htk1008)です。 昨今の AI の進化を受けて、]]></summary>
+        <content type="html"><![CDATA[はじめに ピグ事業部で SRE を担当している松岡 (@htk1008)です。 昨今の AI の進化を受けて、]]></content>
+        <author>
+            <name>松岡 穂高</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="AI"/>
+        <category label="Devin"/>
+        <category label="SRE"/>
+        <category label="ピグ"/>
+        <category label="ピグパーティ"/>
+        <published>2026-09-17T23:00:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尾上松也、現代版・金田一役で貫く主演の美学　枠にとらわれない挑戦の理由 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156939</id>
+        <link href="https://www.cinematoday.jp/news/N0156939"/>
+        <updated>2026-09-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[映画『八つ墓村』（全国公開中）で名探偵・金田一耕助を演じる尾上松也。ホラーの巨匠・清水崇監督のもと現代を舞台に再構築された本作で、これまでのイメージを覆す新たな金田一像を体現した。]]></summary>
+        <content type="html"><![CDATA[映画『八つ墓村』（全国公開中）で名探偵・金田一耕助を演じる尾上松也。ホラーの巨匠・清水崇監督のもと現代を舞台に再構築された本作で、これまでのイメージを覆す新たな金田一像を体現した。]]></content>
+        <published>2026-09-17T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Humanoid Robot Games 2026：ゼロから挑み、決勝進出へ | fltech - 富士通研究所の技術ブログ]]></title>
+        <id>https://blog.fltech.dev/entry/2026/09/18/WHRG26-blog-post-jp</id>
+        <link href="https://blog.fltech.dev/entry/2026/09/18/WHRG26-blog-post-jp"/>
+        <updated>2026-09-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、富士通フィジカルAI研究所です。2026年8月、私たちのチームは第2回World Humanoid Robot Games（WHRG 2026）に参加しました。本ブログでは、私たちのシステムを支える主要技術と、競技を通じて得られた学びをご紹介します。WHRG 2026は、Physical AIチームにとって、ロボット技術の実社会への応用に向けた大きな第一歩となりました。]]></summary>
+        <content type="html"><![CDATA[こんにちは、富士通フィジカルAI研究所です。2026年8月、私たちのチームは第2回World Humanoid Robot Games（WHRG 2026）に参加しました。本ブログでは、私たちのシステムを支える主要技術と、競技を通じて得られた学びをご紹介します。WHRG 2026は、Physical AIチームにとって、ロボット技術の実社会への応用に向けた大きな第一歩となりました。]]></content>
+        <published>2026-09-17T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文字列アルゴリズムで著作権侵害リスクの分析を高速化した話 | 弁護士ドットコム株式会社 Creators’ blog]]></title>
+        <id>https://creators.bengo4.com/entry/2026/09/18/080000</id>
+        <link href="https://creators.bengo4.com/entry/2026/09/18/080000"/>
+        <updated>2026-09-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。弁護士ドットコム株式会社データ本部 AI 技術開発部の宇野です。LegalBrain エージェントを開発しています。 法務相談への対応から、法令や判例のリサーチ、文書の作成・レビューまでを扱う法務特化の AI エージェントです。回答の根拠には、法令・判例・ガイドライン・法律書籍を統合した自社のデータベースを使っています。 この構成では、根拠とした書籍の文章が回答にそのまま含まれてしまう]]></summary>
+        <content type="html"><![CDATA[こんにちは。弁護士ドットコム株式会社データ本部 AI 技術開発部の宇野です。LegalBrain エージェントを開発しています。 法務相談への対応から、法令や判例のリサーチ、文書の作成・レビューまでを扱う法務特化の AI エージェントです。回答の根拠には、法令・判例・ガイドライン・法律書籍を統合した自社のデータベースを使っています。 この構成では、根拠とした書籍の文章が回答にそのまま含まれてしまうリスクを考慮する必要があります。書籍の文章をそのまま出力すれば、著作権を侵害することになりかねません。 どの程度そのまま出ているのかを測るために完全一致検出の仕組みを作り、分析が現実的な時間で回るまで…]]></content>
+        <published>2026-09-17T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ダウンタイム」美容整形経験者への取材で気付き　Yuki Saito監督が裏側明かす | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156953</id>
+        <link href="https://www.cinematoday.jp/news/N0156953"/>
+        <updated>2026-09-17T22:32:00.000Z</updated>
+        <summary type="html"><![CDATA[松岡茉優主演・仲里依紗共演により美容整形業界の光と闇を描くNetflixシリーズ「ダウンタイム」（配信中）。]]></summary>
+        <content type="html"><![CDATA[松岡茉優主演・仲里依紗共演により美容整形業界の光と闇を描くNetflixシリーズ「ダウンタイム」（配信中）。]]></content>
+        <published>2026-09-17T22:32:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】『踊る大捜査線 N.E.W.』進化を遂げて再始動　室井との“約束”を胸に青島俊作が走り出す | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156619</id>
+        <link href="https://www.cinematoday.jp/news/N0156619"/>
+        <updated>2026-09-17T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA[社会現象を巻き起こした『踊る大捜査線』の主人公・青島俊作が、14年ぶりに帰ってきた。]]></summary>
+        <content type="html"><![CDATA[社会現象を巻き起こした『踊る大捜査線』の主人公・青島俊作が、14年ぶりに帰ってきた。]]></content>
+        <published>2026-09-17T22:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地上波初！金曜ロードショー『インサイド・ヘッド2』放送決定　前作も2週連続放送 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156945</id>
+        <link href="https://www.cinematoday.jp/news/N0156945"/>
+        <updated>2026-09-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本テレビ系「金曜ロードショー」にて、ディズニー＆ピクサーの大ヒットアニメーション映画『インサイド・ヘッド』（2015）と、その続編『インサイド・ヘッド2』（2024）が10月9日より2週連続で本編ノーカット放送されることが決定した。]]></summary>
+        <content type="html"><![CDATA[日本テレビ系「金曜ロードショー」にて、ディズニー＆ピクサーの大ヒットアニメーション映画『インサイド・ヘッド』（2015）と、その続編『インサイド・ヘッド2』（2024）が10月9日より2週連続で本編ノーカット放送されることが決定した。]]></content>
+        <published>2026-09-17T21:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PIE-Ocean：海洋予測と海事デジタルツインのための高速AIエミュレータ | fltech - 富士通研究所の技術ブログ]]></title>
+        <id>https://blog.fltech.dev/entry/2026/09/18/pie-ocean-jp</id>
+        <link href="https://blog.fltech.dev/entry/2026/09/18/pie-ocean-jp"/>
+        <updated>2026-09-17T16:55:04.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。私たちは、米国カリフォルニア州サンタクララにあるFujitsu Research of America（FRA）の Space Data Frontier Research Center（SDF-RC）に所属する Subhashis Hazarika、Rohit Vuppala、Nazanin Chaichitehrani、Anthony Wong です。今回は私たちが取り組んでいるP]]></summary>
+        <content type="html"><![CDATA[こんにちは。私たちは、米国カリフォルニア州サンタクララにあるFujitsu Research of America（FRA）の Space Data Frontier Research Center（SDF-RC）に所属する Subhashis Hazarika、Rohit Vuppala、Nazanin Chaichitehrani、Anthony Wong です。今回は私たちが取り組んでいるPIE-X（Physics-Informed AI Emulators for different subsystems of nature - X's の略）についての研究成果をご紹介します。PIE-…]]></content>
+        <published>2026-09-17T16:55:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成 AI 機能開発を加速するゴールデンパス [DeNA インフラ SRE] | Blog on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/blog/2026/09/golden-path-for-generative-ai-platform/</id>
+        <link href="https://engineering.dena.com/blog/2026/09/golden-path-for-generative-ai-platform/"/>
+        <updated>2026-09-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[  はじめに  こんにちは、IT 本部 IT 基盤部第一グループの横田です。 IT 基盤部では、組織横断的に複数のプロダクトのインフラ運用を行っており、インフラ基盤の安定稼働やコスト削減、開発体験の向上に取り組んでいます。 私たちがインフラ運用を担当するサービスでは、生成 AI を活用した機能を継続的に追加しています。 それらの機能では、   Amazon Bedrock …]]></summary>
+        <content type="html"><![CDATA[  はじめに  こんにちは、IT 本部 IT 基盤部第一グループの横田です。 IT 基盤部では、組織横断的に複数のプロダクトのインフラ運用を行っており、インフラ基盤の安定稼働やコスト削減、開発体験の向上に取り組んでいます。 私たちがインフラ運用を担当するサービスでは、生成 AI を活用した機能を継続的に追加しています。 それらの機能では、   Amazon Bedrock …]]></content>
+        <published>2026-09-17T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スケーラブル量子コンピューティングの実現に向けて：SnVセンターを含むダイヤモンドナノビームとAl₂O₃導波路の集積 | fltech - 富士通研究所の技術ブログ]]></title>
+        <id>https://blog.fltech.dev/entry/2026/09/18/diamond-scalable_plantform-blog-post-ja</id>
+        <link href="https://blog.fltech.dev/entry/2026/09/18/diamond-scalable_plantform-blog-post-ja"/>
+        <updated>2026-09-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[量子研究所 モジュラー量子コンピューティングコアプロジェクトのYangです。 本Tech Blogでは、スケーラブルな量子フォトニックチップの実現に向けて開発した、ダイヤモンド–Al₂O₃ハイブリッド構造に関する最近の研究成果をご紹介します。本構造では、スズ-空孔（SnV）センターを含むダイヤモンドナノビームをAl₂O₃導波路と集積することで、ダイヤモンド中の発光体からオンチップ光配線層への高効率]]></summary>
+        <content type="html"><![CDATA[量子研究所 モジュラー量子コンピューティングコアプロジェクトのYangです。 本Tech Blogでは、スケーラブルな量子フォトニックチップの実現に向けて開発した、ダイヤモンド–Al₂O₃ハイブリッド構造に関する最近の研究成果をご紹介します。本構造では、スズ-空孔（SnV）センターを含むダイヤモンドナノビームをAl₂O₃導波路と集積することで、ダイヤモンド中の発光体からオンチップ光配線層への高効率な光結合を可能にします。以下では、デバイスのコンセプト、主要な作製技術、ならびにSnV発光の導波実証について説明します。本研究は、デルフト工科大学および東京大学との共同研究として実施しました。]]></content>
+        <published>2026-09-17T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長谷川博己、藤井道人監督と「結構バトルも」　飲み仲間との現場をユーモアたっぷりに回想 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156969</id>
+        <link href="https://www.cinematoday.jp/news/N0156969"/>
+        <updated>2026-09-17T13:56:07.000Z</updated>
+        <summary type="html"><![CDATA[俳優の長谷川博己が17日、都内で行われた映画『汝、星のごとく』（10月9日公開）のブルーカーペットイベント＆完成披露試写会に登壇。]]></summary>
+        <content type="html"><![CDATA[俳優の長谷川博己が17日、都内で行われた映画『汝、星のごとく』（10月9日公開）のブルーカーペットイベント＆完成披露試写会に登壇。]]></content>
+        <published>2026-09-17T13:56:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内田有紀×寺西拓人「ラストノート」Netflixで配信決定 | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0156962</id>
+        <link href="https://www.cinematoday.jp/news/N0156962"/>
+        <updated>2026-09-17T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[本日（17日）最終回を迎えた内田有紀、寺西拓人ダブル主演のフジテレビ木曜劇場「ラストノート」（毎週木曜夜22時～）が、9月18日正午よりNetflixにて国内および世界配信されることが決定した。]]></summary>
+        <content type="html"><![CDATA[本日（17日）最終回を迎えた内田有紀、寺西拓人ダブル主演のフジテレビ木曜劇場「ラストノート」（毎週木曜夜22時～）が、9月18日正午よりNetflixにて国内および世界配信されることが決定した。]]></content>
+        <published>2026-09-17T13:54:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RubyのHashを（小規模な場合に限って）高速化した話（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159764</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_17/159764"/>
+        <updated>2026-09-17T08:30:44.000Z</updated>
+        <summary type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Speeding Up (small) Ruby]]></summary>
+        <content type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Speeding Up (small) Ruby]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="hash"/>
+        <category label="Ruby"/>
+        <category label="最適化"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-17T08:30:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽楽明細における、障害対応時の動き方の話 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260917/incident</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260917/incident"/>
+        <updated>2026-09-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。楽楽明細の開発をしている者です。 運用目線での顧客視点として、障害対応の話を書こうと思います。 障害が起きたとき、私が頭の中でどういう順番で何を判断しているのか。それを文章にしてみます。 はじめに 前提になる楽楽明細の事情 私の動き方 まず騒ぐ 何が起きているかをざっと把握する 顧客への影響を見極める 止血が要るかで動きを分ける 原因調査で意識していること そのケースがなぜ起きたかを追]]></summary>
+        <content type="html"><![CDATA[こんにちは。楽楽明細の開発をしている者です。 運用目線での顧客視点として、障害対応の話を書こうと思います。 障害が起きたとき、私が頭の中でどういう順番で何を判断しているのか。それを文章にしてみます。 はじめに 前提になる楽楽明細の事情 私の動き方 まず騒ぐ 何が起きているかをざっと把握する 顧客への影響を見極める 止血が要るかで動きを分ける 原因調査で意識していること そのケースがなぜ起きたかを追う 仮説を複数立ててから動く AI との分業 属人化させないために]]></content>
+        <published>2026-09-17T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「作る」と「入り込む」の両輪で、 プロダクトチームの運用負荷最小化に挑む | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/09/17/130000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/09/17/130000"/>
+        <updated>2026-09-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キャリアは、選択の積み重ねでできています。 どんな経験を経て、なぜSansanを選び、いまどんな挑戦に向き合っているのか。 「Sansan 3 Stories」では、これまでの歩みと、実際にSansanで働いて感じたこと、そしてこれからの挑戦を「過去・現在・未来」の3つのストーリーでお届けします。今回は、内部開発者プラットフォーム「Orbit *1」の開発や、各プロダクトの開発チームにEmbedd]]></summary>
+        <content type="html"><![CDATA[キャリアは、選択の積み重ねでできています。 どんな経験を経て、なぜSansanを選び、いまどんな挑戦に向き合っているのか。 「Sansan 3 Stories」では、これまでの歩みと、実際にSansanで働いて感じたこと、そしてこれからの挑戦を「過去・現在・未来」の3つのストーリーでお届けします。今回は、内部開発者プラットフォーム「Orbit *1」の開発や、各プロダクトの開発チームにEmbedded SREとして参画している増田に話を聞きました。 増田 圭佑 /Keisuke MasudaPlatform Engineering Unit Application Platformグループ 2…]]></content>
+        <published>2026-09-17T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ほぼ全員NOC未経験！学生チームがNaniwaNOG 3の会場ネットワークを支えてみた | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51516</id>
+        <link href="https://knowledge.sakura.ad.jp/51516/"/>
+        <updated>2026-09-17T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 2025年8月29日、滋賀県大津市のピアザ淡海（ピアザホール）でNaniwaNOG 3ミーティングが開催されました。関西のネットワーク技術者が一堂に会するこのイベントで、前回に引き続き、学生を中心としたNOCチ […]]]></summary>
+        <content type="html"><![CDATA[はじめに 2025年8月29日、滋賀県大津市のピアザ淡海（ピアザホール）でNaniwaNOG 3ミーティングが開催されました。関西のネットワーク技術者が一堂に会するこのイベントで、前回に引き続き、学生を中心としたNOCチ […]]]></content>
+        <author>
+            <name>Team Shirankedo</name>
+        </author>
+        <category label="エンジニア向け"/>
+        <category label="DHCP"/>
+        <category label="DNS"/>
+        <category label="JANOG"/>
+        <category label="NaniwaNOG"/>
+        <category label="PLGスタック"/>
+        <category label="Team Shirankedo"/>
+        <category label="WiFi"/>
+        <category label="アクセスポイント"/>
+        <category label="サーバー"/>
+        <category label="さくらのクラウド"/>
+        <category label="ネットワーク"/>
+        <category label="バックボーン"/>
+        <published>2026-09-17T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIの分析が返す"それっぽい数字"をどう防ぐか——dbt × Lightdash × MCPでガードレールを作る | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/dbt-lightdash-mcp-guardrail</id>
+        <link href="https://www.m3tech.blog/entry/dbt-lightdash-mcp-guardrail"/>
+        <updated>2026-09-17T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、データ基盤チームと Unit1（製薬企業向けプラットフォームチーム）を兼務している石塚です。この記事はデータ基盤チーム &amp;amp; Unit9（エビデンス創出プロダクトチーム）ブログリレー 2 日目の記事です。前回は坂元さんの「共通データセットを育て続けたい。でもデータマートの数字は勝手に変えたくない」でした。 データ基盤チームでは今、「分析依頼に対応する業務フロー」を AI 前提に作り替える]]></summary>
+        <content type="html"><![CDATA[こんにちは、データ基盤チームと Unit1（製薬企業向けプラットフォームチーム）を兼務している石塚です。この記事はデータ基盤チーム &amp;amp; Unit9（エビデンス創出プロダクトチーム）ブログリレー 2 日目の記事です。前回は坂元さんの「共通データセットを育て続けたい。でもデータマートの数字は勝手に変えたくない」でした。 データ基盤チームでは今、「分析依頼に対応する業務フロー」を AI 前提に作り替える PoC を進めています。依頼を受けた人が集計ロジックを組み立てて数字を作り、シートに整えて返す。この流れを、AI エージェントが一気通貫で回せる形にしたいと考えました。その中核に据えたのが、dbt …]]></content>
+        <published>2026-09-17T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリティー領域未経験の新卒が、認証基盤開発に飛び込んで感じたこと | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/09/17/100000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/09/17/100000"/>
+        <updated>2026-09-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[技術本部Platform Engineering Unit Identity Platformグループの輿石です。 最近は社内にNeovimを布教しており、グループメンバー全員がNeovimを利用しています。私は2026年に新卒入社し、弊社が提供する経理AXサービス「Bill One」や契約AXサービス「Contract One」などのプロダクトが利用する共通認証基盤「Auth One」の開発と運]]></summary>
+        <content type="html"><![CDATA[技術本部Platform Engineering Unit Identity Platformグループの輿石です。 最近は社内にNeovimを布教しており、グループメンバー全員がNeovimを利用しています。私は2026年に新卒入社し、弊社が提供する経理AXサービス「Bill One」や契約AXサービス「Contract One」などのプロダクトが利用する共通認証基盤「Auth One」の開発と運用に携わっています。今回は認証基盤の開発経験がなかった私が、なぜ認証基盤チームに配属されたのか、そして現在どのような仕事をしているのかを、インターン時代から描いてきたキャリアを振り返りながら紹介します…]]></content>
+        <published>2026-09-17T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浮世絵にインスパイアされたUIコンポーネント、和紙・墨・朱の和のカラースキームが癒やされる -Hinomaru Ink UI Kit | コリス]]></title>
+        <id>https://coliss.com/?p=84977</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/hinomaru-ink-ui-kit.html"/>
+        <updated>2026-09-17T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ]]></summary>
+        <content type="html"><![CDATA[日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="react"/>
+        <category label="UI"/>
+        <category label="サイト構築 -CSS"/>
+        <published>2026-09-17T00:36:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lookerのスケジュール配信で最新データが反映されない問題の対処方法 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/get-latest-data-in-looker-scheduled-delivery</id>
+        <link href="https://blog.g-gen.co.jp/entry/get-latest-data-in-looker-scheduled-delivery"/>
+        <updated>2026-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の菊池です。当記事では、 Looker のスケジュール配信機能で配信されたデータが古いままになっており、バッチ更新された最新のデータが反映されない問題の解決方法を解説します。 事象 原因 対処法 概要 手順1. データグループの定義 手順2. Explore への適用 手順3. 永続的な派生テーブル（PDT）への適用 手順4. ダッシュボードでのトリガー設定変更 事象 BigQuery]]></summary>
+        <content type="html"><![CDATA[G-gen の菊池です。当記事では、 Looker のスケジュール配信機能で配信されたデータが古いままになっており、バッチ更新された最新のデータが反映されない問題の解決方法を解説します。 事象 原因 対処法 概要 手順1. データグループの定義 手順2. Explore への適用 手順3. 永続的な派生テーブル（PDT）への適用 手順4. ダッシュボードでのトリガー設定変更 事象 BigQuery のデータを可視化する Looker のダッシュボード環境を想定します。BigQuery のテーブルデータは、毎朝バッチ処理によって、前日分のデータが自動的に更新・追加される設計です。 バッチ処理が正…]]></content>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRv6 uSID TI-LFAを検証してみた | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-srv6-tilfa/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-srv6-tilfa/entry"/>
+        <updated>2026-09-16T23:08:20.000Z</updated>
+        <summary type="html"><![CDATA[本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使って、任意のトポロジーで障害の高速迂回を実現する技術です。今回は、Segment Routingとして]]></summary>
+        <content type="html"><![CDATA[本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使って、任意のトポロジーで障害の高速迂回を実現する技術です。今回は、Segment RoutingとしてSRv6 uSIDを使用しました。 はじめに uSIDとTI-LFAの説明 uSID TI-LFA 使用した機種 TI-LFAの設定 Junos/Junos EVO (設定例) TI-LFA設定 uS…]]></content>
+        <published>2026-09-16T23:08:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSブログで当社執筆の記事が公開されました | ABEJA Tech Blog]]></title>
+        <id>https://tech-blog.abeja.asia/entry/codas-aws-report-202609</id>
+        <link href="https://tech-blog.abeja.asia/entry/codas-aws-report-202609"/>
+        <updated>2026-09-16T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ABEJAが参画している「データの秘匿性を考慮した効率的なAI学習手法の開発」（一般社団法人AIデータ主権共創機構 / CODAS）プロジェクトでの実施事項について、Amazon Web Services ブログにて記事が公開されました。 今回は、産業特化型LLMの開発に向けて、大規模言語モデルの学習・推論基盤の設計を中心に紹介しています。AWS Labsのオープンソースリポジトリ「awsome-]]></summary>
+        <content type="html"><![CDATA[ABEJAが参画している「データの秘匿性を考慮した効率的なAI学習手法の開発」（一般社団法人AIデータ主権共創機構 / CODAS）プロジェクトでの実施事項について、Amazon Web Services ブログにて記事が公開されました。 今回は、産業特化型LLMの開発に向けて、大規模言語モデルの学習・推論基盤の設計を中心に紹介しています。AWS Labsのオープンソースリポジトリ「awsome-distributed-ai」のリファレンスアーキテクチャを出発点として、クラスターの構築・管理にAWS ParallelCluster、ジョブスケジューラーにSlurmを採用しました。また、Amaz…]]></content>
+        <published>2026-09-16T09:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby: ガベージコレクタの高速パスをZJITでインライン化する（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159810</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_16/159810"/>
+        <updated>2026-09-16T08:30:47.000Z</updated>
+        <summary type="html"><![CDATA[概要 CC BY-NC-SA 4.0 International Deedに基づいて翻訳・公開いたします。 英]]></summary>
+        <content type="html"><![CDATA[概要 CC BY-NC-SA 4.0 International Deedに基づいて翻訳・公開いたします。 英]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="JIT"/>
+        <category label="MMTk"/>
+        <category label="Ruby"/>
+        <category label="ZJIT"/>
+        <category label="最適化"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-16T08:30:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260916/ai</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260916/ai"/>
+        <updated>2026-09-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして。昨年新卒として株式会社ラクスに入社し、現在はHRソリューション開発部楽楽勤怠開発課でバックエンドエンジニアをしているmurosyoです。普段は楽楽勤怠の機能開発を担当しています。開発本部が掲げる『顧客に価値を高速提供できるAIネイティブな開発組織への変革』というビジョンのもと、ClaudeのSkillsやAgentsなどを整備・展開しています。 今回は、私がチームに導入を試みた「Cl]]></summary>
+        <content type="html"><![CDATA[はじめまして。昨年新卒として株式会社ラクスに入社し、現在はHRソリューション開発部楽楽勤怠開発課でバックエンドエンジニアをしているmurosyoです。普段は楽楽勤怠の機能開発を担当しています。開発本部が掲げる『顧客に価値を高速提供できるAIネイティブな開発組織への変革』というビジョンのもと、ClaudeのSkillsやAgentsなどを整備・展開しています。 今回は、私がチームに導入を試みた「Claude Codeを用いたIssueの自動解消」の取り組みについて、構成の全貌や、実際にやってみて直面した「AIネイティブな開発ならではの壁」について、包み隠さずお話ししたいと思います。 はじめに 背…]]></content>
+        <published>2026-09-16T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/16/110205</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/16/110205"/>
+        <updated>2026-09-16T02:02:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、Claude Code向けの「ハーネス」を先に作ってから開発を始めたところ、大きな手戻]]></summary>
+        <content type="html"><![CDATA[こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、Claude Code向けの「ハーネス」を先に作ってから開発を始めたところ、大きな手戻りがないままほぼ1か月で実装を一通り終えられました。 この記事では、そのハーネスをなぜ作ったのか、どういう処理の流れになっているのか、そしてうまくいった点と工夫した点を紹介します。 ハーネスは、AIエ…]]></content>
+        <published>2026-09-16T02:02:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのオンライン共同編集ツールEtherpadの紹介 | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51487</id>
+        <link href="https://knowledge.sakura.ad.jp/51487/"/>
+        <updated>2026-09-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 鹿児島らぐというLinux User Groupで月イチを目処に勉強会を行っています。現在は主にオンラインで活動しており、オープンソースのソフトウェアをVPSにセルフホストしてそれを利用してオンライン勉強会をし […]]]></summary>
+        <content type="html"><![CDATA[はじめに 鹿児島らぐというLinux User Groupで月イチを目処に勉強会を行っています。現在は主にオンラインで活動しており、オープンソースのソフトウェアをVPSにセルフホストしてそれを利用してオンライン勉強会をし […]]]></content>
+        <author>
+            <name>Matohara Kenichiro</name>
+        </author>
+        <category label="エンジニア向け"/>
+        <category label="Etherpad"/>
+        <category label="Go"/>
+        <category label="Linux"/>
+        <category label="コミュニティ"/>
+        <category label="鹿児島らぐ"/>
+        <published>2026-09-16T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共通データセットを育て続けたい。でもデータマートの数字は勝手に変えたくない | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/09/16/110000</id>
+        <link href="https://www.m3tech.blog/entry/2026/09/16/110000"/>
+        <updated>2026-09-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[複数のデータマートのベースとなる共通データセットに手を入れたい。でもデータマートの数字が変わると困る人がいる。そういうことってありますよね。 この記事は、共通データセットは進化させ続ける一方、影響を取り込むタイミングをデータマート側で制御できるようにするお話です。 データ基盤チーム/Unit9（エビデンス創出プロダクトチーム）エンジニアの坂元です。このブログはデータ基盤チーム/Unit9 ブログリ]]></summary>
+        <content type="html"><![CDATA[複数のデータマートのベースとなる共通データセットに手を入れたい。でもデータマートの数字が変わると困る人がいる。そういうことってありますよね。 この記事は、共通データセットは進化させ続ける一方、影響を取り込むタイミングをデータマート側で制御できるようにするお話です。 データ基盤チーム/Unit9（エビデンス創出プロダクトチーム）エンジニアの坂元です。このブログはデータ基盤チーム/Unit9 ブログリレー 1 日目の記事です。 東京競馬場のキッズガーデンの巨大滑り台。夏の間はキッズガーデンは閉鎖されており、9月の初週は比較的空いている気がします。]]></content>
+        <published>2026-09-16T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud SQL for PostgreSQLをオンプレミスから移行する際のデータベースフラグ設計 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/postgres-database-flags-for-cloud-sql</id>
+        <link href="https://blog.g-gen.co.jp/entry/postgres-database-flags-for-cloud-sql"/>
+        <updated>2026-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の今村です。オンプレミスの PostgreSQL から Cloud SQL for PostgreSQL への移行において、postgresql.conf の設定をどのように扱うべきか、マネージドサービスの仕様に基づくパラメータの分類と代替手法を解説します。 概要 データベースフラグの概要 データベースフラグとは フラグ設定時の注意点 設定値の確認と更新 パラメータの確認 パラメータの]]></summary>
+        <content type="html"><![CDATA[G-gen の今村です。オンプレミスの PostgreSQL から Cloud SQL for PostgreSQL への移行において、postgresql.conf の設定をどのように扱うべきか、マネージドサービスの仕様に基づくパラメータの分類と代替手法を解説します。 概要 データベースフラグの概要 データベースフラグとは フラグ設定時の注意点 設定値の確認と更新 パラメータの確認 パラメータの更新 Google が管理するパラメータ 前提と注意点 ネットワークと接続管理 ログ管理 ハードウェア依存の設定 ユーザーが管理するパラメータ 前提と注意点 パフォーマンスチューニングフラグ データベ…]]></content>
+        <published>2026-09-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABEMAの広告配信サーバーのOOMを一文字変えて直した話 ― go-cacheのTTLを効かなくしていた原因を突き止めるまで | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=65476</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/65476/"/>
+        <updated>2026-09-15T23:00:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。Re:Career採用で26新卒としてABEMAに入社し、広告配信システムの開発チームで]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。Re:Career採用で26新卒としてABEMAに入社し、広告配信システムの開発チームで]]></content>
+        <author>
+            <name>Ryuya Abe</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="ABEMA"/>
+        <category label="Golang"/>
+        <category label="バックエンド"/>
+        <published>2026-09-15T23:00:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=65910</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/65910/"/>
+        <updated>2026-09-15T23:00:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 株式会社 AJA の DSP チームにて、2026 年 7 月より約 2 ヶ月間、内定者アルバイトを]]></summary>
+        <content type="html"><![CDATA[はじめに 株式会社 AJA の DSP チームにて、2026 年 7 月より約 2 ヶ月間、内定者アルバイトを]]></content>
+        <author>
+            <name>Mitsuki Sugihara</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="AJA"/>
+        <category label="Datadog"/>
+        <category label="kubernetes"/>
+        <category label="Observability"/>
+        <category label="OpenTelemetry"/>
+        <published>2026-09-15T23:00:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第21回言語処理若手シンポジウム (YANS2026) 参加報告 | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20260916a/</id>
+        <link href="https://future-architect.github.io/articles/20260916a/"/>
+        <updated>2026-09-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月16日から18日にかけて仙台国際センターで開催されたYANS2026に、プラチナスポンサーとして協賛しました。シンポジウムの様子と、当社が贈呈したスポンサー賞、そして注目した発表についてご報告します。]]></summary>
+        <content type="html"><![CDATA[2026年8月16日から18日にかけて仙台国際センターで開催されたYANS2026に、プラチナスポンサーとして協賛しました。シンポジウムの様子と、当社が贈呈したスポンサー賞、そして注目した発表についてご報告します。]]></content>
+        <published>2026-09-15T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaSST'26 Niigata にゴールドスポンサーとして協賛し、メンバー4名が登壇します！ブースも出展します #JaSST | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/15/180022</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/15/180022"/>
+        <updated>2026-09-15T09:00:22.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！LayerXのQAエンジニアの前田(mae)です。 この度、LayerXは2026年9月18日（金）に開催される「JaSST'26 Niigata（ソフトウェアテストシンポジウム 2026 新潟）」に、ゴールドスポンサーとして協賛いたします。 また、LayerXから4名のメンバーが登壇し、現地会場であるNINNO（ニーノ）ではブース出展も行います！ 各セッションでは、AI時代における品]]></summary>
+        <content type="html"><![CDATA[こんにちは！LayerXのQAエンジニアの前田(mae)です。 この度、LayerXは2026年9月18日（金）に開催される「JaSST'26 Niigata（ソフトウェアテストシンポジウム 2026 新潟）」に、ゴールドスポンサーとして協賛いたします。 また、LayerXから4名のメンバーが登壇し、現地会場であるNINNO（ニーノ）ではブース出展も行います！ 各セッションでは、AI時代における品質をどのように見立て、継続的に高めていくのかをLayerXの実践をもとにお話しします。 JaSST'26 Niigata とは JaSST（Japan Symposium on Software Te…]]></content>
+        <published>2026-09-15T09:00:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第44回日本ロボット学会学術講演会 (RSJ2026) 参加報告 | ABEJA Tech Blog]]></title>
+        <id>https://tech-blog.abeja.asia/entry/rsj2026-report-202609</id>
+        <link href="https://tech-blog.abeja.asia/entry/rsj2026-report-202609"/>
+        <updated>2026-09-15T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ABEJAの高野(たかいと)です。 2026年9月1日(火)〜4日(金)の4日間、金沢大学(金沢市角間町)にて開催された第44回日本ロボット学会学術講演会 (RSJ2026) に参加してきました。 弊社はPhysical AIにも注力しており、最新技術の獲得、実務への活用、来年以降の発表に向けた準備などを目標に、4名のメンバーが参加しました。 本記事では、オープンフォーラム「社会実装に]]></summary>
+        <content type="html"><![CDATA[こんにちは、ABEJAの高野(たかいと)です。 2026年9月1日(火)〜4日(金)の4日間、金沢大学(金沢市角間町)にて開催された第44回日本ロボット学会学術講演会 (RSJ2026) に参加してきました。 弊社はPhysical AIにも注力しており、最新技術の獲得、実務への活用、来年以降の発表に向けた準備などを目標に、4名のメンバーが参加しました。 本記事では、オープンフォーラム「社会実装に向けたPhysical AIの現在と今後の展開」のパネルディスカッションの様子と、参加メンバーの印象に残った発表を一部抜粋して報告します。 なお、本記事では研究の大まかな概要と注目したポイントを取り上…]]></content>
+        <published>2026-09-15T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159987</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_15/159987"/>
+        <updated>2026-09-15T08:46:38.000Z</updated>
+        <summary type="html"><![CDATA[現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></summary>
+        <content type="html"><![CDATA[現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="JSON"/>
+        <category label="Ruby"/>
+        <category label="Ruby on Rails"/>
+        <published>2026-09-15T08:46:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Conference 2026 に参加しました！（登壇&amp;amp;スポンサー） | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/09/15/170000</id>
+        <link href="https://www.m3tech.blog/entry/2026/09/15/170000"/>
+        <updated>2026-09-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアリンググループの田口です。 9月11日に中野セントラルパーク カンファレンスで開催された Go Conference 2026 に、エムスリーはランチスポンサーとして協賛させていただきました。 また、私自身はスポンサーセッションで登壇させて頂きました。 私自身は Go Conference 初参加となりましたが、Gopher の皆さんの熱意と Go に対する愛が感じられて楽しむことができ]]></summary>
+        <content type="html"><![CDATA[エンジニアリンググループの田口です。 9月11日に中野セントラルパーク カンファレンスで開催された Go Conference 2026 に、エムスリーはランチスポンサーとして協賛させていただきました。 また、私自身はスポンサーセッションで登壇させて頂きました。 私自身は Go Conference 初参加となりましたが、Gopher の皆さんの熱意と Go に対する愛が感じられて楽しむことができました。 本記事では、会場の様子や私のセッション、印象に残ったセッションについてレポートします。]]></content>
+        <published>2026-09-15T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「あつまれ！若手エンジニアのLT＆ゆるっと交流会」に参加・登壇してきました！ | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/15/161337</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/15/161337"/>
+        <updated>2026-09-15T07:13:37.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！プロダクトエンジニアのitojumです。 2026年8月28日にモビルス株式会社が主催した「あつまれ！若手エンジニアのLT＆ゆるっと交流会」というイベントに参加・登壇してきました。 この記事では、イベントの模様や登壇内容をご紹介します。 「あつまれ！若手エンジニアのLT＆ゆるっと交流会」とは このイベントは、若手エンジニアの交流を目的に開催されました。今回は新卒研修が終わった26新卒エ]]></summary>
+        <content type="html"><![CDATA[こんにちは！プロダクトエンジニアのitojumです。 2026年8月28日にモビルス株式会社が主催した「あつまれ！若手エンジニアのLT＆ゆるっと交流会」というイベントに参加・登壇してきました。 この記事では、イベントの模様や登壇内容をご紹介します。 「あつまれ！若手エンジニアのLT＆ゆるっと交流会」とは このイベントは、若手エンジニアの交流を目的に開催されました。今回は新卒研修が終わった26新卒エンジニアを対象に、研修や業務での学びを共有し合うLT会が行われました。 前半のLTセッションでは、計6名の登壇者が研修で得た知見や現場で触れた技術について5分間で発表しました。後半の懇親会では軽食を囲…]]></content>
+        <published>2026-09-15T07:13:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby 4.0.7がリリースされました | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159981</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_15/159981"/>
+        <updated>2026-09-15T06:16:49.000Z</updated>
+        <summary type="html"><![CDATA[続報（2026/09/15） 以下の記事もどうぞ。 https://techracho.bpsinc.jp/h]]></summary>
+        <content type="html"><![CDATA[続報（2026/09/15） 以下の記事もどうぞ。 https://techracho.bpsinc.jp/h]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="Ruby"/>
+        <category label="Rubyリリース情報"/>
+        <published>2026-09-15T06:16:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強化学習によるマルチユーザーMIMOのスケジューリングについて、VTC2026-Fallで発表しました | fltech - 富士通研究所の技術ブログ]]></title>
+        <id>https://blog.fltech.dev/entry/2026/09/18/your-awesome-blog-post</id>
+        <link href="https://blog.fltech.dev/entry/2026/09/18/your-awesome-blog-post"/>
+        <updated>2026-09-15T05:50:44.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、フィジカルAI研究所の森田です。 私たちのチームでは、無線通信の高効率化に向けて強化学習を活用したユーザースケジューリング技術の研究開発を行っています。今回、その成果を国際会議 IEEE 104th Vehicular Technology Conference（VTC2026-Fall）にて、”Reinforcement Learning-Based MU-MIMO Scheduli]]></summary>
+        <content type="html"><![CDATA[こんにちは、フィジカルAI研究所の森田です。 私たちのチームでは、無線通信の高効率化に向けて強化学習を活用したユーザースケジューリング技術の研究開発を行っています。今回、その成果を国際会議 IEEE 104th Vehicular Technology Conference（VTC2026-Fall）にて、”Reinforcement Learning-Based MU-MIMO Scheduling with a Single Policy for Varying UEs”というタイトルで発表する機会をいただきました。本記事では発表内容の概要をご紹介します。]]></content>
+        <published>2026-09-15T05:50:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人のAIエージェントを、チームの力に変えるまで 〜Yahoo!検索のAX実践〜 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20260915a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20260915a"/>
+        <updated>2026-09-15T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。Yahoo!検索のフロントエンドエンジニアの山本です。普段は Yahoo!検索の開発と運用を行っています。そのかたわら、Coding Agent を使った開発自動化と AI 活用、チームへ...]]></summary>
+        <content type="html"><![CDATA[こんにちは。Yahoo!検索のフロントエンドエンジニアの山本です。普段は Yahoo!検索の開発と運用を行っています。そのかたわら、Coding Agent を使った開発自動化と AI 活用、チームへ...]]></content>
+        <published>2026-09-15T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agones でマッチング情報をゲームサーバーに届ける metadata の事例紹介 | COLOPL Tech Blog]]></title>
+        <id>https://blog.colopl.dev/entry/2026/09/15/110000</id>
+        <link href="https://blog.colopl.dev/entry/2026/09/15/110000"/>
+        <updated>2026-09-15T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。エンジニアの薮 (@tyabu12) です。 Kubernetes 上でゲームサーバーを動かす Agones を使っていると、マッチメイキングで確保したゲームサーバーに「この部屋はどんなルールで、誰が来る予定なのか」を伝えたい場面が出てきます。本記事では、Agones の GameServerAllocation が持つ metadata フィールドを使い、割り当てと同時にゲームサーバ]]></summary>
+        <content type="html"><![CDATA[こんにちは。エンジニアの薮 (@tyabu12) です。 Kubernetes 上でゲームサーバーを動かす Agones を使っていると、マッチメイキングで確保したゲームサーバーに「この部屋はどんなルールで、誰が来る予定なのか」を伝えたい場面が出てきます。本記事では、Agones の GameServerAllocation が持つ metadata フィールドを使い、割り当てと同時にゲームサーバーへ情報を渡している事例を紹介します。 metadata 自体は公式ドキュメントに載っているものなので、本記事では「どういうコンポーネントやとり得る選択肢があった中で metadata を選び、何を情…]]></content>
+        <published>2026-09-15T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【イベントレポート】きのこカンファレンス 2026 in 関西 〜キャリアの縁側〜 | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51429</id>
+        <link href="https://knowledge.sakura.ad.jp/51429/"/>
+        <updated>2026-09-15T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに さくらのナレッジ編集部の法林です。 2026年8月1日(土)に、さくらインターネットの大阪本社でもあるBlooming Campにおいて「きのこカンファレンス 2026 in 関西」が行われました。本記事ではこ […]]]></summary>
+        <content type="html"><![CDATA[はじめに さくらのナレッジ編集部の法林です。 2026年8月1日(土)に、さくらインターネットの大阪本社でもあるBlooming Campにおいて「きのこカンファレンス 2026 in 関西」が行われました。本記事ではこ […]]]></content>
+        <author>
+            <name>法林浩之</name>
+        </author>
+        <category label="イベント・セミナー・勉強会"/>
+        <category label="Blooming Camp"/>
+        <category label="エンジニア"/>
+        <category label="カンファレンス"/>
+        <category label="キャリア"/>
+        <category label="関西"/>
+        <published>2026-09-15T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTからAdobeを使ってみた：プラグイン導入から画像・動画編集までを検証 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=64582</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/64582/"/>
+        <updated>2026-09-15T00:23:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、グループIT推進本部の利宮と申します。 普段はデザイン業務に加え、Adobe製品やフォン]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、グループIT推進本部の利宮と申します。 普段はデザイン業務に加え、Adobe製品やフォン]]></content>
+        <author>
+            <name>toshimiya</name>
+        </author>
+        <category label="クリエイター"/>
+        <category label="Adobe"/>
+        <category label="AI"/>
+        <category label="ChatGPT"/>
+        <category label="画像処理"/>
+        <published>2026-09-15T00:23:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Enterpriseのライセンスに関するよくある質問 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/faq-for-gemini-enterprise-license</id>
+        <link href="https://blog.g-gen.co.jp/entry/faq-for-gemini-enterprise-license"/>
+        <updated>2026-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の杉村です。当記事には、Gemini Enterprise のライセンスに関する重要な仕様やよくある質問について記載します。 はじめに 前提知識 注意点 ライセンスの基本 Gemini Enterprise の料金やライセンス体系を教えてください サブスクリプションとライセンスの違いはなんですか Standard、Plus、Pay-as-you-go の違いを教えてください サブスクリ]]></summary>
+        <content type="html"><![CDATA[G-gen の杉村です。当記事には、Gemini Enterprise のライセンスに関する重要な仕様やよくある質問について記載します。 はじめに 前提知識 注意点 ライセンスの基本 Gemini Enterprise の料金やライセンス体系を教えてください サブスクリプションとライセンスの違いはなんですか Standard、Plus、Pay-as-you-go の違いを教えてください サブスクリプション、ライセンス、請求先アカウント、プロジェクトの関係性を教えてください Google Cloud コンソールから26ライセンス以上を購入しようとしたところ購入できませんでした ライセンス費用は課…]]></content>
+        <published>2026-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自ら、問いに向かい合うことの有難さについて | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045"/>
+        <updated>2026-09-13T08:50:45.000Z</updated>
+        <summary type="html"><![CDATA[1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stoke]]></summary>
+        <content type="html"><![CDATA[1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stokesだけで約270万回のメッセージをやり取りし、約1300億output tokenを生成したという。最初のエージェントを走らせてから約88時間後、AIは解に到達した。9月1日に着手し、6日にはLean…]]></content>
+        <category label="essay"/>
+        <published>2026-09-13T08:50:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disaster-ready2.0 — 地形が動く時代の防災をデザインする | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000"/>
+        <updated>2026-08-30T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁]]></summary>
+        <content type="html"><![CDATA[Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁流が谷を埋め、集落を呑み込んでいる。しかしNYTの衛星画像でスケールを確認して、話がまったく違うことがわかった*1。山の高所で氷河と岩盤が崩れ、氷、岩、泥、水が一体となって谷を駆け下り、地形そのものを…]]></content>
+        <category label="essay"/>
+        <published>2026-08-30T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集約の外側にも、国土はある — コンパクトシティが答えていないこと | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249"/>
+        <updated>2026-08-22T14:12:49.000Z</updated>
+        <summary type="html"><![CDATA[火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年]]></summary>
+        <content type="html"><![CDATA[火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年以上、100人を超える人間で様々に検討してきたことは『風の谷という希望』に相当に体系立てて書いた。その後もブログにいくつか書いている。講演や取材の依頼の大半をご辞退せざるを得ない状況でもあり、まずはそ…]]></content>
+        <category label="essay"/>
+        <published>2026-08-22T14:12:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killing Me Softly——AI時代に「自らに由る」とは | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158"/>
+        <updated>2026-08-15T16:51:58.000Z</updated>
+        <summary type="html"><![CDATA[制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にな]]></summary>
+        <content type="html"><![CDATA[制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にならず、孤独や無力感に耐えられなければ、権威への服従や画一化へと自由を手放してしまう、そんな話だ。自由からの逃走 新版作者:エーリッヒ・フロム東京創元社Amazonあの頃、店でも部屋でもよく流れていた曲…]]></content>
+        <category label="essay"/>
+        <published>2026-08-15T16:51:58.000Z</published>
+    </entry>
+</feed>

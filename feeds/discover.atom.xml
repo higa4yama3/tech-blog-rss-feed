@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-09-19T12:28:01.103Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>はてブと新しさで選んだ記事</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/09/18/185816</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/09/18/185816"/>
+        <updated>2026-09-18T09:58:16.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのかと、そこで何が出てきたのかを紹介します！ なぜ勉強会にしたのか 私が、]]></summary>
+        <content type="html"><![CDATA[こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのかと、そこで何が出てきたのかを紹介します！ なぜ勉強会にしたのか 私が、Jev を触って最初に思ったのは、「今まで自分たちが持っていた AI アプリケーション開発の頭ではいけない！！」ということでした。もちろん、既存の LLM 呼び出しの中でJevが使える箇所をJevに変…]]></content>
+        <published>2026-09-18T09:58:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/16/110205</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/16/110205"/>
+        <updated>2026-09-16T02:02:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、Claude Code向けの「ハーネス」を先に作ってから開発を始めたところ、大きな手戻]]></summary>
+        <content type="html"><![CDATA[こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、Claude Code向けの「ハーネス」を先に作ってから開発を始めたところ、大きな手戻りがないままほぼ1か月で実装を一通り終えられました。 この記事では、そのハーネスをなぜ作ったのか、どういう処理の流れになっているのか、そしてうまくいった点と工夫した点を紹介します。 ハーネスは、AIエ…]]></content>
+        <published>2026-09-16T02:02:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2142260.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2142260.html"/>
+        <updated>2026-09-18T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。]]></summary>
+        <content type="html"><![CDATA[ The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-18T08:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/09/18/160000</id>
+        <link href="https://www.m3tech.blog/entry/2026/09/18/160000"/>
+        <updated>2026-09-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の最適化につながります。この記事では、BigQuery のスケーリングの仕組み、何に対して課金されてい]]></summary>
+        <content type="html"><![CDATA[エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の最適化につながります。この記事では、BigQuery のスケーリングの仕組み、何に対して課金されているか、max_slots 調整の取り組み、fluid scaling の効果について書きます。 データ基盤チームの橋口です。この記事はデータ基盤チーム &amp;amp; Unit9（エビデンス創出プロダクトチーム）…]]></content>
+        <published>2026-09-18T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260918/a11y</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260918/a11y"/>
+        <updated>2026-09-18T04:03:12.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ラクスのフロントエンド推進課の亀ノ上です。 Webアクセシビリティは、2022年のチームの課題棚卸しで私が挙げたテーマです。その後もR&amp;amp;Dの取り組みとして続けてきましたが、期日のある機能開発と並べると優先順位は後ろになり、着手には至っていませんでした。 今回、エンドユーザー向けの公開画面を持つ機能の開発で、Webアクセシビリティが要件になりました。対応を進める中で作ったのは、Webアク]]></summary>
+        <content type="html"><![CDATA[こんにちは。ラクスのフロントエンド推進課の亀ノ上です。 Webアクセシビリティは、2022年のチームの課題棚卸しで私が挙げたテーマです。その後もR&amp;amp;Dの取り組みとして続けてきましたが、期日のある機能開発と並べると優先順位は後ろになり、着手には至っていませんでした。 今回、エンドユーザー向けの公開画面を持つ機能の開発で、Webアクセシビリティが要件になりました。対応を進める中で作ったのは、Webアクセシビリティを向上させる仕組みではありません。「どこが直せるのかを、プロダクトに手を入れずに知る」ためのレポート作成ツールでした。 この記事は、ツールの設計判断と、AIにどこまで任せられるのかが見えた…]]></content>
+        <published>2026-09-18T04:03:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話 | freee Developers Hub]]></title>
+        <id>https://developers.freee.co.jp/entry/spa_react_upgrade</id>
+        <link href="https://developers.freee.co.jp/entry/spa_react_upgrade"/>
+        <updated>2026-09-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。freee販売のエンジニアをやっているshuchanです。 この記事では、数年かけて育ってきたReact製の画面を、止めずに、かつ機能追加を続けながら、新しいフロントエンド基盤へ引っ越している話を紹介します。 フレームワークのバージョンアップではなく、「ディレクトリ構成・router・データフェッチ・スタイリング・テスト基盤をまとめて別物に差し替える」という、ほぼフルリメイク的な移行で]]></summary>
+        <content type="html"><![CDATA[こんにちは。freee販売のエンジニアをやっているshuchanです。 この記事では、数年かけて育ってきたReact製の画面を、止めずに、かつ機能追加を続けながら、新しいフロントエンド基盤へ引っ越している話を紹介します。 フレームワークのバージョンアップではなく、「ディレクトリ構成・router・データフェッチ・スタイリング・テスト基盤をまとめて別物に差し替える」という、ほぼフルリメイク的な移行です。 なお、記事中のリポジトリ名・ディレクトリ名は、わかりやすさを優先して汎用的な名前（旧FE / 新FE）に置き換えています。規模に関する数値も丸めています。 TL;DR 新旧フロントエンドの共存構…]]></content>
+        <published>2026-09-18T07:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽楽明細における、障害対応時の動き方の話 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260917/incident</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260917/incident"/>
+        <updated>2026-09-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。楽楽明細の開発をしている者です。 運用目線での顧客視点として、障害対応の話を書こうと思います。 障害が起きたとき、私が頭の中でどういう順番で何を判断しているのか。それを文章にしてみます。 はじめに 前提になる楽楽明細の事情 私の動き方 まず騒ぐ 何が起きているかをざっと把握する 顧客への影響を見極める 止血が要るかで動きを分ける 原因調査で意識していること そのケースがなぜ起きたかを追]]></summary>
+        <content type="html"><![CDATA[こんにちは。楽楽明細の開発をしている者です。 運用目線での顧客視点として、障害対応の話を書こうと思います。 障害が起きたとき、私が頭の中でどういう順番で何を判断しているのか。それを文章にしてみます。 はじめに 前提になる楽楽明細の事情 私の動き方 まず騒ぐ 何が起きているかをざっと把握する 顧客への影響を見極める 止血が要るかで動きを分ける 原因調査で意識していること そのケースがなぜ起きたかを追う 仮説を複数立ててから動く AI との分業 属人化させないために]]></content>
+        <published>2026-09-17T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlinkの航空機利用、国際線のIPアドレス変化を追う | IIJ Engineers Blog]]></title>
+        <id>https://eng-blog.iij.ad.jp/?p=37750</id>
+        <link href="https://eng-blog.iij.ad.jp/archives/37750"/>
+        <updated>2026-09-18T05:09:37.000Z</updated>
+        <summary type="html"><![CDATA[僕の従兄弟はプロゲーマーの「ときど」選手です。彼は仕事柄、世界中の大会に参戦するわけですが、最近はStarlink搭載の航空機に乗る機会もあるようです。そこでI...]]></summary>
+        <content type="html"><![CDATA[僕の従兄弟はプロゲーマーの「ときど」選手です。彼は仕事柄、世界中の大会に参戦するわけですが、最近はStarlink搭載の航空機に乗る機会もあるようです。そこでI...]]></content>
+        <author>
+            <name>谷口 崇</name>
+        </author>
+        <category label="技術情報"/>
+        <category label="Starlink"/>
+        <category label="Starlink Network"/>
+        <published>2026-09-18T05:09:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260916/ai</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260916/ai"/>
+        <updated>2026-09-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして。昨年新卒として株式会社ラクスに入社し、現在はHRソリューション開発部楽楽勤怠開発課でバックエンドエンジニアをしているmurosyoです。普段は楽楽勤怠の機能開発を担当しています。開発本部が掲げる『顧客に価値を高速提供できるAIネイティブな開発組織への変革』というビジョンのもと、ClaudeのSkillsやAgentsなどを整備・展開しています。 今回は、私がチームに導入を試みた「Cl]]></summary>
+        <content type="html"><![CDATA[はじめまして。昨年新卒として株式会社ラクスに入社し、現在はHRソリューション開発部楽楽勤怠開発課でバックエンドエンジニアをしているmurosyoです。普段は楽楽勤怠の機能開発を担当しています。開発本部が掲げる『顧客に価値を高速提供できるAIネイティブな開発組織への変革』というビジョンのもと、ClaudeのSkillsやAgentsなどを整備・展開しています。 今回は、私がチームに導入を試みた「Claude Codeを用いたIssueの自動解消」の取り組みについて、構成の全貌や、実際にやってみて直面した「AIネイティブな開発ならではの壁」について、包み隠さずお話ししたいと思います。 はじめに 背…]]></content>
+        <published>2026-09-16T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浮世絵にインスパイアされたUIコンポーネント、和紙・墨・朱の和のカラースキームが癒やされる -Hinomaru Ink UI Kit | コリス]]></title>
+        <id>https://coliss.com/?p=84977</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/hinomaru-ink-ui-kit.html"/>
+        <updated>2026-09-17T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ]]></summary>
+        <content type="html"><![CDATA[日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="react"/>
+        <category label="UI"/>
+        <category label="サイト構築 -CSS"/>
+        <published>2026-09-17T00:36:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRv6 uSID TI-LFAを検証してみた | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-srv6-tilfa/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-srv6-tilfa/entry"/>
+        <updated>2026-09-16T23:08:20.000Z</updated>
+        <summary type="html"><![CDATA[本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使って、任意のトポロジーで障害の高速迂回を実現する技術です。今回は、Segment Routingとして]]></summary>
+        <content type="html"><![CDATA[本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使って、任意のトポロジーで障害の高速迂回を実現する技術です。今回は、Segment RoutingとしてSRv6 uSIDを使用しました。 はじめに uSIDとTI-LFAの説明 uSID TI-LFA 使用した機種 TI-LFAの設定 Junos/Junos EVO (設定例) TI-LFA設定 uS…]]></content>
+        <published>2026-09-16T23:08:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</id>
+        <link href="https://gigazine.net/news/20260919-arc-pro-b70-llm-review/"/>
+        <updated>2026-09-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グ]]></summary>
+        <content type="html"><![CDATA[大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。]]></content>
+        <published>2026-09-19T11:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html"/>
+        <updated>2026-09-18T10:15:05.000Z</updated>
+        <summary type="html"><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。]]></summary>
+        <content type="html"><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。]]></content>
+        <author>
+            <name>白井暁彦（しらいはかせ）</name>
+        </author>
+        <published>2026-09-18T10:15:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[必読] 自ら、問いに向かい合うことの有難さについて | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045"/>
+        <updated>2026-09-13T08:50:45.000Z</updated>
+        <summary type="html"><![CDATA[1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stoke]]></summary>
+        <content type="html"><![CDATA[1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stokesだけで約270万回のメッセージをやり取りし、約1300億output tokenを生成したという。最初のエージェントを走らせてから約88時間後、AIは解に到達した。9月1日に着手し、6日にはLean…]]></content>
+        <category label="essay"/>
+        <published>2026-09-13T08:50:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11搭載の一部ノートPCでタスクバーのすぐ上がマウス操作できない問題／日本マイクロソフトが対処法を案内 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2142298.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2142298.html"/>
+        <updated>2026-09-18T09:18:00.000Z</updated>
+        <summary type="html"><![CDATA[ Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。]]></summary>
+        <content type="html"><![CDATA[ Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-09-18T09:18:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159987</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_15/159987"/>
+        <updated>2026-09-15T08:46:38.000Z</updated>
+        <summary type="html"><![CDATA[現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></summary>
+        <content type="html"><![CDATA[現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="JSON"/>
+        <category label="Ruby"/>
+        <category label="Ruby on Rails"/>
+        <published>2026-09-15T08:46:38.000Z</published>
+    </entry>
+</feed>

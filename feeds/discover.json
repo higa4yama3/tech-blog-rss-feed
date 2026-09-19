@@ -1,0 +1,451 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Discover)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.json",
+    "description": "はてブと新しさで選んだ記事",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
+            "content_html": "こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのかと、そこで何が出てきたのかを紹介します！ なぜ勉強会にしたのか 私が、Jev を触って最初に思ったのは、「今まで自分たちが持っていた AI アプリケーション開発の頭ではいけない！！」ということでした。もちろん、既存の LLM 呼び出しの中でJevが使える箇所をJevに変…",
+            "url": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
+            "title": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった | LayerX エンジニアブログ",
+            "summary": "こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのかと、そこで何が出てきたのかを紹介します！ なぜ勉強会にしたのか 私が、",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5ed4f6e73205d082af7a8a0518536c4ad98d0eb3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuu2634%2F20260918%2F20260918191032.png",
+                "alt": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T09:58:16.000Z",
+            "date_published": "2026-09-18T09:58:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 315,
+                "originalTitle": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "はてブ315件",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/16/110205",
+            "content_html": "こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、Claude Code向けの「ハーネス」を先に作ってから開発を始めたところ、大きな手戻りがないままほぼ1か月で実装を一通り終えられました。 この記事では、そのハーネスをなぜ作ったのか、どういう処理の流れになっているのか、そしてうまくいった点と工夫した点を紹介します。 ハーネスは、AIエ…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/16/110205",
+            "title": "Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 | SmartHR Tech Blog",
+            "summary": "こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、Claude Code向けの「ハーネス」を先に作ってから開発を始めたところ、大きな手戻",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a274a96cc65c189b3193b6f2bd07b633ffc9e69c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260916%2F20260916111024.png",
+                "alt": "Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-16T02:02:05.000Z",
+            "date_published": "2026-09-16T02:02:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 275,
+                "originalTitle": "Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "はてブ275件",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
+            "content_html": " The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
+            "title": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に | 窓の杜",
+            "summary": " The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/260/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T08:45:00.000Z",
+            "date_published": "2026-09-18T08:45:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 41,
+                "originalTitle": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ41件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2026/09/18/160000",
+            "content_html": "エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の最適化につながります。この記事では、BigQuery のスケーリングの仕組み、何に対して課金されているか、max_slots 調整の取り組み、fluid scaling の効果について書きます。 データ基盤チームの橋口です。この記事はデータ基盤チーム &amp; Unit9（エビデンス創出プロダクトチーム）…",
+            "url": "https://www.m3tech.blog/entry/2026/09/18/160000",
+            "title": "BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 | エムスリーテックブログ",
+            "summary": "エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の最適化につながります。この記事では、BigQuery のスケーリングの仕組み、何に対して課金されてい",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/6b138e715610efe815a32be914080c2ceaaae918/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260918%2F20260918160001.jpg",
+                "alt": "BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T07:00:00.000Z",
+            "date_published": "2026-09-18T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ26件",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20260918/a11y",
+            "content_html": "こんにちは。ラクスのフロントエンド推進課の亀ノ上です。 Webアクセシビリティは、2022年のチームの課題棚卸しで私が挙げたテーマです。その後もR&amp;Dの取り組みとして続けてきましたが、期日のある機能開発と並べると優先順位は後ろになり、着手には至っていませんでした。 今回、エンドユーザー向けの公開画面を持つ機能の開発で、Webアクセシビリティが要件になりました。対応を進める中で作ったのは、Webアクセシビリティを向上させる仕組みではありません。「どこが直せるのかを、プロダクトに手を入れずに知る」ためのレポート作成ツールでした。 この記事は、ツールの設計判断と、AIにどこまで任せられるのかが見えた…",
+            "url": "https://tech-blog.rakus.co.jp/entry/20260918/a11y",
+            "title": "AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "こんにちは。ラクスのフロントエンド推進課の亀ノ上です。 Webアクセシビリティは、2022年のチームの課題棚卸しで私が挙げたテーマです。その後もR&amp;Dの取り組みとして続けてきましたが、期日のある機能開発と並べると優先順位は後ろになり、着手には至っていませんでした。 今回、エンドユーザー向けの公開画面を持つ機能の開発で、Webアクセシビリティが要件になりました。対応を進める中で作ったのは、Webアク",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/698e9ef192ff32741d3ad80d359772a88101f9b5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260918%2F20260918125730.png",
+                "alt": "AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T04:03:12.000Z",
+            "date_published": "2026-09-18T04:03:12.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "AIに「アクセシビリティを改善して」と頼んだら、lintエラーだけが消えたコードが返ってきた",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ26件",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/spa_react_upgrade",
+            "content_html": "こんにちは。freee販売のエンジニアをやっているshuchanです。 この記事では、数年かけて育ってきたReact製の画面を、止めずに、かつ機能追加を続けながら、新しいフロントエンド基盤へ引っ越している話を紹介します。 フレームワークのバージョンアップではなく、「ディレクトリ構成・router・データフェッチ・スタイリング・テスト基盤をまとめて別物に差し替える」という、ほぼフルリメイク的な移行です。 なお、記事中のリポジトリ名・ディレクトリ名は、わかりやすさを優先して汎用的な名前（旧FE / 新FE）に置き換えています。規模に関する数値も丸めています。 TL;DR 新旧フロントエンドの共存構…",
+            "url": "https://developers.freee.co.jp/entry/spa_react_upgrade",
+            "title": "SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話 | freee Developers Hub",
+            "summary": "こんにちは。freee販売のエンジニアをやっているshuchanです。 この記事では、数年かけて育ってきたReact製の画面を、止めずに、かつ機能追加を続けながら、新しいフロントエンド基盤へ引っ越している話を紹介します。 フレームワークのバージョンアップではなく、「ディレクトリ構成・router・データフェッチ・スタイリング・テスト基盤をまとめて別物に差し替える」という、ほぼフルリメイク的な移行で",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/1a2af4e3247986125005eca29c3d4c2f1e80d036/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshuchan1%2F20260915%2F20260915155248.png",
+                "alt": "SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話 - freee Developers Hub",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T07:00:00.000Z",
+            "date_published": "2026-09-18T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 24,
+                "originalTitle": "SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "はてブ24件",
+                "sourceTier": "core",
+                "sourceLabel": "freee"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20260917/incident",
+            "content_html": "こんにちは。楽楽明細の開発をしている者です。 運用目線での顧客視点として、障害対応の話を書こうと思います。 障害が起きたとき、私が頭の中でどういう順番で何を判断しているのか。それを文章にしてみます。 はじめに 前提になる楽楽明細の事情 私の動き方 まず騒ぐ 何が起きているかをざっと把握する 顧客への影響を見極める 止血が要るかで動きを分ける 原因調査で意識していること そのケースがなぜ起きたかを追う 仮説を複数立ててから動く AI との分業 属人化させないために",
+            "url": "https://tech-blog.rakus.co.jp/entry/20260917/incident",
+            "title": "楽楽明細における、障害対応時の動き方の話 | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "こんにちは。楽楽明細の開発をしている者です。 運用目線での顧客視点として、障害対応の話を書こうと思います。 障害が起きたとき、私が頭の中でどういう順番で何を判断しているのか。それを文章にしてみます。 はじめに 前提になる楽楽明細の事情 私の動き方 まず騒ぐ 何が起きているかをざっと把握する 顧客への影響を見極める 止血が要るかで動きを分ける 原因調査で意識していること そのケースがなぜ起きたかを追",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0c6f206890dd15181383bc4a5f74ceec72cbff84/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260917%2F20260917113110.png",
+                "alt": "楽楽明細における、障害対応時の動き方の話 - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-17T06:00:00.000Z",
+            "date_published": "2026-09-17T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 35,
+                "originalTitle": "楽楽明細における、障害対応時の動き方の話",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ35件",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス"
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37750",
+            "content_html": "僕の従兄弟はプロゲーマーの「ときど」選手です。彼は仕事柄、世界中の大会に参戦するわけですが、最近はStarlink搭載の航空機に乗る機会もあるようです。そこでI...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37750",
+            "title": "Starlinkの航空機利用、国際線のIPアドレス変化を追う | IIJ Engineers Blog",
+            "summary": "僕の従兄弟はプロゲーマーの「ときど」選手です。彼は仕事柄、世界中の大会に参戦するわけですが、最近はStarlink搭載の航空機に乗る機会もあるようです。そこでI...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/09/469f21c7945646e3f949f78362f0305f.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T05:09:37.000Z",
+            "date_published": "2026-09-18T05:09:37.000Z",
+            "author": {
+                "name": "谷口 崇"
+            },
+            "tags": [
+                "技術情報",
+                "Starlink",
+                "Starlink Network"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "Starlinkの航空機利用、国際線のIPアドレス変化を追う",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "はてブ14件",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ"
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20260916/ai",
+            "content_html": "はじめまして。昨年新卒として株式会社ラクスに入社し、現在はHRソリューション開発部楽楽勤怠開発課でバックエンドエンジニアをしているmurosyoです。普段は楽楽勤怠の機能開発を担当しています。開発本部が掲げる『顧客に価値を高速提供できるAIネイティブな開発組織への変革』というビジョンのもと、ClaudeのSkillsやAgentsなどを整備・展開しています。 今回は、私がチームに導入を試みた「Claude Codeを用いたIssueの自動解消」の取り組みについて、構成の全貌や、実際にやってみて直面した「AIネイティブな開発ならではの壁」について、包み隠さずお話ししたいと思います。 はじめに 背…",
+            "url": "https://tech-blog.rakus.co.jp/entry/20260916/ai",
+            "title": "Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話 | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "はじめまして。昨年新卒として株式会社ラクスに入社し、現在はHRソリューション開発部楽楽勤怠開発課でバックエンドエンジニアをしているmurosyoです。普段は楽楽勤怠の機能開発を担当しています。開発本部が掲げる『顧客に価値を高速提供できるAIネイティブな開発組織への変革』というビジョンのもと、ClaudeのSkillsやAgentsなどを整備・展開しています。 今回は、私がチームに導入を試みた「Cl",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/9b257f35a0c2143b3801230f024aa4fb7fdc720f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmurosyo%2F20260618%2F20260618172618.png",
+                "alt": "Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話 - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-16T06:00:00.000Z",
+            "date_published": "2026-09-16T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 46,
+                "originalTitle": "Claude Code Routinesを用いてIssueを自動で解消する仕組みを展開した話",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ46件",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=84977",
+            "content_html": "日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ",
+            "url": "https://coliss.com/articles/build-websites/operation/work/hinomaru-ink-ui-kit.html",
+            "title": "浮世絵にインスパイアされたUIコンポーネント、和紙・墨・朱の和のカラースキームが癒やされる -Hinomaru Ink UI Kit | コリス",
+            "summary": "日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026091311-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-17T00:36:06.000Z",
+            "date_published": "2026-09-17T00:36:06.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "react",
+                "UI",
+                "サイト構築 -CSS"
+            ],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "浮世絵にインスパイアされたUIコンポーネント、和紙・墨・朱の和のカラースキームが癒やされる -Hinomaru Ink UI Kit",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ23件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-srv6-tilfa/entry",
+            "content_html": "本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使って、任意のトポロジーで障害の高速迂回を実現する技術です。今回は、Segment RoutingとしてSRv6 uSIDを使用しました。 はじめに uSIDとTI-LFAの説明 uSID TI-LFA 使用した機種 TI-LFAの設定 Junos/Junos EVO (設定例) TI-LFA設定 uS…",
+            "url": "https://engineers.ntt.com/entry/202609-srv6-tilfa/entry",
+            "title": "SRv6 uSID TI-LFAを検証してみた | NTT docomo Business Engineers' Blog",
+            "summary": "本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使って、任意のトポロジーで障害の高速迂回を実現する技術です。今回は、Segment Routingとして",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/53a06e44531f2a979b74bcf0d4d46a2d76e94319/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040",
+                "alt": "SRv6 uSID TI-LFAを検証してみた - NTT docomo Business Engineers' Blog"
+            },
+            "date_modified": "2026-09-16T23:08:20.000Z",
+            "date_published": "2026-09-16T23:08:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "SRv6 uSID TI-LFAを検証してみた",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ14件",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+            "content_html": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。",
+            "url": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+            "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた | GIGAZINE",
+            "summary": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グ",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/19/arc-pro-b70-llm-review/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T11:00:00.000Z",
+            "date_published": "2026-09-19T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html",
+            "content_html": " こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html",
+            "title": "1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】 | 窓の杜",
+            "summary": " こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/308/Mado260918.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T10:15:05.000Z",
+            "date_published": "2026-09-18T10:15:05.000Z",
+            "author": {
+                "name": "白井暁彦（しらいはかせ）"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ4件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
+            "content_html": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stokesだけで約270万回のメッセージをやり取りし、約1300億output tokenを生成したという。最初のエージェントを走らせてから約88時間後、AIは解に到達した。9月1日に着手し、6日にはLean…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
+            "title": "[必読] 自ら、問いに向かい合うことの有難さについて | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stoke",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b0875f0f708513eb896bc3ea7ce2ba2fbefe2644/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260913%2F20260913174354.jpg",
+                "alt": "自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-13T08:50:45.000Z",
+            "date_published": "2026-09-13T08:50:45.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "自ら、問いに向かい合うことの有難さについて",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2142298.html",
+            "content_html": " Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2142298.html",
+            "title": "Windows 11搭載の一部ノートPCでタスクバーのすぐ上がマウス操作できない問題／日本マイクロソフトが対処法を案内 | 窓の杜",
+            "summary": " Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/298/windows11.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T09:18:00.000Z",
+            "date_published": "2026-09-18T09:18:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Windows 11搭載の一部ノートPCでタスクバーのすぐ上がマウス操作できない問題／日本マイクロソフトが対処法を案内",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159987",
+            "content_html": "現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_15/159987",
+            "title": "速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー | TechRacho",
+            "summary": "現象 https://techracho.bpsinc.jp/hachi8833/2026_09_15/159",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/09/rails_8131_ruby407_json_decode_error_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-15T08:46:38.000Z",
+            "date_published": "2026-09-15T08:46:38.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "JSON",
+                "Ruby",
+                "Ruby on Rails"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "速報: Rails 8.1.3.1アプリをRuby 4.0.7にアップデートしたらJSONデコードでエラー",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ10件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        }
+    ]
+}

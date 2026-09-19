@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated</id>
+    <title>RSS (Curated)</title>
+    <updated>2026-09-19T12:28:01.127Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <subtitle>キュレーション（今日のブクマ等）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Webデザインの参考になる、8月の気になるサイト10選！ / 2026年 | iDID – クリエイターのための情報メディア]]></title>
+        <id>https://idid.team/?p=4297</id>
+        <link href="https://idid.team/articles/sites-of-interest/2608/"/>
+        <updated>2026-09-17T22:52:32.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、iDIDメディア編集部です。さて、今回もやってきました、サイトまとめ記事の更新です。今回は2026年8月に公開された話題のサイトを10点ピックアップしました。キーワードは「再現、破壊、参加、物語、かっこ、雑誌、年輪、ポップ、好奇心、空気感」。今月もインスピレーションの種を探しに、最新のクリエイティブを覗いてみましょう。ではどうぞ！]]></summary>
+        <content type="html"><![CDATA[こんにちは、iDIDメディア編集部です。さて、今回もやってきました、サイトまとめ記事の更新です。今回は2026年8月に公開された話題のサイトを10点ピックアップしました。キーワードは「再現、破壊、参加、物語、かっこ、雑誌、年輪、ポップ、好奇心、空気感」。今月もインスピレーションの種を探しに、最新のクリエイティブを覗いてみましょう。ではどうぞ！]]></content>
+        <author>
+            <name>idid_nakamura</name>
+        </author>
+        <category label="Sites Of Interest"/>
+        <category label="Webサイト"/>
+        <category label="デザイン"/>
+        <category label="design"/>
+        <category label="curated"/>
+        <published>2026-09-17T22:52:32.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,776 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Headlines)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.json",
+    "description": "HN・ITmedia速報など",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=49765348",
+            "content_html": "Evaluates typed decisions (choice, score, noul) over 100+ languages in a single forward pass with calibrated probabilities. Outperforms TypeSafe Jev.",
+            "url": "https://laya.convaiinnovations.com/",
+            "title": "19:46 ↑0 · https://news.ycombinator.com/item?id=49765348 comments · laya.convaiinnovations.com",
+            "summary": "Evaluates typed decisions (choice, score, noul) over 100+ languages in a single ",
+            "image": {
+                "url": "https://laya-ai.vercel.app/laya_vs_jev_full.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-19T10:46:58.000Z",
+            "date_published": "2026-09-19T10:46:58.000Z",
+            "author": {
+                "name": "nandakishor_ml"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Laya the open source version of Jev",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49764791",
+            "content_html": "The problem",
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "title": "18:20 ↑0 · https://news.ycombinator.com/item?id=49764791 comments · john.hartnup.uk",
+            "summary": "The problem",
+            "date_modified": "2026-09-19T09:20:58.000Z",
+            "date_published": "2026-09-19T09:20:58.000Z",
+            "author": {
+                "name": "ereiamjh"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI-generated posters don’t have to be horrible",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://john.hartnup.uk/assets/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49763987",
+            "content_html": "Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.",
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+            "title": "15:41 ↑0 · https://news.ycombinator.com/item?id=49763987 comments · prinzai.com",
+            "summary": "Scienceblogs.de, a German science blogging portal, includes a relatively famous ",
+            "image": {
+                "url": "https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-09-19T06:41:44.000Z",
+            "date_published": "2026-09-19T06:41:44.000Z",
+            "author": {
+                "name": "nsoonhui"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GPT-6 Astra Solves a WWI German Radio Cipher",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://substackcdn.com/icons/substack/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49763928",
+            "content_html": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/Comments URL: https://news.ycombinator.com/item?id=49763928Points: 147# Comments: 109",
+            "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+            "title": "15:28 ↑0 · https://news.ycombinator.com/item?id=49763928 comments · terrytao.wordpress.com",
+            "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proo",
+            "date_modified": "2026-09-19T06:28:02.000Z",
+            "date_published": "2026-09-19T06:28:02.000Z",
+            "author": {
+                "name": "num42"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "If math is more than proof, we need to better celebrate the rest of it",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49763883",
+            "content_html": "Article URL: https://browser.geekbench.com/v7/cpu/389219Comments URL: https://news.ycombinator.com/item?id=49763883Points: 88# Comments: 88",
+            "url": "https://browser.geekbench.com/v7/cpu/389219",
+            "title": "15:19 ↑0 · https://news.ycombinator.com/item?id=49763883 comments · browser.geekbench.com",
+            "summary": "Article URL: https://browser.geekbench.com/v7/cpu/389219Comments URL: https://ne",
+            "date_modified": "2026-09-19T06:19:24.000Z",
+            "date_published": "2026-09-19T06:19:24.000Z",
+            "author": {
+                "name": "gainsurier"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49763697",
+            "content_html": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
+            "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+            "title": "14:48 ↑0 · https://news.ycombinator.com/item?id=49763697 comments · med.stanford.edu",
+            "summary": "Stanford Health Care delivers the highest levels of care and compassion. SHC tre",
+            "image": {
+                "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains/_jcr_content/main/article/contentfragment/par4/image.coreimg.png/1789589762613/kyle-loh.png",
+                "type": "png",
+                "width": 297,
+                "height": 381
+            },
+            "date_modified": "2026-09-19T05:48:50.000Z",
+            "date_published": "2026-09-19T05:48:50.000Z",
+            "author": {
+                "name": "emigre"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Human brain is two separate organs, Stanford Medicine-led research finds",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://med.stanford.edu/etc.clientlibs/stanford/clientlibs/themed/resources/resources/icon-192x192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49763379",
+            "content_html": "Open-source artificial intelligence model combines diverse lunar datasets to support scientific analysis of the MoonThe NASA-IBM model reproduces patterns of lunar ice prospectivity (scaled from blue to yellow), shown at four locations (left) near the Moon’s pole. Top row: reference ice prospectivity map of Mons Mouton near the lunar south pol...",
+            "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+            "title": "13:44 ↑0 · https://news.ycombinator.com/item?id=49763379 comments · newsroom.usra.edu",
+            "summary": "Open-source artificial intelligence model combines diverse lunar datasets to sup",
+            "image": {
+                "url": "https://content.presspage.com/uploads/1906/7d00e021-cc00-499a-abbb-a303d82d269f/1920_ice_prospectivity-hero.png?10000",
+                "type": "png"
+            },
+            "date_modified": "2026-09-19T04:44:35.000Z",
+            "date_published": "2026-09-19T04:44:35.000Z",
+            "author": {
+                "name": "noobplus"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://content.presspage.com/favicon/1906.ico?1910836097",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49763296",
+            "content_html": "Article URL: https://onionfutures.com/Comments URL: https://news.ycombinator.com/item?id=49763296Points: 220# Comments: 77",
+            "url": "https://onionfutures.com/",
+            "title": "13:23 ↑0 · https://news.ycombinator.com/item?id=49763296 comments · onionfutures.com",
+            "summary": "Article URL: https://onionfutures.com/Comments URL: https://news.ycombinator.com",
+            "date_modified": "2026-09-19T04:23:30.000Z",
+            "date_published": "2026-09-19T04:23:30.000Z",
+            "author": {
+                "name": "z-mach9"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "San Francisco Onion Futures Company",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+            "content_html": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+            "title": "12:00 東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち (itmedia.co.jp)",
+            "summary": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/19/2000001639/10007076/2048"
+            },
+            "date_modified": "2026-09-19T03:00:00.000Z",
+            "date_published": "2026-09-19T03:00:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49762744",
+            "content_html": "Article URL: https://sdcc.sourceforge.net/Comments URL: https://news.ycombinator.com/item?id=49762744Points: 95# Comments: 20",
+            "url": "https://sdcc.sourceforge.net/",
+            "title": "11:32 ↑0 · https://news.ycombinator.com/item?id=49762744 comments · sdcc.sourceforge.net",
+            "summary": "Article URL: https://sdcc.sourceforge.net/Comments URL: https://news.ycombinator",
+            "date_modified": "2026-09-19T02:32:36.000Z",
+            "date_published": "2026-09-19T02:32:36.000Z",
+            "author": {
+                "name": "lioeters"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 44,
+                "originalTitle": "SDCC – Small Device C Compiler",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://sdcc.sourceforge.net/images/sdcc.svg",
+                "pickReason": "はてブ44件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49762687",
+            "content_html": "TL;DR I claim that modern science is synonymous with open source software. This post explains why, why it matters, and what you can (and should) do next. Why do you care about (open source) software? - Everyone I spend a lot of my time working on software. I have been asked why software matters more times than I can remember. Software is, people say, not science. It’s a time sink, something to rush past in the pursuit of what really matters: results (and papers if you’re in academia).",
+            "url": "https://jepedersen.dk/blog/202505_research/",
+            "title": "11:21 ↑0 · https://news.ycombinator.com/item?id=49762687 comments · jepedersen.dk",
+            "summary": "TL;DR I claim that modern science is synonymous with open source software. This ",
+            "date_modified": "2026-09-19T02:21:35.000Z",
+            "date_published": "2026-09-19T02:21:35.000Z",
+            "author": {
+                "name": "jegp"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Science Is Open Software",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://jepedersen.dk/img/favicon.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49761432",
+            "content_html": "AI drastically shortened its design time; it will only get faster",
+            "url": "https://spectrum.ieee.org/llms-for-chip-design",
+            "title": "08:04 ↑0 · https://news.ycombinator.com/item?id=49761432 comments · spectrum.ieee.org",
+            "summary": "AI drastically shortened its design time; it will only get faster",
+            "image": {
+                "height": "600",
+                "url": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T23:04:17.000Z",
+            "date_published": "2026-09-18T23:04:17.000Z",
+            "author": {
+                "name": "maxall4"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=48&height=48",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49758736",
+            "content_html": "Android 17 QPR1 is the first release since Android Honeycomb (3.x) adding new APIs for app developers without a release to the Android Open Source Project. The new APIs are currently exclusive to the Pixel OS and aren't available to other Android OEMs.  https://developer.android.com/sdk/api_diff/37.1/changes",
+            "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+            "title": "04:03 ↑0 · https://news.ycombinator.com/item?id=49758736 comments · grapheneos.social",
+            "summary": "Android 17 QPR1 is the first release since Android Honeycomb (3.x) adding new AP",
+            "date_modified": "2026-09-18T19:03:09.000Z",
+            "date_published": "2026-09-18T19:03:09.000Z",
+            "author": {
+                "name": "theanonymousone"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://grapheneos.social/packs/assets/favicon-16x16-74JBPGmr.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49758615",
+            "content_html": "Multi-LLM systems harness the complementary strengths of diverse Large Language Models, achieving performance and efficiency gains that are not attainable by a single model. In existing designs, LLMs communicate through text, forcing internal representations to be transformed into output token sequences. This process both loses rich semantic information and incurs token-by-token generation latency. Motivated by these limitations, we ask: Can LLMs communicate beyond text? Oracle experiments show ",
+            "url": "https://arxiv.org/abs/2510.03215",
+            "title": "03:55 ↑0 · https://news.ycombinator.com/item?id=49758615 comments · arxiv.org",
+            "summary": "Multi-LLM systems harness the complementary strengths of diverse Large Language ",
+            "image": {
+                "height": "700",
+                "url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+                "width": "1200",
+                "alt": "arXiv logo",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T18:55:35.000Z",
+            "date_published": "2026-09-18T18:55:35.000Z",
+            "author": {
+                "name": "rochansinha"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49758580",
+            "content_html": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here’s how we reduced one of our Pingora-based service's RAM usage with statistics.",
+            "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+            "title": "03:51 ↑0 · https://news.ycombinator.com/item?id=49758580 comments · blog.cloudflare.com",
+            "summary": "Cloudflare's global network is immense but not limitless. As we look for small w",
+            "image": {
+                "height": "628",
+                "url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFY1FZ7AH3P8JEQCDM9YWH.01M2PFY2XJ3KBV9JD78JMJK88K.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T18:51:46.000Z",
+            "date_published": "2026-09-18T18:51:46.000Z",
+            "author": {
+                "name": "f311a"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Saving another 100TB of RAM",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://blog.cloudflare.com/favicon.svg",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49757050",
+            "content_html": "Differential photon-emission microscopy localized debug enable register activity and narrowed the laser search before SWD-guided injection set the two bits required to restore Secure debug on an RP2350 A4.",
+            "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+            "title": "01:54 ↑0 · https://news.ycombinator.com/item?id=49757050 comments · donjon.ledger.com",
+            "summary": "Differential photon-emission microscopy localized debug enable register activity",
+            "image": {
+                "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T16:54:18.000Z",
+            "date_published": "2026-09-18T16:54:18.000Z",
+            "author": {
+                "name": "synack"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://donjon.ledger.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49754785",
+            "content_html": "Expose your local server to the Internet with a single command. No account, no DNS, no configuration required.",
+            "url": "https://try.cloudflare.com/",
+            "title": "23:18 ↑0 · https://news.ycombinator.com/item?id=49754785 comments · try.cloudflare.com",
+            "summary": "Expose your local server to the Internet with a single command. No account, no D",
+            "date_modified": "2026-09-18T14:18:41.000Z",
+            "date_published": "2026-09-18T14:18:41.000Z",
+            "author": {
+                "name": "jcbhmr"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 17,
+                "originalTitle": "Cloudflare Quick Tunnels",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://try.cloudflare.com/favicon.ico",
+                "pickReason": "はてブ17件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
+            "content_html": "ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
+            "title": "20:00 ニチレイ、計5万件超の個人情報漏えいを確認　7月のサイバー攻撃で (itmedia.co.jp)",
+            "summary": "ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001648/10007108/2048"
+            },
+            "date_modified": "2026-09-18T11:00:36.000Z",
+            "date_published": "2026-09-18T11:00:36.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ニチレイ、計5万件超の個人情報漏えいを確認　7月のサイバー攻撃で",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ2件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
+            "content_html": "小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーランスのイラストレーターが、岡山城に展示されている「豪姫」の肖像画を権利者に無断でChatGPT（米OpenAIが提供する生成AI）に読み込ませ、生成した画像を加工して納品していたという。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
+            "title": "19:58 肖像画をChatGPTに読み込ませて出力→加工して納品　委託先による著作権侵害で、小学館「サライ.jp」が謝罪 (itmedia.co.jp)",
+            "summary": "小学館のWebメディア「サライ.jp」は9月18日、8月23日に配信した記事に掲載したイラストを巡り、著作権侵害があったとして謝罪した。制作を担当したフリーラン",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001645/10007102/2048"
+            },
+            "date_modified": "2026-09-18T10:58:54.000Z",
+            "date_published": "2026-09-18T10:58:54.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 57,
+                "originalTitle": "肖像画をChatGPTに読み込ませて出力→加工して納品　委託先による著作権侵害で、小学館「サライ.jp」が謝罪",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ57件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49752041",
+            "content_html": "Run typed option logits and autoregressive JSON locally with open models and WebGPU.",
+            "url": "https://openjev.com/",
+            "title": "18:42 ↑0 · https://news.ycombinator.com/item?id=49752041 comments · openjev.com",
+            "summary": "Run typed option logits and autoregressive JSON locally with open models and Web",
+            "date_modified": "2026-09-18T09:42:22.000Z",
+            "date_published": "2026-09-18T09:42:22.000Z",
+            "author": {
+                "name": "ilreb"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 27,
+                "originalTitle": "OpenJev",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "はてブ27件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001637/",
+            "content_html": "東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入すると発表した。ホームのカメラ映像をAIで解析し、乗降客や介助が必要な利用者の検出結果を運転台のモニターに表示する。17日に綱島駅で運用を始め、代官山駅～横浜駅の計20駅に順次導入する。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001637/",
+            "title": "17:54 東急、運転手のドア閉めをAIで補助　東横線に「ホーム監視AI」導入へ (itmedia.co.jp)",
+            "summary": "東急電鉄とパナソニック コネクトグループは9月16日、ワンマン運転の運転士がドアを閉める際の判断を支援する「乗務員支援ホーム監視AIシステム」を東横線に導入する",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001637/10007035/2048"
+            },
+            "date_modified": "2026-09-18T08:54:06.000Z",
+            "date_published": "2026-09-18T08:54:06.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "東急、運転手のドア閉めをAIで補助　東横線に「ホーム監視AI」導入へ",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ2件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
+            "content_html": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
+            "title": "16:52 生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた (itmedia.co.jp)",
+            "summary": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上に",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001633/10007025/2048"
+            },
+            "date_modified": "2026-09-18T07:52:09.000Z",
+            "date_published": "2026-09-18T07:52:09.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001631/",
+            "content_html": "警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映も活用し、犯罪への加担や被害を全世代に呼び掛けて防ぐ狙い。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001631/",
+            "title": "16:19 「人生が崩壊することを印象付けたい」　警視庁がトクリュウ対策サイトをリニューアル (itmedia.co.jp)",
+            "summary": "警視庁匿名・流動型犯罪グループ（トクリュウ）対策本部は9月18日、公式サイトをリニューアルし、闇バイトのリスクに警鐘を鳴らす啓発動画を公開した。SNSや街頭放映",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001631/10007008/2048"
+            },
+            "date_modified": "2026-09-18T07:19:47.000Z",
+            "date_published": "2026-09-18T07:19:47.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「人生が崩壊することを印象付けたい」　警視庁がトクリュウ対策サイトをリニューアル",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
+            "content_html": "大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では伝えにくい本音を職場の改善につなげる。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
+            "title": "16:01 「上司に言いにくい」をAIが拾う　豊中市教委、職員の本音を匿名で集めるアプリを試験導入　自治体初 (itmedia.co.jp)",
+            "summary": "大阪府豊中市教育委員会は、職員の気づきや悩みを匿名で集めて管理職に届けるアプリ「ココボイス」を試験導入した。自治体での導入は初めて。生成AIとの対話で、対面では",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001630/10007007/2048"
+            },
+            "date_modified": "2026-09-18T07:01:57.000Z",
+            "date_published": "2026-09-18T07:01:57.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「上司に言いにくい」をAIが拾う　豊中市教委、職員の本音を匿名で集めるアプリを試験導入　自治体初",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49750694",
+            "content_html": "ZCode silently packages your entire workspace along with full Git history and uploads it to cloud object storage with server-exclusive decryption keys; this post reconstructs the complete upload pipeline and encryption scheme via local forensics and reverse engineering, and provides a filesystem immutability lock to terminate the behavior permanently.",
+            "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+            "title": "15:11 ↑0 · https://news.ycombinator.com/item?id=49750694 comments · blog.ferstar.org",
+            "summary": "ZCode silently packages your entire workspace along with full Git history and up",
+            "date_modified": "2026-09-18T06:11:17.000Z",
+            "date_published": "2026-09-18T06:11:17.000Z",
+            "author": {
+                "name": "csmantle"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Inside ZCode: Silently uploading your Git history to the cloud",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://blog.ferstar.org/favicon-32x32.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/18/2000001623/",
+            "content_html": "9月17日に開幕した「東京ゲームショウ2026」（千葉・幕張メッセ、9月17～21日）で配布されたノベルティが、フリマアプリ「メルカリ」に相次いで出品されている。一般公開に先立つ「ビジネスデイ」で入手したとみられ、SNS上では「早速転売されている」「ビジネスデイなのにこうなるのか」と批判する声が上がっている。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001623/",
+            "title": "14:37 東京ゲームショウのグッズがメルカリに続々出品　「ビジネスデイなのに」など批判の声 (itmedia.co.jp)",
+            "summary": "9月17日に開幕した「東京ゲームショウ2026」（千葉・幕張メッセ、9月17～21日）で配布されたノベルティが、フリマアプリ「メルカリ」に相次いで出品されている",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001623/10006991/2048"
+            },
+            "date_modified": "2026-09-18T05:37:51.000Z",
+            "date_published": "2026-09-18T05:37:51.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "東京ゲームショウのグッズがメルカリに続々出品　「ビジネスデイなのに」など批判の声",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ1件",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49749724",
+            "content_html": "When most people think of piracy, they think of Bittorrent and The Pirate Bay. These public manifestations of piracy, though, conceal an elite worldwide, underground, organized network of pirate groups who specialize in obtaining media – music, videos, games, and software – before their...",
+            "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+            "title": "11:56 ↑0 · https://news.ycombinator.com/item?id=49749724 comments · archive.org",
+            "summary": "When most people think of piracy, they think of Bittorrent and The Pirate Bay. T",
+            "image": {
+                "url": "https://archive.org/services/img/b904a8eb-9c98-4bb1-bf25-3cb9d075b157/full/pct:300/0/default.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T02:56:48.000Z",
+            "date_published": "2026-09-18T02:56:48.000Z",
+            "author": {
+                "name": "succinct_ideas"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "ピックアップ",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49748553",
+            "content_html": "A foundation model for mobile, wearables, robots, smart home, automotive and microcontrollers. One 8-29 MB binary that beats models 10x its size on mobile tool calls and matches 2-3x bigger models on extraction.",
+            "url": "https://cactuscompute.com/needle",
+            "title": "09:11 ↑0 · https://news.ycombinator.com/item?id=49748553 comments · cactuscompute.com",
+            "summary": "A foundation model for mobile, wearables, robots, smart home, automotive and mic",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
+                "width": "1200",
+                "alt": "Cactus - On-device AI for Smartphones, Laptops &amp; Edge"
+            },
+            "date_modified": "2026-09-18T00:11:44.000Z",
+            "date_published": "2026-09-18T00:11:44.000Z",
+            "author": {
+                "name": "HenryNdubuaku"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 7,
+                "originalTitle": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://cactuscompute.com/assets/favicon.ico",
+                "pickReason": "はてブ7件",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News"
+            }
+        }
+    ]
+}

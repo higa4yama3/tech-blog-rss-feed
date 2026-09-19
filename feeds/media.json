@@ -1,0 +1,517 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Media)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.json",
+    "description": "高頻度メディアソース（件数上限あり）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199912",
+            "content_html": "歯医者さんで細い器具を歯ぐきにそっと当てられ、何やら数字を読み上げられるあの落ち着かない時間。 その歯ぐきの出血が、その後10年のあいだに認知症になるかどうかとつながっているかもしれない、という結果が日本の研究から出てきました。 九州大学の研究者が率いるチームが、認知症ではない60歳以上の日本人1396人を10年間追いかけたのです。 すると、歯ぐきから血が出やすい人ほど、のちに認知症になった人が多いことが分かりました。 歯と歯ぐきのすき間が深い人や、歯ぐきが下がっている人にも、同じような傾向がありました。 ただしこれは「つながりが見えた」という結果で、歯ぐきが原因で認知症になると確かめたわけ…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199912",
+            "title": "認知症になった人が多かった「歯ぐきのサイン」とは | ナゾロジー",
+            "summary": "歯医者さんで細い器具を歯ぐきにそっと当てられ、何やら数字を読み上げられるあの落ち着かない時間。 その歯ぐきの出血が、その後10年のあいだに認知症になるかどうかとつながっているかもしれない、という結果が日本の研究から出てきました。 九州大学の研究者が率いるチームが、認知症ではない60歳以上の日本人1396人を10年間追いかけたのです。 すると、歯ぐきから血が出やすい人ほど、のちに認知症になった人が多",
+            "image": {
+                "height": "941",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c9-fig-thumb-1.jpg",
+                "width": "1672",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T11:06:09.000Z",
+            "date_published": "2026-09-19T11:06:09.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "健康",
+                "医療",
+                "アルツハイマー",
+                "マウス",
+                "脳",
+                "認知"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "認知症になった人が多かった「歯ぐきのサイン」とは",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+            "content_html": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。",
+            "url": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+            "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた | GIGAZINE",
+            "summary": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グ",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/19/arc-pro-b70-llm-review/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T11:00:00.000Z",
+            "date_published": "2026-09-19T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/",
+            "content_html": "新聞記者の山岡士郎と栗田ゆう子が社業として「究極のメニュー」作りに挑み、ライバル紙で「至高のメニュー」を監修する海原雄山と対決を繰り広げたり、料理に関連する人々の問題と関わっていく料理漫画『美味しんぼ』が、『新 美味しんぼ』としてTVアニメ化されることになりました。",
+            "url": "https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/",
+            "title": "料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定 | GIGAZINE",
+            "summary": "新聞記者の山岡士郎と栗田ゆう子が社業として「究極のメニュー」作りに挑み、ライバル紙で「至高のメニュー」を監修する海原雄山と対決を繰り広げたり、料理に関連する人々の問題と関わっていく料理漫画『美味しんぼ』が、『新 美味しんぼ』としてTVアニメ化されることになりました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/19/new-oishinbo-anime-teaser/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-19T10:52:00.000Z",
+            "date_published": "2026-09-19T10:52:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260919-meta-adventurer/",
+            "content_html": "FaccebookやInstagramを運営するMetaは、スマートグラスやVRヘッドセットの開発も行っています。新たにMetaが大手メガネメーカー・エシロールルックスオティカと共同開発したAI搭載スマートグラス「Meta Glasses」が、日本でも2026年8月26日(水)に登場しました。その実物をMetaから借りることができたので、まずはじっくりその見た目をチェックしてみました。",
+            "url": "https://gigazine.net/news/20260919-meta-adventurer/",
+            "title": "Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック | GIGAZINE",
+            "summary": "FaccebookやInstagramを運営するMetaは、スマートグラスやVRヘッドセットの開発も行っています。新たにMetaが大手メガネメーカー・エシロールルックスオティカと共同開発したAI搭載スマートグラス「Meta Glasses」が、日本でも2026年8月26日(水)に登場しました。その実物をMetaから借りることができたので、まずはじっくりその見た目をチェックしてみました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/19/meta-adventurer-appearances/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T10:00:00.000Z",
+            "date_published": "2026-09-19T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199917",
+            "content_html": "アメリカのスタンフォード大学（Stanford University）などで行われた研究によって、生まれつき大脳皮質をほとんど持たないマウスにヒトの脳組織を移植すると、3か月後にはそのマウスの皮質組織の体積の9割以上がヒト由来の組織で占められることが明らかになりました。 ヒトの神経細胞はマウスの神経系とつながって電気の波を起こし、一部は首の高さの脊髄にまで突起を伸ばしていました。 しかもこの組織には、培養皿ではどうしても作れなかった大型の神経細胞によく似た細胞まで現れていたのです。 研究チームは「これらの動物モデルは、ヒトの脳回路に生じた病気に関わる変化が、まるごとの神経系の中でどう表れるの…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199917",
+            "title": "マウスの大脳皮質の9割以上を「ヒトの脳組織」に置き換えることに成功 | ナゾロジー",
+            "summary": "アメリカのスタンフォード大学（Stanford University）などで行われた研究によって、生まれつき大脳皮質をほとんど持たないマウスにヒトの脳組織を移植すると、3か月後にはそのマウスの皮質組織の体積の9割以上がヒト由来の組織で占められることが明らかになりました。 ヒトの神経細胞はマウスの神経系とつながって電気の波を起こし、一部は首の高さの脊髄にまで突起を伸ばしていました。 しかもこの組織に",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/6f1f2a8f0dc594cffa6d6ea137880a12.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T08:00:19.000Z",
+            "date_published": "2026-09-19T08:00:19.000Z",
+            "author": {
+                "name": "川勝康弘"
+            },
+            "tags": [
+                "生物学",
+                "マウス",
+                "ラット",
+                "大脳皮質",
+                "脳"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "マウスの大脳皮質の9割以上を「ヒトの脳組織」に置き換えることに成功",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=199888",
+            "content_html": "ネコの図鑑に新しいページが増える。そんな出来事を、いま生きている人のほとんどは一度も見ていません。 家猫より小さな体に、ヒョウのような斑点。 南米ボリビアの、ユンガスと呼ばれる雲霧林(うんむりん、一年中霧に包まれる山の森)にすむこのネコを、地元の人々は昔から「ティルカヨ」と呼んできました。 ところが科学者にとっては、つい最近まで正式には「見つかっていない」動物でした。 ベルギーのアントワープ大学などの研究チームは、このネコが知られていなかった別の種だと、遺伝子の解析で確かめました。 実際のネコの画像はこちら（画像1、画像2）。 野生のネコ科の新種は100年以上ぶりで、根拠は38匹のネコのゲノ…",
+            "url": "https://nazology.kusuguru.co.jp/archives/199888",
+            "title": "100年ぶりの新種猫「ティルカヨ」―― 発見の経緯、種の解説 | ナゾロジー",
+            "summary": "ネコの図鑑に新しいページが増える。そんな出来事を、いま生きている人のほとんどは一度も見ていません。 家猫より小さな体に、ヒョウのような斑点。 南米ボリビアの、ユンガスと呼ばれる雲霧林(うんむりん、一年中霧に包まれる山の森)にすむこのネコを、地元の人々は昔から「ティルカヨ」と呼んできました。 ところが科学者にとっては、つい最近まで正式には「見つかっていない」動物でした。 ベルギーのアントワープ大学な",
+            "image": {
+                "height": "941",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c225-fig-thumb.jpg",
+                "width": "1672",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-19T03:30:46.000Z",
+            "date_published": "2026-09-19T03:30:46.000Z",
+            "author": {
+                "name": "天道銀河"
+            },
+            "tags": [
+                "動物",
+                "ネコ",
+                "新種",
+                "生物多様性",
+                "遺伝子"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "100年ぶりの新種猫「ティルカヨ」―― 発見の経緯、種の解説",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00682/082800106/",
+            "content_html": "",
+            "url": "https://business.nikkei.com/atcl/gen/19/00682/082800106/",
+            "title": "［2026年9月19日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00682/082800106/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T15:00:00.000Z",
+            "date_published": "2026-09-18T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［2026年9月19日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/digest/2142402.html",
+            "content_html": "",
+            "url": "https://forest.watch.impress.co.jp/docs/digest/2142402.html",
+            "title": "「robocopy」を活用したGUI定期バックアップツール「Robocopy Scheduler」v26.9.14.0　ほか【ダイジェストニュース】 | 窓の杜",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/402/0918.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T12:58:39.000Z",
+            "date_published": "2026-09-18T12:58:39.000Z",
+            "author": {
+                "name": "窓の杜編集部"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "「robocopy」を活用したGUI定期バックアップツール「Robocopy Scheduler」v26.9.14.0　ほか【ダイジェストニュース】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html",
+            "content_html": " こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html",
+            "title": "1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】 | 窓の杜",
+            "summary": " こんにちは、しらいはかせです。筆者は普段、AICU Japanという会社で『つくる人をつくる』をビジョンに、生成AIやメディア芸術の研究・実践をしています。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/308/Mado260918.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T10:15:05.000Z",
+            "date_published": "2026-09-18T10:15:05.000Z",
+            "author": {
+                "name": "白井暁彦（しらいはかせ）"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ4件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2142298.html",
+            "content_html": " Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2142298.html",
+            "title": "Windows 11搭載の一部ノートPCでタスクバーのすぐ上がマウス操作できない問題／日本マイクロソフトが対処法を案内 | 窓の杜",
+            "summary": " Windows 11搭載のノートPCで、タスクバーのすぐ上をマウス操作できなくなることがあるとのこと。日本マイクロソフト（株）が9月14日、自社のサポートブログで明らかにした。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/298/windows11.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T09:18:00.000Z",
+            "date_published": "2026-09-18T09:18:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Windows 11搭載の一部ノートPCでタスクバーのすぐ上がマウス操作できない問題／日本マイクロソフトが対処法を案内",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
+            "content_html": " The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
+            "title": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に | 窓の杜",
+            "summary": " The Unicode Consortiumは9月16日（米国時間）、「The Unicode Standard, Version 18.0」を公開した。昨年9月の「Unicode 17.0」に続くメジャーアップデートで、13,007文字が追加。収録文字数の総計は172,808文字となった。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/260/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T08:45:00.000Z",
+            "date_published": "2026-09-18T08:45:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 41,
+                "originalTitle": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ41件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00030/091800810/",
+            "content_html": "Jパワーは大間原発の工事再開時期の公表をまたも見送った。運転開始の目標も後ろ倒しになる。狭い敷地に複数の工事が集中し、その量を読み違えたことが直接の理由だ。だが専門家は、工事管理を熟知しないJパワーが自ら仕切ること自体に無理があったと指摘する。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00030/091800810/",
+            "title": "青森・大間原発、再開時期また示せず　専門家「Jパワーの仕切りは元々無理」 (Views) | 日経ビジネス電子版　最新記事",
+            "summary": "Jパワーは大間原発の工事再開時期の公表をまたも見送った。運転開始の目標も後ろ倒しになる。狭い敷地に複数の工事が集中し、その量を読み違えたことが直接の理由だ。だが専門家は、工事管理を熟知しないJパワーが自ら仕切ること自体に無理があったと指摘する。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00030/091800810/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T08:00:00.000Z",
+            "date_published": "2026-09-18T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "青森・大間原発、再開時期また示せず　専門家「Jパワーの仕切りは元々無理」 (Views)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00122/00298/",
+            "content_html": "日銀が重視する基調的な物価上昇率が2％に近づく中、25日に公表される最新の物価データが実勢を見極める注目の材料だ。海外では国連総会や米中首脳会談があり、人工知能（AI）や対イラン制裁、中国車への対応が焦点となる。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00122/00298/",
+            "title": "物価基調、特殊要因を除いて見極め／米中首脳会談はAI・イラン対応が焦点に (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事",
+            "summary": "日銀が重視する基調的な物価上昇率が2％に近づく中、25日に公表される最新の物価データが実勢を見極める注目の材料だ。海外では国連総会や米中首脳会談があり、人工知能（AI）や対イラン制裁、中国車への対応が焦点となる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00122/00298/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T08:00:00.000Z",
+            "date_published": "2026-09-18T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "物価基調、特殊要因を除いて見極め／米中首脳会談はAI・イラン対応が焦点に (上野泰也の先読みマーケット)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00928/091700002/",
+            "content_html": "日経ビジネスはグロービス経営大学院大学と共同で、業務でのAI活用の実態調査を実施した。経営層ほどAIを積極的に利用し、期待も大きいことが分かった。同時に一般社員との認識の隔たりも見えてきた。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00928/091700002/",
+            "title": "［独自調査］経営層の8割「AI日常利用」　最も必要なのは「リーダーシップ」 (AI駆動型リーダー) | 日経ビジネス電子版　最新記事",
+            "summary": "日経ビジネスはグロービス経営大学院大学と共同で、業務でのAI活用の実態調査を実施した。経営層ほどAIを積極的に利用し、期待も大きいことが分かった。同時に一般社員との認識の隔たりも見えてきた。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00928/091700002/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T08:00:00.000Z",
+            "date_published": "2026-09-18T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［独自調査］経営層の8割「AI日常利用」　最も必要なのは「リーダーシップ」 (AI駆動型リーダー)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00935/091600002/",
+            "content_html": "「消費者懇談会なんて、何の意味もない」――。コンビニの父、鈴木敏文氏の経営哲学とも言える「仮説と検証」について、セブン＆アイ・ホールディングス取締役も務めたヨークベニマル名誉会長の大髙善興氏は「この一言にその真意があった」と振り返る。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00935/091600002/",
+            "title": "「まずいものは駄目だ」　セブンプレミアム生みの親が見た妥協なき鈴木敏文氏 (経営者たちが見た鈴木敏文) | 日経ビジネス電子版　最新記事",
+            "summary": "「消費者懇談会なんて、何の意味もない」――。コンビニの父、鈴木敏文氏の経営哲学とも言える「仮説と検証」について、セブン＆アイ・ホールディングス取締役も務めたヨークベニマル名誉会長の大髙善興氏は「この一言にその真意があった」と振り返る。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00935/091600002/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T08:00:00.000Z",
+            "date_published": "2026-09-18T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「まずいものは駄目だ」　セブンプレミアム生みの親が見た妥協なき鈴木敏文氏 (経営者たちが見た鈴木敏文)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2142270.html",
+            "content_html": " 米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2142270.html",
+            "title": "「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中 | 窓の杜",
+            "summary": " 米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2142/270/google_chrome.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T07:54:25.000Z",
+            "date_published": "2026-09-18T07:54:25.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=83531",
+            "content_html": "※本ページは、アフィリエイト広告を利用しています。 2026年3月にアップデートされたClip Studio Paint ver.5対応の解説書は、初じゃないでしょうか。 プロのイラストレーター、絵師",
+            "url": "https://coliss.com/articles/book-review/isbn-9784295024835.html",
+            "title": "クリスタの最新機能もこれでよく分かる！ プロ絵師たちが使用するイラスト制作のテクニックを徹底的に解説 -クリスタ操作術 決定版 改訂2版 | コリス",
+            "summary": "※本ページは、アフィリエイト広告を利用しています。 2026年3月にアップデートされたClip Studio Paint ver.5対応の解説書は、初じゃないでしょうか。 プロのイラストレーター、絵師",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/9784295024835-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-18T00:36:05.000Z",
+            "date_published": "2026-09-18T00:36:05.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Book Review",
+                "インプレス",
+                "クリスタ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "クリスタの最新機能もこれでよく分かる！ プロ絵師たちが使用するイラスト制作のテクニックを徹底的に解説 -クリスタ操作術 決定版 改訂2版",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=84977",
+            "content_html": "日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ",
+            "url": "https://coliss.com/articles/build-websites/operation/work/hinomaru-ink-ui-kit.html",
+            "title": "浮世絵にインスパイアされたUIコンポーネント、和紙・墨・朱の和のカラースキームが癒やされる -Hinomaru Ink UI Kit | コリス",
+            "summary": "日本の浮世絵にインスパイアされ、日の丸のポスターのように描かれた再利用可能なUI要素・UIコンポーネントのキットを紹介します。 テキストや罫線には墨色、背景色にはくすんだ和紙のような色、アクセントカラ",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026091311-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-17T00:36:06.000Z",
+            "date_published": "2026-09-17T00:36:06.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "react",
+                "UI",
+                "サイト構築 -CSS"
+            ],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "浮世絵にインスパイアされたUIコンポーネント、和紙・墨・朱の和のカラースキームが癒やされる -Hinomaru Ink UI Kit",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ23件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        }
+    ]
+}
