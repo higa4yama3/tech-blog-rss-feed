@@ -1,0 +1,255 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (はてなIT人気)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.json",
+    "description": "はてなブックマーク ITカテゴリ人気（厳選）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/npaka/n/n1d86b2196515",
+            "content_html": "はてブ217件\nローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を使って、Webの最新情報を調べる能力も高くなっています。 LLM単体では学習後の最新情報を知ることはできませんが、 検索 → ページを読む → 情報を比較 → 必要なら再検索 → 回答 という仕組みを用意...",
+            "url": "https://note.com/npaka/n/n1d86b2196515",
+            "title": "[はてブ217] ローカルLLMで使えるWeb検索まとめ｜npaka (note.com)",
+            "summary": "はてブ217件\nローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を",
+            "date_modified": "2026-09-26T07:44:27.000Z",
+            "date_published": "2026-09-26T07:44:27.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 217,
+                "originalTitle": "ローカルLLMで使えるWeb検索まとめ｜npaka",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ217件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://anond.hatelabo.jp/20260926101532",
+            "content_html": "はてブ172件\nVIVANTで生成AIが使われていた件が若干荒れてたけどうちの会社も反AIの人が干されそうになっている WEB制作会社のフロントエンドエンジニアチームの課長をやってるんだが、人事考課で他部署の反AIデザイナーがくっそ低評価つけられそう いまちょうど人事考課やっていて今度の11月から新しい給与体系に変わるタイミングと...",
+            "url": "https://anond.hatelabo.jp/20260926101532",
+            "title": "[はてブ172] 反AIの社会的な居場所が潰されててすげーわ (anond.hatelabo.jp)",
+            "summary": "はてブ172件\nVIVANTで生成AIが使われていた件が若干荒れてたけどうちの会社も反AIの人が干されそうになっている WEB制作会社のフロントエンドエンジニア",
+            "date_modified": "2026-09-26T01:19:22.000Z",
+            "date_published": "2026-09-26T01:19:22.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 172,
+                "originalTitle": "反AIの社会的な居場所が潰されててすげーわ",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ172件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://sizu.me/laiso/posts/ut6i125ew44m",
+            "content_html": "はてブ148件\nDHHという、ドパガキの王みたいなインフルエンサーがいるんですけど、今週、Ruby on Railsのカンファレンス「Rails World」での講演が話題になっていました。観てない方は是非今見てください。日本語字幕もつけられます。 この講演が刺激的だったのは、Railsのカンファレンスでオリジナル作者本人がAIエージェントによる...",
+            "url": "https://sizu.me/laiso/posts/ut6i125ew44m",
+            "title": "[はてブ148] DHHはRailsを捨てたのか？｜laiso (sizu.me)",
+            "summary": "はてブ148件\nDHHという、ドパガキの王みたいなインフルエンサーがいるんですけど、今週、Ruby on Railsのカンファレンス「Rails World」で",
+            "date_modified": "2026-09-26T05:33:53.000Z",
+            "date_published": "2026-09-26T05:33:53.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 148,
+                "originalTitle": "DHHはRailsを捨てたのか？｜laiso",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ148件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59",
+            "content_html": "はてブ138件\nDeleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? アラートが鳴った、あるいは「不正アクセスかもしれない」という一報が入った。その瞬間、自分が何を確認し、誰に連絡し、どこまでを自分の判断で動いていいのかが分からない。その...",
+            "url": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59",
+            "title": "[はてブ138] インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita (qiita.com)",
+            "summary": "はてブ138件\nDeleted articles cannot be recovered. Draft of this article would be als",
+            "date_modified": "2026-09-26T03:32:28.000Z",
+            "date_published": "2026-09-26T03:32:28.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 138,
+                "originalTitle": "インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ138件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
+            "content_html": "はてブ126件\nPlatform Engineering Kaigi 2026",
+            "url": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
+            "title": "[はてブ126] メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」 (speakerdeck.com)",
+            "summary": "はてブ126件\nPlatform Engineering Kaigi 2026",
+            "date_modified": "2026-09-26T08:12:20.000Z",
+            "date_published": "2026-09-26T08:12:20.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 126,
+                "originalTitle": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ126件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
+            "content_html": "はてブ103件\n米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は「10億人の死者を出すような事態を引き起こせるほど強力だ」と警告し、政府による規制強化を訴えた。米NBCテレビのインタビューに語った内容として、同局が25日報じた。 それによると、ゲイツ氏は「悪意を持つ人間と最新のAIの組み合わせほど強力な兵器はか...",
+            "url": "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
+            "title": "[はてブ103] 「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え (sankei.com)",
+            "summary": "はてブ103件\n米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は「10億人の死者を出すような事態を引き起こせるほど強力だ」と警告し、政府による規制強",
+            "date_modified": "2026-09-26T02:39:52.000Z",
+            "date_published": "2026-09-26T02:39:52.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 103,
+                "originalTitle": "「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ103件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
+            "content_html": "はてブ98件\nオーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain health markers in individuals with and without stroke: cross-sectional and longitudinal findings from the Framingham heart study」は、ナッツ類の摂取が認知機能や脳の健康に与える影響を調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
+            "title": "[はてブ98] ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析 (itmedia.co.jp)",
+            "summary": "はてブ98件\nオーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and br",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2609/26/2000001711/10007371/2048"
+            },
+            "date_modified": "2026-09-26T03:35:04.000Z",
+            "date_published": "2026-09-26T03:35:04.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 98,
+                "originalTitle": "ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ98件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://note.com/blue_pen5805/n/nb124b104c28b",
+            "content_html": "はてブ86件\nみなさん ChatGPT とか Claude とか使ってますか？ はい、そうですね Gemini は使ってないですね 今回はそんな Gemini の有料サブスクの中で 最も一般的なプランである Google AI Pro （月額 2,900円）について 全特典の価値をすべて計算したら実はめちゃくちゃお得なのでは？ という説について検証していきます なお、...",
+            "url": "https://note.com/blue_pen5805/n/nb124b104c28b",
+            "title": "[はてブ86] 【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805 (note.com)",
+            "summary": "はてブ86件\nみなさん ChatGPT とか Claude とか使ってますか？ はい、そうですね Gemini は使ってないですね 今回はそんな Gemini ",
+            "date_modified": "2026-09-26T06:52:37.000Z",
+            "date_published": "2026-09-26T06:52:37.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 86,
+                "originalTitle": "【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ86件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "http://www.highriskrevolution.com/wp/gamelife/2026/09/26/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AE%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%81%8C%E9%96%89%E9%8E%96%E3%81%95%E3%82%8C%E3%81%9F%E8%A9%B1/",
+            "content_html": "はてブ78件\n10年以上、アフィリエイトに参加していた。正確にはいつからやっていたか覚えていないが、韓国で仕事をしていたときにはアカウントを作っていたと思うので、20年を超えるかもしれない。 このアカウントが、まさに突然閉鎖された。 閉鎖された理由は「お客様のウェブサイト、アプリ、ソーシャルメディアアカウントは、露...",
+            "url": "http://www.highriskrevolution.com/wp/gamelife/2026/09/26/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AE%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%81%8C%E9%96%89%E9%8E%96%E3%81%95%E3%82%8C%E3%81%9F%E8%A9%B1/",
+            "title": "[はてブ78] アマゾンのアフィリエイトが閉鎖された話 | Colorful Pieces of Game (highriskrevolution.com)",
+            "summary": "はてブ78件\n10年以上、アフィリエイトに参加していた。正確にはいつからやっていたか覚えていないが、韓国で仕事をしていたときにはアカウントを作っていたと思うので",
+            "date_modified": "2026-09-26T09:27:42.000Z",
+            "date_published": "2026-09-26T09:27:42.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 78,
+                "originalTitle": "アマゾンのアフィリエイトが閉鎖された話 | Colorful Pieces of Game",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ78件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://anond.hatelabo.jp/20260926111613",
+            "content_html": "はてブ74件\n妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれなれしくされたりして嫌、ということを言う 俺がベビーカーを押しているときは、特にそんな奴はいないし、エレベーターも道もみんな譲ってくれる これ、思うに、男女差もあるのよね 女性の場合、未婚であればちやほや大事にされるのに、ベビーカー...",
+            "url": "https://anond.hatelabo.jp/20260926111613",
+            "title": "[はてブ74] 妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ.. (anond.hatelabo.jp)",
+            "summary": "はてブ74件\n妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれなれしくされたりして嫌、ということを言う 俺がベビーカーを押しているときは、特",
+            "date_modified": "2026-09-26T02:19:48.000Z",
+            "date_published": "2026-09-26T02:19:48.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 74,
+                "originalTitle": "妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ..",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ74件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        },
+        {
+            "id": "https://gihyo.jp/article/2026/09/docker-skills",
+            "content_html": "はてブ73件\nDocker⁠⁠、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 DockerのArnaud Héritier氏は2026年9月24日、同社がAIコーディングエージェント向けの公式スキル集「Docker Skills」を公開したことを、自身のXやBlueskyで案内した。Dockerfileの改善や複数コンテナーで構成するアプリケーションの設定な...",
+            "url": "https://gihyo.jp/article/2026/09/docker-skills",
+            "title": "[はてブ73] Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp (gihyo.jp)",
+            "summary": "はてブ73件\nDocker⁠⁠、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 DockerのArnaud Héritier氏",
+            "date_modified": "2026-09-26T07:12:52.000Z",
+            "date_published": "2026-09-26T07:12:52.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 73,
+                "originalTitle": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ73件",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気"
+            }
+        }
+    ]
+}

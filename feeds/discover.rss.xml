@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Discover)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml</link>
+        <description>はてブと新しさで選んだ記事</description>
+        <lastBuildDate>Sat, 26 Sep 2026 19:11:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Discover)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2143487.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2143487.html</guid>
+            <pubDate>Fri, 25 Sep 2026 12:10:34 GMT</pubDate>
+            <description><![CDATA[ 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。]]></description>
+            <content:encoded><![CDATA[ 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2143/487/image1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[性器が短い男性は「小児期の体型」にある共通点があった | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/186862</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=186862</guid>
+            <pubDate>Sat, 26 Sep 2026 12:00:49 GMT</pubDate>
+            <description><![CDATA[「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？]]></description>
+            <content:encoded><![CDATA[「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？ この素朴でありながらセンシティブな疑問に、思わぬ形で新しい答えを提示したのが、ベトナム・ハノイ医科大学病院（HMU）による最新研究です。 研究チームによれば、「小児期（10歳頃）に肥満だった男性は…]]></content:encoded>
+            <category>健康</category>
+            <category>肥満</category>
+            <enclosure length="0" type="jpg" height="600" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2025/10/d6f80360475bd421e3b1339874062e46.jpg" width="900"/>
+        </item>
+        <item>
+            <title><![CDATA[Rubyのテストを改めて考える: アサーションとマッチャー（翻訳） | TechRacho]]></title>
+            <link>https://techracho.bpsinc.jp/hachi8833/2026_09_24/159792</link>
+            <guid>https://techracho.bpsinc.jp/?p=159792</guid>
+            <pubDate>Thu, 24 Sep 2026 08:30:18 GMT</pubDate>
+            <description><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass]]></description>
+            <content:encoded><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass]]></content:encoded>
+            <category>Ruby / Rails関連</category>
+            <category>RSpec</category>
+            <category>Ruby</category>
+            <category>テスト</category>
+            <category>翻訳記事</category>
+            <enclosure length="0" type="png" height="720" url="https://techracho.bpsinc.jp/wp-content/uploads/2026/09/ruby_thinking_about_assertions_matcher_eyecatch1-min.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2143433.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2143433.html</guid>
+            <pubDate>Fri, 25 Sep 2026 09:31:00 GMT</pubDate>
+            <description><![CDATA[ The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）]]></description>
+            <content:encoded><![CDATA[ The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2143/433/apachetomcat.png"/>
+        </item>
+        <item>
+            <title><![CDATA[対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 | ZOZO TECH BLOG]]></title>
+            <link>https://techblog.zozo.com/entry/ai-agent-inquiry-automation</link>
+            <guid>https://techblog.zozo.com/entry/ai-agent-inquiry-automation</guid>
+            <pubDate>Thu, 24 Sep 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所を持ち帰っていただけるはずです。なお、本記事は「問い合わせに回答する」部分に絞り、管理・運用の自動化は扱いません。]]></content:encoded>
+            <enclosure length="0" type="image/png%3Fchanged%3D1789698976" url="https://cdn.image.st-hatena.com/image/scale/1125db3ebf11b01280b1cf410cc239b9c2c71f79/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918113558.png%3Fchanged%3D1789698976" alt="対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 - ZOZO TECH BLOG"/>
+        </item>
+        <item>
+            <title><![CDATA[商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ | コリス]]></title>
+            <link>https://coliss.com/articles/freebies/free-font-okannotegamimini.html</link>
+            <guid>https://coliss.com/?p=85176</guid>
+            <pubDate>Thu, 24 Sep 2026 00:36:15 GMT</pubDate>
+            <description><![CDATA[ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お]]></description>
+            <content:encoded><![CDATA[ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お]]></content:encoded>
+            <category>Freebies</category>
+            <category>font</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202603/2026092001@2x.png"/>
+        </item>
+    </channel>
+</rss>

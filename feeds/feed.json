@@ -1,0 +1,2208 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Core)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.json",
+    "description": "あっ、好きな記事をまとめたRSSフィード",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=186862",
+            "content_html": "「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？ この素朴でありながらセンシティブな疑問に、思わぬ形で新しい答えを提示したのが、ベトナム・ハノイ医科大学病院（HMU）による最新研究です。 研究チームによれば、「小児期（10歳頃）に肥満だった男性は…",
+            "url": "https://nazology.kusuguru.co.jp/archives/186862",
+            "title": "性器が短い男性は「小児期の体型」にある共通点があった | ナゾロジー",
+            "summary": "「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2025/10/d6f80360475bd421e3b1339874062e46.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T12:00:49.000Z",
+            "date_published": "2026-09-26T12:00:49.000Z",
+            "author": {
+                "name": "千野 真吾"
+            },
+            "tags": [
+                "健康",
+                "肥満"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "性器が短い男性は「小児期の体型」にある共通点があった",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/",
+            "content_html": "健康のためには「1日1万歩」は歩いた方がいいとよく言われますが、近年の研究では1万歩よりも少ない歩数でも、さまざまな健康効果が得られることが示唆されています。新たな研究では、たとえ1日の歩数が少なくても「歩くペース」を上げることで、死亡リスクが低くなる可能性があると報告されました。",
+            "url": "https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/",
+            "title": "1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性 | GIGAZINE",
+            "summary": "健康のためには「1日1万歩」は歩いた方がいいとよく言われますが、近年の研究では1万歩よりも少ない歩数でも、さまざまな健康効果が得られることが示唆されています。新たな研究では、たとえ1日の歩数が少なくても「歩くペース」を上げることで、死亡リスクが低くなる可能性があると報告されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/26/stepping-pace-lower-risk-death/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T12:00:00.000Z",
+            "date_published": "2026-09-26T12:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
+            "content_html": "Appleはアクティブノイズキャンセリング機能搭載オープンイヤー型ワイヤレスイヤホン「AirPods 5」を2026年9月18日に発売しました。軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを備えた上位モデルを実際に注文したので、実際に装着して音楽を聞いたり手元で操作してみたり試してみました。",
+            "url": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
+            "title": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？ | GIGAZINE",
+            "summary": "Appleはアクティブノイズキャンセリング機能搭載オープンイヤー型ワイヤレスイヤホン「AirPods 5」を2026年9月18日に発売しました。軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを備えた上位モデルを実際に注文したので、実際に装着して音楽を聞いたり手元で操作してみたり試してみました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/26/airpods-5-wireless-charging-case-review/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T11:00:00.000Z",
+            "date_published": "2026-09-26T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200149",
+            "content_html": "会議で上司に意見を言うとき、相手の目を見るか手元の資料を見るか、ちょっと迷うことがあります。 話している相手の目をどれくらい見るかには、その人の性格の一面が表れているのかもしれません。 大学生39人に上司役と話し合ってもらう実験で、自分をまじめだと答えた人ほど、上司役の目をよく見ていたのです。 そしてその視線は、まわりの人が「この人はまじめだ」と感じることとも関係していました。 上司の前で自分がどこを見ているか、少し気になってきます。 ただし調べたのは少人数の大学生で、本物の職場ではなく、実験として用意した話し合いでの結果です。 研究内容の詳細は2025年11月29日に『Journal of…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200149",
+            "title": "「自分はまじめ」と答えた学生ほど、話すときに上司役の目をよく見ていた | ナゾロジー",
+            "summary": "会議で上司に意見を言うとき、相手の目を見るか手元の資料を見るか、ちょっと迷うことがあります。 話している相手の目をどれくらい見るかには、その人の性格の一面が表れているのかもしれません。 大学生39人に上司役と話し合ってもらう実験で、自分をまじめだと答えた人ほど、上司役の目をよく見ていたのです。 そしてその視線は、まわりの人が「この人はまじめだ」と感じることとも関係していました。 上司の前で自分がど",
+            "image": {
+                "height": "1280",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c4-fig-thumb-2.jpg",
+                "width": "1920",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T11:00:00.000Z",
+            "date_published": "2026-09-26T11:00:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "心理学",
+                "脳科学",
+                "実験"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「自分はまじめ」と答えた学生ほど、話すときに上司役の目をよく見ていた",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200143",
+            "content_html": "駅でスマホの乗り換え案内をにらんでいたら、目の前で手を振る友人に最後まで気づけませんでした。 何かに集中していると、目に入っているはずのものを見落とすことがあります。 では、頭のいい人や注意深い性格の人なら、こうした見落としは少ないのでしょうか？ イリノイ大学アーバナ・シャンペーン校のダニエル・シモンズ氏らは、知能を調べる実験と性格を調べる実験に、それぞれ1000人ずつ参加してもらい、この疑問を確かめました。 その結果、知能に関わる一部の能力は見落としを予測したものの、その力は弱く、一貫してもいませんでした。性格については、見落としを予測するという証拠がほとんど、あるいはまったく見つかりませ…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200143",
+            "title": "「知能が高い人」ほど見落としが少ないわけではなかった | ナゾロジー",
+            "summary": "駅でスマホの乗り換え案内をにらんでいたら、目の前で手を振る友人に最後まで気づけませんでした。 何かに集中していると、目に入っているはずのものを見落とすことがあります。 では、頭のいい人や注意深い性格の人なら、こうした見落としは少ないのでしょうか？ イリノイ大学アーバナ・シャンペーン校のダニエル・シモンズ氏らは、知能を調べる実験と性格を調べる実験に、それぞれ1000人ずつ参加してもらい、この疑問を確",
+            "image": {
+                "height": "1446",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c5-fig-thumb.jpg",
+                "width": "1920",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T09:30:00.000Z",
+            "date_published": "2026-09-26T09:30:00.000Z",
+            "author": {
+                "name": "天道銀河"
+            },
+            "tags": [
+                "心理学",
+                "脳科学",
+                "実験"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「知能が高い人」ほど見落としが少ないわけではなかった",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157091",
+            "content_html": "岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。",
+            "url": "https://www.cinematoday.jp/news/N0157091",
+            "title": "豊川悦司＆山口智子共演『undo』誕生のきっかけは居酒屋でのおしゃべり | シネマトゥデイ",
+            "summary": "岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/OPRkP3cyDowd/_size_r1200x630/_v_1790413898/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T09:11:38.000Z",
+            "date_published": "2026-09-26T09:11:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "豊川悦司＆山口智子共演『undo』誕生のきっかけは居酒屋でのおしゃべり",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157082",
+            "content_html": "俳優の豊川悦司と山口智子が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに、岩井俊二監督と共に出席。32年前の撮影を懐かしそうに振り返っていた。",
+            "url": "https://www.cinematoday.jp/news/N0157082",
+            "title": "豊川悦司、寝なかった32年前の撮影　スケジュール表に「終わるまで」 | シネマトゥデイ",
+            "summary": "俳優の豊川悦司と山口智子が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに、岩井俊二監督と共に出席。32年前の撮影を懐かしそうに振り返っていた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/OqA5pYNdV4jq/_size_r1200x630/_v_1790411789/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T08:36:29.000Z",
+            "date_published": "2026-09-26T08:36:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "豊川悦司、寝なかった32年前の撮影　スケジュール表に「終わるまで」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260926-ansel/",
+            "content_html": "RAW画像を編集するソフトには写真の明るさや色の調整・ノイズ除去・レンズの補正などさまざまな機能が搭載されていますが、機能が増えるほど目的の設定項目を探す手間も増えてしまいます。そこで無料でオープンソースのRAW現像ソフト「Ansel」は、「darktable」をベースに機能の整理や操作画面の再設計により、写真編集の作業をわかりやすくすることを目指したソフトウェアです。",
+            "url": "https://gigazine.net/news/20260926-ansel/",
+            "title": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」 | GIGAZINE",
+            "summary": "RAW画像を編集するソフトには写真の明るさや色の調整・ノイズ除去・レンズの補正などさまざまな機能が搭載されていますが、機能が増えるほど目的の設定項目を探す手間も増えてしまいます。そこで無料でオープンソースのRAW現像ソフト「Ansel」は、「darktable」をベースに機能の整理や操作画面の再設計により、写真編集の作業をわかりやすくすることを目指したソフトウェアです。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/26/ansel/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-26T07:00:00.000Z",
+            "date_published": "2026-09-26T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157080",
+            "content_html": "俳優の吉岡里帆と奈緒が26日、都内で行われた映画『シャドウワーク』（公開中）公開記念舞台挨拶に出席。アクションシーンをはじめ、自由な気風で行われたという撮影を振り返った。",
+            "url": "https://www.cinematoday.jp/news/N0157080",
+            "title": "吉岡里帆＆奈緒、アクションシーンの前に円陣　風通しのいい現場振り返る | シネマトゥデイ",
+            "summary": "俳優の吉岡里帆と奈緒が26日、都内で行われた映画『シャドウワーク』（公開中）公開記念舞台挨拶に出席。アクションシーンをはじめ、自由な気風で行われたという撮影を振り返った。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/GwndaxvfW93h/_size_r1200x630/_v_1790402144/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T05:55:44.000Z",
+            "date_published": "2026-09-26T05:55:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "吉岡里帆＆奈緒、アクションシーンの前に円陣　風通しのいい現場振り返る",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157081",
+            "content_html": "俳優の松たか子が26日、新宿ピカデリーで行われた映画『ナギダイアリー』（公開中）公開記念舞台あいさつに、石橋静河、松山ケンイチ、川口和空、藤原聖、深田晃司監督と共に出席。",
+            "url": "https://www.cinematoday.jp/news/N0157081",
+            "title": "松たか子、映画舞台挨拶で朝ドラヒロイン紹介　「いい時も悪い時も全部見られている人」 | シネマトゥデイ",
+            "summary": "俳優の松たか子が26日、新宿ピカデリーで行われた映画『ナギダイアリー』（公開中）公開記念舞台あいさつに、石橋静河、松山ケンイチ、川口和空、藤原聖、深田晃司監督と共に出席。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/sX_NSSV_Q7sz/_size_r1200x630/_v_1790401589/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T05:39:10.000Z",
+            "date_published": "2026-09-26T05:39:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "松たか子、映画舞台挨拶で朝ドラヒロイン紹介　「いい時も悪い時も全部見られている人」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157077",
+            "content_html": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第10話「闘魂燃やせ！キャプテン・エイル！」が、27日午前9時30分よりテレビ朝日系にて放送される。",
+            "url": "https://www.cinematoday.jp/news/N0157077",
+            "title": "「角醒ハンター オメガホーン」キャプテン・エイルが“ヘル・ハンターバトル”に挑む【第10話あらすじ】 | シネマトゥデイ",
+            "summary": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第10話「闘魂燃やせ！キャプテン・エイル！」が、27日午前9時30分よりテレビ朝日系にて放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/dMoJUeX9YPSL/_size_r1200x630/_v_1790334731/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T03:02:00.000Z",
+            "date_published": "2026-09-26T03:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「角醒ハンター オメガホーン」キャプテン・エイルが“ヘル・ハンターバトル”に挑む【第10話あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157075",
+            "content_html": "特撮ドラマ「仮面ライダーマイス」（テレビ朝日系）の第4話「狼には裏がある」が、27日午前9時から放送される。",
+            "url": "https://www.cinematoday.jp/news/N0157075",
+            "title": "「仮面ライダーマイス」第4話あらすじ　オオカミの新フォームが登場 | シネマトゥデイ",
+            "summary": "特撮ドラマ「仮面ライダーマイス」（テレビ朝日系）の第4話「狼には裏がある」が、27日午前9時から放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/e3QNX-YBPiNN/_size_r1200x630/_v_1790333406/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T02:02:00.000Z",
+            "date_published": "2026-09-26T02:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「仮面ライダーマイス」第4話あらすじ　オオカミの新フォームが登場",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157076",
+            "content_html": "松岡茉優が主演を務め、仲里依紗が共演するNetflixシリーズ「ダウンタイム」（独占配信中）より、物語を彩る多彩なキャストおよびカメオ出演陣が一挙発表された。",
+            "url": "https://www.cinematoday.jp/news/N0157076",
+            "title": "松岡茉優×仲里依紗「ダウンタイム」物語を彩るキャスト＆カメオ出演陣が発表 | シネマトゥデイ",
+            "summary": "松岡茉優が主演を務め、仲里依紗が共演するNetflixシリーズ「ダウンタイム」（独占配信中）より、物語を彩る多彩なキャストおよびカメオ出演陣が一挙発表された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/_cbOH6RSX8he/_size_r1200x630/_v_1790337089/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T01:00:00.000Z",
+            "date_published": "2026-09-26T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "松岡茉優×仲里依紗「ダウンタイム」物語を彩るキャスト＆カメオ出演陣が発表",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157072",
+            "content_html": "特撮ドラマ「ウルトラマンテオ」（テレビ東京系・毎週土曜午前9時～）の10月放送エピソードが発表され、吸血星獣ギマイラや破壊暴竜デスドラゴといった登場怪獣やゲストキャストが明らかになった。",
+            "url": "https://www.cinematoday.jp/news/N0157072",
+            "title": "「ウルトラマンテオ」10月放送エピソード発表　田島令子がゲスト出演、ギマイラ＆デスドラゴら襲来 | シネマトゥデイ",
+            "summary": "特撮ドラマ「ウルトラマンテオ」（テレビ東京系・毎週土曜午前9時～）の10月放送エピソードが発表され、吸血星獣ギマイラや破壊暴竜デスドラゴといった登場怪獣やゲストキャストが明らかになった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/imB8zMCAV7lX/_size_r1200x630/_v_1790327968/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T01:00:00.000Z",
+            "date_published": "2026-09-26T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「ウルトラマンテオ」10月放送エピソード発表　田島令子がゲスト出演、ギマイラ＆デスドラゴら襲来",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157059",
+            "content_html": "綾瀬はるかが主演を務め、10月2日に全国公開される映画『ファーストボイス』より、キャスト陣が作品へ真摯に向き合う姿や現場の団結力を捉えたメイキングカットが9点公開された。",
+            "url": "https://www.cinematoday.jp/news/N0157059",
+            "title": "綾瀬はるか思わずにっこり！『ファーストボイス』メイキングカット一挙公開 | シネマトゥデイ",
+            "summary": "綾瀬はるかが主演を務め、10月2日に全国公開される映画『ファーストボイス』より、キャスト陣が作品へ真摯に向き合う姿や現場の団結力を捉えたメイキングカットが9点公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/-eDQd56hria9/_size_r1200x630/_v_1790310238/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T01:00:00.000Z",
+            "date_published": "2026-09-26T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "綾瀬はるか思わずにっこり！『ファーストボイス』メイキングカット一挙公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157061",
+            "content_html": "現在放送中の特撮ドラマ「仮面ライダーマイス」（テレビ朝日系・毎週日曜朝9時～）のオリジナルアクションステージ「妖怪VS仮面ライダーマイス」が、京都・太秦映画村にて10月31日から11月29日までの期間限定で開催されることが決定した。",
+            "url": "https://www.cinematoday.jp/news/N0157061",
+            "title": "「妖怪VS仮面ライダーマイス」太秦映画村で開催決定！リニューアル後初の本格ステージ | シネマトゥデイ",
+            "summary": "現在放送中の特撮ドラマ「仮面ライダーマイス」（テレビ朝日系・毎週日曜朝9時～）のオリジナルアクションステージ「妖怪VS仮面ライダーマイス」が、京都・太秦映画村にて10月31日から11月29日までの期間限定で開催されることが決定した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/lZQyCYiiMV8L/_size_r1200x630/_v_1790310384/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T00:30:00.000Z",
+            "date_published": "2026-09-26T00:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「妖怪VS仮面ライダーマイス」太秦映画村で開催決定！リニューアル後初の本格ステージ",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157074",
+            "content_html": "日曜劇場「VIVANT」第2シーズン（TBS系・毎週日曜よる9時～）の撮影現場に約1年間帯同し、撮影現場の舞台裏をカメラに収めてきたTBSスパークルのディレクター・山本伸。",
+            "url": "https://www.cinematoday.jp/news/N0157074",
+            "title": "「VIVANT」話題の「V_Log」誕生秘話　ディレクターが約1年密着した舞台裏「挑戦の記録を残したい」 | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」第2シーズン（TBS系・毎週日曜よる9時～）の撮影現場に約1年間帯同し、撮影現場の舞台裏をカメラに収めてきたTBSスパークルのディレクター・山本伸。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/e9-SQ0x1L3v1/_size_r1200x630/_v_1790331497/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T00:00:00.000Z",
+            "date_published": "2026-09-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「VIVANT」話題の「V_Log」誕生秘話　ディレクターが約1年密着した舞台裏「挑戦の記録を残したい」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157062",
+            "content_html": "仮面ライダー、PROJECT R.E.D.、スーパー戦隊シリーズの楽曲を歌う歴代アーティストが集う特撮音楽の祭典「超英雄祭」が、「超英雄祭 ALL HEROES LIVE &amp;amp; SHOW 2027」として2027年1月20日（水）と21日（木）の2日間、横浜アリーナにて開催されることが決定した。",
+            "url": "https://www.cinematoday.jp/news/N0157062",
+            "title": "仮面ライダー×PROJECT R.E.D.×スーパー戦隊「超英雄祭2027」開催決定！「エグゼイド10th」三浦大知が9年ぶり参戦 | シネマトゥデイ",
+            "summary": "仮面ライダー、PROJECT R.E.D.、スーパー戦隊シリーズの楽曲を歌う歴代アーティストが集う特撮音楽の祭典「超英雄祭」が、「超英雄祭 ALL HEROES LIVE &amp;amp; SHOW 2027」として2027年1月20日（水）と21日（木）の2日間、横浜アリーナにて開催されることが決定した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/rS1IOB2z9fXV/_size_r1200x630/_v_1790312523/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T00:00:00.000Z",
+            "date_published": "2026-09-26T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "仮面ライダー×PROJECT R.E.D.×スーパー戦隊「超英雄祭2027」開催決定！「エグゼイド10th」三浦大知が9年ぶり参戦",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157065",
+            "content_html": "働かずに暮らす厳格な父と、娘を「珠さま」と呼んで慈しむ継母──。石橋静河主演の連続テレビ小説「ブラッサム」（NHK総合・月～土曜午前8時～ほか ※土曜は1週間の振り返り）が、9月28日にスタート。",
+            "url": "https://www.cinematoday.jp/news/N0157065",
+            "title": "朝ドラ「ブラッサム」第1週 働かない父（渡部篤郎）と娘を慈しむ継母（国仲涼子）【あらすじ】 | シネマトゥデイ",
+            "summary": "働かずに暮らす厳格な父と、娘を「珠さま」と呼んで慈しむ継母──。石橋静河主演の連続テレビ小説「ブラッサム」（NHK総合・月～土曜午前8時～ほか ※土曜は1週間の振り返り）が、9月28日にスタート。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/9LABfQpPXmEa/_size_r1200x630/_v_1790317083/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T23:15:00.000Z",
+            "date_published": "2026-09-25T23:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "朝ドラ「ブラッサム」第1週 働かない父（渡部篤郎）と娘を慈しむ継母（国仲涼子）【あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156971",
+            "content_html": "ホラーの巨匠・清水崇監督が完全新作として手掛けた映画『八つ墓村』で、狂気に満ちた重要人物・田治見要蔵という難役と田治見久弥の二役に挑んだ滝藤賢一。",
+            "url": "https://www.cinematoday.jp/news/N0156971",
+            "title": "山崎努の“要蔵像”に尻込みも…滝藤賢一、清水崇版『八つ墓村』田治見要蔵を引き受けた覚悟 | シネマトゥデイ",
+            "summary": "ホラーの巨匠・清水崇監督が完全新作として手掛けた映画『八つ墓村』で、狂気に満ちた重要人物・田治見要蔵という難役と田治見久弥の二役に挑んだ滝藤賢一。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/DHMo7Rrb9Qfs/_size_r1200x630/_v_1790338084/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T23:00:00.000Z",
+            "date_published": "2026-09-25T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "山崎努の“要蔵像”に尻込みも…滝藤賢一、清水崇版『八つ墓村』田治見要蔵を引き受けた覚悟",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157016",
+            "content_html": "織田裕二が演じる刑事・青島俊作が14年ぶりに帰ってきた映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（全国公開中）で、青島と同期の捜査第一課長・北丘雲斗（きたおか・いくと）を演じた佐々木蔵之介。",
+            "url": "https://www.cinematoday.jp/news/N0157016",
+            "title": "『踊る大捜査線』佐々木蔵之介、23年前から“大出世”　同期だからこそ生み出せた青島＆北丘の会話シーン | シネマトゥデイ",
+            "summary": "織田裕二が演じる刑事・青島俊作が14年ぶりに帰ってきた映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（全国公開中）で、青島と同期の捜査第一課長・北丘雲斗（きたおか・いくと）を演じた佐々木蔵之介。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/e5-tq4N2KkuQ/_size_r1200x630/_v_1790346536/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T22:10:00.000Z",
+            "date_published": "2026-09-25T22:10:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『踊る大捜査線』佐々木蔵之介、23年前から“大出世”　同期だからこそ生み出せた青島＆北丘の会話シーン",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156244",
+            "content_html": "小説家で随筆家の宇野千代をモデルにした連続テレビ小説「ブラッサム」（NHK総合・月～土、午前8時～ほか）で、主人公・葉野珠（はの・たま）を演じる女優・石橋静河。",
+            "url": "https://www.cinematoday.jp/news/N0156244",
+            "title": "「ブラッサム」石橋静河、何度も救われた宇野千代の言葉　「壊れては立ち上がる」主人公に自身重ねる | シネマトゥデイ",
+            "summary": "小説家で随筆家の宇野千代をモデルにした連続テレビ小説「ブラッサム」（NHK総合・月～土、午前8時～ほか）で、主人公・葉野珠（はの・たま）を演じる女優・石橋静河。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/PQVADwqb5XtS/_size_r1200x630/_v_1790323058/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T22:00:00.000Z",
+            "date_published": "2026-09-25T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「ブラッサム」石橋静河、何度も救われた宇野千代の言葉　「壊れては立ち上がる」主人公に自身重ねる",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00682/082800107/",
+            "content_html": "",
+            "url": "https://business.nikkei.com/atcl/gen/19/00682/082800107/",
+            "title": "［2026年9月26日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00682/082800107/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T15:00:00.000Z",
+            "date_published": "2026-09-25T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［2026年9月26日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157068",
+            "content_html": "Netflixが、テレビアニメ「名探偵コナン」放送30周年記念作品「名探偵コナン 30号殺人事件」を本日25日の金曜ロードショーでの放送終了後に独占配信開始した。",
+            "url": "https://www.cinematoday.jp/news/N0157068",
+            "title": "「名探偵コナン 30号殺人事件」Netflixで独占配信開始！ | シネマトゥデイ",
+            "summary": "Netflixが、テレビアニメ「名探偵コナン」放送30周年記念作品「名探偵コナン 30号殺人事件」を本日25日の金曜ロードショーでの放送終了後に独占配信開始した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/hUSVm8e6I5GO/_size_r1200x630/_v_1790322963/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T13:55:00.000Z",
+            "date_published": "2026-09-25T13:55:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「名探偵コナン 30号殺人事件」Netflixで独占配信開始！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+            "content_html": " 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+            "title": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 | 窓の杜",
+            "summary": " 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/487/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T12:10:34.000Z",
+            "date_published": "2026-09-25T12:10:34.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 104,
+                "originalTitle": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ104件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0156989",
+            "content_html": "俳優の坂東龍汰と岡山天音が26日、TOHOシネマズ日比谷で行われたアニメーション映画『我々は宇宙人』の初日舞台あいさつに、山崎天（櫻坂46）、松井ケムリ（令和ロマン）、門脇康平監督、サプライズゲストとして子役キャストの槙木悠人、中込佑玖、鈴木咲、末永陽と共に登壇。",
+            "url": "https://www.cinematoday.jp/news/N0156989",
+            "title": "坂東龍汰＆岡山天音『我々は宇宙人』周囲からの反響に驚き　感想の「熱量が高い」 | シネマトゥデイ",
+            "summary": "俳優の坂東龍汰と岡山天音が26日、TOHOシネマズ日比谷で行われたアニメーション映画『我々は宇宙人』の初日舞台あいさつに、山崎天（櫻坂46）、松井ケムリ（令和ロマン）、門脇康平監督、サプライズゲストとして子役キャストの槙木悠人、中込佑玖、鈴木咲、末永陽と共に登壇。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/U_JSk3KAdQ7u/_size_r1200x630/_v_1790336506/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T11:41:46.000Z",
+            "date_published": "2026-09-25T11:41:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "坂東龍汰＆岡山天音『我々は宇宙人』周囲からの反響に驚き　感想の「熱量が高い」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/25/200000",
+            "content_html": "こんにちは、SmartHRでQAエンジニアをしている山下です。 普段はフロントシステムエリアの品質保証を担当しています。 今回は、社内でのAI活用を広げるために発足した「AIやっていき室」の発足の経緯と、最初の一歩として開催した「AIの使い方自慢会」について紹介します。 社内でAI活用を広げたいけれど何から始めればいいか分からない、という人に「SmartHRはこういう取り組みもやっているのか」という気づきを持ち帰ってもらえる記事を目指します。 AIやっていき室の発足の経緯 AIやっていき室の目的は、\"AIの活用を“みんなの当たり前”へ\" です。 AIの進化によりプロダクトづくりのあり方が根本か…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/25/200000",
+            "title": "「AIの活用をみんなの当たり前へ」を目指し「AIやっていき室」を発足しました | SmartHR Tech Blog",
+            "summary": "こんにちは、SmartHRでQAエンジニアをしている山下です。 普段はフロントシステムエリアの品質保証を担当しています。 今回は、社内でのAI活用を広げるために発足した「AIやっていき室」の発足の経緯と、最初の一歩として開催した「AIの使い方自慢会」について紹介します。 社内でAI活用を広げたいけれど何から始めればいいか分からない、という人に「SmartHRはこういう取り組みもやっているのか」とい",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/3088ad8fd1a3a46d15c8547ed8aaf03b342fb9b0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260925%2F20260925200014.png",
+                "alt": "「AIの活用をみんなの当たり前へ」を目指し「AIやっていき室」を発足しました - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T11:00:00.000Z",
+            "date_published": "2026-09-25T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「AIの活用をみんなの当たり前へ」を目指し「AIやっていき室」を発足しました",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157073",
+            "content_html": "NHK Eテレの「TAROMAN 岡本太郎式特撮活劇」や、劇場版『大長編 タローマン 万博大爆発』を手掛けた映像作家・藤井亮監督の映画監督・脚本2作目の完全新作映画（タイトル未定）の制作が決定した。",
+            "url": "https://www.cinematoday.jp/news/N0157073",
+            "title": "『タローマン』藤井亮監督の新作映画制作決定 キタンクラブと挑む“怪奇オモチャ映画” | シネマトゥデイ",
+            "summary": "NHK Eテレの「TAROMAN 岡本太郎式特撮活劇」や、劇場版『大長編 タローマン 万博大爆発』を手掛けた映像作家・藤井亮監督の映画監督・脚本2作目の完全新作映画（タイトル未定）の制作が決定した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Gr1sxUhx6OWQ/_size_r1200x630/_v_1790328312/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T11:00:00.000Z",
+            "date_published": "2026-09-25T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『タローマン』藤井亮監督の新作映画制作決定 キタンクラブと挑む“怪奇オモチャ映画”",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157060",
+            "content_html": "日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）のサイドストーリー「チンギスーVIVANT THE ORIGIN STORYー」Episode3（27日よる9時～U-NEXT独占配信）に、若きノゴーン・ベキ役の林遣都と、若きバトラカ役の今井柊斗が出演することが明らかになった。",
+            "url": "https://www.cinematoday.jp/news/N0157060",
+            "title": "「VIVANT」林遣都が若きノゴーン・ベキ再演　配信ドラマで少年期チンギスと対面「何度も心を動かされた」 | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）のサイドストーリー「チンギスーVIVANT THE ORIGIN STORYー」Episode3（27日よる9時～U-NEXT独占配信）に、若きノゴーン・ベキ役の林遣都と、若きバトラカ役の今井柊斗が出演することが明らかになった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/fbqsqL0TLUB-/_size_r1200x630/_v_1790308384/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T10:00:00.000Z",
+            "date_published": "2026-09-25T10:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「VIVANT」林遣都が若きノゴーン・ベキ再演　配信ドラマで少年期チンギスと対面「何度も心を動かされた」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143433.html",
+            "content_html": " The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143433.html",
+            "title": "「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を | 窓の杜",
+            "summary": " The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/433/apachetomcat.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T09:31:00.000Z",
+            "date_published": "2026-09-25T09:31:00.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2143355.html",
+            "content_html": " NPUを使った画像生成は、先日もWindows AI APIで呼び出せる機能を紹介しているが、今回は「HK NPU STUDIO」という別のソフトを紹介する。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2143355.html",
+            "title": "NPUで「Stable Diffusion 3.5」の画像生成ができる「HK NPU STUDIO」 | 窓の杜",
+            "summary": " NPUを使った画像生成は、先日もWindows AI APIで呼び出せる機能を紹介しているが、今回は「HK NPU STUDIO」という別のソフトを紹介する。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/355/13.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T08:33:00.000Z",
+            "date_published": "2026-09-25T08:33:00.000Z",
+            "author": {
+                "name": "石田 賀津男"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "NPUで「Stable Diffusion 3.5」の画像生成ができる「HK NPU STUDIO」",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159370",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Serving Rub",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_25/159370",
+            "title": "Ruby: Caddy をリバースプロキシにしてRubyアプリを運用する（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Serving Rub",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/ruby_serving_with_caddy_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T08:30:24.000Z",
+            "date_published": "2026-09-25T08:30:24.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Caddy",
+                "Falcon",
+                "Puma",
+                "Ruby",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Ruby: Caddy をリバースプロキシにしてRubyアプリを運用する（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157070",
+            "content_html": "テレビ映画『ディセンダント』シリーズのマル役などで知られる女優のダヴ・キャメロン（30）が、交際3年になるイタリアのロックバンド・マネスキンのボーカルであるダミアーノ・ダヴィド（27）と結婚した。",
+            "url": "https://www.cinematoday.jp/news/N0157070",
+            "title": "『ディセンダント』女優が結婚！イタリアで美しい挙式 | シネマトゥデイ",
+            "summary": "テレビ映画『ディセンダント』シリーズのマル役などで知られる女優のダヴ・キャメロン（30）が、交際3年になるイタリアのロックバンド・マネスキンのボーカルであるダミアーノ・ダヴィド（27）と結婚した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/M2YdIlvf8rvj/_size_r1200x630/_v_1790324847/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:27:27.000Z",
+            "date_published": "2026-09-25T08:27:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『ディセンダント』女優が結婚！イタリアで美しい挙式",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157038",
+            "content_html": "文豪・菊池寛による不朽の名作小説「恩讐の彼方に」が映画化されることが決定し、永山瑛太が主演を務め、大森立嗣監督がメガホンを 取ることが発表された。",
+            "url": "https://www.cinematoday.jp/news/N0157038",
+            "title": "永山瑛太×大森立嗣監督「恩讐の彼方に」映画化決定！初ビジュアル公開 | シネマトゥデイ",
+            "summary": "文豪・菊池寛による不朽の名作小説「恩讐の彼方に」が映画化されることが決定し、永山瑛太が主演を務め、大森立嗣監督がメガホンを 取ることが発表された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/h54avbGSu7uc/_size_r1200x630/_v_1790219056/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "永山瑛太×大森立嗣監督「恩讐の彼方に」映画化決定！初ビジュアル公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/datastream-staleness-limit",
+            "content_html": "データシステム部データ基盤ブロックの小泉です。データ基盤ブロックでは、社内のさまざまな業務領域のリレーショナルデータベースを、DatastreamでBigQueryへリアルタイム連携しています。この基盤は各部門が分析やダッシュボード等で活用しており、私たちが横断的に管理しています。多くのチームが参照する基盤はクエリ費用がかさみやすく、かつ各テーブルの更新頻度を利用者側で一元的に把握することも難しいという課題がありました。 本記事では、staleness limit（データの更新頻度）の見直しによるクエリ費用削減の取り組みを紹介します。あわせて、その設定を一度きりで終わらせず、CI/CDによる自…",
+            "url": "https://techblog.zozo.com/entry/datastream-staleness-limit",
+            "title": "DatastreamのBigQueryコストを92%削減できた取り組み | ZOZO TECH BLOG",
+            "summary": "データシステム部データ基盤ブロックの小泉です。データ基盤ブロックでは、社内のさまざまな業務領域のリレーショナルデータベースを、DatastreamでBigQueryへリアルタイム連携しています。この基盤は各部門が分析やダッシュボード等で活用しており、私たちが横断的に管理しています。多くのチームが参照する基盤はクエリ費用がかさみやすく、かつ各テーブルの更新頻度を利用者側で一元的に把握することも難しい",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0e17cdd322d1610b77ff6420973b4189c2cb9f9a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260924%2F20260924134347.png",
+                "alt": "DatastreamのBigQueryコストを92%削減できた取り組み - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "DatastreamのBigQueryコストを92%削減できた取り組み",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00122/00299/",
+            "content_html": "9月28日の週は、日米でマーケットの材料になるメジャーな経済指標が相次いで発表される。日銀短観では景況感に対する製造業のマインドがさらに好転している可能性が高い。一方で物価高への警戒は引き続き強い状態が続きそうで、日銀は今後の追加利上げを慎重に見極めることになる。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00122/00299/",
+            "title": "日銀短観、製造業DIがさらに改善へ　企業の物価見通しは高止まり継続か (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事",
+            "summary": "9月28日の週は、日米でマーケットの材料になるメジャーな経済指標が相次いで発表される。日銀短観では景況感に対する製造業のマインドがさらに好転している可能性が高い。一方で物価高への警戒は引き続き強い状態が続きそうで、日銀は今後の追加利上げを慎重に見極めることになる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00122/00299/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日銀短観、製造業DIがさらに改善へ　企業の物価見通しは高止まり継続か (上野泰也の先読みマーケット)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00636/092400119/",
+            "content_html": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだせるかが問われている。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00636/092400119/",
+            "title": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から) | 日経ビジネス電子版　最新記事",
+            "summary": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだせるかが問われている。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00636/092400119/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00928/092400006/",
+            "content_html": "人工知能（AI）を駆使することで従業員を雇わずに事業展開する起業家「AIソロプレナー」。そんな新時代の働き方に挑戦しているのが、元LINEヤフー会長の川邊健太郎氏だ。組織運営をAIに任せ、自らは全国行脚しながら事業テーマを探す中で見えてきたものがあるという。「AI駆動型」で経営するリアルを語り尽くす。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00928/092400006/",
+            "title": "元LINEヤフー会長・川邊健太郎氏がソロ起業で挑む「AIで動く会社」のリアル (AI駆動型リーダー) | 日経ビジネス電子版　最新記事",
+            "summary": "人工知能（AI）を駆使することで従業員を雇わずに事業展開する起業家「AIソロプレナー」。そんな新時代の働き方に挑戦しているのが、元LINEヤフー会長の川邊健太郎氏だ。組織運営をAIに任せ、自らは全国行脚しながら事業テーマを探す中で見えてきたものがあるという。「AI駆動型」で経営するリアルを語り尽くす。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00928/092400006/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "元LINEヤフー会長・川邊健太郎氏がソロ起業で挑む「AIで動く会社」のリアル (AI駆動型リーダー)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/091800003/",
+            "content_html": "4月2日、午前9時20分。東邦商事の統治・倫理改革室、通称フェアネス室がある別館には、本館とは違う時間が流れている。別館5階の窓ガラスには薄くほこりが積もり、隣のビルの壁面で跳ね返った朝の光が、鈍く室内へ落ちていた。高梨咲は、その薄暗い部屋で森村透子の横顔を見ていた。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/091800003/",
+            "title": "［連載小説3］森村透子が問う「内部通報制度が機能不全に陥った企業の末路」 (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "4月2日、午前9時20分。東邦商事の統治・倫理改革室、通称フェアネス室がある別館には、本館とは違う時間が流れている。別館5階の窓ガラスには薄くほこりが積もり、隣のビルの壁面で跳ね返った朝の光が、鈍く室内へ落ちていた。高梨咲は、その薄暗い部屋で森村透子の横顔を見ていた。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/091800003/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［連載小説3］森村透子が問う「内部通報制度が機能不全に陥った企業の末路」 (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157067",
+            "content_html": "ゴジラシリーズ最新作『ゴジラ-0.0』（11月3日全国公開）で主演を務める神木隆之介が、現地時間24日（日本時間25日）、米ロサンゼルスの「ユニクロフィールド・アット・ドジャースタジアム」で行われたロサンゼルス・ドジャースとのコラボレーション試合「Godzilla Minus Zero Night（『ゴジラ-0.0』ナイト）」に出席し、始球式を務めた。",
+            "url": "https://www.cinematoday.jp/news/N0157067",
+            "title": "神木隆之介、ドジャース戦『ゴジラ-0.0』ナイトで始球式　山本由伸にノーバン投球「一生の思い出です」 | シネマトゥデイ",
+            "summary": "ゴジラシリーズ最新作『ゴジラ-0.0』（11月3日全国公開）で主演を務める神木隆之介が、現地時間24日（日本時間25日）、米ロサンゼルスの「ユニクロフィールド・アット・ドジャースタジアム」で行われたロサンゼルス・ドジャースとのコラボレーション試合「Godzilla Minus Zero Night（『ゴジラ-0.0』ナイト）」に出席し、始球式を務めた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/k7p-kvBXQm12/_size_r1200x630/_v_1790321464/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T07:31:04.000Z",
+            "date_published": "2026-09-25T07:31:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "神木隆之介、ドジャース戦『ゴジラ-0.0』ナイトで始球式　山本由伸にノーバン投球「一生の思い出です」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143146.html",
+            "content_html": " 米Microsoftは9月24日（現地時間）、デスクトップ向け「Microsoft Edge」v154.0.4258.37を安定（Stable）チャネルでリリースした。「Edge 153」に続く2週間ごとのメジャーアップデートとなる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143146.html",
+            "title": "「Microsoft Edge 154」が公開、プロファイルの新規作成プロセスなどが改善／「Chromium」のセキュリティ修正も反映 | 窓の杜",
+            "summary": " 米Microsoftは9月24日（現地時間）、デスクトップ向け「Microsoft Edge」v154.0.4258.37を安定（Stable）チャネルでリリースした。「Edge 153」に続く2週間ごとのメジャーアップデートとなる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/146/microsoft_edge.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T07:08:00.000Z",
+            "date_published": "2026-09-25T07:08:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「Microsoft Edge 154」が公開、プロファイルの新規作成プロセスなどが改善／「Chromium」のセキュリティ修正も反映",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143270.html",
+            "content_html": " 米Microsoftは9月24日（現地時間）、OSへのサインイン後に画面が真っ黒になり、デスクトップが読み込まれない不具合がWindows 11環境で発生していることを明らかにした。2026年8月27日に公開されたプレビュー更新プログラムおよびそれ以降を適用した以下のプラットフォームで発生しているという。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143270.html",
+            "title": "一部のWindows 11環境でサインイン後に画面が真っ黒に ～8月のプレビューパッチが原因／Microsoftが回避策を案内、今後の更新プログラムで解決へ | 窓の杜",
+            "summary": " 米Microsoftは9月24日（現地時間）、OSへのサインイン後に画面が真っ黒になり、デスクトップが読み込まれない不具合がWindows 11環境で発生していることを明らかにした。2026年8月27日に公開されたプレビュー更新プログラムおよびそれ以降を適用した以下のプラットフォームで発生しているという。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/270/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T06:36:00.000Z",
+            "date_published": "2026-09-25T06:36:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "一部のWindows 11環境でサインイン後に画面が真っ黒に ～8月のプレビューパッチが原因／Microsoftが回避策を案内、今後の更新プログラムで解決へ",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157063",
+            "content_html": "人気ホラー映画『ソウ』シリーズ通算11作目となる新作の監督に、『V/H/S 85』『クライモリ』などのマイク・P・ネルソンが決まった。Deadlineなどが報じた。",
+            "url": "https://www.cinematoday.jp/news/N0157063",
+            "title": "『ソウ』11作目の監督が決定！ | シネマトゥデイ",
+            "summary": "人気ホラー映画『ソウ』シリーズ通算11作目となる新作の監督に、『V/H/S 85』『クライモリ』などのマイク・P・ネルソンが決まった。Deadlineなどが報じた。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/QzsXW7x8K1j8/_size_r1200x630/_v_1790314366/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T05:32:46.000Z",
+            "date_published": "2026-09-25T05:32:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『ソウ』11作目の監督が決定！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157057",
+            "content_html": "トム・クルーズがアレハンドロ・G・イニャリトゥ監督とタッグを組む映画『DIGGER／ディガー』（10月9日全国公開）のワールドプレミアが現地時間、イギリス・ロンドンのレスター・スクエアで開催され、トムをはじめとする豪華キャスト陣とイニャリトゥ監督がレッドカーペットに集結した。",
+            "url": "https://www.cinematoday.jp/news/N0157057",
+            "title": "トム・クルーズ主演『DIGGER／ディガー』英王室も駆けつけワールドツアー開幕 | シネマトゥデイ",
+            "summary": "トム・クルーズがアレハンドロ・G・イニャリトゥ監督とタッグを組む映画『DIGGER／ディガー』（10月9日全国公開）のワールドプレミアが現地時間、イギリス・ロンドンのレスター・スクエアで開催され、トムをはじめとする豪華キャスト陣とイニャリトゥ監督がレッドカーペットに集結した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/IEW0NkAOgqKO/_size_r1200x630/_v_1790301515/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T03:00:00.000Z",
+            "date_published": "2026-09-25T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "トム・クルーズ主演『DIGGER／ディガー』英王室も駆けつけワールドツアー開幕",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157056",
+            "content_html": "マーベル映画『マダム・ウェブ』や『フィフティ・シェイズ・オブ・グレイ』シリーズで知られる女優のダコタ・ジョンソン（36）が、新作『ヴェリティ／真実』のロンドンで行われた上映会のレッドカーペットを大胆なネイキッドドレス姿で闊歩した。",
+            "url": "https://www.cinematoday.jp/news/N0157056",
+            "title": "ダコタ・ジョンソン、透けてるドレスでレッドカーペットに | シネマトゥデイ",
+            "summary": "マーベル映画『マダム・ウェブ』や『フィフティ・シェイズ・オブ・グレイ』シリーズで知られる女優のダコタ・ジョンソン（36）が、新作『ヴェリティ／真実』のロンドンで行われた上映会のレッドカーペットを大胆なネイキッドドレス姿で闊歩した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/0YFh8_VwZikG/_size_r1200x630/_v_1790304985/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T02:56:25.000Z",
+            "date_published": "2026-09-25T02:56:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ダコタ・ジョンソン、透けてるドレスでレッドカーペットに",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/4477dd49091031",
+            "content_html": "AI・IT基盤チームの渡辺です。私たちのチームは情シス業務も兼任しているのですが、担当者はいつもあっぷあっぷしています。少しでも負担を減らそうと作ったのが、Slackで依頼の一次受付をするBot、通称「あざらし」です。本記事ではこちらのBotの開発と運用をするにあたり、上手くいったポイントをご紹介できればと思います。実際の依頼内容なので、黒塗りされていて分かりづらいですが、画像のように曖昧な依頼からでも、Slackからユーザの依頼を受け付け、ヒアリングを行うBotとなります。 ユーザヒアリングが重い当初の目的は、「情シスの業務を自動化できるといいよね」というものでした。アカウ...",
+            "url": "https://zenn.dev/mkj/articles/4477dd49091031",
+            "title": "情シス依頼の一次受付をAI Agentに任せるっきゅ！ | 松尾研究所テックブログのフィード",
+            "summary": "AI・IT基盤チームの渡辺です。私たちのチームは情シス業務も兼任しているのですが、担当者はいつもあっぷあっぷしています。少しでも負担を減らそうと作ったのが、Slackで依頼の一次受付をするBot、通称「あざらし」です。本記事ではこちらのBotの開発と運用をするにあたり、上手くいったポイントをご紹介できればと思います。実際の依頼内容なので、黒塗りされていて分かりづらいですが、画像のように曖昧な依頼か",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--JhsndNCe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2583%2585%25E3%2582%25B7%25E3%2582%25B9%25E4%25BE%259D%25E9%25A0%25BC%25E3%2581%25AE%25E4%25B8%2580%25E6%25AC%25A1%25E5%258F%2597%25E4%25BB%2598%25E3%2582%2592AI%2520Agent%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%258B%25E3%2581%25A3%25E3%2581%258D%25E3%2582%2585%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:rw21%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxZTdmNTNlNmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T02:50:05.000Z",
+            "date_published": "2026-09-25T02:50:05.000Z",
+            "author": {
+                "name": "rw21"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "情シス依頼の一次受付をAI Agentに任せるっきゅ！",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157055",
+            "content_html": "幾度となく映像化されてきた物語「スリーピー・ホロウ」を現代的な視点で生まれ変わらせる新作映画『ホロウ（原題） / Hollow』に、主演のシドニー・スウィーニーに加え、ドラマ「オフキャンパス」のベルモント・カメリの出演が決まった。",
+            "url": "https://www.cinematoday.jp/news/N0157055",
+            "title": "「スリーピー・ホロウ」再映画化のキャスト判明　超自然エロティックスリラーに | シネマトゥデイ",
+            "summary": "幾度となく映像化されてきた物語「スリーピー・ホロウ」を現代的な視点で生まれ変わらせる新作映画『ホロウ（原題） / Hollow』に、主演のシドニー・スウィーニーに加え、ドラマ「オフキャンパス」のベルモント・カメリの出演が決まった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/PWW-eAY2NMti/_size_r1200x630/_v_1790302418/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T02:13:38.000Z",
+            "date_published": "2026-09-25T02:13:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「スリーピー・ホロウ」再映画化のキャスト判明　超自然エロティックスリラーに",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/devin-cross-repo-impact-analysis",
+            "content_html": "はじめに こんにちは、ZOZOTOWNのカート・決済・注文作成を担うバックエンドエンジニアの斉藤です。普段は開発に加えて、チームのマネジメントを担当しています。 影響調査そのものは、どのチームでも日常的に発生します。私たちの場合に問題だったのは、待たせる相手がいることでした。何か手を入れようとするたびに、影響範囲の洗い出し・実現可能性の判断・概算見積もりが必要です。これに毎回まとまった時間がかかります。その間、問い合わせ元である他部門は次に進めません。私たちの調査速度が、そのまま他部門の意思決定の速さを決めていました。 本記事で紹介するのは、この一次調査をAIエージェントのDevinに一次請け…",
+            "url": "https://techblog.zozo.com/entry/devin-cross-repo-impact-analysis",
+            "title": "AIエージェントに影響調査と概算見積もりの一次請けを任せる ── 精度ではなく「見落とし」を潰す | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOTOWNのカート・決済・注文作成を担うバックエンドエンジニアの斉藤です。普段は開発に加えて、チームのマネジメントを担当しています。 影響調査そのものは、どのチームでも日常的に発生します。私たちの場合に問題だったのは、待たせる相手がいることでした。何か手を入れようとするたびに、影響範囲の洗い出し・実現可能性の判断・概算見積もりが必要です。これに毎回まとまった時間がかかり",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/79aa43cb7715a41d266bcdf1bbce3a4631d307c0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918135343.png",
+                "alt": "AIエージェントに影響調査と概算見積もりの一次請けを任せる ── 精度ではなく「見落とし」を潰す - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T02:00:00.000Z",
+            "date_published": "2026-09-25T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "AIエージェントに影響調査と概算見積もりの一次請けを任せる ── 精度ではなく「見落とし」を潰す",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://mackerel.io/ja/blog/entry/weekly/20260925",
+            "content_html": "こんにちは、Mackerel CREチームの高橋(id:yohfee)です。今回のアップデート内容をお知らせいたします。 トレース詳細でウォーターフォールビューを表示できるようになりました ログ一覧の取得 API が利用できるようになりました グローバル検索でホストをホストメタデータでも検索できるようになりました トレース詳細でウォーターフォールビューを表示できるようになりました トレース詳細画面に「ウォーターフォール」ビューを追加し、従来の「フレームグラフ」とタブで簡単に切り替えられるようになりました。 ウォーターフォールビュー 各スパンの開始タイミングや処理時間の重なりが時系列で視覚化され…",
+            "url": "https://mackerel.io/ja/blog/entry/weekly/20260925",
+            "title": "トレース詳細でウォーターフォールビューを表示できるようになりました ほか2件のアップデート | Mackerel ブログ #mackerelio",
+            "summary": "こんにちは、Mackerel CREチームの高橋(id:yohfee)です。今回のアップデート内容をお知らせいたします。 トレース詳細でウォーターフォールビューを表示できるようになりました ログ一覧の取得 API が利用できるようになりました グローバル検索でホストをホストメタデータでも検索できるようになりました トレース詳細でウォーターフォールビューを表示できるようになりました トレース詳細画面",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c63a2bf5cafe0204cb71b462d29a0bfc101b4458/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20260918%2F20260918110834.png",
+                "alt": "トレース詳細でウォーターフォールビューを表示できるようになりました ほか2件のアップデート - Mackerel ブログ #mackerelio",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T01:41:44.000Z",
+            "date_published": "2026-09-25T01:41:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "トレース詳細でウォーターフォールビューを表示できるようになりました ほか2件のアップデート",
+                "blogTitle": "Mackerel ブログ #mackerelio",
+                "blogLink": "https://mackerel.io/ja/blog/",
+                "blogLinkMd5Hash": "6274999a3d0a169575b1c551d2730aae",
+                "favicon": "https://mackerel.io/ja/blog/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Mackerel"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157054",
+            "content_html": "映画『ハリー・ポッター』シリーズでルシウス・マルフォイ役を務めたジェイソン・アイザックスが、息子ドラコ役のトム・フェルトンの39歳の誕生日に、愛にあふれたメッセージを贈った。",
+            "url": "https://www.cinematoday.jp/news/N0157054",
+            "title": "マルフォイ父、“息子”トム・フェルトンの39歳の誕生日に愛があふれる | シネマトゥデイ",
+            "summary": "映画『ハリー・ポッター』シリーズでルシウス・マルフォイ役を務めたジェイソン・アイザックスが、息子ドラコ役のトム・フェルトンの39歳の誕生日に、愛にあふれたメッセージを贈った。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/wB1O0SnEPqym/_size_r1200x630/_v_1790297526/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T00:52:06.000Z",
+            "date_published": "2026-09-25T00:52:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "マルフォイ父、“息子”トム・フェルトンの39歳の誕生日に愛があふれる",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=83781",
+            "content_html": "※本ページは、アフィリエイト広告を利用しています。 デザインで役立つのは、さまざまな引き出し持っておくこと。バナーのデザインに特化されたデザイン書を紹介します。 バナーに特化されたデザイン書は最近増え",
+            "url": "https://coliss.com/articles/book-review/isbn-9784802615587.html",
+            "title": "バナーデザインの引き出しが増える！ 38テーマに634作例、バナーに特化されたデザイン書 -バナーデザイン図鑑630 | コリス",
+            "summary": "※本ページは、アフィリエイト広告を利用しています。 デザインで役立つのは、さまざまな引き出し持っておくこと。バナーのデザインに特化されたデザイン書を紹介します。 バナーに特化されたデザイン書は最近増え",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/9784802615587-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T00:36:08.000Z",
+            "date_published": "2026-09-25T00:36:08.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Book Review",
+                "サイト構築 -デザイン",
+                "ソシム"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "バナーデザインの引き出しが増える！ 38テーマに634作例、バナーに特化されたデザイン書 -バナーデザイン図鑑630",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/go-conference-2026",
+            "content_html": "こんにちは、freee でエージェント開発をしている、新卒入社の朝活大好き mornin です！ 2026/9/11 に東京・中野セントラルパークカンファレンスで開催された Go Conference 2026 に参加してきました。freee はシルバースポンサーとして協賛しました。 Go は入社してから書き始めたのでまだ初心者で、Go Conference も今回が初参加です。分からない話ばかりだったらどうしよう……と思いながら会場に向かいました。 この記事では、そんな自分が特に気になったセッションを2つ紹介します。 Go Conference 2026 に参加した freee のメンバー …",
+            "url": "https://developers.freee.co.jp/entry/go-conference-2026",
+            "title": "Go 初心者の新卒がGo Conference 2026に初参加してきました！ | freee Developers Hub",
+            "summary": "こんにちは、freee でエージェント開発をしている、新卒入社の朝活大好き mornin です！ 2026/9/11 に東京・中野セントラルパークカンファレンスで開催された Go Conference 2026 に参加してきました。freee はシルバースポンサーとして協賛しました。 Go は入社してから書き始めたのでまだ初心者で、Go Conference も今回が初参加です。分からない話ばかり",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/39d3349d3e0643c9968fb5b1140031e65dc800b5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmornin_dev%2F20260921%2F20260921155824.jpg",
+                "alt": "Go 初心者の新卒がGo Conference 2026に初参加してきました！ - freee Developers Hub",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T00:00:00.000Z",
+            "date_published": "2026-09-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Go 初心者の新卒がGo Conference 2026に初参加してきました！",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "freee"
+            }
+        },
+        {
+            "id": "https://nttdocomo-developers.jp/entry/2026/09/25/090000_0",
+            "content_html": "1. はじめに——「納得」と「実装」の間にあった距離 2. 全体像——spec.jsonを起点に、要件からテストまでを一本の線でつなぐ 3. 取り組みの中で工夫した点 3-1. AIに仕様を一発生成させない——抽出・質問・網羅性ゲートでspec.jsonを凍結する 一問一答で仕様を深掘りする coverage=100%まで進めない spec.json / plan.jsonを凍結 3-2. 実装の根拠を会話からファイルへ移す——コンテキスト分離と仕様起点テスト 会話履歴を実装に持ち込まない 1タスクずつ直列実装 仕様起点のTDDを始める RED/GREEN/回帰で自作自演を防ぐ 3-3. Gi…",
+            "url": "https://nttdocomo-developers.jp/entry/2026/09/25/090000_0",
+            "title": "Vibe Codingの罠「Whyの喪失」を防ぐ仕様駆動開発：生成AI時代に仕様をSSoT化するアプローチ | ENGINEERING BLOG ドコモ開発者ブログ",
+            "summary": "1. はじめに——「納得」と「実装」の間にあった距離 2. 全体像——spec.jsonを起点に、要件からテストまでを一本の線でつなぐ 3. 取り組みの中で工夫した点 3-1. AIに仕様を一発生成させない——抽出・質問・網羅性ゲートでspec.jsonを凍結する 一問一答で仕様を深掘りする coverage=100%まで進めない spec.json / plan.jsonを凍結 3-2. 実装の",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/7826a97fd78e61f4f97ce9d9474363e8825bab05/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnttdocomord%2F20260925%2F20260925090022.png",
+                "alt": "Vibe Codingの罠「Whyの喪失」を防ぐ仕様駆動開発：生成AI時代に仕様をSSoT化するアプローチ - ENGINEERING BLOG ドコモ開発者ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T00:00:00.000Z",
+            "date_published": "2026-09-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Vibe Codingの罠「Whyの喪失」を防ぐ仕様駆動開発：生成AI時代に仕様をSSoT化するアプローチ",
+                "blogTitle": "ENGINEERING BLOG ドコモ開発者ブログ",
+                "blogLink": "https://nttdocomo-developers.jp/",
+                "blogLinkMd5Hash": "bec42f7db35950281b5c16ec5742a54f",
+                "favicon": "https://nttdocomo-developers.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "NTT ドコモ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157049",
+            "content_html": "フジテレビは25日、国内最高峰のフォーミュラカーレース「SUPER FORMULA」を題材とする連続ドラマを、2027年4月期に放送すると発表した。",
+            "url": "https://www.cinematoday.jp/news/N0157049",
+            "title": "「SUPER FORMULA」2027年春フジテレビで連続ドラマ化　JRPら全面協力で“最高峰フォーミュラカーレース”描く | シネマトゥデイ",
+            "summary": "フジテレビは25日、国内最高峰のフォーミュラカーレース「SUPER FORMULA」を題材とする連続ドラマを、2027年4月期に放送すると発表した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Kq0eAfpD1Ign/_size_r1200x630/_v_1790244618/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T00:00:00.000Z",
+            "date_published": "2026-09-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「SUPER FORMULA」2027年春フジテレビで連続ドラマ化　JRPら全面協力で“最高峰フォーミュラカーレース”描く",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157046",
+            "content_html": "『Mr.ノーバディ』シリーズなどを手掛ける87ノース・プロダクションズによる、クリスマスバイオレンスアクション映画の続編『バイオレント・ナイト2』が、2026年12月4日より日米同時公開されることが決定し、本予告映像と本ポスタービジュアルが公開された。",
+            "url": "https://www.cinematoday.jp/news/N0157046",
+            "title": "『バイオレント・ナイト2』日米同時公開決定　サンタの妻ミセス・クロース役は「アナ雪」クリステン・ベル | シネマトゥデイ",
+            "summary": "『Mr.ノーバディ』シリーズなどを手掛ける87ノース・プロダクションズによる、クリスマスバイオレンスアクション映画の続編『バイオレント・ナイト2』が、2026年12月4日より日米同時公開されることが決定し、本予告映像と本ポスタービジュアルが公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/kOGFHIWmfVu2/_size_r1200x630/_v_1790238297/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T00:00:00.000Z",
+            "date_published": "2026-09-25T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『バイオレント・ナイト2』日米同時公開決定　サンタの妻ミセス・クロース役は「アナ雪」クリステン・ベル",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157048",
+            "content_html": "推理作家・横溝正史の代表作を、Jホラーの旗手・清水崇監督が新たな解釈で大胆に再構成した映画『八つ墓村』（全国公開中）。",
+            "url": "https://www.cinematoday.jp/news/N0157048",
+            "title": "完全新作『八つ墓村』要蔵の衣装に秘めた意思　清水崇監督が捉えた人物像【ネタバレあり】 | シネマトゥデイ",
+            "summary": "推理作家・横溝正史の代表作を、Jホラーの旗手・清水崇監督が新たな解釈で大胆に再構成した映画『八つ墓村』（全国公開中）。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/qaJR5--zEe72/_size_r1200x630/_v_1790240521/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T23:14:00.000Z",
+            "date_published": "2026-09-24T23:14:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "完全新作『八つ墓村』要蔵の衣装に秘めた意思　清水崇監督が捉えた人物像【ネタバレあり】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66407",
+            "content_html": "目次 はじめに なぜ作ったのか 全体像 ルールとマッチ判定の仕組み 早い者勝ちの優先度 フィルタの種類 OverrideValue による安全な部分上書き プラットフォーム別ルールと MaxSize の Ratio モード SpriteAtlas への対応 Sprite Mesh Type の自動切替 AssetPostprocessor による自動適用 パフォーマンスを意識した設計 Rule Viewer でマッチ結果を確認する おわりに はじめに サムザップの Unity 向けアプリケーション基盤『Spica』では、開発を効率化するためのエディタ拡張をいくつも整備しています。今回はそのひと…",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66407/",
+            "title": "ルールベースで Texture / SpriteAtlas のインポート設定を自動化するエディタ拡張の設計と実装 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "目次 はじめに なぜ作ったのか 全体像 ルールとマッチ判定の仕組み 早い者勝ちの優先度 フィルタの種類 OverrideValue による安全な部分上書き プラットフォーム別ルールと MaxSize の Ratio モード SpriteAtlas への対応 Sprite Mesh Type の自動切替 AssetPostprocessor による自動適用 パフォーマンスを意識した設計 Rule V",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/26006613488487228/14945776032049072789/1789694075",
+                "alt": "ルールベースで Texture / SpriteAtlas のインポート設定を自動化するエディタ拡張の設計と実装 - Sumzap Engineering Blog"
+            },
+            "date_modified": "2026-09-24T23:00:24.000Z",
+            "date_published": "2026-09-24T23:00:24.000Z",
+            "author": {
+                "name": "中北 龍秀"
+            },
+            "tags": [
+                "エンジニア"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ルールベースで Texture / SpriteAtlas のインポート設定を自動化するエディタ拡張の設計と実装",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://tech.sumzap.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157051",
+            "content_html": "松岡茉優主演・仲里依紗共演により美容整形業界の内幕を描くNetflixシリーズ「ダウンタイム」（配信中）。",
+            "url": "https://www.cinematoday.jp/news/N0157051",
+            "title": "「ダウンタイム」美容整形患者役・天野はな、全シーンで特殊メイク！ビフォアアフターの裏側をAmazing JIROが明かす | シネマトゥデイ",
+            "summary": "松岡茉優主演・仲里依紗共演により美容整形業界の内幕を描くNetflixシリーズ「ダウンタイム」（配信中）。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/uf2hFD4xmGOO/_size_r1200x630/_v_1790250272/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T22:15:00.000Z",
+            "date_published": "2026-09-24T22:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「ダウンタイム」美容整形患者役・天野はな、全シーンで特殊メイク！ビフォアアフターの裏側をAmazing JIROが明かす",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/page/A0009826",
+            "content_html": "日本が世界に誇る国際的アクションスター・千葉真一。",
+            "url": "https://www.cinematoday.jp/page/A0009826",
+            "title": "世界がひれ伏した肉体美と技…千葉真一、やっぱりかっこよすぎた！ | シネマトゥデイ",
+            "summary": "日本が世界に誇る国際的アクションスター・千葉真一。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/EKQzrZPf3-5Z/_size_r1200x630/_v_1789113146/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T22:12:00.000Z",
+            "date_published": "2026-09-24T22:12:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "世界がひれ伏した肉体美と技…千葉真一、やっぱりかっこよすぎた！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157052",
+            "content_html": "ブラッド・ピット演じる退役軍人と義足の元偵察犬が荒野でサバイバルを繰り広げる映画『ハート・オブ・ビースト』のデヴィッド・エアー監督がリモートインタビューに応じ、『フューリー』（2014）以来12年ぶりのタッグとなったブラッドと“もう一人の主役”であるジャーマン・シェパードと挑んだ、新ジャンル開拓について語った。",
+            "url": "https://www.cinematoday.jp/news/N0157052",
+            "title": "ブラッド・ピットも号泣…退役軍人＆愛犬のサバイバル『ハート・オブ・ビースト』デヴィッド・エアー監督が挑んだ新境地 | シネマトゥデイ",
+            "summary": "ブラッド・ピット演じる退役軍人と義足の元偵察犬が荒野でサバイバルを繰り広げる映画『ハート・オブ・ビースト』のデヴィッド・エアー監督がリモートインタビューに応じ、『フューリー』（2014）以来12年ぶりのタッグとなったブラッドと“もう一人の主役”であるジャーマン・シェパードと挑んだ、新ジャンル開拓について語った。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/-q9ELGBVgQFh/_size_r1200x630/_v_1790257646/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T22:02:00.000Z",
+            "date_published": "2026-09-24T22:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ブラッド・ピットも号泣…退役軍人＆愛犬のサバイバル『ハート・オブ・ビースト』デヴィッド・エアー監督が挑んだ新境地",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157041",
+            "content_html": "間宮祥太朗が主演を務めるPrime Original ドラマ「神のクイズ」が、12月4日よりPrime Videoにて世界独占配信されることが決定し、あわせてティザービジュアルとキャスト・スタッフコメントが発表された。",
+            "url": "https://www.cinematoday.jp/news/N0157041",
+            "title": "「神のクイズ」間宮祥太朗主演でリブート！12月4日よりPrime Videoで世界独占配信決定 | シネマトゥデイ",
+            "summary": "間宮祥太朗が主演を務めるPrime Original ドラマ「神のクイズ」が、12月4日よりPrime Videoにて世界独占配信されることが決定し、あわせてティザービジュアルとキャスト・スタッフコメントが発表された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/3ixWP8uXmoPU/_size_r1200x630/_v_1790224333/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T21:00:00.000Z",
+            "date_published": "2026-09-24T21:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「神のクイズ」間宮祥太朗主演でリブート！12月4日よりPrime Videoで世界独占配信決定",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/24/175842",
+            "content_html": "はじめまして！SmartHR新卒一期生（2026年4月入社）のnose（のせ）です！現在はプロダクトエンジニアとして、情報システム部門（情シス）向けソリューションの開発をしています。 入社してから、自分のチームの中だけでなく、ビジネスサイド、事業戦略、エンジニア組織など、さまざまな立場の方に1on1や質問会をお願いしてきました。 この記事では、新卒エンジニアの自分が、新卒という立場を活かして、普段なら接点を持ちにくい人に話を聞きに行った「1on1行脚」のことを書きます。 1on1行脚は、最初から明確な目的があったわけではなく、「新卒の今なら聞きに行けるかもしれない」「せっかくなら顔を覚えてもら…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/24/175842",
+            "title": "新卒エンジニアの1on1行脚 —— 立場を越えて話して広がった視座 | SmartHR Tech Blog",
+            "summary": "はじめまして！SmartHR新卒一期生（2026年4月入社）のnose（のせ）です！現在はプロダクトエンジニアとして、情報システム部門（情シス）向けソリューションの開発をしています。 入社してから、自分のチームの中だけでなく、ビジネスサイド、事業戦略、エンジニア組織など、さまざまな立場の方に1on1や質問会をお願いしてきました。 この記事では、新卒エンジニアの自分が、新卒という立場を活かして、普段",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e4828b7645a7b279987963223d10ad77650cb8a5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260924%2F20260924185332.png",
+                "alt": "新卒エンジニアの1on1行脚 —— 立場を越えて話して広がった視座 - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T08:58:42.000Z",
+            "date_published": "2026-09-24T08:58:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "新卒エンジニアの1on1行脚 —— 立場を越えて話して広がった視座",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "はてブ2件",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159792",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_24/159792",
+            "title": "Rubyのテストを改めて考える: アサーションとマッチャー（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/09/ruby_thinking_about_assertions_matcher_eyecatch1-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T08:30:18.000Z",
+            "date_published": "2026-09-24T08:30:18.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "RSpec",
+                "Ruby",
+                "テスト",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "Rubyのテストを改めて考える: アサーションとマッチャー（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ5件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/pde-conf-2026",
+            "content_html": "こんにちは、エンジニアのWaTTsonです。2026年9月5日(土)に開催されたProduct Engineering Conference 2026に参加してきたのでその様子をレポートします。 Product Engineering Conferenceは、個別の言語とか技術にフォーカスしたものではなく、「プロダクトとしての価値」を生み出すエンジニアリングという部分にフォーカスを置いた、他にはあまり見ないコンセプトのカンファレンスでした。freeeとしては、今回はおやつスポンサーとしてチーズタルトを提供しています。 カンファレンス本編はHall A〜Cの3トラック構成で、プロダクトエンジニア…",
+            "url": "https://developers.freee.co.jp/entry/pde-conf-2026",
+            "title": "Product Engineering Conference 2026に参加してきました！ | freee Developers Hub",
+            "summary": "こんにちは、エンジニアのWaTTsonです。2026年9月5日(土)に開催されたProduct Engineering Conference 2026に参加してきたのでその様子をレポートします。 Product Engineering Conferenceは、個別の言語とか技術にフォーカスしたものではなく、「プロダクトとしての価値」を生み出すエンジニアリングという部分にフォーカスを置いた、他にはあ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/ae74c821daaa08be4ef6a20e27c960e3afca57d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffreee-wattson%2F20260918%2F20260918183457.jpg",
+                "alt": "Product Engineering Conference 2026に参加してきました！ - freee Developers Hub",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T08:00:00.000Z",
+            "date_published": "2026-09-24T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Product Engineering Conference 2026に参加してきました！",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "freee"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/argo-events-chatops-arch",
+            "content_html": "はじめに こんにちは、EC基盤開発本部SRE部カート決済SREブロックの金田です。テックリードとして、ZOZOTOWNのカート決済機能のリプレイスや運用を担当しています。 カート決済SREブロックでは、Slackを起点としたChatOpsで運用作業の自動化に取り組んでいます。以前の記事で紹介したAWS Chatbotベースの基盤を約2年運用する中で、アクセス制御とツール追加コストの課題が見えてきました。本記事ではその課題と、Argo Eventsを軸にChatOps基盤を再構築した取り組みを紹介します。",
+            "url": "https://techblog.zozo.com/entry/argo-events-chatops-arch",
+            "title": "AWS ChatbotからArgo Eventsへ ── 認可・承認を備えたSlack ChatOps基盤の再構築 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、EC基盤開発本部SRE部カート決済SREブロックの金田です。テックリードとして、ZOZOTOWNのカート決済機能のリプレイスや運用を担当しています。 カート決済SREブロックでは、Slackを起点としたChatOpsで運用作業の自動化に取り組んでいます。以前の記事で紹介したAWS Chatbotベースの基盤を約2年運用する中で、アクセス制御とツール追加コストの課題が見えてきま",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/defe09366150fc264ce7b68033dc2bc201543c26/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918161322.png",
+                "alt": "AWS ChatbotからArgo Eventsへ ── 認可・承認を備えたSlack ChatOps基盤の再構築 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T08:00:00.000Z",
+            "date_published": "2026-09-24T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS ChatbotからArgo Eventsへ ── 認可・承認を備えたSlack ChatOps基盤の再構築",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/24/165718",
+            "content_html": "こんにちは！SmartHRでエンジニア新卒採用を担当しているikuraです。 SmartHRは今年も 技育プロジェクト に協賛しています。 技育プロジェクトに参加される学生さんの熱意はとても高く、イベントに参加するたびに学生のみなさんから刺激をもらっています。 今回は、技育プロジェクトがどんなプログラムなのか、そしてSmartHRがなぜ協賛しているのかをご紹介します。 技育プロジェクトとは 技育プロジェクトは、株式会社サポーターズが運営する学年不問・参加費無料のエンジニアキャリア育成プログラムです。「技」術者を「育」てる、で技育。 技育プロジェクトは主に以下の4つのイベントで構成されています。…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/24/165718",
+            "title": "SmartHRは「技育プロジェクト」に協賛しています ── 学生エンジニアの挑戦を応援 | SmartHR Tech Blog",
+            "summary": "こんにちは！SmartHRでエンジニア新卒採用を担当しているikuraです。 SmartHRは今年も 技育プロジェクト に協賛しています。 技育プロジェクトに参加される学生さんの熱意はとても高く、イベントに参加するたびに学生のみなさんから刺激をもらっています。 今回は、技育プロジェクトがどんなプログラムなのか、そしてSmartHRがなぜ協賛しているのかをご紹介します。 技育プロジェクトとは 技育プ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/579696e59a2c699e2899ed400a90d785921ae681/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260924%2F20260924165721.png",
+                "alt": "SmartHRは「技育プロジェクト」に協賛しています ── 学生エンジニアの挑戦を応援 - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T07:57:18.000Z",
+            "date_published": "2026-09-24T07:57:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SmartHRは「技育プロジェクト」に協賛しています ── 学生エンジニアの挑戦を応援",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR"
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/new-grad-sessions-freee-tech-day-2026",
+            "content_html": "freee 技術の日 2026のイベントキービジュアル 自己紹介 CTO室 タイガーチーム choku 2026年新卒入社。7月に タイガーチーム へ配属され、最近まで freee顧問先管理 AIエージェント の開発に携わっていました。 2026年新卒入社の同期がfreee「技術の日」に登壇します！ 10月3日（土）に開催される freee「技術の日」には、なんと2026年新卒の同期が2人登壇します！ どちらのセッションも、入社1年目で配属されたばかりのメンバーがAIを使ったプロダクト開発の最前線で試行錯誤してきた話です。見どころを先取りして紹介します！ 「GTMエンジニアって何するの？」新卒…",
+            "url": "https://developers.freee.co.jp/entry/new-grad-sessions-freee-tech-day-2026",
+            "title": "新卒がいきなり登壇！？freee「技術の日」紹介記事 | freee Developers Hub",
+            "summary": "freee 技術の日 2026のイベントキービジュアル 自己紹介 CTO室 タイガーチーム choku 2026年新卒入社。7月に タイガーチーム へ配属され、最近まで freee顧問先管理 AIエージェント の開発に携わっていました。 2026年新卒入社の同期がfreee「技術の日」に登壇します！ 10月3日（土）に開催される freee「技術の日」には、なんと2026年新卒の同期が2人登壇しま",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c6010e6972511f7c41e0ff0180b931322f4c972e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgiftpen%2F20260918%2F20260918152910.png",
+                "alt": "新卒がいきなり登壇！？freee「技術の日」紹介記事 - freee Developers Hub",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T07:00:00.000Z",
+            "date_published": "2026-09-24T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "新卒がいきなり登壇！？freee「技術の日」紹介記事",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "freee"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/24/150000",
+            "content_html": "はじめに こんにちは。Sansan株式会社研究開発部の大竹ひなです。 2026年8月末に「ECCV ワークショップのスポンサー、オーガナイザーとして参加します」という記事で予告した通り、9月8日〜12日にスウェーデン・マルメで開催されたコンピュータビジョン分野のトップ国際会議ECCV 2026（European Conference on Computer Vision）に参加してきました。 学会会場の写真 併設ワークショップFOUND（The 2nd Workshop on Foundation Data for Industrial Tech Transfer）のオーガナイザー、そしてスポ…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/24/150000",
+            "title": "ECCV 2026参加＆ワークショップ開催報告 | Sansan Tech Blog",
+            "summary": "はじめに こんにちは。Sansan株式会社研究開発部の大竹ひなです。 2026年8月末に「ECCV ワークショップのスポンサー、オーガナイザーとして参加します」という記事で予告した通り、9月8日〜12日にスウェーデン・マルメで開催されたコンピュータビジョン分野のトップ国際会議ECCV 2026（European Conference on Computer Vision）に参加してきました。 学会",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032077748265/1790233246",
+                "alt": "ECCV 2026参加＆ワークショップ開催報告 - Sansan Tech Blog"
+            },
+            "date_modified": "2026-09-24T06:00:00.000Z",
+            "date_published": "2026-09-24T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ECCV 2026参加＆ワークショップ開催報告",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://engineerteam.note.jp/n/n6d2e8e7b5935",
+            "content_html": "この記事は、note社で隔週開催している社内LT大会「Multi-week Tech Meetup（MTM）」での発表をもとにした連載シリーズです。 今回はエンジニアのtachibanaさんのLTをお届けします。 shwld｜note   ソフトウェアエンジニア。つくることに関わる全ての人を幸せにしたい。 https://shwld.io/   note.com     今回は、メールのデザインをフロントエンドで管理できるようにする取り組みについて紹介します。Reactのコンポーネントでメールを作成でき、ブラウザ上で確認もできるようになりました。 背景：「HAML」で",
+            "url": "https://engineerteam.note.jp/n/n6d2e8e7b5935",
+            "title": "メールのデザインをフロントエンドで管理できるようにしました | noteエンジニアチーム 公式マガジン",
+            "summary": "この記事は、note社で隔週開催している社内LT大会「Multi-week Tech Meetup（MTM）」での発表をもとにした連載シリーズです。 今回はエンジニアのtachibanaさんのLTをお届けします。 shwld｜note   ソフトウェアエンジニア。つくることに関わる全ての人を幸せにしたい。 https://shwld.io/   note.com     今回は、メールのデザインを",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/316993577/rectangle_large_type_2_fb055d018f72b4fcdfea064d5596efba.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T06:00:00.000Z",
+            "date_published": "2026-09-24T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "メールのデザインをフロントエンドで管理できるようにしました",
+                "blogTitle": "noteエンジニアチーム 公式マガジン",
+                "blogLink": "https://engineerteam.note.jp/m/m70da42dac8cf",
+                "blogLinkMd5Hash": "d6baf6a89d627cfd49dfec3a1ca41655",
+                "favicon": "https://s3-ap-northeast-1.amazonaws.com/poc-image/production/536e40d46cbaeb091a54b1b9978d1f635ae95eaf79471ab47685499c340e.png",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "note"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/agent-native-project-work-with-llm-wiki",
+            "content_html": "松尾研究所でシニアデータサイエンティストをしている大岡です。AI戦国時代と言われるなか、多くのサービスがVertical AIの勝ち筋を探しています。特定の業界や業務で、人間が続けてきた営みを、どうエージェントネイティブに作り直すか。その試行錯誤が始まっています。2026年4月にAndrej Karpathyが、資料や会話の原文はそのまま保管し、LLMがそこから知識を整理・更新し続ける仕組み「LLM Wiki」を公開しました[1]。それから4か月ほど複数のプロジェクトで試して感じたのは、LLM Wikiが、ビジネス職の「プロジェクトワーク」に対するVertical AI的な解になりう...",
+            "url": "https://zenn.dev/mkj/articles/agent-native-project-work-with-llm-wiki",
+            "title": "会議・調査・資料作成をAgentに任せる：Microsoft環境で始めるプロジェクトLLM Wiki | 松尾研究所テックブログのフィード",
+            "summary": "松尾研究所でシニアデータサイエンティストをしている大岡です。AI戦国時代と言われるなか、多くのサービスがVertical AIの勝ち筋を探しています。特定の業界や業務で、人間が続けてきた営みを、どうエージェントネイティブに作り直すか。その試行錯誤が始まっています。2026年4月にAndrej Karpathyが、資料や会話の原文はそのまま保管し、LLMがそこから知識を整理・更新し続ける仕組み「LL",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--xofxhJyt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BC%259A%25E8%25AD%25B0%25E3%2583%25BB%25E8%25AA%25BF%25E6%259F%25BB%25E3%2583%25BB%25E8%25B3%2587%25E6%2596%2599%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592Agent%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%258B%25EF%25BC%259AMicrosoft%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588LLM%2520Wiki%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Y.%2520O.%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NlZjRhN2U1N2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T02:50:05.000Z",
+            "date_published": "2026-09-24T02:50:05.000Z",
+            "author": {
+                "name": "Y. O."
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "会議・調査・資料作成をAgentに任せる：Microsoft環境で始めるプロジェクトLLM Wiki",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/ai-agent-inquiry-automation",
+            "content_html": "はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所を持ち帰っていただけるはずです。なお、本記事は「問い合わせに回答する」部分に絞り、管理・運用の自動化は扱いません。",
+            "url": "https://techblog.zozo.com/entry/ai-agent-inquiry-automation",
+            "title": "対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/1125db3ebf11b01280b1cf410cc239b9c2c71f79/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918113558.png%3Fchanged%3D1789698976",
+                "alt": "対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 - ZOZO TECH BLOG"
+            },
+            "date_modified": "2026-09-24T02:00:00.000Z",
+            "date_published": "2026-09-24T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/24/100000",
+            "content_html": "はじめに こんにちは！2026年4月にSansan株式会社へ新卒入社し、現在はCTO室でSansan Labsの開発に取り組んでいる芦沢です。今回から、「新卒エンジニア研修ブログリレー」として、全4本の連載をお届けします。この連載では、エンジニア職・研究開発職の新卒メンバーが4月に受けた研修（以下、エンジニア研修）について紹介していきます。第1弾となる本記事では、研修の全体像をお伝えします。併せて、新卒エンジニアの目線から見たSansanのエンジニアに求められる姿勢もお伝えできればうれしいです。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/24/100000",
+            "title": "【新卒エンジニア研修 Vol. 1】Sansanの新卒エンジニア研修とは？ | Sansan Tech Blog",
+            "summary": "はじめに こんにちは！2026年4月にSansan株式会社へ新卒入社し、現在はCTO室でSansan Labsの開発に取り組んでいる芦沢です。今回から、「新卒エンジニア研修ブログリレー」として、全4本の連載をお届けします。この連載では、エンジニア職・研究開発職の新卒メンバーが4月に受けた研修（以下、エンジニア研修）について紹介していきます。第1弾となる本記事では、研修の全体像をお伝えします。併せて",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032075979779/1790211615",
+                "alt": "【新卒エンジニア研修 Vol. 1】Sansanの新卒エンジニア研修とは？ - Sansan Tech Blog"
+            },
+            "date_modified": "2026-09-24T01:00:00.000Z",
+            "date_published": "2026-09-24T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【新卒エンジニア研修 Vol. 1】Sansanの新卒エンジニア研修とは？",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan"
+            }
+        },
+        {
+            "id": "https://creators.bengo4.com/entry/2026/09/24/094528",
+            "content_html": "こんにちは、クラウドサイン Product Engineering 部所属、新卒エンジニアの枝川です。 クラウドサインでは、バックエンドに Go を採用しています。 2026 年 9 月 11 日（金）、中野セントラルパークにて開催された今年の Go Conference 2026 にて弁護士ドットコムは「Goルド」スポンサーとして協賛しました。 弁護士ドットコムは 9/11(金) Go Conference 2026 に Go ルドスポンサーとして協賛・ブース出展します！🎪ブースではノベルティをご用意しています。お気軽にお立ち寄りください🐹#gocon #gocon26https://t.c…",
+            "url": "https://creators.bengo4.com/entry/2026/09/24/094528",
+            "title": "新卒エンジニアから見た Go Conference 2026 参加レポート | 弁護士ドットコム株式会社 Creators’ blog",
+            "summary": "こんにちは、クラウドサイン Product Engineering 部所属、新卒エンジニアの枝川です。 クラウドサインでは、バックエンドに Go を採用しています。 2026 年 9 月 11 日（金）、中野セントラルパークにて開催された今年の Go Conference 2026 にて弁護士ドットコムは「Goルド」スポンサーとして協賛しました。 弁護士ドットコムは 9/11(金) Go Conf",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/6f01a2d7510bc8eebe7b38ec57ff904152a0752f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbengo4%2F20260924%2F20260924094529.jpg",
+                "alt": "新卒エンジニアから見た Go Conference 2026 参加レポート - 弁護士ドットコム株式会社 Creators’ blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T00:45:28.000Z",
+            "date_published": "2026-09-24T00:45:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "新卒エンジニアから見た Go Conference 2026 参加レポート",
+                "blogTitle": "弁護士ドットコム株式会社 Creators’ blog",
+                "blogLink": "https://creators.bengo4.com/",
+                "blogLinkMd5Hash": "cb5dd8ab1e74d304e86a23f15ef5ac09",
+                "favicon": "https://creators.bengo4.com/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "弁護士ドットコム"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85176",
+            "content_html": "ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お",
+            "url": "https://coliss.com/articles/freebies/free-font-okannotegamimini.html",
+            "title": "商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ | コリス",
+            "summary": "ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026092001@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T00:36:15.000Z",
+            "date_published": "2026-09-24T00:36:15.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Freebies",
+                "font"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        },
+        {
+            "id": "https://nttdocomo-developers.jp/entry/2026/09/24/090000_0",
+            "content_html": "はじめに Pochi開発の歩み コードではなく、仕様を唯一の情報源にする その先に目指す「開発を意識しない開発」 次回は、SDDを支えるAgentとSkillの実装へ はじめに NTTドコモ データプラットフォーム部の外山です。私たちのミッションは、AIとデータの力を業務オペレーションに組み込み、社員や組織のパフォーマンスを高めることです。 分析結果をレポートとして届けるだけでは、現場の行動は変わりません。データを、日々の業務で実際に使えるプロダクトへ変換する必要があります。そこで私たちは、利用者一人ひとりが抱える課題を解決する内製データプロダクト「Pochi」※を開発してきました。Strea…",
+            "url": "https://nttdocomo-developers.jp/entry/2026/09/24/090000_0",
+            "title": "仕様駆動開発（Spec-Driven Development）、はじめました——生成AI時代に「何を、なぜつくるのか」を再設計する | ENGINEERING BLOG ドコモ開発者ブログ",
+            "summary": "はじめに Pochi開発の歩み コードではなく、仕様を唯一の情報源にする その先に目指す「開発を意識しない開発」 次回は、SDDを支えるAgentとSkillの実装へ はじめに NTTドコモ データプラットフォーム部の外山です。私たちのミッションは、AIとデータの力を業務オペレーションに組み込み、社員や組織のパフォーマンスを高めることです。 分析結果をレポートとして届けるだけでは、現場の行動は変わ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f0ba491a32abc64d6493943a02a306ebf744c09e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnttdocomord%2F20260924%2F20260924090004.png",
+                "alt": "仕様駆動開発（Spec-Driven Development）、はじめました——生成AI時代に「何を、なぜつくるのか」を再設計する - ENGINEERING BLOG ドコモ開発者ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T00:00:00.000Z",
+            "date_published": "2026-09-24T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "仕様駆動開発（Spec-Driven Development）、はじめました——生成AI時代に「何を、なぜつくるのか」を再設計する",
+                "blogTitle": "ENGINEERING BLOG ドコモ開発者ブログ",
+                "blogLink": "https://nttdocomo-developers.jp/",
+                "blogLinkMd5Hash": "bec42f7db35950281b5c16ec5742a54f",
+                "favicon": "https://nttdocomo-developers.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "NTT ドコモ"
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37632",
+            "content_html": "Microsoft 365 を業務利用している環境で一時的にファイルを共有したいとき、だいたいの場合 Teams のチャットに貼り付けることが多いのではないでし...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37632",
+            "title": "Power Automate でファイル共有の期限付きワンタイム URL を発行し、自動削除する | IIJ Engineers Blog",
+            "summary": "Microsoft 365 を業務利用している環境で一時的にファイルを共有したいとき、だいたいの場合 Teams のチャットに貼り付けることが多いのではないでし...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/09/power_automate_mission_impossible_index.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-23T23:58:56.000Z",
+            "date_published": "2026-09-23T23:58:56.000Z",
+            "author": {
+                "name": "古賀 勇"
+            },
+            "tags": [
+                "技術情報",
+                "自動化",
+                "Tips",
+                "Power Automate"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Power Automate でファイル共有の期限付きワンタイム URL を発行し、自動削除する",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ"
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66410",
+            "content_html": "目次 はじめに 検証環境 使用画像について 画像をブロックに分解して並べる GameObjectとして並べてみる RenderMeshPrimitivesで大量描画する 描画性能の比較 大量描画したブロックを動かす 波（VertexShader） 組み上がり（VertexShader） マグネット反発（ComputeShader） 重力崩壊（ComputeShader） おわりに 参考リンク はじめに サムザップ開発推進室でグラフィックスを担当している財津です。 今回は、画像を数十万〜100万個のブロックに分解して描画します。そして波打たせたり、崩したり、組み上げたりする表現を実装します。 検…",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66410/",
+            "title": "RenderMeshPrimitivesでブロックを大量描画して動かす | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "目次 はじめに 検証環境 使用画像について 画像をブロックに分解して並べる GameObjectとして並べてみる RenderMeshPrimitivesで大量描画する 描画性能の比較 大量描画したブロックを動かす 波（VertexShader） 組み上がり（VertexShader） マグネット反発（ComputeShader） 重力崩壊（ComputeShader） おわりに 参考リンク はじ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/cc10740e2b89cbc84dd65e4040edb287a163dd4d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsumzap_engineer%2F20260703%2F20260703153230.png",
+                "alt": "RenderMeshPrimitivesでブロックを大量描画して動かす - Sumzap Engineering Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-23T23:00:35.000Z",
+            "date_published": "2026-09-23T23:00:35.000Z",
+            "author": {
+                "name": "Rom"
+            },
+            "tags": [
+                "エンジニア",
+                "Unity",
+                "グラフィックス"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "RenderMeshPrimitivesでブロックを大量描画して動かす",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://tech.sumzap.co.jp/icon/favicon",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent"
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/09/jamf-ddm-blueprint/",
+            "content_html": "  はじめに  IT本部 IT戦略部 エンプロイーエクスペリエンスグループの佐藤と申します。 DeNAグループにおける PC 等の端末管理、トラブル対応などを担っています。 これまで新 macOS リリース時のアップデート抑止は、 Jamf の構成プロファイルと制限付きソフトウェアを組み合わせた手法で対応してきました。 今回は9月にリリースされた macOS 27 Golden …",
+            "url": "https://engineering.dena.com/blog/2026/09/jamf-ddm-blueprint/",
+            "title": "Jamfのブループリント機能(DDM)で新macOSのアップデート抑止を試してみた | Blog on DeNA Engineering",
+            "summary": "  はじめに  IT本部 IT戦略部 エンプロイーエクスペリエンスグループの佐藤と申します。 DeNAグループにおける PC 等の端末管理、トラブル対応などを担っています。 これまで新 macOS リリース時のアップデート抑止は、 Jamf の構成プロファイルと制限付きソフトウェアを組み合わせた手法で対応してきました。 今回は9月にリリースされた macOS 27 Golden …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/09/jamf-ddm-blueprint/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-23T15:00:00.000Z",
+            "date_published": "2026-09-23T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Jamfのブループリント機能(DDM)で新macOSのアップデート抑止を試してみた",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA"
+            }
+        },
+        {
+            "id": "https://note.com/naoki85/n/nc7b4949bd54f",
+            "content_html": "はじめに シルバーウィークに私も遅ればせながら Jev を触ってみました。 本記事では私が調べたことや使ってみた所感を記載したいと思います。 Home - TypeSafe AI   TypeSafe AI is an AI lab building machine-native intelligence   typesafe.ai     本記事は 2026 年 9 月 19 日時点の情報になります。 Jev の概要 System One - TypeSafe AI   System One models make fast, structured decis",
+            "url": "https://note.com/naoki85/n/nc7b4949bd54f",
+            "title": "Jev を触ってみた | noteエンジニアチーム 公式マガジン",
+            "summary": "はじめに シルバーウィークに私も遅ればせながら Jev を触ってみました。 本記事では私が調べたことや使ってみた所感を記載したいと思います。 Home - TypeSafe AI   TypeSafe AI is an AI lab building machine-native intelligence   typesafe.ai     本記事は 2026 年 9 月 19 日時点の情報になり",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/316318406/rectangle_large_type_2_ccb16bd8d407758d3a2e963a920f7ad7.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2026-09-23T01:17:24.000Z",
+            "date_published": "2026-09-23T01:17:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Jev を触ってみた",
+                "blogTitle": "noteエンジニアチーム 公式マガジン",
+                "blogLink": "https://engineerteam.note.jp/m/m70da42dac8cf",
+                "blogLinkMd5Hash": "d6baf6a89d627cfd49dfec3a1ca41655",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico",
+                "pickReason": "お気に入りブログ",
+                "sourceTier": "core",
+                "sourceLabel": "note"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
+            "content_html": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stokesだけで約270万回のメッセージをやり取りし、約1300億output tokenを生成したという。最初のエージェントを走らせてから約88時間後、AIは解に到達した。9月1日に着手し、6日にはLean…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
+            "title": "自ら、問いに向かい合うことの有難さについて | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stoke",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b0875f0f708513eb896bc3ea7ce2ba2fbefe2644/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260913%2F20260913174354.jpg",
+                "alt": "自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-13T08:50:45.000Z",
+            "date_published": "2026-09-13T08:50:45.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "自ら、問いに向かい合うことの有難さについて",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000",
+            "content_html": "Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁流が谷を埋め、集落を呑み込んでいる。しかしNYTの衛星画像でスケールを確認して、話がまったく違うことがわかった*1。山の高所で氷河と岩盤が崩れ、氷、岩、泥、水が一体となって谷を駆け下り、地形そのものを…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000",
+            "title": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c1cc049bc49baf3ec9e2b0f5eab9ad4cab91436d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260830%2F20260830073552.jpg",
+                "alt": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-30T22:00:00.000Z",
+            "date_published": "2026-08-30T22:00:00.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249",
+            "content_html": "火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年以上、100人を超える人間で様々に検討してきたことは『風の谷という希望』に相当に体系立てて書いた。その後もブログにいくつか書いている。講演や取材の依頼の大半をご辞退せざるを得ない状況でもあり、まずはそ…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249",
+            "title": "集約の外側にも、国土はある — コンパクトシティが答えていないこと | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0952beca351cda84dc1908de42558dfcbf4eba1f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20201101%2F20201101124006.jpg",
+                "alt": "集約の外側にも、国土はある — コンパクトシティが答えていないこと - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-22T14:12:49.000Z",
+            "date_published": "2026-08-22T14:12:49.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 81,
+                "originalTitle": "集約の外側にも、国土はある — コンパクトシティが答えていないこと",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158",
+            "content_html": "制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にならず、孤独や無力感に耐えられなければ、権威への服従や画一化へと自由を手放してしまう、そんな話だ。自由からの逃走 新版作者:エーリッヒ・フロム東京創元社Amazonあの頃、店でも部屋でもよく流れていた曲…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158",
+            "title": "Killing Me Softly——AI時代に「自らに由る」とは | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/39ff8c9ef5b63e27c817d123febe267f5afd3912/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260816%2F20260816011427.jpg",
+                "alt": "Killing Me Softly——AI時代に「自らに由る」とは - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-15T16:51:58.000Z",
+            "date_published": "2026-08-15T16:51:58.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Killing Me Softly——AI時代に「自らに由る」とは",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）"
+            }
+        }
+    ]
+}

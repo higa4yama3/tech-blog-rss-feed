@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-09-26T19:11:27.041Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>はてブと新しさで選んだ記事</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2143487.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2143487.html"/>
+        <updated>2026-09-25T12:10:34.000Z</updated>
+        <summary type="html"><![CDATA[ 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。]]></summary>
+        <content type="html"><![CDATA[ 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。]]></content>
+        <author>
+            <name>長谷川 正太郎</name>
+        </author>
+        <published>2026-09-25T12:10:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[性器が短い男性は「小児期の体型」にある共通点があった | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=186862</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/186862"/>
+        <updated>2026-09-26T12:00:49.000Z</updated>
+        <summary type="html"><![CDATA[「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？]]></summary>
+        <content type="html"><![CDATA[「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？ この素朴でありながらセンシティブな疑問に、思わぬ形で新しい答えを提示したのが、ベトナム・ハノイ医科大学病院（HMU）による最新研究です。 研究チームによれば、「小児期（10歳頃）に肥満だった男性は…]]></content>
+        <author>
+            <name>千野 真吾</name>
+        </author>
+        <category label="健康"/>
+        <category label="肥満"/>
+        <published>2026-09-26T12:00:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubyのテストを改めて考える: アサーションとマッチャー（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159792</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_24/159792"/>
+        <updated>2026-09-24T08:30:18.000Z</updated>
+        <summary type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass]]></summary>
+        <content type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="RSpec"/>
+        <category label="Ruby"/>
+        <category label="テスト"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-24T08:30:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2143433.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2143433.html"/>
+        <updated>2026-09-25T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[ The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）]]></summary>
+        <content type="html"><![CDATA[ The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。]]></content>
+        <author>
+            <name>長谷川 正太郎</name>
+        </author>
+        <published>2026-09-25T09:31:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/ai-agent-inquiry-automation</id>
+        <link href="https://techblog.zozo.com/entry/ai-agent-inquiry-automation"/>
+        <updated>2026-09-24T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所を持ち帰っていただけるはずです。なお、本記事は「問い合わせに回答する」部分に絞り、管理・運用の自動化は扱いません。]]></content>
+        <published>2026-09-24T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ | コリス]]></title>
+        <id>https://coliss.com/?p=85176</id>
+        <link href="https://coliss.com/articles/freebies/free-font-okannotegamimini.html"/>
+        <updated>2026-09-24T00:36:15.000Z</updated>
+        <summary type="html"><![CDATA[ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お]]></summary>
+        <content type="html"><![CDATA[ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Freebies"/>
+        <category label="font"/>
+        <published>2026-09-24T00:36:15.000Z</published>
+    </entry>
+</feed>

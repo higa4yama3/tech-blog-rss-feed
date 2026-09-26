@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines</id>
+    <title>RSS (Headlines)</title>
+    <updated>2026-09-26T19:11:27.042Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml"/>
+    <subtitle>HN・ITmedia速報など</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[02:43 ↑0 · https://news.ycombinator.com/item?id=49858810 comments · aljazeera.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49858810</id>
+        <link href="https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt"/>
+        <updated>2026-09-26T17:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo is raising the bar for permanent residency amid a broader rightward shift ]]></summary>
+        <content type="html"><![CDATA[Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation's politics.]]></content>
+        <author>
+            <name>mikhael</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T17:43:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02:10 ↑0 · https://news.ycombinator.com/item?id=49858513 comments · github.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49858513</id>
+        <link href="https://github.com/reladraw/reladraw"/>
+        <updated>2026-09-26T17:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to reladraw/reladraw development by creating an account on GitHub.]]></summary>
+        <content type="html"><![CDATA[Contribute to reladraw/reladraw development by creating an account on GitHub.]]></content>
+        <author>
+            <name>jpwalsh234</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T17:10:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[01:46 ↑0 · https://news.ycombinator.com/item?id=49858253 comments · reuters.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49858253</id>
+        <link href="https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/"/>
+        <updated>2026-09-26T16:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-re]]></summary>
+        <content type="html"><![CDATA[Article URL: https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/Comments URL: https://news.ycombinator.com/item?id=49858253Points: 37# Comments: 34]]></content>
+        <author>
+            <name>onemoresoop</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T16:46:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[01:12 ↑0 · https://news.ycombinator.com/item?id=49857899 comments · themomoftheyear.substack.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49857899</id>
+        <link href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"/>
+        <updated>2026-09-26T16:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-gia]]></summary>
+        <content type="html"><![CDATA[Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clipComments URL: https://news.ycombinator.com/item?id=49857899Points: 243# Comments: 106]]></content>
+        <author>
+            <name>minimaxir</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T16:12:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:56 ↑0 · https://news.ycombinator.com/item?id=49857729 comments · tangled.org]]></title>
+        <id>https://news.ycombinator.com/item?id=49857729</id>
+        <link href="https://tangled.org/yanndegat.tngl.sh/drawgent"/>
+        <updated>2026-09-26T15:56:34.000Z</updated>
+        <summary type="html"><![CDATA[A repository on Tangled]]></summary>
+        <content type="html"><![CDATA[A repository on Tangled]]></content>
+        <author>
+            <name>parasitid</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T15:56:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:48 ↑0 · https://news.ycombinator.com/item?id=49857651 comments · macrumors.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49857651</id>
+        <link href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/"/>
+        <updated>2026-09-26T15:48:18.000Z</updated>
+        <summary type="html"><![CDATA[An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving]]></summary>
+        <content type="html"><![CDATA[An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving forward and will see banks and credit unions able to band together to sue Apple. U.S. District Judge Jeffrey White this week certified a class in the lawsuit. It will include any U.S. entities that issued any payment card enabled for Apple Pay and paid Apple a fee for Apple Pay transactions on that payment card.]]></content>
+        <author>
+            <name>Brajeshwar</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T15:48:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:40 ↑0 · https://news.ycombinator.com/item?id=49857572 comments · techcrunch.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49857572</id>
+        <link href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"/>
+        <updated>2026-09-26T15:40:27.000Z</updated>
+        <summary type="html"><![CDATA[After days of upheaval at Automattic, following a failed attempt to remove CEO M]]></summary>
+        <content type="html"><![CDATA[After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.]]></content>
+        <author>
+            <name>ilamont</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T15:40:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:34 ↑0 · https://news.ycombinator.com/item?id=49857528 comments · github.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49857528</id>
+        <link href="https://github.com/brumar/chess-postmortem-skills"/>
+        <updated>2026-09-26T15:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code skills for chess post-mortems: Stockfish-backed annotated PGN, HTML ]]></summary>
+        <content type="html"><![CDATA[Claude Code skills for chess post-mortems: Stockfish-backed annotated PGN, HTML viewer, narrated video - brumar/chess-postmortem-skills]]></content>
+        <author>
+            <name>brumar</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T15:34:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:24 ↑0 · https://news.ycombinator.com/item?id=49857442 comments · economist.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49857442</id>
+        <link href="https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe"/>
+        <updated>2026-09-26T15:24:08.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/n8AkhComments URL: https://news.ycombinator.com/item?id=49857]]></summary>
+        <content type="html"><![CDATA[https://archive.ph/n8AkhComments URL: https://news.ycombinator.com/item?id=49857442Points: 106# Comments: 160]]></content>
+        <author>
+            <name>vinni2</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T15:24:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23:03 ↑0 · https://news.ycombinator.com/item?id=49856665 comments · bbc.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49856665</id>
+        <link href="https://www.bbc.com/news/articles/cw62jje658dlo"/>
+        <updated>2026-09-26T14:03:54.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI said its bots accessed public data from a range of institutions during te]]></summary>
+        <content type="html"><![CDATA[OpenAI said its bots accessed public data from a range of institutions during test exercises. ]]></content>
+        <author>
+            <name>Betelbuddy</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T14:03:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20:56 アニメを支える外国人材に“逆風”　日本在住の声優・アニメーターが抱く「不安の正体」とは (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/26/2000001672/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/26/2000001672/"/>
+        <updated>2026-09-26T11:56:00.000Z</updated>
+        <summary type="html"><![CDATA[日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベ]]></summary>
+        <content type="html"><![CDATA[日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。（1/3 ページ）]]></content>
+        <category label="news"/>
+        <published>2026-09-26T11:56:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19:55 ↑0 · https://news.ycombinator.com/item?id=49855315 comments · gultsch.de]]></title>
+        <id>https://news.ycombinator.com/item?id=49855315</id>
+        <link href="https://gultsch.de/posts/breaking-up-with-google-play/"/>
+        <updated>2026-09-26T10:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Conversations, my federated instant messaging client for Android, started out as]]></summary>
+        <content type="html"><![CDATA[Conversations, my federated instant messaging client for Android, started out as many traditional open-source projects do: as an attempt to scratch my own itch. Development started in January 2014 in my student dormitory, and within weeks I started dogfooding and using the client as the primary means of communicating with my friends. However, when it came to releasing the app to the public on March 24, 2014—exactly twelve and a half years ago today—it was immediately clear to me that I would at ]]></content>
+        <author>
+            <name>ezst</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T10:55:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:41 ↑0 · https://news.ycombinator.com/item?id=49854875 comments · discourse.haskell.org]]></title>
+        <id>https://news.ycombinator.com/item?id=49854875</id>
+        <link href="https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"/>
+        <updated>2026-09-26T09:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Are you steering towards AI burnout? Afraid of loosing your job to someone with ]]></summary>
+        <content type="html"><![CDATA[Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or worse in “your” own code? This is for you. There are significant and legitimate ethical concerns about frontier LLMs run by big tech companies, these have been discussed at length, I’m aware and agree, this post is not about them. Please don’t mistake me for a pro-LLM techbro. Al..]]></content>
+        <author>
+            <name>signa11</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T09:41:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:13 ↑0 · https://news.ycombinator.com/item?id=49854693 comments · lexontech.org]]></title>
+        <id>https://news.ycombinator.com/item?id=49854693</id>
+        <link href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"/>
+        <updated>2026-09-26T09:13:41.000Z</updated>
+        <summary type="html"><![CDATA[100% cotton paper. 100% crazy.]]></summary>
+        <content type="html"><![CDATA[100% cotton paper. 100% crazy.]]></content>
+        <author>
+            <name>ksec</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T09:13:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17:31 ↑0 · https://news.ycombinator.com/item?id=49854416 comments · floci.io]]></title>
+        <id>https://news.ycombinator.com/item?id=49854416</id>
+        <link href="https://floci.io"/>
+        <updated>2026-09-26T08:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Floci runs AWS, Azure, GCP, and OCI locally in milliseconds: a fast, free, crede]]></summary>
+        <content type="html"><![CDATA[Floci runs AWS, Azure, GCP, and OCI locally in milliseconds: a fast, free, credential-free feedback loop for developers and AI coding agents. MIT licensed. No account, no auth token.]]></content>
+        <author>
+            <name>theanonymousone</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T08:31:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16:33 ↑0 · https://news.ycombinator.com/item?id=49854161 comments · safenotsafe.dev]]></title>
+        <id>https://news.ycombinator.com/item?id=49854161</id>
+        <link href="https://safenotsafe.dev/"/>
+        <updated>2026-09-26T07:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Paste SQL, parse it locally, and catch Postgres migration lock and rewrite risks]]></summary>
+        <content type="html"><![CDATA[Paste SQL, parse it locally, and catch Postgres migration lock and rewrite risks before deploy.]]></content>
+        <author>
+            <name>vira28</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T07:33:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13:20 ↑0 · https://news.ycombinator.com/item?id=49853175 comments · allanrbo.blogspot.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49853175</id>
+        <link href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"/>
+        <updated>2026-09-26T04:20:58.000Z</updated>
+        <summary type="html"><![CDATA[ I was intrigued by Jev and the self-hostable projects appearing around it, such]]></summary>
+        <content type="html"><![CDATA[ I was intrigued by Jev and the self-hostable projects appearing around it, such as OpenJev and SemIf . Reading about them introduced me ...]]></content>
+        <author>
+            <name>allanrbo</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T04:20:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12:00 ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/26/2000001711/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/26/2000001711/"/>
+        <updated>2026-09-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain hea]]></summary>
+        <content type="html"><![CDATA[オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain health markers in individuals with and without stroke: cross-sectional and longitudinal findings from the Framingham heart study」は、ナッツ類の摂取が認知機能や脳の健康に与える影響を調査した研究報告だ。]]></content>
+        <category label="news"/>
+        <published>2026-09-26T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12:00 顔面に電気を流すと記憶力アップ？　あごにパッチ電極を貼り人間で実験、結果は…… (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/26/2000001710/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/26/2000001710/"/>
+        <updated>2026-09-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal n]]></summary>
+        <content type="html"><![CDATA[ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal nerve stimulation gates hippocampal plasticity across species」は、独自のリズムで顔の神経を電気刺激する手法が、記憶の定着に与える影響を調査した研究報告だ。]]></content>
+        <category label="news"/>
+        <published>2026-09-26T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11:46 ↑0 · https://news.ycombinator.com/item?id=49852717 comments · terrytao.wordpress.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49852717</id>
+        <link href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"/>
+        <updated>2026-09-26T02:46:54.000Z</updated>
+        <summary type="html"><![CDATA[[This is a guest post by Amit Sahai. This blog post was initially written in a d]]></summary>
+        <content type="html"><![CDATA[[This is a guest post by Amit Sahai. This blog post was initially written in a different file format and converted using AI. — T.] When I was an undergraduate student, I remember talking with…]]></content>
+        <author>
+            <name>srcreigh</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-26T02:46:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[08:31 ずっと座っている人ほど椅子には“動いて”ほしい　Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/26/2000001759/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/26/2000001759/"/>
+        <updated>2026-09-25T23:31:00.000Z</updated>
+        <summary type="html"><![CDATA[キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが]]></summary>
+        <content type="html"><![CDATA[キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが、Razer「Iskur V2 NewGen」の設計上のポイントです。（1/3 ページ）]]></content>
+        <category label="news"/>
+        <published>2026-09-25T23:31:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[07:48 Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/26/2000001773/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/26/2000001773/"/>
+        <updated>2026-09-25T22:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Offi]]></summary>
+        <content type="html"><![CDATA[Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。]]></content>
+        <category label="news"/>
+        <published>2026-09-25T22:48:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[06:09 ↑0 · https://news.ycombinator.com/item?id=49849985 comments · swarmtraces.org]]></title>
+        <id>https://news.ycombinator.com/item?id=49849985</id>
+        <link href="https://swarmtraces.org/"/>
+        <updated>2026-09-25T21:09:27.000Z</updated>
+        <summary type="html"><![CDATA[When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind ]]></summary>
+        <content type="html"><![CDATA[When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.]]></content>
+        <author>
+            <name>specked-citrus</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-25T21:09:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[05:53 ↑0 · https://news.ycombinator.com/item?id=49849820 comments · blog.priyan.in]]></title>
+        <id>https://news.ycombinator.com/item?id=49849820</id>
+        <link href="https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html"/>
+        <updated>2026-09-25T20:53:54.000Z</updated>
+        <summary type="html"><![CDATA[ I first played Prince of Persia in 1995 on an IBM PC XT. I still go back to it ]]></summary>
+        <content type="html"><![CDATA[ I first played Prince of Persia in 1995 on an IBM PC XT. I still go back to it from time to time: the rotoscoped animation, the way the p...]]></content>
+        <author>
+            <name>msephton</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-25T20:53:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:33 ↑0 · https://news.ycombinator.com/item?id=49848269 comments · ollaya.dev]]></title>
+        <id>https://news.ycombinator.com/item?id=49848269</id>
+        <link href="https://ollaya.dev/"/>
+        <updated>2026-09-25T18:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Ollaya downloads and serves open decision models on your own machine. Typed, cal]]></summary>
+        <content type="html"><![CDATA[Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds — private and open source.]]></content>
+        <author>
+            <name>Ardakilic</name>
+        </author>
+        <category label="news"/>
+        <published>2026-09-25T18:33:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20:13 Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/25/2000001772/"/>
+        <updated>2026-09-25T11:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も]]></summary>
+        <content type="html"><![CDATA[Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。]]></content>
+        <category label="news"/>
+        <published>2026-09-25T11:13:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19:47 落とし物が駅や警察に届く→アプリに通知　持ち物に貼る“お守りシール”、findが発売　5枚入り1000円 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/25/2000001771/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/25/2000001771/"/>
+        <updated>2026-09-25T10:47:36.000Z</updated>
+        <summary type="html"><![CDATA[ 落とし物管理サービスを手掛けるfind（東京都港区）は9月24日、紛失物が警察や対応施設に届くと所有者に通知するシール「find return」を発表した。シ]]></summary>
+        <content type="html"><![CDATA[ 落とし物管理サービスを手掛けるfind（東京都港区）は9月24日、紛失物が警察や対応施設に届くと所有者に通知するシール「find return」を発表した。シールとfindの落とし物管理サービスを組み合わせた商品で、貼り付けた物が拾得物として対応施設に届くと、findから持ち主に通知する。10月1日から販売し、価格はシール5枚と「お守りカード」付きで1000円。]]></content>
+        <category label="news"/>
+        <published>2026-09-25T10:47:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17:53 テラドローン、JAXAの有人機サブシステム開発業務を落札　無人機の支援に続き (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/25/2000001768/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/25/2000001768/"/>
+        <updated>2026-09-25T08:53:15.000Z</updated>
+        <summary type="html"><![CDATA[テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム]]></summary>
+        <content type="html"><![CDATA[テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム（地上部）」の開発業務を落札したと発表した。]]></content>
+        <category label="news"/>
+        <published>2026-09-25T08:53:15.000Z</published>
+    </entry>
+</feed>

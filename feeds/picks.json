@@ -1,0 +1,35 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Picks)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "厳選ピックアップ",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.cinematoday.jp/news/N0157091",
+            "content_html": "ピックアップ\n岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。",
+            "url": "https://www.cinematoday.jp/news/N0157091",
+            "title": "[ピックアップ] 豊川悦司＆山口智子共演『undo』誕生のきっかけは居酒屋でのおしゃべり | シネマトゥデイ",
+            "summary": "ピックアップ\n岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/OPRkP3cyDowd/_size_r1200x630/_v_1790413898/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T09:11:38.000Z",
+            "date_published": "2026-09-26T09:11:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "豊川悦司＆山口智子共演『undo』誕生のきっかけは居酒屋でのおしゃべり",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "ピックアップ",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ"
+            }
+        }
+    ]
+}

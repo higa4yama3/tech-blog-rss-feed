@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated</id>
+    <title>RSS (Curated)</title>
+    <updated>2026-09-26T19:11:27.057Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <subtitle>キュレーション（今日のブクマ等）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[憧れの人も、隣でもがいていた | CREATIVE CLASS MEETUP #1 現地レポート | iDID – クリエイターのための情報メディア]]></title>
+        <id>https://idid.team/?p=4378</id>
+        <link href="https://idid.team/articles/events/cc-meetup-01/"/>
+        <updated>2026-09-24T03:52:04.000Z</updated>
+        <summary type="html"><![CDATA[CREATIVE CLASS の一期生が集う「CREATIVE CLASS MEETUP #1」が、9月4日に東京・青葉台にある Studio本社にて開催された。開講から1年、9つのコースを走り終えたマスターたちが、はじめて一堂に会する日。前後半のエピソードトークと交流タイムを通じて見えてきたのは、教える側がいちばん学んでいるという、この場の構造だった。※本記事は、トム・イシカワさんによる寄稿レポ]]></summary>
+        <content type="html"><![CDATA[CREATIVE CLASS の一期生が集う「CREATIVE CLASS MEETUP #1」が、9月4日に東京・青葉台にある Studio本社にて開催された。開講から1年、9つのコースを走り終えたマスターたちが、はじめて一堂に会する日。前後半のエピソードトークと交流タイムを通じて見えてきたのは、教える側がいちばん学んでいるという、この場の構造だった。※本記事は、トム・イシカワさんによる寄稿レポートです。]]></content>
+        <author>
+            <name>idid_ohtake</name>
+        </author>
+        <category label="Events"/>
+        <category label="CREATIVE CLASS"/>
+        <category label="School"/>
+        <category label="コミュニティ"/>
+        <category label="design"/>
+        <category label="curated"/>
+        <published>2026-09-24T03:52:04.000Z</published>
+    </entry>
+</feed>

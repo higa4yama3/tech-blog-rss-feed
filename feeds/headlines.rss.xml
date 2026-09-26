@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Headlines)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        <description>HN・ITmedia速報など</description>
+        <lastBuildDate>Sat, 26 Sep 2026 19:11:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Headlines)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[02:43 ↑0 · https://news.ycombinator.com/item?id=49858810 comments · aljazeera.com]]></title>
+            <link>https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt</link>
+            <guid>https://news.ycombinator.com/item?id=49858810</guid>
+            <pubDate>Sat, 26 Sep 2026 17:43:11 GMT</pubDate>
+            <description><![CDATA[Tokyo is raising the bar for permanent residency amid a broader rightward shift ]]></description>
+            <content:encoded><![CDATA[Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation's politics.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://www.aljazeera.com/wp-content/uploads/2026/09/2022-07-28T000000Z_727329248_RC2WKV91832S_RTRMADP_3_HEALTH-CORONAVIRUS-JAPAN-1790306821_fdb20f-1790306997_14bc47-1790311260_05ea92-1790315682.jpg?resize=1200%2C630&amp;quality=80" alt="Japan moves to tighten rules for foreigners, throwing futures into doubt"/>
+        </item>
+        <item>
+            <title><![CDATA[02:10 ↑0 · https://news.ycombinator.com/item?id=49858513 comments · github.com]]></title>
+            <link>https://github.com/reladraw/reladraw</link>
+            <guid>https://news.ycombinator.com/item?id=49858513</guid>
+            <pubDate>Sat, 26 Sep 2026 17:10:40 GMT</pubDate>
+            <description><![CDATA[Contribute to reladraw/reladraw development by creating an account on GitHub.]]></description>
+            <content:encoded><![CDATA[Contribute to reladraw/reladraw development by creating an account on GitHub.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//75d77d861150971934c01cc15a26dd56380580862c03522c867908e1424b3eb0/reladraw/reladraw" height="600" url="https://opengraph.githubassets.com/75d77d861150971934c01cc15a26dd56380580862c03522c867908e1424b3eb0/reladraw/reladraw" width="1200" alt="Contribute to reladraw/reladraw development by creating an account on GitHub."/>
+        </item>
+        <item>
+            <title><![CDATA[01:46 ↑0 · https://news.ycombinator.com/item?id=49858253 comments · reuters.com]]></title>
+            <link>https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/</link>
+            <guid>https://news.ycombinator.com/item?id=49858253</guid>
+            <pubDate>Sat, 26 Sep 2026 16:46:24 GMT</pubDate>
+            <description><![CDATA[Article URL: https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-re]]></description>
+            <content:encoded><![CDATA[Article URL: https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/Comments URL: https://news.ycombinator.com/item?id=49858253Points: 37# Comments: 34]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[01:12 ↑0 · https://news.ycombinator.com/item?id=49857899 comments · themomoftheyear.substack.com]]></title>
+            <link>https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</link>
+            <guid>https://news.ycombinator.com/item?id=49857899</guid>
+            <pubDate>Sat, 26 Sep 2026 16:12:18 GMT</pubDate>
+            <description><![CDATA[Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-gia]]></description>
+            <content:encoded><![CDATA[Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clipComments URL: https://news.ycombinator.com/item?id=49857899Points: 243# Comments: 106]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[00:56 ↑0 · https://news.ycombinator.com/item?id=49857729 comments · tangled.org]]></title>
+            <link>https://tangled.org/yanndegat.tngl.sh/drawgent</link>
+            <guid>https://news.ycombinator.com/item?id=49857729</guid>
+            <pubDate>Sat, 26 Sep 2026 15:56:34 GMT</pubDate>
+            <description><![CDATA[A repository on Tangled]]></description>
+            <content:encoded><![CDATA[A repository on Tangled]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/sh/drawgent/opengraph" height="600" url="https://tangled.org/yanndegat.tngl.sh/drawgent/opengraph" width="1200" alt="yanndegat.tngl.sh/drawgent"/>
+        </item>
+        <item>
+            <title><![CDATA[00:48 ↑0 · https://news.ycombinator.com/item?id=49857651 comments · macrumors.com]]></title>
+            <link>https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</link>
+            <guid>https://news.ycombinator.com/item?id=49857651</guid>
+            <pubDate>Sat, 26 Sep 2026 15:48:18 GMT</pubDate>
+            <description><![CDATA[An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving]]></description>
+            <content:encoded><![CDATA[An antitrust lawsuit accusing Apple of blocking tap-to-pay competition is moving forward and will see banks and credit unions able to band together to sue Apple. U.S. District Judge Jeffrey White this week certified a class in the lawsuit. It will include any U.S. entities that issued any payment card enabled for Apple Pay and paid Apple a fee for Apple Pay transactions on that payment card.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="900" url="https://images.macrumors.com/t/RQPLZ_3_iMyj3evjsWnMLVwPdyA=/1600x/article-new/2023/11/apple-pay-feature-dynamic-island.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[00:40 ↑0 · https://news.ycombinator.com/item?id=49857572 comments · techcrunch.com]]></title>
+            <link>https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</link>
+            <guid>https://news.ycombinator.com/item?id=49857572</guid>
+            <pubDate>Sat, 26 Sep 2026 15:40:27 GMT</pubDate>
+            <description><![CDATA[After days of upheaval at Automattic, following a failed attempt to remove CEO M]]></description>
+            <content:encoded><![CDATA[After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpeg" height="799" url="https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[00:34 ↑0 · https://news.ycombinator.com/item?id=49857528 comments · github.com]]></title>
+            <link>https://github.com/brumar/chess-postmortem-skills</link>
+            <guid>https://news.ycombinator.com/item?id=49857528</guid>
+            <pubDate>Sat, 26 Sep 2026 15:34:53 GMT</pubDate>
+            <description><![CDATA[Claude Code skills for chess post-mortems: Stockfish-backed annotated PGN, HTML ]]></description>
+            <content:encoded><![CDATA[Claude Code skills for chess post-mortems: Stockfish-backed annotated PGN, HTML viewer, narrated video - brumar/chess-postmortem-skills]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//a106ed1488e2e9c558b0d029afafa7a487a06bffa5b6fd3cf37f28e5f706ef38/brumar/chess-postmortem-skills" height="600" url="https://opengraph.githubassets.com/a106ed1488e2e9c558b0d029afafa7a487a06bffa5b6fd3cf37f28e5f706ef38/brumar/chess-postmortem-skills" width="1200" alt="Claude Code skills for chess post-mortems: Stockfish-backed annotated PGN, HTML viewer, narrated video - brumar/chess-postmortem-skills"/>
+        </item>
+        <item>
+            <title><![CDATA[00:24 ↑0 · https://news.ycombinator.com/item?id=49857442 comments · economist.com]]></title>
+            <link>https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe</link>
+            <guid>https://news.ycombinator.com/item?id=49857442</guid>
+            <pubDate>Sat, 26 Sep 2026 15:24:08 GMT</pubDate>
+            <description><![CDATA[https://archive.ph/n8AkhComments URL: https://news.ycombinator.com/item?id=49857]]></description>
+            <content:encoded><![CDATA[https://archive.ph/n8AkhComments URL: https://news.ycombinator.com/item?id=49857442Points: 106# Comments: 160]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[23:03 ↑0 · https://news.ycombinator.com/item?id=49856665 comments · bbc.com]]></title>
+            <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
+            <guid>https://news.ycombinator.com/item?id=49856665</guid>
+            <pubDate>Sat, 26 Sep 2026 14:03:54 GMT</pubDate>
+            <description><![CDATA[OpenAI said its bots accessed public data from a range of institutions during te]]></description>
+            <content:encoded><![CDATA[OpenAI said its bots accessed public data from a range of institutions during test exercises. ]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="576" url="https://ichef.bbci.co.uk/news/1024/branded_news/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg" width="1024" alt="Sam Altman speaks at a UN meeting."/>
+        </item>
+        <item>
+            <title><![CDATA[20:56 アニメを支える外国人材に“逆風”　日本在住の声優・アニメーターが抱く「不安の正体」とは (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/26/2000001672/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/26/2000001672/</guid>
+            <pubDate>Sat, 26 Sep 2026 11:56:00 GMT</pubDate>
+            <description><![CDATA[日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベ]]></description>
+            <content:encoded><![CDATA[日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。（1/3 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/26/2000001672/10007211/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/26/2000001672/10007211/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[19:55 ↑0 · https://news.ycombinator.com/item?id=49855315 comments · gultsch.de]]></title>
+            <link>https://gultsch.de/posts/breaking-up-with-google-play/</link>
+            <guid>https://news.ycombinator.com/item?id=49855315</guid>
+            <pubDate>Sat, 26 Sep 2026 10:55:56 GMT</pubDate>
+            <description><![CDATA[Conversations, my federated instant messaging client for Android, started out as]]></description>
+            <content:encoded><![CDATA[Conversations, my federated instant messaging client for Android, started out as many traditional open-source projects do: as an attempt to scratch my own itch. Development started in January 2014 in my student dormitory, and within weeks I started dogfooding and using the client as the primary means of communicating with my friends. However, when it came to releasing the app to the public on March 24, 2014—exactly twelve and a half years ago today—it was immediately clear to me that I would at ]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[18:41 ↑0 · https://news.ycombinator.com/item?id=49854875 comments · discourse.haskell.org]]></title>
+            <link>https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</link>
+            <guid>https://news.ycombinator.com/item?id=49854875</guid>
+            <pubDate>Sat, 26 Sep 2026 09:41:58 GMT</pubDate>
+            <description><![CDATA[Are you steering towards AI burnout? Afraid of loosing your job to someone with ]]></description>
+            <content:encoded><![CDATA[Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or worse in “your” own code? This is for you. There are significant and legitimate ethical concerns about frontier LLMs run by big tech companies, these have been discussed at length, I’m aware and agree, this post is not about them. Please don’t mistake me for a pro-LLM techbro. Al..]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://us1.discourse-cdn.com/flex002/uploads/haskell/original/1X/89166504e40f4869ea825dd70048017861ec8578.png"/>
+        </item>
+        <item>
+            <title><![CDATA[18:13 ↑0 · https://news.ycombinator.com/item?id=49854693 comments · lexontech.org]]></title>
+            <link>https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</link>
+            <guid>https://news.ycombinator.com/item?id=49854693</guid>
+            <pubDate>Sat, 26 Sep 2026 09:13:41 GMT</pubDate>
+            <description><![CDATA[100% cotton paper. 100% crazy.]]></description>
+            <content:encoded><![CDATA[100% cotton paper. 100% crazy.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://lexontech.org/img/og/136.png?1790345908" alt="The Photos Create menu with Card highlighted, whose only submenu item is “App Store…”"/>
+        </item>
+        <item>
+            <title><![CDATA[17:31 ↑0 · https://news.ycombinator.com/item?id=49854416 comments · floci.io]]></title>
+            <link>https://floci.io</link>
+            <guid>https://news.ycombinator.com/item?id=49854416</guid>
+            <pubDate>Sat, 26 Sep 2026 08:31:02 GMT</pubDate>
+            <description><![CDATA[Floci runs AWS, Azure, GCP, and OCI locally in milliseconds: a fast, free, crede]]></description>
+            <content:encoded><![CDATA[Floci runs AWS, Azure, GCP, and OCI locally in milliseconds: a fast, free, credential-free feedback loop for developers and AI coding agents. MIT licensed. No account, no auth token.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://floci.io/og/home.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[16:33 ↑0 · https://news.ycombinator.com/item?id=49854161 comments · safenotsafe.dev]]></title>
+            <link>https://safenotsafe.dev/</link>
+            <guid>https://news.ycombinator.com/item?id=49854161</guid>
+            <pubDate>Sat, 26 Sep 2026 07:33:12 GMT</pubDate>
+            <description><![CDATA[Paste SQL, parse it locally, and catch Postgres migration lock and rewrite risks]]></description>
+            <content:encoded><![CDATA[Paste SQL, parse it locally, and catch Postgres migration lock and rewrite risks before deploy.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://is-my-migration-safe.viggy28.chatgpt.site/og.png"/>
+        </item>
+        <item>
+            <title><![CDATA[13:20 ↑0 · https://news.ycombinator.com/item?id=49853175 comments · allanrbo.blogspot.com]]></title>
+            <link>http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</link>
+            <guid>https://news.ycombinator.com/item?id=49853175</guid>
+            <pubDate>Sat, 26 Sep 2026 04:20:58 GMT</pubDate>
+            <description><![CDATA[ I was intrigued by Jev and the self-hostable projects appearing around it, such]]></description>
+            <content:encoded><![CDATA[ I was intrigued by Jev and the self-hostable projects appearing around it, such as OpenJev and SemIf . Reading about them introduced me ...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpeg" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslbgarcdEUUkIJWtO6Hzy1tHhrkARR5gWxsFPfsPk02zgLqPXsCoxkEIHa4ymkDB3aF-21KS9F0f4ScH9KVz-iN9GJ6yyTDC4rh8AaPG2QiCbZXDUNkRnRYLl8YDcuC8FsX9mkm-A9sb5s9V86UyC3A_I1Ai19idZYTgW1g8ZBLvwYirK97hZSw/w1200-h630-p-k-no-nu/webcam.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12:00 ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/26/2000001711/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/26/2000001711/</guid>
+            <pubDate>Sat, 26 Sep 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain hea]]></description>
+            <content:encoded><![CDATA[オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain health markers in individuals with and without stroke: cross-sectional and longitudinal findings from the Framingham heart study」は、ナッツ類の摂取が認知機能や脳の健康に与える影響を調査した研究報告だ。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/26/2000001711/10007371/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/26/2000001711/10007371/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[12:00 顔面に電気を流すと記憶力アップ？　あごにパッチ電極を貼り人間で実験、結果は…… (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/26/2000001710/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/26/2000001710/</guid>
+            <pubDate>Sat, 26 Sep 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal n]]></description>
+            <content:encoded><![CDATA[ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal nerve stimulation gates hippocampal plasticity across species」は、独自のリズムで顔の神経を電気刺激する手法が、記憶の定着に与える影響を調査した研究報告だ。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/26/2000001710/10007368/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/26/2000001710/10007368/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[11:46 ↑0 · https://news.ycombinator.com/item?id=49852717 comments · terrytao.wordpress.com]]></title>
+            <link>https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</link>
+            <guid>https://news.ycombinator.com/item?id=49852717</guid>
+            <pubDate>Sat, 26 Sep 2026 02:46:54 GMT</pubDate>
+            <description><![CDATA[[This is a guest post by Amit Sahai. This blog post was initially written in a d]]></description>
+            <content:encoded><![CDATA[[This is a guest post by Amit Sahai. This blog post was initially written in a different file format and converted using AI. — T.] When I was an undergraduate student, I remember talking with…]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49" height="200" url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1790394913" width="200"/>
+        </item>
+        <item>
+            <title><![CDATA[08:31 ずっと座っている人ほど椅子には“動いて”ほしい　Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/26/2000001759/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/26/2000001759/</guid>
+            <pubDate>Fri, 25 Sep 2026 23:31:00 GMT</pubDate>
+            <description><![CDATA[キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが]]></description>
+            <content:encoded><![CDATA[キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが、Razer「Iskur V2 NewGen」の設計上のポイントです。（1/3 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/26/2000001759/10007521/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/26/2000001759/10007521/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[07:48 Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/26/2000001773/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/26/2000001773/</guid>
+            <pubDate>Fri, 25 Sep 2026 22:48:32 GMT</pubDate>
+            <description><![CDATA[Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Offi]]></description>
+            <content:encoded><![CDATA[Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/26/2000001773/10007601/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/26/2000001773/10007601/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[06:09 ↑0 · https://news.ycombinator.com/item?id=49849985 comments · swarmtraces.org]]></title>
+            <link>https://swarmtraces.org/</link>
+            <guid>https://news.ycombinator.com/item?id=49849985</guid>
+            <pubDate>Fri, 25 Sep 2026 21:09:27 GMT</pubDate>
+            <description><![CDATA[When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind ]]></description>
+            <content:encoded><![CDATA[When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpeg" height="630" url="https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796" width="1200" alt="Revealing the details of how OpenAI agents hacked Hugging Face"/>
+        </item>
+        <item>
+            <title><![CDATA[05:53 ↑0 · https://news.ycombinator.com/item?id=49849820 comments · blog.priyan.in]]></title>
+            <link>https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html</link>
+            <guid>https://news.ycombinator.com/item?id=49849820</guid>
+            <pubDate>Fri, 25 Sep 2026 20:53:54 GMT</pubDate>
+            <description><![CDATA[ I first played Prince of Persia in 1995 on an IBM PC XT. I still go back to it ]]></description>
+            <content:encoded><![CDATA[ I first played Prince of Persia in 1995 on an IBM PC XT. I still go back to it from time to time: the rotoscoped animation, the way the p...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="gif" url="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18" height="18"/>
+        </item>
+        <item>
+            <title><![CDATA[03:33 ↑0 · https://news.ycombinator.com/item?id=49848269 comments · ollaya.dev]]></title>
+            <link>https://ollaya.dev/</link>
+            <guid>https://news.ycombinator.com/item?id=49848269</guid>
+            <pubDate>Fri, 25 Sep 2026 18:33:50 GMT</pubDate>
+            <description><![CDATA[Ollaya downloads and serves open decision models on your own machine. Typed, cal]]></description>
+            <content:encoded><![CDATA[Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds — private and open source.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="630" url="https://ollaya.dev/static/og.png?v=7bd2eae221" width="1200" alt="Ollaya — run decision models locally"/>
+        </item>
+        <item>
+            <title><![CDATA[20:13 Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</guid>
+            <pubDate>Fri, 25 Sep 2026 11:13:14 GMT</pubDate>
+            <description><![CDATA[Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も]]></description>
+            <content:encoded><![CDATA[Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/25/2000001772/10007594/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/25/2000001772/10007594/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[19:47 落とし物が駅や警察に届く→アプリに通知　持ち物に貼る“お守りシール”、findが発売　5枚入り1000円 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/25/2000001771/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/25/2000001771/</guid>
+            <pubDate>Fri, 25 Sep 2026 10:47:36 GMT</pubDate>
+            <description><![CDATA[ 落とし物管理サービスを手掛けるfind（東京都港区）は9月24日、紛失物が警察や対応施設に届くと所有者に通知するシール「find return」を発表した。シ]]></description>
+            <content:encoded><![CDATA[ 落とし物管理サービスを手掛けるfind（東京都港区）は9月24日、紛失物が警察や対応施設に届くと所有者に通知するシール「find return」を発表した。シールとfindの落とし物管理サービスを組み合わせた商品で、貼り付けた物が拾得物として対応施設に届くと、findから持ち主に通知する。10月1日から販売し、価格はシール5枚と「お守りカード」付きで1000円。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/25/2000001771/10007589/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/25/2000001771/10007589/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[17:53 テラドローン、JAXAの有人機サブシステム開発業務を落札　無人機の支援に続き (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2609/25/2000001768/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2609/25/2000001768/</guid>
+            <pubDate>Fri, 25 Sep 2026 08:53:15 GMT</pubDate>
+            <description><![CDATA[テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム]]></description>
+            <content:encoded><![CDATA[テラドローンは9月25日、宇宙航空研究開発機構（JAXA）が公募する「災害・緊急時等に活用可能な小型無人機を含めた運航安全管理技術」のうち、「有人機サブシステム（地上部）」の開発業務を落札したと発表した。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2609/25/2000001768/10007554/2048" url="https://www.itmedia.co.jp/news/article/ogp/2609/25/2000001768/10007554/2048"/>
+        </item>
+    </channel>
+</rss>

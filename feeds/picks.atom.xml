@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (Picks)</title>
+    <updated>2026-09-26T19:11:27.041Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>厳選ピックアップ</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[ピックアップ] 豊川悦司＆山口智子共演『undo』誕生のきっかけは居酒屋でのおしゃべり | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157091</id>
+        <link href="https://www.cinematoday.jp/news/N0157091"/>
+        <updated>2026-09-26T09:11:38.000Z</updated>
+        <summary type="html"><![CDATA[ピックアップ
+岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。]]></summary>
+        <content type="html"><![CDATA[ピックアップ
+岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。]]></content>
+        <published>2026-09-26T09:11:38.000Z</published>
+    </entry>
+</feed>

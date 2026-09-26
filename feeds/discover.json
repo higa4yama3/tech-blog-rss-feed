@@ -1,0 +1,189 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Discover)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.json",
+    "description": "はてブと新しさで選んだ記事",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+            "content_html": " 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+            "title": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 | 窓の杜",
+            "summary": " 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/487/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T12:10:34.000Z",
+            "date_published": "2026-09-25T12:10:34.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 104,
+                "originalTitle": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ104件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=186862",
+            "content_html": "「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？ この素朴でありながらセンシティブな疑問に、思わぬ形で新しい答えを提示したのが、ベトナム・ハノイ医科大学病院（HMU）による最新研究です。 研究チームによれば、「小児期（10歳頃）に肥満だった男性は…",
+            "url": "https://nazology.kusuguru.co.jp/archives/186862",
+            "title": "性器が短い男性は「小児期の体型」にある共通点があった | ナゾロジー",
+            "summary": "「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2025/10/d6f80360475bd421e3b1339874062e46.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T12:00:49.000Z",
+            "date_published": "2026-09-26T12:00:49.000Z",
+            "author": {
+                "name": "千野 真吾"
+            },
+            "tags": [
+                "健康",
+                "肥満"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "性器が短い男性は「小児期の体型」にある共通点があった",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159792",
+            "content_html": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_24/159792",
+            "title": "Rubyのテストを改めて考える: アサーションとマッチャー（翻訳） | TechRacho",
+            "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Thinking about tests: ass",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/09/ruby_thinking_about_assertions_matcher_eyecatch1-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T08:30:18.000Z",
+            "date_published": "2026-09-24T08:30:18.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "RSpec",
+                "Ruby",
+                "テスト",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "Rubyのテストを改めて考える: アサーションとマッチャー（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ5件",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143433.html",
+            "content_html": " The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143433.html",
+            "title": "「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を | 窓の杜",
+            "summary": " The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/433/apachetomcat.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T09:31:00.000Z",
+            "date_published": "2026-09-25T09:31:00.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/ai-agent-inquiry-automation",
+            "content_html": "はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所を持ち帰っていただけるはずです。なお、本記事は「問い合わせに回答する」部分に絞り、管理・運用の自動化は扱いません。",
+            "url": "https://techblog.zozo.com/entry/ai-agent-inquiry-automation",
+            "title": "対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは。検索基盤ブロックのXEIです。私たちのチームには、ZOZOTOWNの検索に関する問い合わせが社内から日々寄せられます。 本記事では、この問い合わせ対応を複数のAIエージェントの組み合わせでどう効率化したかを紹介します。読み終わる頃には、役割を分けたAIエージェントをどう組み合わせ、人間の関与をどこに残すと問い合わせの件数を維持したまま対応の負荷を下げられるのか、その設計の勘所",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/1125db3ebf11b01280b1cf410cc239b9c2c71f79/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260918%2F20260918113558.png%3Fchanged%3D1789698976",
+                "alt": "対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化 - ZOZO TECH BLOG"
+            },
+            "date_modified": "2026-09-24T02:00:00.000Z",
+            "date_published": "2026-09-24T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "対応工数を半減、リードタイムを6日から1日に ── Dify・Claude Code・Devinを束ねたSlack問い合わせ自動化",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ3件",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85176",
+            "content_html": "ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お",
+            "url": "https://coliss.com/articles/freebies/free-font-okannotegamimini.html",
+            "title": "商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ | コリス",
+            "summary": "ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026092001@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T00:36:15.000Z",
+            "date_published": "2026-09-24T00:36:15.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Freebies",
+                "font"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        }
+    ]
+}

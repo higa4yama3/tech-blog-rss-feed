@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Picks)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        <description>厳選ピックアップ</description>
+        <lastBuildDate>Sat, 26 Sep 2026 19:11:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Picks)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[ピックアップ] 豊川悦司＆山口智子共演『undo』誕生のきっかけは居酒屋でのおしゃべり | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157091</link>
+            <guid>https://www.cinematoday.jp/news/N0157091</guid>
+            <pubDate>Sat, 26 Sep 2026 09:11:38 GMT</pubDate>
+            <description><![CDATA[ピックアップ
+岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。]]></description>
+            <content:encoded><![CDATA[ピックアップ
+岩井俊二監督が26日、TOHOシネマズ新宿で行われた映画『undo 4Kリマスター』（公開中）公開記念舞台あいさつに豊川悦司、山口智子と共に参加。32年前に公開された『undo』の制作秘話を明かした。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/OPRkP3cyDowd/_size_r1200x630/_v_1790413898/main.jpg"/>
+        </item>
+    </channel>
+</rss>

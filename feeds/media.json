@@ -1,0 +1,508 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Media)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.json",
+    "description": "高頻度メディアソース（件数上限あり）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=186862",
+            "content_html": "「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？ この素朴でありながらセンシティブな疑問に、思わぬ形で新しい答えを提示したのが、ベトナム・ハノイ医科大学病院（HMU）による最新研究です。 研究チームによれば、「小児期（10歳頃）に肥満だった男性は…",
+            "url": "https://nazology.kusuguru.co.jp/archives/186862",
+            "title": "性器が短い男性は「小児期の体型」にある共通点があった | ナゾロジー",
+            "summary": "「男の自信は、見た目だけじゃない」 こうした物言いはよく耳にします。 しかし実際には、多くの男性が自分の身体的特徴、特に「性器のサイズ」について密かに気にしています。 ネット上やSNSでは「理想のサイズ」や「平均値」といった情報が飛び交い、ときに不安やコンプレックスの原因にもなっています。 では、「性器の大きさ」は生まれつき決まっているのでしょうか？ それとも、後天的な要因も影響するのでしょうか？",
+            "image": {
+                "height": "600",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2025/10/d6f80360475bd421e3b1339874062e46.jpg",
+                "width": "900",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T12:00:49.000Z",
+            "date_published": "2026-09-26T12:00:49.000Z",
+            "author": {
+                "name": "千野 真吾"
+            },
+            "tags": [
+                "健康",
+                "肥満"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "性器が短い男性は「小児期の体型」にある共通点があった",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/",
+            "content_html": "健康のためには「1日1万歩」は歩いた方がいいとよく言われますが、近年の研究では1万歩よりも少ない歩数でも、さまざまな健康効果が得られることが示唆されています。新たな研究では、たとえ1日の歩数が少なくても「歩くペース」を上げることで、死亡リスクが低くなる可能性があると報告されました。",
+            "url": "https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/",
+            "title": "1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性 | GIGAZINE",
+            "summary": "健康のためには「1日1万歩」は歩いた方がいいとよく言われますが、近年の研究では1万歩よりも少ない歩数でも、さまざまな健康効果が得られることが示唆されています。新たな研究では、たとえ1日の歩数が少なくても「歩くペース」を上げることで、死亡リスクが低くなる可能性があると報告されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/26/stepping-pace-lower-risk-death/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T12:00:00.000Z",
+            "date_published": "2026-09-26T12:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
+            "content_html": "Appleはアクティブノイズキャンセリング機能搭載オープンイヤー型ワイヤレスイヤホン「AirPods 5」を2026年9月18日に発売しました。軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを備えた上位モデルを実際に注文したので、実際に装着して音楽を聞いたり手元で操作してみたり試してみました。",
+            "url": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
+            "title": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？ | GIGAZINE",
+            "summary": "Appleはアクティブノイズキャンセリング機能搭載オープンイヤー型ワイヤレスイヤホン「AirPods 5」を2026年9月18日に発売しました。軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを備えた上位モデルを実際に注文したので、実際に装着して音楽を聞いたり手元で操作してみたり試してみました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/26/airpods-5-wireless-charging-case-review/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T11:00:00.000Z",
+            "date_published": "2026-09-26T11:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200149",
+            "content_html": "会議で上司に意見を言うとき、相手の目を見るか手元の資料を見るか、ちょっと迷うことがあります。 話している相手の目をどれくらい見るかには、その人の性格の一面が表れているのかもしれません。 大学生39人に上司役と話し合ってもらう実験で、自分をまじめだと答えた人ほど、上司役の目をよく見ていたのです。 そしてその視線は、まわりの人が「この人はまじめだ」と感じることとも関係していました。 上司の前で自分がどこを見ているか、少し気になってきます。 ただし調べたのは少人数の大学生で、本物の職場ではなく、実験として用意した話し合いでの結果です。 研究内容の詳細は2025年11月29日に『Journal of…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200149",
+            "title": "「自分はまじめ」と答えた学生ほど、話すときに上司役の目をよく見ていた | ナゾロジー",
+            "summary": "会議で上司に意見を言うとき、相手の目を見るか手元の資料を見るか、ちょっと迷うことがあります。 話している相手の目をどれくらい見るかには、その人の性格の一面が表れているのかもしれません。 大学生39人に上司役と話し合ってもらう実験で、自分をまじめだと答えた人ほど、上司役の目をよく見ていたのです。 そしてその視線は、まわりの人が「この人はまじめだ」と感じることとも関係していました。 上司の前で自分がど",
+            "image": {
+                "height": "1280",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c4-fig-thumb-2.jpg",
+                "width": "1920",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T11:00:00.000Z",
+            "date_published": "2026-09-26T11:00:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "心理学",
+                "脳科学",
+                "実験"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「自分はまじめ」と答えた学生ほど、話すときに上司役の目をよく見ていた",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200143",
+            "content_html": "駅でスマホの乗り換え案内をにらんでいたら、目の前で手を振る友人に最後まで気づけませんでした。 何かに集中していると、目に入っているはずのものを見落とすことがあります。 では、頭のいい人や注意深い性格の人なら、こうした見落としは少ないのでしょうか？ イリノイ大学アーバナ・シャンペーン校のダニエル・シモンズ氏らは、知能を調べる実験と性格を調べる実験に、それぞれ1000人ずつ参加してもらい、この疑問を確かめました。 その結果、知能に関わる一部の能力は見落としを予測したものの、その力は弱く、一貫してもいませんでした。性格については、見落としを予測するという証拠がほとんど、あるいはまったく見つかりませ…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200143",
+            "title": "「知能が高い人」ほど見落としが少ないわけではなかった | ナゾロジー",
+            "summary": "駅でスマホの乗り換え案内をにらんでいたら、目の前で手を振る友人に最後まで気づけませんでした。 何かに集中していると、目に入っているはずのものを見落とすことがあります。 では、頭のいい人や注意深い性格の人なら、こうした見落としは少ないのでしょうか？ イリノイ大学アーバナ・シャンペーン校のダニエル・シモンズ氏らは、知能を調べる実験と性格を調べる実験に、それぞれ1000人ずつ参加してもらい、この疑問を確",
+            "image": {
+                "height": "1446",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/09/c5-fig-thumb.jpg",
+                "width": "1920",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-26T09:30:00.000Z",
+            "date_published": "2026-09-26T09:30:00.000Z",
+            "author": {
+                "name": "天道銀河"
+            },
+            "tags": [
+                "心理学",
+                "脳科学",
+                "実験"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「知能が高い人」ほど見落としが少ないわけではなかった",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー"
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20260926-ansel/",
+            "content_html": "RAW画像を編集するソフトには写真の明るさや色の調整・ノイズ除去・レンズの補正などさまざまな機能が搭載されていますが、機能が増えるほど目的の設定項目を探す手間も増えてしまいます。そこで無料でオープンソースのRAW現像ソフト「Ansel」は、「darktable」をベースに機能の整理や操作画面の再設計により、写真編集の作業をわかりやすくすることを目指したソフトウェアです。",
+            "url": "https://gigazine.net/news/20260926-ansel/",
+            "title": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」 | GIGAZINE",
+            "summary": "RAW画像を編集するソフトには写真の明るさや色の調整・ノイズ除去・レンズの補正などさまざまな機能が搭載されていますが、機能が増えるほど目的の設定項目を探す手間も増えてしまいます。そこで無料でオープンソースのRAW現像ソフト「Ansel」は、「darktable」をベースに機能の整理や操作画面の再設計により、写真編集の作業をわかりやすくすることを目指したソフトウェアです。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/09/26/ansel/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-26T07:00:00.000Z",
+            "date_published": "2026-09-26T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00682/082800107/",
+            "content_html": "",
+            "url": "https://business.nikkei.com/atcl/gen/19/00682/082800107/",
+            "title": "［2026年9月26日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告) | 日経ビジネス電子版　最新記事",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00682/082800107/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T15:00:00.000Z",
+            "date_published": "2026-09-25T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［2026年9月26日］日経ビジネス最新号　新聞広告の掲載記事 (今週の新聞広告)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+            "content_html": " 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+            "title": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 | 窓の杜",
+            "summary": " 米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/487/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T12:10:34.000Z",
+            "date_published": "2026-09-25T12:10:34.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 104,
+                "originalTitle": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ104件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143433.html",
+            "content_html": " The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143433.html",
+            "title": "「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を | 窓の杜",
+            "summary": " The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/433/apachetomcat.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T09:31:00.000Z",
+            "date_published": "2026-09-25T09:31:00.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2143355.html",
+            "content_html": " NPUを使った画像生成は、先日もWindows AI APIで呼び出せる機能を紹介しているが、今回は「HK NPU STUDIO」という別のソフトを紹介する。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2143355.html",
+            "title": "NPUで「Stable Diffusion 3.5」の画像生成ができる「HK NPU STUDIO」 | 窓の杜",
+            "summary": " NPUを使った画像生成は、先日もWindows AI APIで呼び出せる機能を紹介しているが、今回は「HK NPU STUDIO」という別のソフトを紹介する。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/355/13.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T08:33:00.000Z",
+            "date_published": "2026-09-25T08:33:00.000Z",
+            "author": {
+                "name": "石田 賀津男"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "NPUで「Stable Diffusion 3.5」の画像生成ができる「HK NPU STUDIO」",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/seminar/19/00122/00299/",
+            "content_html": "9月28日の週は、日米でマーケットの材料になるメジャーな経済指標が相次いで発表される。日銀短観では景況感に対する製造業のマインドがさらに好転している可能性が高い。一方で物価高への警戒は引き続き強い状態が続きそうで、日銀は今後の追加利上げを慎重に見極めることになる。",
+            "url": "https://business.nikkei.com/atcl/seminar/19/00122/00299/",
+            "title": "日銀短観、製造業DIがさらに改善へ　企業の物価見通しは高止まり継続か (上野泰也の先読みマーケット) | 日経ビジネス電子版　最新記事",
+            "summary": "9月28日の週は、日米でマーケットの材料になるメジャーな経済指標が相次いで発表される。日銀短観では景況感に対する製造業のマインドがさらに好転している可能性が高い。一方で物価高への警戒は引き続き強い状態が続きそうで、日銀は今後の追加利上げを慎重に見極めることになる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/seminar/19/00122/00299/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日銀短観、製造業DIがさらに改善へ　企業の物価見通しは高止まり継続か (上野泰也の先読みマーケット)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00636/092400119/",
+            "content_html": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだせるかが問われている。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00636/092400119/",
+            "title": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から) | 日経ビジネス電子版　最新記事",
+            "summary": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだせるかが問われている。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00636/092400119/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00928/092400006/",
+            "content_html": "人工知能（AI）を駆使することで従業員を雇わずに事業展開する起業家「AIソロプレナー」。そんな新時代の働き方に挑戦しているのが、元LINEヤフー会長の川邊健太郎氏だ。組織運営をAIに任せ、自らは全国行脚しながら事業テーマを探す中で見えてきたものがあるという。「AI駆動型」で経営するリアルを語り尽くす。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00928/092400006/",
+            "title": "元LINEヤフー会長・川邊健太郎氏がソロ起業で挑む「AIで動く会社」のリアル (AI駆動型リーダー) | 日経ビジネス電子版　最新記事",
+            "summary": "人工知能（AI）を駆使することで従業員を雇わずに事業展開する起業家「AIソロプレナー」。そんな新時代の働き方に挑戦しているのが、元LINEヤフー会長の川邊健太郎氏だ。組織運営をAIに任せ、自らは全国行脚しながら事業テーマを探す中で見えてきたものがあるという。「AI駆動型」で経営するリアルを語り尽くす。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00928/092400006/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "元LINEヤフー会長・川邊健太郎氏がソロ起業で挑む「AIで動く会社」のリアル (AI駆動型リーダー)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/091800003/",
+            "content_html": "4月2日、午前9時20分。東邦商事の統治・倫理改革室、通称フェアネス室がある別館には、本館とは違う時間が流れている。別館5階の窓ガラスには薄くほこりが積もり、隣のビルの壁面で跳ね返った朝の光が、鈍く室内へ落ちていた。高梨咲は、その薄暗い部屋で森村透子の横顔を見ていた。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/091800003/",
+            "title": "［連載小説3］森村透子が問う「内部通報制度が機能不全に陥った企業の末路」 (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "4月2日、午前9時20分。東邦商事の統治・倫理改革室、通称フェアネス室がある別館には、本館とは違う時間が流れている。別館5階の窓ガラスには薄くほこりが積もり、隣のビルの壁面で跳ね返った朝の光が、鈍く室内へ落ちていた。高梨咲は、その薄暗い部屋で森村透子の横顔を見ていた。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/091800003/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T08:00:00.000Z",
+            "date_published": "2026-09-25T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［連載小説3］森村透子が問う「内部通報制度が機能不全に陥った企業の末路」 (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ピックアップ",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143146.html",
+            "content_html": " 米Microsoftは9月24日（現地時間）、デスクトップ向け「Microsoft Edge」v154.0.4258.37を安定（Stable）チャネルでリリースした。「Edge 153」に続く2週間ごとのメジャーアップデートとなる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143146.html",
+            "title": "「Microsoft Edge 154」が公開、プロファイルの新規作成プロセスなどが改善／「Chromium」のセキュリティ修正も反映 | 窓の杜",
+            "summary": " 米Microsoftは9月24日（現地時間）、デスクトップ向け「Microsoft Edge」v154.0.4258.37を安定（Stable）チャネルでリリースした。「Edge 153」に続く2週間ごとのメジャーアップデートとなる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/146/microsoft_edge.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-25T07:08:00.000Z",
+            "date_published": "2026-09-25T07:08:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「Microsoft Edge 154」が公開、プロファイルの新規作成プロセスなどが改善／「Chromium」のセキュリティ修正も反映",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ1件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2143270.html",
+            "content_html": " 米Microsoftは9月24日（現地時間）、OSへのサインイン後に画面が真っ黒になり、デスクトップが読み込まれない不具合がWindows 11環境で発生していることを明らかにした。2026年8月27日に公開されたプレビュー更新プログラムおよびそれ以降を適用した以下のプラットフォームで発生しているという。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2143270.html",
+            "title": "一部のWindows 11環境でサインイン後に画面が真っ黒に ～8月のプレビューパッチが原因／Microsoftが回避策を案内、今後の更新プログラムで解決へ | 窓の杜",
+            "summary": " 米Microsoftは9月24日（現地時間）、OSへのサインイン後に画面が真っ黒になり、デスクトップが読み込まれない不具合がWindows 11環境で発生していることを明らかにした。2026年8月27日に公開されたプレビュー更新プログラムおよびそれ以降を適用した以下のプラットフォームで発生しているという。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2143/270/image1.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T06:36:00.000Z",
+            "date_published": "2026-09-25T06:36:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "一部のWindows 11環境でサインイン後に画面が真っ黒に ～8月のプレビューパッチが原因／Microsoftが回避策を案内、今後の更新プログラムで解決へ",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=83781",
+            "content_html": "※本ページは、アフィリエイト広告を利用しています。 デザインで役立つのは、さまざまな引き出し持っておくこと。バナーのデザインに特化されたデザイン書を紹介します。 バナーに特化されたデザイン書は最近増え",
+            "url": "https://coliss.com/articles/book-review/isbn-9784802615587.html",
+            "title": "バナーデザインの引き出しが増える！ 38テーマに634作例、バナーに特化されたデザイン書 -バナーデザイン図鑑630 | コリス",
+            "summary": "※本ページは、アフィリエイト広告を利用しています。 デザインで役立つのは、さまざまな引き出し持っておくこと。バナーのデザインに特化されたデザイン書を紹介します。 バナーに特化されたデザイン書は最近増え",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/9784802615587-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T00:36:08.000Z",
+            "date_published": "2026-09-25T00:36:08.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Book Review",
+                "サイト構築 -デザイン",
+                "ソシム"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "バナーデザインの引き出しが増える！ 38テーマに634作例、バナーに特化されたデザイン書 -バナーデザイン図鑑630",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ2件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85176",
+            "content_html": "ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お",
+            "url": "https://coliss.com/articles/freebies/free-font-okannotegamimini.html",
+            "title": "商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ | コリス",
+            "summary": "ほっこりとした癒やし系、手書きの日本語フリーフォントを紹介します。 「おかんのてがみ mini」はひらがな・カタカナをはじめ、英数記号文字の全361文字が収録されており、縦書きにも対応しています。 お",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026092001@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-24T00:36:15.000Z",
+            "date_published": "2026-09-24T00:36:15.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Freebies",
+                "font"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "商用利用無料！ ほっこりとした癒やし系フリーフォント、お母さまの手書き文字をベースにした -おかんのてがみ",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ3件",
+                "sourceTier": "media",
+                "sourceLabel": "コリス"
+            }
+        }
+    ]
+}
