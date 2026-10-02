@@ -32,7 +32,7 @@ export const TOPICS: TopicDefinition[] = [
     label: 'AI・LLM',
     weight: 1,
     keywords:
-      /\bAI\b|\bLLMs?\b|生成AI|機械学習|深層学習|ディープラーニング|ニューラル|エージェント|\b[Aa]gents?\b|\bRAG\b|\bMCP\b|プロンプト|\b[Pp]rompt|Claude|Anthropic|\bGPT|OpenAI|Gemini|Copilot|Codex|[Ee]mbedding|ファインチューニング|[Ff]ine-?tun|推論|[Tt]ransformer|拡散モデル|\bVLM|音声認識|画像生成|PLaMo|Llama|Qwen|DeepSeek/,
+      /\bAI\b|\bLLMs?\b|生成AI|機械学習|深層学習|ディープラーニング|ニューラル|エージェント|\b[Aa]gents?\b|\bRAG\b|\bMCP\b|プロンプト|\b[Pp]rompt|Claude|Anthropic|\bGPT|OpenAI|Gemini|Copilot|Codex|[Ee]mbedding|ファインチューニング|Fine-?tun|fine-?tun|推論|[Tt]ransformer|拡散モデル|\bVLM|音声認識|画像生成|PLaMo|Llama|Qwen|DeepSeek/,
   },
   {
     id: 'engineering',
@@ -124,7 +124,7 @@ export const EXCITEMENT_PATTERNS: SignalPattern[] = [
   {
     label: '新しく出た',
     pattern:
-      /公開しました|リリースしました|\bOSS\b|オープンソース|新機能|[Ll]aunch|[Rr]eleased|[Ii]ntroducing|[Oo]pen[- ]?[Ss]ourc/,
+      /公開しました|リリースしました|\bOSS\b|オープンソース|新機能|[Ll]aunch|Released|released|[Ii]ntroducing|[Oo]pen[- ]?[Ss]ourc/,
     points: 1,
   },
   {
