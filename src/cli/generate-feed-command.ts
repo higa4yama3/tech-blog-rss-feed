@@ -10,12 +10,14 @@ import {
   scoreDiscoverItems,
   selectHatenaItItems,
   selectPicksItems,
+  selectTopicItems,
 } from '../feed/feed-item-processor';
 import { FeedStorer } from '../feed/feed-storer';
 import { FeedValidator } from '../feed/feed-validator';
 import { logger } from '../feed/logger';
-import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
 import { FEED_INFO_LIST } from '../resources/feed-info-list';
+import { CORE_OUTPUT_TIERS } from '../resources/feed-tier';
+import { TOPICS, type TopicId } from '../resources/interest-profile';
 
 const dirName = url.fileURLToPath(new URL('.', import.meta.url));
 
@@ -52,8 +54,15 @@ const feedStorer = new FeedStorer();
   }
 
   const hatenaItItems = selectHatenaItItems(allItems);
-  const picksItems = selectPicksItems(allItems, hatenaCountMap);
+
+  // 今日の5本とトピック棚は、自分のソースに加えてはてな人気・速報も候補にする
+  const scoringPool = [...coreItems, ...researchItems, ...curatedItems, ...hatenaItItems, ...signalItems];
+  const picksItems = selectPicksItems(scoringPool, hatenaCountMap);
   const discoverItems = scoreDiscoverItems(allItems, hatenaCountMap);
+  const topicItems = {} as Record<TopicId, typeof allItems>;
+  for (const topic of TOPICS) {
+    topicItems[topic.id] = selectTopicItems(scoringPool, hatenaCountMap, topic.id);
+  }
 
   const ogObjectMap = new Map([...crawlFeedsResult.feedItemOgObjectMap, ...crawlFeedsResult.feedBlogOgObjectMap]);
 
@@ -66,6 +75,7 @@ const feedStorer = new FeedStorer();
     research: researchItems,
     curated: curatedItems,
     hatenaIt: hatenaItItems,
+    topics: topicItems,
   });
 
   try {
@@ -92,6 +102,9 @@ const feedStorer = new FeedStorer();
     await feedValidator.assertXmlFeed('picks', bundle.picks.atom);
     await feedValidator.assertXmlFeed('headlines', bundle.headlines.atom);
     await feedValidator.assertXmlFeed('hatena-it', bundle.hatenaIt.atom);
+    for (const topic of TOPICS) {
+      await feedValidator.assertXmlFeed(`topic-${topic.id}`, bundle.topics[topic.id].atom);
+    }
 
     logger.info('フィードのバリデーション完了');
   } catch (e) {

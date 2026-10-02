@@ -17,9 +17,9 @@
             {# RSS Feed Card #}
             <div class="bento-card bento-card--rss bento-card--rss-list">
                 <div class="bento-card__label">{% include 'layouts/partials/icon-rss.njk' %} RSS Feeds</div>
-                <p class="bento-card__hint">まずは Picks。Core は企業ブログまとめ。</p>
+                <p class="bento-card__hint">まずは今日の{{ constants.picksMaxItems }}本。Core は企業ブログまとめ。トピック別は各トピックのページから。</p>
                 {% set feedUrlRows = [
-                    { label: 'Picks（厳選）', url: constants.feedUrls.picks, id: 'feed-url-picks' },
+                    { label: '今日の' ~ constants.picksMaxItems ~ '本', url: constants.feedUrls.picks, id: 'feed-url-picks' },
                     { label: 'Core', url: constants.feedUrls.core, id: 'feed-url-core' },
                     { label: 'Discover', url: constants.feedUrls.discover, id: 'feed-url-discover' },
                     { label: 'Headlines', url: constants.feedUrls.headlines, id: 'feed-url-headlines' },
@@ -57,9 +57,17 @@
 
             {# Navigation Card #}
             <div class="bento-card bento-card--nav">
-                <a class="bento-nav__item {% if ['/'].includes(page.url) %}bento-nav__item--active{% endif %}" href="{{ page.url | relativeUrl }}" aria-label="フィード">
+                <a class="bento-nav__item {% if ['/'].includes(page.url) %}bento-nav__item--active{% endif %}" href="{{ page.url | relativeUrl }}" aria-label="今日">
                     <span class="bento-nav__icon">{% include 'layouts/partials/icon-newspaper.njk' %}</span>
-                    <span class="bento-nav__label">フィード</span>
+                    <span class="bento-nav__label">今日</span>
+                </a>
+                <a class="bento-nav__item" href="{{ page.url | relativeUrl }}latest/" aria-label="新着">
+                    <span class="bento-nav__icon">{% include 'layouts/partials/icon-rss.njk' %}</span>
+                    <span class="bento-nav__label">新着</span>
+                </a>
+                <a class="bento-nav__item" href="{{ page.url | relativeUrl }}hot/" aria-label="人気">
+                    <span class="bento-nav__icon">{% include 'layouts/partials/icon-flame.njk' %}</span>
+                    <span class="bento-nav__label">人気</span>
                 </a>
                 <a class="bento-nav__item {% if ['/blogs/'].includes(page.url) %}bento-nav__item--active{% endif %}" href="{{ page.url | relativeUrl }}blogs/" aria-label="ブログ一覧">
                     <span class="bento-nav__icon">{% include 'layouts/partials/icon-book-stack.njk' %}</span>

@@ -1,9 +1,11 @@
-import dayjs from 'dayjs';
 import { URL } from 'node:url';
+import dayjs from 'dayjs';
 import constants from '../common/constants';
 import { CORE_OUTPUT_TIERS, type FeedTier } from '../resources/feed-tier';
+import type { TopicId } from '../resources/interest-profile';
 import type { EnrichedFeedItem } from './enriched-feed-item';
 import type { FeedItemHatenaCountMap } from './feed-crawler';
+import { type ItemScore, formatPickReason, getHatenaCount, scoreItem } from './item-scorer';
 
 const normalizeTitleKey = (title: string): string => title.replace(/\s+/g, '').slice(0, 30);
 
@@ -15,24 +17,46 @@ const getHostname = (link: string): string => {
   }
 };
 
-export const applyPerSourceCaps = (items: EnrichedFeedItem[], feedMaxItems: Map<string, number>): EnrichedFeedItem[] => {
-  const grouped = new Map<string, EnrichedFeedItem[]>();
+type ScoredItem = { item: EnrichedFeedItem; itemScore: ItemScore };
 
-  for (const item of items) {
-    const group = grouped.get(item.sourceLabel) ?? [];
-    group.push(item);
-    grouped.set(item.sourceLabel, group);
+// はてな人気・HN は1つのフィードに別々のサイトの記事が並ぶので、記事のドメインを出どころとみなす
+const AGGREGATOR_TIERS: FeedTier[] = ['hotentry', 'signal'];
+const getOriginKey = (item: EnrichedFeedItem): string =>
+  AGGREGATOR_TIERS.includes(item.sourceTier) ? `host:${getHostname(item.link)}` : item.sourceLabel;
+
+const scoreItems = (
+  items: EnrichedFeedItem[],
+  hatenaCountMap: FeedItemHatenaCountMap,
+  now: dayjs.Dayjs,
+  halfLifeHours?: number,
+): ScoredItem[] =>
+  items
+    .map((item) => ({ item, itemScore: scoreItem(item, hatenaCountMap, { now, halfLifeHours }) }))
+    .sort((a, b) => b.itemScore.score - a.itemScore.score || b.item.isoDate.localeCompare(a.item.isoDate));
+
+/**
+ * 量の多いソースを、新しい順ではなくスコア順で上限まで残す
+ */
+export const capItemsPerSourceByScore = (
+  items: EnrichedFeedItem[],
+  hatenaCountMap: FeedItemHatenaCountMap,
+  maxItemsBySource: Map<string, number>,
+  now: dayjs.Dayjs = dayjs(),
+): EnrichedFeedItem[] => {
+  const countBySource = new Map<string, number>();
+  const kept: EnrichedFeedItem[] = [];
+
+  for (const { item } of scoreItems(items, hatenaCountMap, now)) {
+    const maxItems = maxItemsBySource.get(item.sourceLabel);
+    const count = countBySource.get(item.sourceLabel) ?? 0;
+    if (maxItems !== undefined && count >= maxItems) {
+      continue;
+    }
+    countBySource.set(item.sourceLabel, count + 1);
+    kept.push(item);
   }
 
-  const capped: EnrichedFeedItem[] = [];
-
-  for (const [label, groupItems] of grouped) {
-    const maxItems = feedMaxItems.get(label);
-    const sorted = [...groupItems].sort((a, b) => b.isoDate.localeCompare(a.isoDate));
-    capped.push(...(maxItems !== undefined ? sorted.slice(0, maxItems) : sorted));
-  }
-
-  return capped.sort((a, b) => b.isoDate.localeCompare(a.isoDate));
+  return kept.sort((a, b) => b.isoDate.localeCompare(a.isoDate));
 };
 
 export const filterByTiers = (items: EnrichedFeedItem[], tiers: FeedTier[]): EnrichedFeedItem[] =>
@@ -41,17 +65,15 @@ export const filterByTiers = (items: EnrichedFeedItem[], tiers: FeedTier[]): Enr
 export const filterCuratedIdidBookmarks = (items: EnrichedFeedItem[]): EnrichedFeedItem[] => {
   const segment = constants.ididBookmarkPathSegment;
   return items.filter(
-    (item) =>
-      item.sourceLabel === 'iDID' &&
-      (item.link.includes(`/${segment}/`) || item.link.includes(`/${segment}`)),
+    (item) => item.sourceLabel === 'iDID' && (item.link.includes(`/${segment}/`) || item.link.includes(`/${segment}`)),
   );
 };
 
-export const selectHatenaItItems = (items: EnrichedFeedItem[]): EnrichedFeedItem[] => {
-  const windowStart = dayjs().subtract(constants.hatenaItWindowHours, 'hour');
+export const selectHatenaItItems = (items: EnrichedFeedItem[], now: dayjs.Dayjs = dayjs()): EnrichedFeedItem[] => {
+  const windowStart = now.subtract(constants.hatenaItWindowHours, 'hour');
   const blocklist = new Set(constants.hatenaItDomainBlocklist);
 
-  let filtered = items
+  const filtered = items
     .filter((item) => item.sourceTier === 'hotentry')
     .filter((item) => dayjs(item.isoDate).isAfter(windowStart))
     .filter((item) => (item.hatenaBookmarkCountFromRss ?? 0) >= constants.hatenaItMinBookmarkCount)
@@ -61,8 +83,7 @@ export const selectHatenaItItems = (items: EnrichedFeedItem[]): EnrichedFeedItem
     })
     .sort(
       (a, b) =>
-        (b.hatenaBookmarkCountFromRss ?? 0) - (a.hatenaBookmarkCountFromRss ?? 0) ||
-        b.isoDate.localeCompare(a.isoDate),
+        (b.hatenaBookmarkCountFromRss ?? 0) - (a.hatenaBookmarkCountFromRss ?? 0) || b.isoDate.localeCompare(a.isoDate),
     );
 
   const domainCounts = new Map<string, number>();
@@ -84,133 +105,130 @@ export const selectHatenaItItems = (items: EnrichedFeedItem[]): EnrichedFeedItem
   return limited;
 };
 
+/**
+ * 今週の人気。はてブが付いた記事を、半減期を長めにしたスコアで並べる
+ */
 export const scoreDiscoverItems = (
   items: EnrichedFeedItem[],
   hatenaCountMap: FeedItemHatenaCountMap,
+  now: dayjs.Dayjs = dayjs(),
 ): EnrichedFeedItem[] => {
-  const windowStart = dayjs().subtract(constants.discoverWindowDays, 'day');
-
-  const scored = items
-    .filter((item) => CORE_OUTPUT_TIERS.includes(item.sourceTier))
+  const windowStart = now.subtract(constants.discoverWindowDays, 'day');
+  const candidates = items
+    .filter((item) => CORE_OUTPUT_TIERS.includes(item.sourceTier) || item.sourceTier === 'research')
     .filter((item) => dayjs(item.isoDate).isAfter(windowStart))
-    .map((item) => {
-      const hatenaCount = hatenaCountMap.get(item.link) ?? 0;
-      if (hatenaCount < constants.discoverMinHatenaCount) {
-        return null;
-      }
-      const diffDays = dayjs().diff(item.isoDate, 'day');
-      const recencyFactor = Math.max(
-        0.05,
-        ((constants.discoverWindowDays - diffDays) / constants.discoverWindowDays) ** 3,
-      );
-      const tierBonus = item.sourceTier === 'essential' || item.sourceTier === 'core' ? constants.discoverCoreBonus : 1;
-      return { item, score: hatenaCount * recencyFactor * tierBonus };
-    })
-    .filter((entry): entry is { item: EnrichedFeedItem; score: number } => entry !== null)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, constants.discoverMaxItems)
-    .map((entry) => entry.item);
+    .filter((item) => getHatenaCount(item, hatenaCountMap) >= constants.discoverMinHatenaCount);
 
-  return scored;
-};
+  const countBySource = new Map<string, number>();
+  const selected: EnrichedFeedItem[] = [];
 
-export const selectPicksItems = (
-  items: EnrichedFeedItem[],
-  hatenaCountMap: FeedItemHatenaCountMap,
-): EnrichedFeedItem[] => {
-  const isDaily = constants.picksMode === 'daily';
-  const maxItems = isDaily ? constants.picksDailyMaxItems : constants.picksWeeklyMaxItems;
-  const windowHours = isDaily ? constants.picksWindowHours : constants.picksWeeklyWindowHours;
-  const windowStart = dayjs().subtract(windowHours, 'hour');
-
-  const candidates = items.filter((item) => {
-    if (!dayjs(item.isoDate).isAfter(windowStart)) {
-      return false;
+  for (const { item } of scoreItems(candidates, hatenaCountMap, now, constants.discoverHalfLifeHours)) {
+    const originKey = getOriginKey(item);
+    const count = countBySource.get(originKey) ?? 0;
+    if (count >= constants.discoverMaxItemsPerSource) {
+      continue;
     }
-    if (item.sourceTier === 'media' || item.sourceTier === 'hotentry' || item.sourceTier === 'signal') {
-      return false;
-    }
-    return ['essential', 'core', 'optional', 'curated', 'research'].includes(item.sourceTier);
-  });
-
-  const essentialRecent = candidates
-    .filter((item) => item.sourceTier === 'essential')
-    .sort((a, b) => b.isoDate.localeCompare(a.isoDate));
-
-  const picks: EnrichedFeedItem[] = [];
-  const usedBlogs = new Set<string>();
-  const usedTitleKeys = new Set<string>();
-
-  const tryAdd = (item: EnrichedFeedItem): boolean => {
-    if (picks.length >= maxItems) {
-      return false;
-    }
-    if (usedBlogs.has(item.sourceLabel)) {
-      return false;
-    }
-    const titleKey = normalizeTitleKey(item.title ?? '');
-    if (usedTitleKeys.has(titleKey)) {
-      return false;
-    }
-    usedBlogs.add(item.sourceLabel);
-    usedTitleKeys.add(titleKey);
-    picks.push(item);
-    return true;
-  };
-
-  for (let i = 0; i < constants.picksEssentialReservedSlots && i < essentialRecent.length; i++) {
-    tryAdd(essentialRecent[i]);
-  }
-
-  const scored = candidates
-    .filter((item) => !picks.includes(item))
-    .map((item) => {
-      const hatenaCount = hatenaCountMap.get(item.link) ?? 0;
-      const diffDays = dayjs().diff(item.isoDate, 'day');
-      const recencyFactor = Math.max(0.05, ((3 - Math.min(diffDays, 3)) / 3) ** 2);
-      let score = (hatenaCount + 1) * recencyFactor;
-      if (item.sourceTier === 'core') {
-        score *= constants.picksCoreBonus;
-      }
-      if (item.sourceTier === 'research') {
-        score *= 1.3;
-      }
-      if (item.sourceTier === 'curated') {
-        score *= 1.2;
-      }
-      return { item, score };
-    })
-    .sort((a, b) => b.score - a.score);
-
-  for (const { item } of scored) {
-    if (picks.length >= maxItems) {
+    countBySource.set(originKey, count + 1);
+    selected.push(item);
+    if (selected.length >= constants.discoverMaxItems) {
       break;
     }
-    tryAdd(item);
   }
 
-  return picks.sort((a, b) => b.isoDate.localeCompare(a.isoDate));
+  return selected;
 };
 
-export const buildPickReason = (item: EnrichedFeedItem, hatenaCountMap: FeedItemHatenaCountMap): string => {
-  if (item.sourceTier === 'essential') {
-    return '必読 · 安宅和人';
+/**
+ * 今日の5本。pool には自分のソースに加え、はてな人気・HN を混ぜてよい
+ * 1ソース（はてな人気・HN は1ドメイン）1本、tier ごとの枠、同じ記事の重複を除いた上でスコア順に取る
+ */
+export const selectPicksItems = (
+  pool: EnrichedFeedItem[],
+  hatenaCountMap: FeedItemHatenaCountMap,
+  now: dayjs.Dayjs = dayjs(),
+): EnrichedFeedItem[] => {
+  const maxItems = constants.picksMaxItems;
+  const windowStart = now.subtract(constants.picksWindowHours, 'hour');
+  const tierLimits = constants.picksMaxItemsPerTier;
+
+  const candidates = scoreItems(
+    pool.filter((item) => dayjs(item.isoDate).isAfter(windowStart)),
+    hatenaCountMap,
+    now,
+  );
+
+  const picks: ScoredItem[] = [];
+  const usedSources = new Set<string>();
+  const usedLinks = new Set<string>();
+  const usedTitleKeys = new Set<string>();
+  const countByTier = new Map<FeedTier, number>();
+
+  const tryAdd = (entry: ScoredItem) => {
+    const { item } = entry;
+    if (picks.length >= maxItems) {
+      return;
+    }
+    const originKey = getOriginKey(item);
+    const titleKey = normalizeTitleKey(item.title ?? '');
+    const tierCount = countByTier.get(item.sourceTier) ?? 0;
+    const tierLimit = tierLimits[item.sourceTier];
+    if (
+      usedSources.has(originKey) ||
+      usedLinks.has(item.link) ||
+      usedTitleKeys.has(titleKey) ||
+      (tierLimit !== undefined && tierCount >= tierLimit)
+    ) {
+      return;
+    }
+    usedSources.add(originKey);
+    usedLinks.add(item.link);
+    usedTitleKeys.add(titleKey);
+    countByTier.set(item.sourceTier, tierCount + 1);
+    picks.push(entry);
+  };
+
+  const essentialEntries = candidates.filter(({ item }) => item.sourceTier === 'essential');
+  for (const entry of essentialEntries.slice(0, constants.picksEssentialReservedSlots)) {
+    tryAdd(entry);
   }
-  const hatenaCount = item.hatenaBookmarkCountFromRss ?? hatenaCountMap.get(item.link) ?? 0;
-  if (hatenaCount > 0) {
-    return `はてブ${hatenaCount}件`;
+
+  for (const entry of candidates) {
+    tryAdd(entry);
   }
-  if (item.sourceTier === 'core') {
-    return 'お気に入りブログ';
-  }
-  if (item.sourceTier === 'curated') {
-    return '今日のブクマ';
-  }
-  if (item.sourceTier === 'research') {
-    return 'リサーチ';
-  }
-  if (item.sourceTier === 'hotentry') {
-    return `はてなIT人気 · ブクマ${item.hatenaBookmarkCountFromRss ?? 0}`;
-  }
-  return 'ピックアップ';
+
+  return picks.sort((a, b) => b.itemScore.score - a.itemScore.score).map(({ item }) => item);
 };
+
+/**
+ * トピック棚。直近の記事をトピックで絞り、スコア順に並べる
+ */
+export const selectTopicItems = (
+  pool: EnrichedFeedItem[],
+  hatenaCountMap: FeedItemHatenaCountMap,
+  topicId: TopicId,
+  now: dayjs.Dayjs = dayjs(),
+): EnrichedFeedItem[] => {
+  const windowStart = now.subtract(constants.topicWindowDays, 'day');
+  const usedLinks = new Set<string>();
+  const selected: EnrichedFeedItem[] = [];
+
+  for (const { item, itemScore } of scoreItems(
+    pool.filter((item) => dayjs(item.isoDate).isAfter(windowStart)),
+    hatenaCountMap,
+    now,
+  )) {
+    if (!itemScore.topics.includes(topicId) || usedLinks.has(item.link)) {
+      continue;
+    }
+    usedLinks.add(item.link);
+    selected.push(item);
+    if (selected.length >= constants.topicMaxItems) {
+      break;
+    }
+  }
+
+  return selected;
+};
+
+export const buildPickReason = (item: EnrichedFeedItem, hatenaCountMap: FeedItemHatenaCountMap): string =>
+  formatPickReason(scoreItem(item, hatenaCountMap));

@@ -8,13 +8,14 @@ eleventyComputed:
 {% include 'layouts/partials/top-section.njk' %}
 
 {% if feedItemsPicks.length > 0 %}
-<section class="ui-section-content ui-section-picks">
+<section class="ui-section-content ui-section-feed ui-section-picks">
     <div class="ui-layout-container">
-        <h2 class='ui-typography-heading'>今日のピックアップ</h2>
-        <p class='ui-text-note'><a href="{{ constants.feedUrls.picks }}">Picks RSS</a>（1日{{ constants.picksDailyMaxItems }}件まで）</p>
+        <h2 class='ui-typography-heading'>今日の{{ feedItemsPicks.length }}本</h2>
+        <p class='ui-text-note'>作った・動かした・速くなった・見つけた記事を上に。告知や参加記は下げています（<a href="{{ constants.feedUrls.picks }}">RSS</a>）</p>
         <div class="ui-section-content--feature ui-layout-grid ui-layout-grid-3 ui-container-feed">
             {% asyncEach feedItem in feedItemsPicks %}
                 {% set imageLoading = 'eager' %}
+                {% set rank = loop.index %}
                 {% include 'layouts/partials/feed-item.njk' %}
             {% endeach %}
         </div>
@@ -24,21 +25,24 @@ eleventyComputed:
 
 <section class="ui-section-content ui-section-feed">
     <div class="ui-layout-container">
-        <h2 class='ui-typography-heading'>直近1週間の更新</h2>
+        <h2 class='ui-typography-heading'>トピック別<small>直近{{ constants.topicWindowDays }}日・スコア順</small></h2>
 
-        {% asyncEach dateString, feedItems in feedItemsChunks %}
-            <h3 class='ui-section-content__feed-date-heading'>{{ dateString }}</h3>
-            <div class="ui-section-content--feature ui-layout-grid ui-layout-grid-3 ui-container-feed">
-                {% asyncEach feedItem in feedItems %}
-                    {% if loop.index <= 4 %}
-                        {% set imageLoading = 'eager' %}
-                    {% else %}
+        {% asyncEach shelf in topicShelves %}
+            {% if shelf.shelfItems.length > 0 %}
+                <h3 class='ui-section-content__feed-date-heading ui-shelf-heading'>
+                    <a href='{{ page.url | relativeUrl }}topics/{{ shelf.id }}/'>{{ shelf.label }}<small>{{ shelf.items.length }}件をすべて見る →</small></a>
+                </h3>
+                <div class="ui-section-content--feature ui-layout-grid ui-layout-grid-3 ui-container-feed">
+                    {% asyncEach feedItem in shelf.shelfItems %}
                         {% set imageLoading = 'lazy' %}
-                    {% endif %}
-                    {% include 'layouts/partials/feed-item.njk' %}
-                {% endeach %}
-            </div>
+                        {% set rank = false %}
+                        {% include 'layouts/partials/feed-item.njk' %}
+                    {% endeach %}
+                </div>
+            {% endif %}
         {% endeach %}
+
+        <p class='ui-text-note'><a href='{{ page.url | relativeUrl }}latest/'>棚に入らなかった記事も含めて、新着を時系列で見る →</a></p>
     </div>
 </section>
 

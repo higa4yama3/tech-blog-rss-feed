@@ -1,19 +1,25 @@
 ---
 layout: layouts/main.njk
 eleventyComputed:
-    pageTitle: "人気フィード｜{{ constants.siteTitle }}"
+    pageTitle: "{{ shelf.label }}｜{{ constants.siteTitle }}"
     lastUpdated: "{{ lastModifiedBlogsDate }}"
+pagination:
+    data: topicShelves
+    size: 1
+    alias: shelf
+    addAllPagesToCollections: true
+permalink: "topics/{{ shelf.id }}/"
 ---
 
 {% include 'layouts/partials/nav.njk' %}
 
 <section class="ui-section-content ui-section-feed">
     <div class="ui-layout-container">
-        <h2 class='ui-typography-heading'>直近1週間の人気フィード</h2>
-        <p class='ui-text-note'>はてブ{{ constants.discoverMinHatenaCount }}件以上・直近{{ constants.discoverWindowDays }}日をスコア順に。1ソース{{ constants.discoverMaxItemsPerSource }}件まで（<a href="{{ constants.feedUrls.discover }}">Discover RSS</a>と同内容）</p>
+        <h2 class='ui-typography-heading'>{{ shelf.label }}<small>直近{{ constants.topicWindowDays }}日・スコア順</small></h2>
+        <p class='ui-text-note'>このトピックだけを購読する: <a href="{{ shelf.feedUrl }}">RSS</a></p>
 
         <div class="ui-section-content--feature ui-layout-grid ui-layout-grid-3 ui-container-feed ui-container-feed--hot">
-            {% asyncEach feedItem in feedItemsHot %}
+            {% asyncEach feedItem in shelf.items %}
                 {% if loop.index <= 4 %}
                     {% set imageLoading = 'eager' %}
                 {% else %}
