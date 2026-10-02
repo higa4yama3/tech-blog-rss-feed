@@ -28,6 +28,8 @@ export default {
     curated: `${feedsBase}curated.atom.xml`,
     hatenaIt: `${feedsBase}hatena-it.atom.xml`,
   },
+  // トピック別フィードは `${feedsBaseUrl}topic-<id>.atom.xml`
+  feedsBaseUrl: feedsBase,
 
   // リンク
   author: 'higa4yama3',
@@ -59,20 +61,24 @@ export default {
   fetchedFeedCacheDurationInHours: 1,
   fetchedOgCacheDurationInHours: 24,
 
-  // picks
-  picksMode: 'daily' as 'daily' | 'weekly',
-  picksDailyMaxItems: 3,
-  picksWeeklyMaxItems: 10,
-  picksWindowHours: 24,
-  picksWeeklyWindowHours: 72,
-  picksCoreBonus: 2,
+  // picks（今日の5本）。スコアの定義は src/resources/interest-profile.ts
+  picksMaxItems: 5,
+  picksWindowHours: 48,
   picksEssentialReservedSlots: 1,
+  // 外から来る記事が自分のソースを押し出さないよう、tier ごとに枠を絞る
+  picksMaxItemsPerTier: { hotentry: 2, signal: 1, media: 1, optional: 1 } as Partial<Record<string, number>>,
 
-  // discover
+  // discover（今週の人気）
   discoverMinHatenaCount: 3,
   discoverWindowDays: 7,
   discoverMaxItems: 25,
-  discoverCoreBonus: 1.5,
+  discoverMaxItemsPerSource: 3,
+  discoverHalfLifeHours: 96,
+
+  // トピック棚
+  topicWindowDays: 7,
+  topicMaxItems: 30,
+  topicShelfItems: 3,
 
   // hatena IT 人気
   hatenaItMinBookmarkCount: 50,

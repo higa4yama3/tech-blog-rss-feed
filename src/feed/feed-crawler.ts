@@ -7,9 +7,8 @@ import { default as ogs } from 'open-graph-scraper';
 import type { ImageObject, OgObject, OpenGraphScraperOptions } from 'open-graph-scraper/types/lib/types';
 import RssParser from 'rss-parser';
 import constants from '../common/constants';
-import { TIER_AGGREGATE_HOURS, type FeedTier } from '../resources/feed-tier';
 import type { FeedInfo } from '../resources/feed-info-list';
-import { enrichFeedItem, type EnrichedFeedItem } from './enriched-feed-item';
+import { type FeedTier, TIER_AGGREGATE_HOURS } from '../resources/feed-tier';
 import {
   exponentialBackoff,
   fetchHatenaCountMap,
@@ -19,6 +18,8 @@ import {
   textToMd5Hash,
   urlRemoveQueryParams,
 } from './common-util';
+import { type EnrichedFeedItem, enrichFeedItem } from './enriched-feed-item';
+import { capItemsPerSourceByScore } from './feed-item-processor';
 import { FeedValidator } from './feed-validator';
 import { logger } from './logger';
 
@@ -44,6 +45,19 @@ export type CustomRssParserFeed = RssParser.Output<CustomRssParserItem> & {
   sourceTier: FeedTier;
 };
 
+/**
+ * hnrss の description に入っている Points と Comments を取り出す
+ * <comments> 要素はコメントページの URL なので数値には使えない
+ */
+export const parseHnStats = (content: string): { hnPoints?: number; hnComments?: number } => {
+  const points = content.match(/Points:\s*(\d+)/);
+  const comments = content.match(/# Comments:\s*(\d+)/);
+  return {
+    hnPoints: points ? Number.parseInt(points[1], 10) : undefined,
+    hnComments: comments ? Number.parseInt(comments[1], 10) : undefined,
+  };
+};
+
 export interface ClawlFeedsResult {
   feeds: CustomRssParserFeed[];
   feedItems: EnrichedFeedItem[];
@@ -56,27 +70,12 @@ export class FeedCrawler {
   private rssParser;
   private feedValidator;
 
-  private hnrssParser;
-
   constructor() {
     this.rssParser = new RssParser({
       maxRedirects: 5,
       timeout: 1000 * 10,
       headers: {
         'user-agent': constants.requestUserAgent,
-      },
-    });
-    this.hnrssParser = new RssParser({
-      maxRedirects: 5,
-      timeout: 1000 * 10,
-      headers: {
-        'user-agent': constants.requestUserAgent,
-      },
-      customFields: {
-        item: [
-          ['comments', 'hnComments'],
-          ['points', 'hnPoints'],
-        ],
       },
     });
     this.feedValidator = new FeedValidator();
@@ -88,14 +87,33 @@ export class FeedCrawler {
     feedOgFetchConcurrency: number,
   ): Promise<ClawlFeedsResult> {
     const feeds = await this.fetchFeedsAsync(feedInfoList, feedFetchConcurrency);
-    const allFeedItems = this.aggregateFeeds(feeds, feedInfoList);
+    const aggregatedItems = this.aggregateFeeds(feeds, feedInfoList);
 
-    const ogTargetItems = allFeedItems.filter((item) => item.sourceTier !== 'hotentry');
+    // はてブ数をスコアに使うので、件数上限より先に取る
+    const [errorFetchHatenaCount, hatenaCountMap] = await to(
+      this.fetchHatenaCountMap(aggregatedItems.filter((item) => item.sourceTier !== 'hotentry')),
+    );
+    if (errorFetchHatenaCount) {
+      throw new Error('はてなブックマーク数の取得に失敗しました', { cause: errorFetchHatenaCount });
+    }
+
+    const maxItemsBySource = new Map<string, number>();
+    for (const feedInfo of feedInfoList) {
+      if (feedInfo.maxItemsInAggregate !== undefined) {
+        maxItemsBySource.set(feedInfo.label, feedInfo.maxItemsInAggregate);
+      }
+    }
+    const allFeedItems = capItemsPerSourceByScore(aggregatedItems, hatenaCountMap, maxItemsBySource);
+
+    // はてな人気エントリーはサイトに出す閾値を超えたものだけ OG を取る
+    const ogTargetItems = allFeedItems.filter(
+      (item) =>
+        item.sourceTier !== 'hotentry' || (item.hatenaBookmarkCountFromRss ?? 0) >= constants.hatenaItMinBookmarkCount,
+    );
 
     const [errorFetchFeedData, results] = await to(
       Promise.all([
         this.fetchFeedItemOgObjectMap(ogTargetItems, feedOgFetchConcurrency),
-        this.fetchHatenaCountMap(ogTargetItems),
         this.fetchFeedBlogOgObjectMap(feeds, feedOgFetchConcurrency),
       ]),
     );
@@ -107,8 +125,8 @@ export class FeedCrawler {
       feeds: feeds,
       feedItems: allFeedItems,
       feedItemOgObjectMap: results[0],
-      feedItemHatenaCountMap: results[1],
-      feedBlogOgObjectMap: results[2],
+      feedItemHatenaCountMap: hatenaCountMap,
+      feedBlogOgObjectMap: results[1],
     };
   }
 
@@ -161,8 +179,7 @@ export class FeedCrawler {
               feedCache.save();
             }
 
-            const parser = feedInfo.url.includes('hnrss.org') ? this.hnrssParser : this.rssParser;
-            const parsed = (await parser.parseString(feedData)) as CustomRssParserFeed;
+            const parsed = (await this.rssParser.parseString(feedData)) as CustomRssParserFeed;
             return { parsed, rawXml: feedData };
           }),
         );
@@ -232,17 +249,19 @@ export class FeedCrawler {
   /**
    * 取得したフィードの調整
    */
-  private static postProcessFeed(
-    feedInfo: FeedInfo,
-    feed: CustomRssParserFeed,
-    rawXml?: string,
-  ): CustomRssParserFeed {
+  private static postProcessFeed(feedInfo: FeedInfo, feed: CustomRssParserFeed, rawXml?: string): CustomRssParserFeed {
     const customFeed = feed as CustomRssParserFeed;
     customFeed.sourceLabel = feedInfo.label;
     customFeed.sourceTier = feedInfo.tier;
 
     if (feedInfo.tier === 'hotentry' && rawXml) {
       FeedCrawler.applyHatenaBookmarkCounts(customFeed, rawXml);
+    }
+
+    if (feedInfo.url.includes('hnrss.org')) {
+      for (const feedItem of customFeed.items) {
+        Object.assign(feedItem, parseHnStats(feedItem.content ?? ''));
+      }
     }
 
     // ブログごとの調整
@@ -322,7 +341,9 @@ export class FeedCrawler {
         continue;
       }
 
-      const aggregateStartAt = new Date(Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000).toISOString();
+      const aggregateStartAt = new Date(
+        Date.now() - TIER_AGGREGATE_HOURS[feedInfo.tier] * 60 * 60 * 1000,
+      ).toISOString();
 
       let items = feed.items.filter((feedItem) => feedItem.isoDate && feedItem.isoDate >= aggregateStartAt);
 
@@ -339,10 +360,6 @@ export class FeedCrawler {
 
       items.sort((a, b) => b.isoDate.localeCompare(a.isoDate));
 
-      if (feedInfo.maxItemsInAggregate !== undefined) {
-        items = items.slice(0, feedInfo.maxItemsInAggregate);
-      }
-
       for (const feedItem of items) {
         enrichedItems.push(
           enrichFeedItem(
@@ -351,6 +368,7 @@ export class FeedCrawler {
             feedInfo.label,
             feedInfo.tags ?? [],
             feedInfo.contentFormat ?? 'default',
+            feedInfo.topics ?? [],
           ),
         );
       }
@@ -550,7 +568,9 @@ export class FeedCrawler {
       const [error, hatenaCountMap] = await to(fetchHatenaCountMap(feedItemUrls));
 
       if (error) {
-        Promise.reject(new Error('[hatena-count] Fail to get hatena bookmark count', { cause: error }));
+        // 件数が取れなくてもフィードは出せるので、0件扱いで続ける
+        logger.warn('[hatena-count] Fail to get hatena bookmark count', error.message);
+        continue;
       }
 
       for (const feedItemUrl in hatenaCountMap) {

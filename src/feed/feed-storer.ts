@@ -1,6 +1,7 @@
 import * as fs from 'node:fs/promises';
 import * as path from 'node:path';
 import { to } from 'await-to-js';
+import { TOPICS } from '../resources/interest-profile';
 import { textToMd5Hash, textTruncate } from './common-util';
 import type { CustomRssParserFeed, FeedItemHatenaCountMap, OgObjectMap } from './feed-crawler';
 import type { FeedDistributionSet, GenerateFeedBundleResult } from './feed-generator';
@@ -8,6 +9,9 @@ import { logger } from './logger';
 
 export interface BlogFeed {
   title: string;
+  /** feed-info-list のラベル。ソース監査で突き合わせる */
+  label: string;
+  tier: string;
   link: string;
   linkMd5Hash: string;
   ogImageUrl: string;
@@ -66,6 +70,9 @@ export class FeedStorer {
     await writeNamedFeed('research', bundle.research);
     await writeNamedFeed('curated', bundle.curated);
     await writeNamedFeed('hatena-it', bundle.hatenaIt);
+    for (const topic of TOPICS) {
+      await writeNamedFeed(`topic-${topic.id}`, bundle.topics[topic.id]);
+    }
 
     logger.info('[store-feeds] finished');
   }
@@ -88,6 +95,8 @@ export class FeedStorer {
 
       const customFeed: BlogFeed = {
         title: feed.title,
+        label: feed.sourceLabel,
+        tier: feed.sourceTier,
         link: feed.link,
         linkMd5Hash: textToMd5Hash(feed.link),
         ogImageUrl: ogObjectMap.get(feed.link)?.customOgImage?.url || '',

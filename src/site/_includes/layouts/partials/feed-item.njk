@@ -8,8 +8,8 @@
     </a>
     <div class='ui-feed-item__content'>
         <a class='ui-feed-item__title' href='{{ feedItem.url }}'>{{ feedItem._custom.originalTitle }}</a>
-        {% if feedItem.pickReason or feedItem._custom.pickReason %}
-            <div class='ui-feed-item__pick-reason'>{{ feedItem.pickReason or feedItem._custom.pickReason }}</div>
+        {% if rank or feedItem.pickReason or feedItem._custom.pickReason %}
+            <div class='ui-feed-item__pick-reason'>{% if rank %}{{ rank }}. {% endif %}{{ feedItem.pickReason or feedItem._custom.pickReason }}</div>
         {% endif %}
         {% if feedItem._custom.hatenaCount > 0 %}
             <div class='ui-feed-item__hatena-count' title='はてなブックマーク数'>
@@ -17,12 +17,25 @@
                 <span>{{ feedItem._custom.hatenaCount }}</span>
             </div>
         {% endif %}
+        {% if feedItem._custom.sourceTier == 'hotentry' or feedItem._custom.sourceTier == 'signal' %}
+        {# はてな人気・HN などは1つのフィードに別サイトの記事が並ぶので、記事のドメインを出す #}
+        <div class='ui-feed-item__blog-title'>
+          {% if feedItem._custom.favicon %}
+            {% imageIcon feedItem._custom.favicon, 'サイトのファビコン', page.url | relativeUrl, imageLoading %}
+          {% endif %}
+          <span>{{ feedItem._custom.host }}（{{ feedItem._custom.sourceLabel }}）</span>
+        </div>
+        {% else %}
         <a class='ui-feed-item__blog-title ui-feed-item__blog-title--link' href='{{ page.url | relativeUrl }}blogs/{{ feedItem._custom.blogLinkMd5Hash }}'>
           {% if feedItem._custom.favicon %}
             {% imageIcon feedItem._custom.favicon, 'ブログのファビコン', page.url | relativeUrl, imageLoading %}
           {% endif %}
           <span>{{ feedItem._custom.blogTitle }}</span>
         </a>
+        {% endif %}
+        {% if feedItem._custom.topicLabels and feedItem._custom.topicLabels.length > 0 %}
+            <div class='ui-feed-item__topics'>{{ feedItem._custom.topicLabels | join(' / ') }}</div>
+        {% endif %}
         {% if feedItem.content_html %}
             <div class='ui-feed-item__summary'>{{ feedItem.content_html | truncate(500, true, "...") }}</div>
         {% endif %}
