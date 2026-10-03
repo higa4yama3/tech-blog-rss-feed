@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (カルチャー)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.atom.xml</link>
+        <description>カルチャーの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 03 Oct 2026 22:49:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (カルチャー)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[再び浮上した「クレカ表現規制問題」　クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/04/2000001978/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/04/2000001978/</guid>
+            <pubDate>Sat, 03 Oct 2026 22:16:00 GMT</pubDate>
+            <description><![CDATA[9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。（1/6 ページ）]]></description>
+            <content:encoded><![CDATA[9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。（1/6 ページ）]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/04/2000001978/10008326/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/04/2000001978/10008326/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[仕組みを掘る] ［連載小説4］内部通報の強化に反発する現場　カリスマ顧問「会社を壊すなよ」 (氷層) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00934/092400004/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00934/092400004/</guid>
+            <pubDate>Fri, 02 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[改正公益通報者保護法の説明会当日、東邦商事本館26階の大会議室には、開始前から重苦しい空気が漂っていた。本社の全部長、主要子会社の管理担当役員、監査、法務、人事、財務。会場には100人近い管理職が集まり、壁際の大型モニターには、オンラインで参加する海外拠点長の名前と映像が並んでいた。資料の表紙には、森村透子が赤字で書き直したタイトルが、そのまま印刷されていた。]]></description>
+            <content:encoded><![CDATA[改正公益通報者保護法の説明会当日、東邦商事本館26階の大会議室には、開始前から重苦しい空気が漂っていた。本社の全部長、主要子会社の管理担当役員、監査、法務、人事、財務。会場には100人近い管理職が集まり、壁際の大型モニターには、オンラインで参加する海外拠点長の名前と映像が並んでいた。資料の表紙には、森村透子が赤字で書き直したタイトルが、そのまま印刷されていた。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00934/092400004/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[パラマウントとワーナー、統合後の新会社名は「スカイダンス」と発表 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157233</link>
+            <guid>https://www.cinematoday.jp/news/N0157233</guid>
+            <pubDate>Sat, 03 Oct 2026 10:51:50 GMT</pubDate>
+            <description><![CDATA[米パラマウント・スカイダンスとワーナー・ブラザース・ディスカバリー（WBD）の統合による新たな会社名が「スカイダンス（Skydance）」になることが明らかになった。]]></description>
+            <content:encoded><![CDATA[米パラマウント・スカイダンスとワーナー・ブラザース・ディスカバリー（WBD）の統合による新たな会社名が「スカイダンス（Skydance）」になることが明らかになった。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/RCK80BHUq7na/_size_r1200x630/_v_1791024710/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「虎に翼」脚本・吉田恵里香、“法の日フェスタ”コラボに喜び　作品のメッセージ「法務省の皆様にも届いたのだと」 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157152</link>
+            <guid>https://www.cinematoday.jp/news/N0157152</guid>
+            <pubDate>Sat, 03 Oct 2026 08:41:48 GMT</pubDate>
+            <description><![CDATA[『劇場版「虎に翼」』と「法の日フェスタin赤れんが2026」のイベントコラボが3日、法務省赤レンガ棟で実現し、劇場版のメガホンを取った梛川善郎監督と脚本を担当した吉田恵里香がトークセッションに出席、作品への思いを語った。]]></description>
+            <content:encoded><![CDATA[『劇場版「虎に翼」』と「法の日フェスタin赤れんが2026」のイベントコラボが3日、法務省赤レンガ棟で実現し、劇場版のメガホンを取った梛川善郎監督と脚本を担当した吉田恵里香がトークセッションに出席、作品への思いを語った。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/vSSvACtoliEv/_size_r1200x630/_v_1791016908/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「ルパン三世」55周年傑作選、各シリーズの投票数最終第1位を発表　10月3日より放送 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157216</link>
+            <guid>https://www.cinematoday.jp/news/N0157216</guid>
+            <pubDate>Fri, 02 Oct 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[1971年のテレビアニメ第1話放送から55周年を迎える「ルパン三世」の記念企画として、ファン投票によって放送エピソードを決定する「ルパン三世傑作選」が、10月3日（深夜）より日本テレビにて毎週土曜深夜に放送される。]]></description>
+            <content:encoded><![CDATA[1971年のテレビアニメ第1話放送から55周年を迎える「ルパン三世」の記念企画として、ファン投票によって放送エピソードを決定する「ルパン三世傑作選」が、10月3日（深夜）より日本テレビにて毎週土曜深夜に放送される。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/dgCg9H1u8K5d/_size_r1200x630/_v_1790928049/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[『ジュラシック・ワールド／復活の大地』続編、ギャレス・エドワーズの後任は『炎の王国』監督か | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157232</link>
+            <guid>https://www.cinematoday.jp/news/N0157232</guid>
+            <pubDate>Sat, 03 Oct 2026 05:54:52 GMT</pubDate>
+            <description><![CDATA[米ユニバーサルが、映画『ジュラシック・ワールド／復活の大地』（2025）の続編の監督として、2018年公開の『ジュラシック・ワールド／炎の王国』を手掛けた、Ｊ・Ａ・バヨナを筆頭候補に挙げているとTheWrapほか各メディアが報じた。]]></description>
+            <content:encoded><![CDATA[米ユニバーサルが、映画『ジュラシック・ワールド／復活の大地』（2025）の続編の監督として、2018年公開の『ジュラシック・ワールド／炎の王国』を手掛けた、Ｊ・Ａ・バヨナを筆頭候補に挙げているとTheWrapほか各メディアが報じた。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/nmtdvGXz_lqN/_size_r1200x630/_v_1791006892/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「VIVANT」後半戦、アリはバルカで“留守番”なのか　山中崇「最後まで気が抜けない」 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157230</link>
+            <guid>https://www.cinematoday.jp/news/N0157230</guid>
+            <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）で、解体した国際テロ組織「テント」の元幹部・アリを演じている山中崇。]]></description>
+            <content:encoded><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）で、解体した国際テロ組織「テント」の元幹部・アリを演じている山中崇。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/-SiLoFJlyhln/_size_r1200x630/_v_1790994460/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「VIVANT」後半戦初回のキーパーソンはノコル＆黒須　飯田P、松坂桃李の演技に「ある種の恐怖感」 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157229</link>
+            <guid>https://www.cinematoday.jp/news/N0157229</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）が、10月4日放送の第19話より第2シーズン後半戦に突入する。]]></description>
+            <content:encoded><![CDATA[日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）が、10月4日放送の第19話より第2シーズン後半戦に突入する。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/NOCdO0Dw9J0h/_size_r1200x630/_v_1790950821/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[『踊る大捜査線』藤吉夏鈴＆齊藤なぎさ、青島俊作との共演「人生の伝説」新世代がつなぐ“踊る”イズム | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157208</link>
+            <guid>https://www.cinematoday.jp/news/N0157208</guid>
+            <pubDate>Sat, 03 Oct 2026 22:10:00 GMT</pubDate>
+            <description><![CDATA[社会現象を巻き起こした織田裕二主演『踊る大捜査線』シリーズの14年ぶりとなる新作映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（全国公開中）に、新キャストとして参加した藤吉夏鈴（櫻坂46）と齊藤なぎさ。]]></description>
+            <content:encoded><![CDATA[社会現象を巻き起こした織田裕二主演『踊る大捜査線』シリーズの14年ぶりとなる新作映画『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』（全国公開中）に、新キャストとして参加した藤吉夏鈴（櫻坂46）と齊藤なぎさ。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/5FCMHqyiioqA/_size_r1200x630/_v_1790910837/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[今夜「VIVANT」過酷な別班奪還作戦　シンシーの刃が迫る【後半戦初回あらすじ】 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157168</link>
+            <guid>https://www.cinematoday.jp/news/N0157168</guid>
+            <pubDate>Sat, 03 Oct 2026 21:46:00 GMT</pubDate>
+            <description><![CDATA[日曜劇場「VIVANT」（TBS系）の第19話（第2シーズン後半戦初回）が、4日よる9時から放送される。]]></description>
+            <content:encoded><![CDATA[日曜劇場「VIVANT」（TBS系）の第19話（第2シーズン後半戦初回）が、4日よる9時から放送される。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/sZo7WtrY0fyM/_size_r1200x630/_v_1790753449/main.jpg"/>
+        </item>
+    </channel>
+</rss>

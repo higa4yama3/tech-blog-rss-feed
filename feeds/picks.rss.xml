@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (今日の5本)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        <description>読んで高揚しそうな記事をスコア順に選んだもの</description>
+        <lastBuildDate>Sat, 03 Oct 2026 22:49:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (今日の5本)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ413] 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</link>
+            <guid>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</guid>
+            <pubDate>Fri, 02 Oct 2026 15:17:29 GMT</pubDate>
+            <description><![CDATA[はてブ413 · 動かしてみた
+はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></description>
+            <content:encoded><![CDATA[はてブ413 · 動かしてみた
+はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDc1MzUxJTJGY2VlMTgxZmZmZTcyYjNjZWFiNTFmNmVlODMxNjk4MDZiOTljMzI5ZCUyRnhfbGFyZ2UucG5nJTNGMTc4Njk3MDQzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGQwZTVjMjE3NWE5MTI1YmMwYzM2OWEyYmJmNGU1NTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwOGU2ZWM5ZWViMWNmYzNmYWZjZGRlNTNkMGJiN2MxYjRjM2NhZmVkJTJGb3JpZ2luYWwuanBnJTNGMTY3ODc3NjQ0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wMDhkN2RmOTQxYzZhODc4YzlhMzJmYWMxYjE1MmI1Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dca004b4b0e07f1dd1e0e7937c9a70633" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDc1MzUxJTJGY2VlMTgxZmZmZTcyYjNjZWFiNTFmNmVlODMxNjk4MDZiOTljMzI5ZCUyRnhfbGFyZ2UucG5nJTNGMTc4Njk3MDQzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGQwZTVjMjE3NWE5MTI1YmMwYzM2OWEyYmJmNGU1NTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwOGU2ZWM5ZWViMWNmYzNmYWZjZGRlNTNkMGJiN2MxYjRjM2NhZmVkJTJGb3JpZ2luYWwuanBnJTNGMTY3ODc3NjQ0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wMDhkN2RmOTQxYzZhODc4YzlhMzJmYWMxYjE1MmI1Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dca004b4b0e07f1dd1e0e7937c9a70633?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUUzJTgxJTk3JUUzJTgxJTg0JUU2JTk3JUE1JUU2JTlDJUFDJUU4JUFBJTlFJUU2JThFJUE4JUU2JTk1JUIyJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJThDeW9taXlhc3UlRTMlODAlOEQlRTMlODElOEMlRTMlODMlOTAlRTMlODIlQkElRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODElOUYlRTMlODElQUUlRTMlODElQTclRTMlODAlODFDbGF1ZGUlRTMlODElQTclRTYlOTclQTUlRTYlOUMlQUMlRTglQUElOUUlRTYlOEUlQTglRTYlOTUlQjIlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIzJUUzJTgxJUE0JUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2RkZDc2YzVlMjJkNWViODI0Y2RjYmQ0Y2E2ZGU5Y2Y&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbm95dS1xaWl0YSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiYzg3ZWI4MzM5YjcwZTRlMDRlNWUzZDRkZjY2YWE0&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44Kk44O844OH44Kj44O844Ko44O8&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=302c30c3c9d3ec6405465358638cdfad"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ22] Getting the most out of Opus 5.5 in Claude and Claude Code | Hacker News: Front Page]]></title>
+            <link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
+            <guid>https://news.ycombinator.com/item?id=49946567</guid>
+            <pubDate>Sat, 03 Oct 2026 18:29:30 GMT</pubDate>
+            <description><![CDATA[はてブ22 · HN 117pt
+How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></description>
+            <content:encoded><![CDATA[はてブ22 · HN 117pt
+How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://claude.dev/blog/getting-the-most-out-of-opus-5-5/og.png" width="1200" alt="Getting the most out of Opus 5.5 in Claude and Claude Code / claude.dev Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ65] 2026 年 10 月前半の LLM 利用状況 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://voluntas.ghost.io/2026-10-first-half-llm/</link>
+            <guid>https://voluntas.ghost.io/2026-10-first-half-llm/</guid>
+            <pubDate>Sat, 03 Oct 2026 08:13:44 GMT</pubDate>
+            <description><![CDATA[はてブ65
+あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替]]></description>
+            <content:encoded><![CDATA[はてブ65
+あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。  Ollama Cloud は月 $500 支払うと $1000 ドル分利用できる。さらにDeepSeek のピークが日本時間の 21:00-03:00 ということで、営業時間にかぶらないというメリットがあり、実質利用枠が 2 倍になった。   Cursor  Team]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="jpg" height="840" url="https://static.ghost.org/v5.0.0/images/publication-cover.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ49] Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261002/k8s</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261002/k8s</guid>
+            <pubDate>Fri, 02 Oct 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[はてブ49 · 設計判断・移行
+■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3.]]></description>
+            <content:encoded><![CDATA[はてブ49 · 設計判断・移行
+■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか？ k8sリソースの粒度の問題 マニフェスト抽象化OSSの選定 PlatformAppの記述例 拡張性とガードレールの両立 4. 今後の課題 まとめ]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/118ca9452df32db050fbdedd93b4dd94ff82b5d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png" alt="Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261003-ministack/</link>
+            <guid>https://gigazine.net/news/20261003-ministack/</guid>
+            <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[はてブ57
+AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></description>
+            <content:encoded><![CDATA[はてブ57
+AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/03/ministack/00.png"/>
+        </item>
+    </channel>
+</rss>

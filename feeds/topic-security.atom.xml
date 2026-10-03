@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security</id>
+    <title>RSS (セキュリティ)</title>
+    <updated>2026-10-03T22:49:43.236Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml"/>
+    <subtitle>セキュリティの記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ178] 韓国6行に「AIハッキング」、4行で個人情報流出 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html</id>
+        <link href="https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html"/>
+        <updated>2026-10-03T03:45:48.000Z</updated>
+        <summary type="html"><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></summary>
+        <content type="html"><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T03:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ91] 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001981/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001981/"/>
+        <updated>2026-10-03T00:45:23.000Z</updated>
+        <summary type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></summary>
+        <content type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T00:45:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] 「VLC 3.0.24」に多数の脆弱性修正、本体だけで50件超、macOSでは任意コード実行も実証／開発元の仏VideoLAN Projectが明らかに | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2145035.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2145035.html"/>
+        <updated>2026-10-02T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ 先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。]]></summary>
+        <content type="html"><![CDATA[ 先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-02T04:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/everpure-flasharray-safemode</id>
+        <link href="https://techblog.zozo.com/entry/everpure-flasharray-safemode"/>
+        <updated>2026-10-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では、Everpure社（旧Pure Storage社）のストレージ製品「FlashArray」を活用したランサムウェア対策をご紹介します。対象はZOZOTOWNの基幹データベースであるMicrosoft…]]></content>
+        <published>2026-10-02T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[数字のインパクト] NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT | ABEJA Tech Blog]]></title>
+        <id>https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609</id>
+        <link href="https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609"/>
+        <updated>2026-09-30T04:45:49.000Z</updated>
+        <summary type="html"><![CDATA[ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念する]]></summary>
+        <content type="html"><![CDATA[ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念することなく産業データを安全に利活用できる「プライバシーファーストAI」の確立を目的としたものです。 産業特化型LLMの開発として、直近では NVIDIA Nemotron 3 をベースモデルとして追加学…]]></content>
+        <published>2026-09-30T04:45:49.000Z</published>
+    </entry>
+</feed>

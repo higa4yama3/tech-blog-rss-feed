@@ -1,0 +1,9 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Curated)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.json",
+    "description": "キュレーション（今日のブクマ等）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": []
+}

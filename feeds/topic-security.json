@@ -1,0 +1,215 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (セキュリティ)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.json",
+    "description": "セキュリティの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+            "content_html": "韓国6行に「AIハッキング」、4行で個人情報流出",
+            "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+            "title": "[はてブ178] 韓国6行に「AIハッキング」、4行で個人情報流出 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "韓国6行に「AIハッキング」、4行で個人情報流出",
+            "image": {
+                "url": "https://www.chosunonline.com/site/data/img_dir/2026/10/03/2026100380012_0.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-03T03:45:48.000Z",
+            "date_published": "2026-10-03T03:45:48.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 178,
+                "originalTitle": "韓国6行に「AIハッキング」、4行で個人情報流出",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://file.chosunonline.com/site/favicon.ico",
+                "pickReason": "はてブ178 · 数字のインパクト",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "chosunonline.com",
+                "score": 3.111,
+                "topics": [
+                    "ai",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ178",
+                    "数字のインパクト"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+            "content_html": "複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+            "title": "[はてブ91] 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001981/10008335/2048"
+            },
+            "date_modified": "2026-10-03T00:45:23.000Z",
+            "date_published": "2026-10-03T00:45:23.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 91,
+                "originalTitle": "「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ91 · 発見",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "itmedia.co.jp",
+                "score": 2.303,
+                "topics": [
+                    "security",
+                    "science"
+                ],
+                "topicLabels": [
+                    "セキュリティ",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ91",
+                    "発見"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2145035.html",
+            "content_html": " 先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2145035.html",
+            "title": "[はてブ3] 「VLC 3.0.24」に多数の脆弱性修正、本体だけで50件超、macOSでは任意コード実行も実証／開発元の仏VideoLAN Projectが明らかに | 窓の杜",
+            "summary": " 先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2145/035/vlc.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T04:10:00.000Z",
+            "date_published": "2026-10-02T04:10:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "「VLC 3.0.24」に多数の脆弱性修正、本体だけで50件超、macOSでは任意コード実行も実証／開発元の仏VideoLAN Projectが明らかに",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 0.677,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/everpure-flasharray-safemode",
+            "content_html": "はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では、Everpure社（旧Pure Storage社）のストレージ製品「FlashArray」を活用したランサムウェア対策をご紹介します。対象はZOZOTOWNの基幹データベースであるMicrosoft…",
+            "url": "https://techblog.zozo.com/entry/everpure-flasharray-safemode",
+            "title": "Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/81db25c263b334f38f01c2ab6834804b61e8652e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260929%2F20260929112411.png",
+                "alt": "Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T02:00:00.000Z",
+            "date_published": "2026-10-02T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.675,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609",
+            "content_html": "ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念することなく産業データを安全に利活用できる「プライバシーファーストAI」の確立を目的としたものです。 産業特化型LLMの開発として、直近では NVIDIA Nemotron 3 をベースモデルとして追加学…",
+            "url": "https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609",
+            "title": "[数字のインパクト] NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT | ABEJA Tech Blog",
+            "summary": "ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念する",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a10a8960b0a7f1a4b2ef7ca2b40562b1b50b8437/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflatton%2F20260911%2F20260911224014.png",
+                "alt": "NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT - ABEJA Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T04:45:49.000Z",
+            "date_published": "2026-09-30T04:45:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT",
+                "blogTitle": "ABEJA Tech Blog",
+                "blogLink": "https://tech-blog.abeja.asia/",
+                "blogLinkMd5Hash": "4eddafba91da903c83459e18ac1d86c0",
+                "favicon": "https://tech-blog.abeja.asia/icon/favicon",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "ABEJA",
+                "host": "tech-blog.abeja.asia",
+                "score": 0.441,
+                "topics": [
+                    "ai",
+                    "security",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

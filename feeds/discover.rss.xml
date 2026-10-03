@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Discover)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml</link>
+        <description>今週の人気（はてブ3件以上・直近7日をスコア順）</description>
+        <lastBuildDate>Sat, 03 Oct 2026 22:49:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Discover)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ49] Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261002/k8s</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261002/k8s</guid>
+            <pubDate>Fri, 02 Oct 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか]]></description>
+            <content:encoded><![CDATA[■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか？ k8sリソースの粒度の問題 マニフェスト抽象化OSSの選定 PlatformAppの記述例 拡張性とガードレールの両立 4. 今後の課題 まとめ]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/118ca9452df32db050fbdedd93b4dd94ff82b5d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png" alt="Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ26] The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み | LayerX エンジニアブログ]]></title>
+            <link>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</link>
+            <guid>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</guid>
+            <pubDate>Wed, 30 Sep 2026 08:30:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテスト計画の叩き台をシュッと生成する仕組み」を構築したお話]]></description>
+            <content:encoded><![CDATA[こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテスト計画の叩き台をシュッと生成する仕組み」を構築したお話です。 なぜこの仕組みを作ったのか 新規プロダクトや大きめの新機能開発や大規模改修などにおいて、ゼロからテスト計画を立てることは一定の時間と労力がかかります。フェーズに応じたテストピラミッド（自動テス…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/3a578097cff4b5cb18bcb51b1333ce70ab3933fa/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkoyatest%2F20260930%2F20260930131341.png" alt="The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み - LayerX エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ49] 無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261002-pi-1-0/</link>
+            <guid>https://gigazine.net/news/20261002-pi-1-0/</guid>
+            <pubDate>Fri, 02 Oct 2026 08:45:00 GMT</pubDate>
+            <description><![CDATA[機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。]]></description>
+            <content:encoded><![CDATA[機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/02/pi-1-0/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261003-ministack/</link>
+            <guid>https://gigazine.net/news/20261003-ministack/</guid>
+            <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></description>
+            <content:encoded><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/03/ministack/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ53] 社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/</link>
+            <guid>https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。]]></description>
+            <content:encoded><![CDATA[ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://i.gzn.jp/img/2026/10/03/growing-up-east-germany-cognitive-health/00.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ40] AI に伴走してもらうチームマネジメントの試み | LayerX エンジニアブログ]]></title>
+            <link>https://tech.layerx.co.jp/entry/ai-empowered-team-management</link>
+            <guid>https://tech.layerx.co.jp/entry/ai-empowered-team-management</guid>
+            <pubDate>Thu, 01 Oct 2026 02:00:05 GMT</pubDate>
+            <description><![CDATA[LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取り組んできたことを共有できればと思います。主な内容は以下になります: AI には、判断の自動化という]]></description>
+            <content:encoded><![CDATA[LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取り組んできたことを共有できればと思います。主な内容は以下になります: AI には、判断の自動化というよりは観測範囲の拡張を担ってもらい、コミュニケーションのきっかけをつくってもらう 現場の解像度を上げていくことが課題 [FYI] Ai Workforce 開発部の現在地 この半年とその前とを比べると…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/2e0e397508c4b05fbb3905330c4ce9c9a8c2d456/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fipod_nana%2F20261001%2F20261001105426.png" alt="AI に伴走してもらうチームマネジメントの試み - LayerX エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ9] HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳） | TechRacho]]></title>
+            <link>https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077</link>
+            <guid>https://techracho.bpsinc.jp/?p=160077</guid>
+            <pubDate>Thu, 01 Oct 2026 08:30:49 GMT</pubDate>
+            <description><![CDATA[概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at]]></description>
+            <content:encoded><![CDATA[概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at]]></content:encoded>
+            <category>Ruby / Rails関連</category>
+            <category>Active Storage</category>
+            <category>HotCell</category>
+            <category>Ruby on Rails</category>
+            <category>翻訳記事</category>
+            <enclosure length="0" type="png" height="720" url="https://techracho.bpsinc.jp/wp-content/uploads/2026/09/rails_hotcell_readme_eyecatch-min.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ20] 10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み | freee Developers Hub]]></title>
+            <link>https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev</link>
+            <guid>https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev</guid>
+            <pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
+            <description><![CDATA[はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が]]></description>
+            <content:encoded><![CDATA[はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が誕生する前から開発が続けられていたプロダクトでは、独自の権限管理処理を持っているものもいくつか存在しています。 今回の記事では、少し長くなりますが、私たち権限管理基盤チームが直近で取り組んだ、free…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/de51f4e9f59b4039c71236f9197cb723a9ada5bf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyocchi_freee%2F20260928%2F20260928190543.png" alt="10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み - freee Developers Hub"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ14] 長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」 | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/css/css-supports-named-feature.html</link>
+            <guid>https://coliss.com/?p=84674</guid>
+            <pubDate>Thu, 01 Oct 2026 00:36:15 GMT</pubDate>
+            <description><![CDATA[CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS]]></description>
+            <content:encoded><![CDATA[CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS]]></content:encoded>
+            <category>サイト構築 -CSS</category>
+            <category>@supports named-feature()</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202603/2026090501@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ14] 「Edge」の「IE モード」は少なくとも2029年末までサポート ～Microsoftが改めて周知／早めの移行計画を | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2145034.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2145034.html</guid>
+            <pubDate>Fri, 02 Oct 2026 01:05:00 GMT</pubDate>
+            <description><![CDATA[ デスクトップ向け「Microsoft Edge」に搭載されている「IE モード」は、少なくとも2029年末までサポートされるとのこと。米Microsoftが9月16日（現地時間）、「Microsoft 365 管理センター」のメッセージセンターで改めて周知した（MC1473151）。「IE モード」への依存を残している組織に対し、移行計画を早めに立てるよう呼びかけている。]]></description>
+            <content:encoded><![CDATA[ デスクトップ向け「Microsoft Edge」に搭載されている「IE モード」は、少なくとも2029年末までサポートされるとのこと。米Microsoftが9月16日（現地時間）、「Microsoft 365 管理センター」のメッセージセンターで改めて周知した（MC1473151）。「IE モード」への依存を残している組織に対し、移行計画を早めに立てるよう呼びかけている。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2145/034/ie.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ3] 増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 | ZOZO TECH BLOG]]></title>
+            <link>https://techblog.zozo.com/entry/go-test-sharding</link>
+            <guid>https://techblog.zozo.com/entry/go-test-sharding</guid>
+            <pubDate>Tue, 29 Sep 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、w]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、wall-clock）は13分前後となることが多い状態でした。 そこで、wall-clockを短縮するとともに、今後のテスト数の増加にも対応できるよう、テストのシャーディングを中心に実行方式を見直しまし…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/03e193ed3faa9faf34cc7c72c9cdd98e36ba7604/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260928%2F20260928113142.png" alt="増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 - ZOZO TECH BLOG"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ16] Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
+            <guid>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.]]></description>
+            <content:encoded><![CDATA[GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ23] AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html</guid>
+            <pubDate>Wed, 30 Sep 2026 23:11:00 GMT</pubDate>
+            <description><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。]]></description>
+            <content:encoded><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2144/656/image2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ20] embeddingベースの推薦システムでA/Bテストを高速に回すための配信基盤REP | ZOZO TECH BLOG]]></title>
+            <link>https://techblog.zozo.com/entry/rep-embedding-platform</link>
+            <guid>https://techblog.zozo.com/entry/rep-embedding-platform</guid>
+            <pubDate>Tue, 29 Sep 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、データシステム部推薦研究ブロックの寺崎（@f6wbl6）です。 ZOZOTOWNでは、ユーザーと商品を同じベクトル空間で表現するembeddingをTwo-Towerモデルで学習しています。このembeddingを複数の推薦施策で共有できるEmbedding基盤を運用しており、過去のテックブログで紹介しました。 techblog.zozo.com このEmbedding基盤を]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、データシステム部推薦研究ブロックの寺崎（@f6wbl6）です。 ZOZOTOWNでは、ユーザーと商品を同じベクトル空間で表現するembeddingをTwo-Towerモデルで学習しています。このembeddingを複数の推薦施策で共有できるEmbedding基盤を運用しており、過去のテックブログで紹介しました。 techblog.zozo.com このEmbedding基盤を活用することで、新しい推薦施策の立ち上げ時に新たなモデル構築やモデルのためのインフラ整備等をゼロから行う必要がなくなり、立ち上げ期間を大きく短縮できました。この基盤を使った汎用推薦システムの構築事例も…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/83a4e986e4b13e5522f5f4546e6b6d97a21ba3d2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260925%2F20260925174343.png" alt="embeddingベースの推薦システムでA/Bテストを高速に回すための配信基盤REP - ZOZO TECH BLOG"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ18] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
+            <pubDate>Thu, 01 Oct 2026 08:31:00 GMT</pubDate>
+            <description><![CDATA[ 米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで]]></description>
+            <content:encoded><![CDATA[ 米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで提供される。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2144/856/java.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ12] 新卒2年目の社員が挑んだ、楽楽勤怠へのAIチャットボット導入プロジェクト | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20260929/rakuraku-kintai-ai-chatbot</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20260929/rakuraku-kintai-ai-chatbot</guid>
+            <pubDate>Tue, 29 Sep 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[今回は、楽楽勤怠に組み込まれたAIチャットボット機能の開発を担当した、楽楽勤怠開発課の黒田さんに話を聞きました。 黒田さんは新卒2年目。事業部・デザイナー・インフラ担当など多くの関係者を巻き込むこの開発を、ほぼ一人で任されています。 楽楽勤怠とは 楽楽勤怠のAIチャットボットとは何か なぜこの機能を作ったのか 開発の話：工夫した点、難しかった点 実装より大変だった、社内の情報連携 当初試していたR]]></description>
+            <content:encoded><![CDATA[今回は、楽楽勤怠に組み込まれたAIチャットボット機能の開発を担当した、楽楽勤怠開発課の黒田さんに話を聞きました。 黒田さんは新卒2年目。事業部・デザイナー・インフラ担当など多くの関係者を巻き込むこの開発を、ほぼ一人で任されています。 楽楽勤怠とは 楽楽勤怠のAIチャットボットとは何か なぜこの機能を作ったのか 開発の話：工夫した点、難しかった点 実装より大変だった、社内の情報連携 当初試していたRAGの課題と方針転換 回答精度のチューニングと、こだわった速さ 今後の展望 おわりに]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/0765f867188b91eb6320c46705bb375c1b78d3d9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260928%2F20260928103129.png" alt="新卒2年目の社員が挑んだ、楽楽勤怠へのAIチャットボット導入プロジェクト - RAKUS Developers Blog | ラクス エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ23] はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena | Hatena Developer Blog]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/09/30/183000</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/09/30/183000</guid>
+            <pubDate>Wed, 30 Sep 2026 09:30:00 GMT</pubDate>
+            <description><![CDATA[はてな「技術グループ」によるポッドキャスト「Backyard Hatena」を更新。今回のゲストは、社長の id:chris4403 です。創業25周年を迎えた節目にリリースされた新サービス「はてなパークス」について、サービスの立ち上げから関わっている chris さんにお話を伺いました。]]></description>
+            <content:encoded><![CDATA[はてな「技術グループ」によるポッドキャスト「Backyard Hatena」を更新。今回のゲストは、社長の id:chris4403 です。創業25周年を迎えた節目にリリースされた新サービス「はてなパークス」について、サービスの立ち上げから関わっている chris さんにお話を伺いました。]]></content:encoded>
+            <enclosure length="0" type="image/com%2Ffiles%2F12704346814673975483%2F4207112889896980759" url="https://cdn.image.st-hatena.com/image/scale/f509903613ae8639ca417dbcd50a96fccf91c830/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F12704346814673975483%2F4207112889896980759" alt="はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena - Hatena Developer Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ3] ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド | コリス]]></title>
+            <link>https://coliss.com/articles/book-review/isbn-9784839990527.html</link>
+            <guid>https://coliss.com/?p=83776</guid>
+            <pubDate>Fri, 02 Oct 2026 00:36:24 GMT</pubDate>
+            <description><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され]]></description>
+            <content:encoded><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され]]></content:encoded>
+            <category>Book Review</category>
+            <category>ai</category>
+            <category>マイナビ出版</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/9784839990527-01@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ19] LayerXのFDEインターンに参加した話 | LayerX エンジニアブログ]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/09/30/200852</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/09/30/200852</guid>
+            <pubDate>Wed, 30 Sep 2026 11:08:52 GMT</pubDate>
+            <description><![CDATA[※本記事は、2026年7月までLayerXのAi Workforce事業部でFDEインターンとして活躍してくれたakatuki（あかつき）さんによる執筆です。本人のインターン期間終了に伴い、LayerX の maruchiho（まるちほ）が代理で投稿いたします。 はじめに こんにちは、名古屋工業大学 3年の山本賢人（あかつき）というものです。2026年5月〜7月の3ヶ月間、株式会社LayerX A]]></description>
+            <content:encoded><![CDATA[※本記事は、2026年7月までLayerXのAi Workforce事業部でFDEインターンとして活躍してくれたakatuki（あかつき）さんによる執筆です。本人のインターン期間終了に伴い、LayerX の maruchiho（まるちほ）が代理で投稿いたします。 はじめに こんにちは、名古屋工業大学 3年の山本賢人（あかつき）というものです。2026年5月〜7月の3ヶ月間、株式会社LayerX Ai Workforce事業 FDE部にてインターンに参加していました。こちらは、その際に取り組んだこと、感想をまとめた記事になります。 業務内容・取り組んだタスクの概要 今回所属していたFDE部では、…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/49fcf1a31891c7211fae7e6deadaa667cc664682/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmaruchiho_layerx%2F20260930%2F20260930200722.png" alt="LayerXのFDEインターンに参加した話 - LayerX エンジニアブログ"/>
+        </item>
+    </channel>
+</rss>

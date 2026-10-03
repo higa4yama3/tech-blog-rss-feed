@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (はてなIT人気)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml</link>
+        <description>はてなブックマーク ITカテゴリ人気（厳選）</description>
+        <lastBuildDate>Sat, 03 Oct 2026 22:49:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (はてなIT人気)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ413] 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita (qiita.com)]]></title>
+            <link>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</link>
+            <guid>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</guid>
+            <pubDate>Fri, 02 Oct 2026 15:17:29 GMT</pubDate>
+            <description><![CDATA[はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい]]></description>
+            <content:encoded><![CDATA[はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDc1MzUxJTJGY2VlMTgxZmZmZTcyYjNjZWFiNTFmNmVlODMxNjk4MDZiOTljMzI5ZCUyRnhfbGFyZ2UucG5nJTNGMTc4Njk3MDQzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGQwZTVjMjE3NWE5MTI1YmMwYzM2OWEyYmJmNGU1NTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwOGU2ZWM5ZWViMWNmYzNmYWZjZGRlNTNkMGJiN2MxYjRjM2NhZmVkJTJGb3JpZ2luYWwuanBnJTNGMTY3ODc3NjQ0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wMDhkN2RmOTQxYzZhODc4YzlhMzJmYWMxYjE1MmI1Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dca004b4b0e07f1dd1e0e7937c9a70633" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDc1MzUxJTJGY2VlMTgxZmZmZTcyYjNjZWFiNTFmNmVlODMxNjk4MDZiOTljMzI5ZCUyRnhfbGFyZ2UucG5nJTNGMTc4Njk3MDQzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGQwZTVjMjE3NWE5MTI1YmMwYzM2OWEyYmJmNGU1NTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwOGU2ZWM5ZWViMWNmYzNmYWZjZGRlNTNkMGJiN2MxYjRjM2NhZmVkJTJGb3JpZ2luYWwuanBnJTNGMTY3ODc3NjQ0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wMDhkN2RmOTQxYzZhODc4YzlhMzJmYWMxYjE1MmI1Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dca004b4b0e07f1dd1e0e7937c9a70633?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUUzJTgxJTk3JUUzJTgxJTg0JUU2JTk3JUE1JUU2JTlDJUFDJUU4JUFBJTlFJUU2JThFJUE4JUU2JTk1JUIyJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJThDeW9taXlhc3UlRTMlODAlOEQlRTMlODElOEMlRTMlODMlOTAlRTMlODIlQkElRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODElOUYlRTMlODElQUUlRTMlODElQTclRTMlODAlODFDbGF1ZGUlRTMlODElQTclRTYlOTclQTUlRTYlOUMlQUMlRTglQUElOUUlRTYlOEUlQTglRTYlOTUlQjIlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIzJUUzJTgxJUE0JUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2RkZDc2YzVlMjJkNWViODI0Y2RjYmQ0Y2E2ZGU5Y2Y&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbm95dS1xaWl0YSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiYzg3ZWI4MzM5YjcwZTRlMDRlNWUzZDRkZjY2YWE0&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44Kk44O844OH44Kj44O844Ko44O8&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=302c30c3c9d3ec6405465358638cdfad"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ178] 韓国6行に「AIハッキング」、4行で個人情報流出 (chosunonline.com)]]></title>
+            <link>https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html</link>
+            <guid>https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html</guid>
+            <pubDate>Sat, 03 Oct 2026 03:45:48 GMT</pubDate>
+            <description><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></description>
+            <content:encoded><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="jpg" url="https://www.chosunonline.com/site/data/img_dir/2026/10/03/2026100380012_0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ91] 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/03/2000001981/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/03/2000001981/</guid>
+            <pubDate>Sat, 03 Oct 2026 00:45:23 GMT</pubDate>
+            <description><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></description>
+            <content:encoded><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/03/2000001981/10008335/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001981/10008335/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ65] 2026 年 10 月前半の LLM 利用状況 (voluntas.ghost.io)]]></title>
+            <link>https://voluntas.ghost.io/2026-10-first-half-llm/</link>
+            <guid>https://voluntas.ghost.io/2026-10-first-half-llm/</guid>
+            <pubDate>Sat, 03 Oct 2026 08:13:44 GMT</pubDate>
+            <description><![CDATA[あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と]]></description>
+            <content:encoded><![CDATA[あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。  Ollama Cloud は月 $500 支払うと $1000 ドル分利用できる。さらにDeepSeek のピークが日本時間の 21:00-03:00 ということで、営業時間にかぶらないというメリットがあり、実質利用枠が 2 倍になった。   Cursor  Team]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="jpg" height="840" url="https://static.ghost.org/v5.0.0/images/publication-cover.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ64] ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府 (www8.cao.go.jp)]]></title>
+            <link>https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html</link>
+            <guid>https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html</guid>
+            <pubDate>Fri, 02 Oct 2026 23:40:34 GMT</pubDate>
+            <description><![CDATA[内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月]]></description>
+            <content:encoded><![CDATA[内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="jpg" url="https://www.cao.go.jp/common4/img/ogp_image001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 (gigazine.net)]]></title>
+            <link>https://gigazine.net/news/20261003-ministack/</link>
+            <guid>https://gigazine.net/news/20261003-ministack/</guid>
+            <pubDate>Sat, 03 Oct 2026 03:06:02 GMT</pubDate>
+            <description><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理]]></description>
+            <content:encoded><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/03/ministack/00.png"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated</id>
+    <title>RSS (Curated)</title>
+    <updated>2026-10-03T22:49:43.272Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <subtitle>キュレーション（今日のブクマ等）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+</feed>

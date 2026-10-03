@@ -1,0 +1,1052 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (設計・SRE・基盤)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.json",
+    "description": "設計・SRE・基盤の記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://gigazine.net/news/20261003-ministack/",
+            "content_html": "AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。",
+            "url": "https://gigazine.net/news/20261003-ministack/",
+            "title": "[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/03/ministack/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-03T03:06:02.000Z",
+            "date_published": "2026-10-03T03:06:02.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 57,
+                "originalTitle": "無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ57",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "gigazine.net",
+                "score": 2.779,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ57"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49946895",
+            "content_html": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPUComments URL: https://news.ycombinator.com/item?id=49946895Points: 36# Comments: 2",
+            "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+            "title": "[HN 36pt] The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux | Hacker News: Front Page",
+            "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPUComments URL: https://news.ycombinator.com/item?id=49946895Points: 36# Comments: 2",
+            "image": {
+                "url": "https://www.phoronix.net/image.php?id=2026&image=timur"
+            },
+            "date_modified": "2026-10-03T19:14:48.000Z",
+            "date_published": "2026-10-03T19:14:48.000Z",
+            "author": {
+                "name": "speckx"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.phoronix.com/favicon.ico",
+                "pickReason": "HN 36pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "phoronix.com",
+                "score": 2.65,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "HN 36pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+            "content_html": "■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか？ k8sリソースの粒度の問題 マニフェスト抽象化OSSの選定 PlatformAppの記述例 拡張性とガードレールの両立 4. 今後の課題 まとめ",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+            "title": "[はてブ49] Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/118ca9452df32db050fbdedd93b4dd94ff82b5d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png",
+                "alt": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T06:00:00.000Z",
+            "date_published": "2026-10-02T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 49,
+                "originalTitle": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ49 · 設計判断・移行",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス",
+                "host": "tech-blog.rakus.co.jp",
+                "score": 2.363,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ49",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=49945352",
+            "content_html": "Docker Desktop has always run containers inside a minimal, purpose-built VM. Here is why, and what it bought us.",
+            "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+            "title": "[HN 9pt] Docker has always used microVMs (well since 2016) | Hacker News: Front Page",
+            "summary": "Docker Desktop has always run containers inside a minimal, purpose-built VM. Here is why, and what it bought us.",
+            "image": {
+                "url": "https://dave.recoil.org/docker-has-always-used-microvms/microvms.jpg",
+                "alt": "Always has been meme: wait, Docker uses microVMs? Always has been (since 2016)",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-03T15:55:31.000Z",
+            "date_published": "2026-10-03T15:55:31.000Z",
+            "author": {
+                "name": "avsm"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Docker has always used microVMs (well since 2016)",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://dave.recoil.org/favicon.ico",
+                "pickReason": "HN 9pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "dave.recoil.org",
+                "score": 1.734,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "HN 9pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp",
+            "content_html": "この記事は、 When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit を日本語訳したものです。 はじめに Sansan Global Development Center, Inc.（SGDC）でQAリードを務めるReubenです。私たちのチームは、経理AXサービス「Bill One」のAI自動照合機能における、QAエンジニアリングの大部分を担当しています。本稿では、手作業で実施していたE2Eテストの所要時間をどのように削減したか、そのために何を構築する必要があっ…",
+            "url": "https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp",
+            "title": "[数字のインパクト] 開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築 | Sansan Tech Blog",
+            "summary": "この記事は、 When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit を日本語訳したものです。 はじめに Sansan Global Development Center, Inc.（SGDC）でQAリードを務めるReubenです。私たちのチームは、経理AXサービス「",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032078076779/1790918109",
+                "alt": "開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築 - Sansan Tech Blog"
+            },
+            "date_modified": "2026-10-02T05:15:00.000Z",
+            "date_published": "2026-10-02T05:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 1.392,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/10/gce-e2-memory-rightsizing/",
+            "content_html": "  はじめに  こんにちは。IT基盤部第二グループの若松です。普段は、ゲームプラットフォームにおけるインフラの安定稼働とコスト最適化に日々取り組んでいます。 私たちのチームでは、GCE (Google Compute Engine) を活用したインフラ運用を行っています。GCE のインスタンスを使用する上で、コスト最適化の観点でインスタンススペックの適正化が重要となります。その中 …",
+            "url": "https://engineering.dena.com/blog/2026/10/gce-e2-memory-rightsizing/",
+            "title": "[数字のインパクト] 原因不明のメモリ高騰を追う！GCEの「見掛け上のメモリ増加」解明による50%コスト削減 [DeNA インフラ SRE] | Blog on DeNA Engineering",
+            "summary": "  はじめに  こんにちは。IT基盤部第二グループの若松です。普段は、ゲームプラットフォームにおけるインフラの安定稼働とコスト最適化に日々取り組んでいます。 私たちのチームでは、GCE (Google Compute Engine) を活用したインフラ運用を行っています。GCE のインスタンスを使用する上で、コスト最適化の観点でインスタンススペックの適正化が重要となります。その中 …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/10/gce-e2-memory-rightsizing/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T15:00:00.000Z",
+            "date_published": "2026-10-01T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "原因不明のメモリ高騰を追う！GCEの「見掛け上のメモリ増加」解明による50%コスト削減 [DeNA インフラ SRE]",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 1.058,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=160077",
+            "content_html": "概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077",
+            "title": "[はてブ9] HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳） | TechRacho",
+            "summary": "概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/09/rails_hotcell_readme_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T08:30:49.000Z",
+            "date_published": "2026-10-01T08:30:49.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Active Storage",
+                "HotCell",
+                "Ruby on Rails",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 9,
+                "originalTitle": "HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ9",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho",
+                "host": "techracho.bpsinc.jp",
+                "score": 0.902,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ9"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/everpure-flasharray-safemode",
+            "content_html": "はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では、Everpure社（旧Pure Storage社）のストレージ製品「FlashArray」を活用したランサムウェア対策をご紹介します。対象はZOZOTOWNの基幹データベースであるMicrosoft…",
+            "url": "https://techblog.zozo.com/entry/everpure-flasharray-safemode",
+            "title": "Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/81db25c263b334f38f01c2ab6834804b61e8652e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260929%2F20260929112411.png",
+                "alt": "Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T02:00:00.000Z",
+            "date_published": "2026-10-02T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.675,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev",
+            "content_html": "はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が誕生する前から開発が続けられていたプロダクトでは、独自の権限管理処理を持っているものもいくつか存在しています。 今回の記事では、少し長くなりますが、私たち権限管理基盤チームが直近で取り組んだ、free…",
+            "url": "https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev",
+            "title": "[はてブ20] 10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み | freee Developers Hub",
+            "summary": "はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/de51f4e9f59b4039c71236f9197cb723a9ada5bf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyocchi_freee%2F20260928%2F20260928190543.png",
+                "alt": "10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み - freee Developers Hub",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T01:00:00.000Z",
+            "date_published": "2026-09-29T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 20,
+                "originalTitle": "10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "はてブ20 · 設計判断・移行",
+                "sourceTier": "core",
+                "sourceLabel": "freee",
+                "host": "developers.freee.co.jp",
+                "score": 0.459,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ20",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/go-test-sharding",
+            "content_html": "はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、wall-clock）は13分前後となることが多い状態でした。 そこで、wall-clockを短縮するとともに、今後のテスト数の増加にも対応できるよう、テストのシャーディングを中心に実行方式を見直しまし…",
+            "url": "https://techblog.zozo.com/entry/go-test-sharding",
+            "title": "[はてブ3] 増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、w",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/03e193ed3faa9faf34cc7c72c9cdd98e36ba7604/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260928%2F20260928113142.png",
+                "alt": "増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T08:00:00.000Z",
+            "date_published": "2026-09-29T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ3 · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.438,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/digdag-on-gke-to-managed-service-for-airflow",
+            "content_html": "はじめに こんにちは、MA部のMA基盤開発ブロックの@gachi-muchi-engineerと松岡（@pine0619）です。 MA部では、メール、LINE、プッシュ通知などを配信しています。配信に必要なデータの生成や夜間の集計など、複数のワークフローを運用しています。これまで、これらのワークフローはGKE上に構築したDigdagで実行していました。Digdagの構成や運用については、以下のテックブログで紹介しています。 techblog.zozo.com Digdagは、ワークフローを定義して実行するための便利なツールでした。一方で、近年は開発が活発ではなく、利用中に発生した問題や機能不足…",
+            "url": "https://techblog.zozo.com/entry/digdag-on-gke-to-managed-service-for-airflow",
+            "title": "[設計判断・移行] Digdag on GKEからManaged Service for Apache Airflowへの移行と監視の紹介 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、MA部のMA基盤開発ブロックの@gachi-muchi-engineerと松岡（@pine0619）です。 MA部では、メール、LINE、プッシュ通知などを配信しています。配信に必要なデータの生成や夜間の集計など、複数のワークフローを運用しています。これまで、これらのワークフローはGKE上に構築したDigdagで実行していました。Digdagの構成や運用については、以下のテッ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/cf31ceb7c0e0ddc6bdddd6d9f3dfe95bd1e0f713/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260929%2F20260929155609.png",
+                "alt": "Digdag on GKEからManaged Service for Apache Airflowへの移行と監視の紹介 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Digdag on GKEからManaged Service for Apache Airflowへの移行と監視の紹介",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "設計判断・移行",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.402,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/09/bigquery-editions-migration/",
+            "content_html": "  はじめに  こんにちは、   IT 本部 IT 基盤部   第三グループの渡邊です。IT 基盤部では、組織横断的にさまざまなサービスのインフラ運用とコスト削減に取り組んでいます。 BigQuery のクエリ費用には、スキャンしたバイト数に課金するオンデマンドと、確保したスロット（BigQuery の計算リソースの単位）の時間に課金する BigQuery Editions（以 …",
+            "url": "https://engineering.dena.com/blog/2026/09/bigquery-editions-migration/",
+            "title": "[設計判断・移行] 詳説 BigQuery の課金モデルの選定と Editions への移行手順 [DeNA インフラ SRE] | Blog on DeNA Engineering",
+            "summary": "  はじめに  こんにちは、   IT 本部 IT 基盤部   第三グループの渡邊です。IT 基盤部では、組織横断的にさまざまなサービスのインフラ運用とコスト削減に取り組んでいます。 BigQuery のクエリ費用には、スキャンしたバイト数に課金するオンデマンドと、確保したスロット（BigQuery の計算リソースの単位）の時間に課金する BigQuery Editions（以 …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/09/bigquery-editions-migration/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T15:00:00.000Z",
+            "date_published": "2026-09-29T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "詳説 BigQuery の課金モデルの選定と Editions への移行手順 [DeNA インフラ SRE]",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "設計判断・移行",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 0.325,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.colopl.dev/entry/php-string-length-database",
+            "content_html": "こんにちは、エンジニアの 工藤 です。 この記事は前後編の後編です。前回の記事は こちら です。 前編では、 PHP で「文字列の長さ」を数える単位は一つではないこと、そして名前入力のような場面では書記素クラスタ数とバイト数の両方に上限をかける必要があることを説明しました。 blog.colopl.dev 後編では、そうしてチェックした文字列をデータベースで扱う時の話をさせていただければと思います。カラムの桁数として書いたつもりの 20 が実際には何を数えているのかを、代表的なものとして MySQL と Cloud Spanner で見ていきます。",
+            "url": "https://blog.colopl.dev/entry/php-string-length-database",
+            "title": "「文字列の長さ」の判定で気をつけるべきこと【後編】MySQL と Spanner のカラム長 | COLOPL Tech Blog",
+            "summary": "こんにちは、エンジニアの 工藤 です。 この記事は前後編の後編です。前回の記事は こちら です。 前編では、 PHP で「文字列の長さ」を数える単位は一つではないこと、そして名前入力のような場面では書記素クラスタ数とバイト数の両方に上限をかける必要があることを説明しました。 blog.colopl.dev 後編では、そうしてチェックした文字列をデータベースで扱う時の話をさせていただければと思います",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032075582495/1790903568",
+                "alt": "「文字列の長さ」の判定で気をつけるべきこと【後編】MySQL と Spanner のカラム長 - COLOPL Tech Blog"
+            },
+            "date_modified": "2026-10-01T02:00:00.000Z",
+            "date_published": "2026-10-01T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「文字列の長さ」の判定で気をつけるべきこと【後編】MySQL と Spanner のカラム長",
+                "blogTitle": "COLOPL Tech Blog",
+                "blogLink": "https://blog.colopl.dev/",
+                "blogLinkMd5Hash": "e6a68eee4c188124f9f59f9252781495",
+                "favicon": "https://blog.colopl.dev/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "コロプラ",
+                "host": "blog.colopl.dev",
+                "score": 0.266,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51702",
+            "content_html": "はじめに さくらインターネットのCDNサービス「さくらのウェブアクセラレータ」は、2016年10月1日にさくらのクラウドのオプションサービスとして正式提供を開始し、2026年10月で提供開始から10周年を迎えます。月間数 […]",
+            "url": "https://knowledge.sakura.ad.jp/51702/",
+            "title": "さくら社員のリアルなCDN活用事例 ～さくらのウェブアクセラレータ 10周年記念～ | さくらのナレッジ",
+            "summary": "はじめに さくらインターネットのCDNサービス「さくらのウェブアクセラレータ」は、2016年10月1日にさくらのクラウドのオプションサービスとして正式提供を開始し、2026年10月で提供開始から10周年を迎えます。月間数 […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/10th_weba_sakunare_3-1200x630.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T01:30:00.000Z",
+            "date_published": "2026-10-01T01:30:00.000Z",
+            "author": {
+                "name": "さくらのウェブアクセラレータ（CDN）企画・開発チーム"
+            },
+            "tags": [
+                "エンジニア向け",
+                "AppRun",
+                "CDN",
+                "Codex",
+                "GitHub Actions",
+                "ImageFLux Live Streaming",
+                "Notion",
+                "WordPress",
+                "さくらのVPS",
+                "さくらのウェブアクセラレータ",
+                "さくらのレンタルサーバ"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "さくら社員のリアルなCDN活用事例 ～さくらのウェブアクセラレータ 10周年記念～",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.263,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/01/100000",
+            "content_html": "Sansan株式会社では、技術イベントや勉強会の主催・登壇・協賛を行っています。 各イベントの詳細については、以下のリンクからご確認ください。 ※開催状況により、すでに受付を終了している場合がございます。 ※掲載している内容は公開当時の情報です。最新情報は各イベントページをご確認ください。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/01/100000",
+            "title": "2026年10月技術イベント予定 | Sansan Tech Blog",
+            "summary": "Sansan株式会社では、技術イベントや勉強会の主催・登壇・協賛を行っています。 各イベントの詳細については、以下のリンクからご確認ください。 ※開催状況により、すでに受付を終了している場合がございます。 ※掲載している内容は公開当時の情報です。最新情報は各イベントページをご確認ください。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/1a8ff4dc0482b939f1ca8eecc57a9d02e38e03f4/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260930%2F20260930141048.jpg",
+                "alt": "2026年10月技術イベント予定 - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T01:00:00.000Z",
+            "date_published": "2026-10-01T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2026年10月技術イベント予定",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 0.261,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/update-in-this-month-2026-09",
+            "content_html": "G-gen の杉村です。2026年9月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート Cloud Run services で Agent Platform 機能が使用可能に（Preview） Gemini モデルで Agentic video understanding が Preview 公開 Gemini 3.8 Flash / Gemini 3.8 Flash Cyber が一般公開（GA） Cloud …",
+            "url": "https://blog.g-gen.co.jp/entry/update-in-this-month-2026-09",
+            "title": "2026年9月のイチオシGoogle Cloud・Google Workspaceアップデート | G-gen Tech Blog",
+            "summary": "G-gen の杉村です。2026年9月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート Cloud Run services で Agent Platform 機能が使用可能に（Preview） Gemini モデルで",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/69301225634297b644cb8b6455470dcd2057a0d7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260123%2F20260123093053.png",
+                "alt": "2026年9月のイチオシGoogle Cloud・Google Workspaceアップデート - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "2026年9月のイチオシGoogle Cloud・Google Workspaceアップデート",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.256,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2026/10/01/110000",
+            "content_html": "こんにちは。エンジニアリンググループ プロダクト支援チームでプロダクトマネージャーをしている中村です。 業務でAIエージェントを活用するようになり、分析のスピードが圧倒的に上がりました。気になった数字をすぐ別の切り口で分解し、仮説を立てては検証する。以前なら一段で止まっていた深掘りが、何段も進むようになったのです。その結果、A/Bテストの設計から効果検証までが格段に捗るようになりました。 そうして積み重ねた改善は、一つひとつ確実に成果を出し、プロダクトは順当に成長しています。ただ、10xを狙えるステップチェンジには、まだ至っていません。 PDCAで成果が出ているからこそ、無自覚にPDCAを回し…",
+            "url": "https://www.m3tech.blog/entry/2026/10/01/110000",
+            "title": "PDCAの罠 〜A/Bテストの使いどころ〜 | エムスリーテックブログ",
+            "summary": "こんにちは。エンジニアリンググループ プロダクト支援チームでプロダクトマネージャーをしている中村です。 業務でAIエージェントを活用するようになり、分析のスピードが圧倒的に上がりました。気になった数字をすぐ別の切り口で分解し、仮説を立てては検証する。以前なら一段で止まっていた深掘りが、何段も進むようになったのです。その結果、A/Bテストの設計から効果検証までが格段に捗るようになりました。 そうして",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/cdcc3b1cd4aeab13fbb838cac7f1f8a33fd532b8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20260930%2F20260930134422.jpg",
+                "alt": "PDCAの罠 〜A/Bテストの使いどころ〜 - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-30T04:45:00.000Z",
+            "date_published": "2026-09-30T04:45:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PDCAの罠 〜A/Bテストの使いどころ〜",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.177,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260929b",
+            "content_html": "はじめにこんにちは。法政大学情報科学部3年の霍 永豪と申します。2026年8月17日〜9月11日の4週間、社内のデータ基盤に使われているKafkaを運用するチームでインターンとして参加し、Grafan...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260929b",
+            "title": "Kafkaアラートの初動調査を支援するAI Alert Watcherの開発（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "はじめにこんにちは。法政大学情報科学部3年の霍 永豪と申します。2026年8月17日〜9月11日の4週間、社内のデータ基盤に使われているKafkaを運用するチームでインターンとして参加し、Grafan...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/ccfb86bd3a221c9f264af6cd5c23e95f/7d66e/fa7104e9bd164a98aabd71739f3d907b.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T02:00:00.000Z",
+            "date_published": "2026-09-29T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Kafkaアラートの初動調査を支援するAI Alert Watcherの開発（インターンレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.169,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20260930b",
+            "content_html": "こんにちは。LINEヤフーで、プライベートクラウドのネットワーク関連サービスを開発している清水です。現代の大規模なWebサービスにおいては、一つのモノリシックなアプリケーションだけで構成されることは少...",
+            "url": "https://techblog.lycorp.co.jp/ja/20260930b",
+            "title": "プライベートクラウドにおけるサービス間通信の今、そして「サービス指向クラウド」が作る未来 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEヤフーで、プライベートクラウドのネットワーク関連サービスを開発している清水です。現代の大規模なWebサービスにおいては、一つのモノリシックなアプリケーションだけで構成されることは少...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/b9f60f928cddc82d3bc71063c99d5408/7d66e/9fae474910784b819fc067c2373af38e.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プライベートクラウドにおけるサービス間通信の今、そして「サービス指向クラウド」が作る未来",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.167,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developersblog.dmm.com/entry/2026/09/30/110000",
+            "content_html": "はじめに 通知配信基盤構想のはじまり プロダクト要求仕様書（PRD）を作成 アプリケーションアーキテクチャ設計 技術選定 技術スタック一覧 APIの通信形式 データストア メールサーバ 軽量仕様駆動開発により2ヶ月程度で開発を完遂 いざリリース リリースまでを振り返って課題に感じたこと さいごに We are Hiring! はじめに こんにちは。プラットフォーム開発本部第1開発部 アカウントサービスグループ 会員バックエンドチームでチームリーダーをやっている吉川と申します。DMM.comのプラットフォーム開発本部は、認証・認可・会員基盤・決済基盤等、DMMの各サービスで共通利用できる機能のA…",
+            "url": "https://developersblog.dmm.com/entry/2026/09/30/110000",
+            "title": "通知配信基盤（メール配信基盤）の開発を振り返る | DMM Developers Blog",
+            "summary": "はじめに 通知配信基盤構想のはじまり プロダクト要求仕様書（PRD）を作成 アプリケーションアーキテクチャ設計 技術選定 技術スタック一覧 APIの通信形式 データストア メールサーバ 軽量仕様駆動開発により2ヶ月程度で開発を完遂 いざリリース リリースまでを振り返って課題に感じたこと さいごに We are Hiring! はじめに こんにちは。プラットフォーム開発本部第1開発部 アカウントサー",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/1b636d768789c26938e362a0a0aed81c6e4bc8a4/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260924%2F20260924095716.png",
+                "alt": "通知配信基盤（メール配信基盤）の開発を振り返る - DMM Developers Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "通知配信基盤（メール配信基盤）の開発を振り返る",
+                "blogTitle": "DMM Developers Blog",
+                "blogLink": "https://developersblog.dmm.com/",
+                "blogLinkMd5Hash": "400eb9d3d1b0e34637a4d3e559ecaa80",
+                "favicon": "https://developersblog.dmm.com/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "DMM",
+                "host": "developersblog.dmm.com",
+                "score": 0.167,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51535",
+            "content_html": "はじめに こんにちは。DIVER OSINT CTF インフラチームのy-chanとxryuseixです。DIVER OSINT CTF 2026では、インフラの大部分にパートナーであるさくらインターネットさんの「さくら […]",
+            "url": "https://knowledge.sakura.ad.jp/51535/",
+            "title": "さくらのクラウドとTerraformを活用したDIVER OSINT CTFにおけるインフラ基盤 | さくらのナレッジ",
+            "summary": "はじめに こんにちは。DIVER OSINT CTF インフラチームのy-chanとxryuseixです。DIVER OSINT CTF 2026では、インフラの大部分にパートナーであるさくらインターネットさんの「さくら […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/202609-diver-ctf-cover-1200x630.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "author": {
+                "name": "DIVER OSINT CTF"
+            },
+            "tags": [
+                "エンジニア向け",
+                "CTF",
+                "CTFd",
+                "IaC",
+                "Prometheus",
+                "Terraform",
+                "さくらのクラウド"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "さくらのクラウドとTerraformを活用したDIVER OSINT CTFにおけるインフラ基盤",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.167,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/secops-case-triage-with-mcp-and-skills",
+            "content_html": "G-gen の武井です。当記事では、Google SecOps MCP server と Skills を組み合わせ、Google SecOps で検知したアラート（ケース）をトリアージする方法について紹介します。 はじめに 前提知識 Google SecOps トリアージと調査エージェント（TIN） Google SecOps MCP server Antigravity CLI Skills 検証の概要 構成 検証の流れ 検証の方針 環境構築 事前準備（IAMと認証） Antigravity CLI のインストール Antigravity CLI のサインイン Google SecOps …",
+            "url": "https://blog.g-gen.co.jp/entry/secops-case-triage-with-mcp-and-skills",
+            "title": "Google SecOps MCP serverとSkillsでアラートをトリアージする | G-gen Tech Blog",
+            "summary": "G-gen の武井です。当記事では、Google SecOps MCP server と Skills を組み合わせ、Google SecOps で検知したアラート（ケース）をトリアージする方法について紹介します。 はじめに 前提知識 Google SecOps トリアージと調査エージェント（TIN） Google SecOps MCP server Antigravity CLI Skills ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5d0ab7c6bd765f78b7137e3c208d5ca128a6ef99/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260930%2F20260930090004.png",
+                "alt": "Google SecOps MCP serverとSkillsでアラートをトリアージする - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Google SecOps MCP serverとSkillsでアラートをトリアージする",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.161,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51302",
+            "content_html": "はじめに 2026年7月15日(水)に「さくらの夕べ in 松山 with アリスタネットワークス」を開催しました。今回のイベントは同時期に愛媛県松山市で開催されたJANOG58ミーティングに併せて実施したもので、JAN […]",
+            "url": "https://knowledge.sakura.ad.jp/51302/",
+            "title": "AIインフラとコミュニティについてあれこれ聞いてみた 〜「さくらの夕べ in 松山 with アリスタネットワークス」レポート〜 | さくらのナレッジ",
+            "summary": "はじめに 2026年7月15日(水)に「さくらの夕べ in 松山 with アリスタネットワークス」を開催しました。今回のイベントは同時期に愛媛県松山市で開催されたJANOG58ミーティングに併せて実施したもので、JAN […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/08/sakunare-1200x630.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T02:54:07.000Z",
+            "date_published": "2026-09-29T02:54:07.000Z",
+            "author": {
+                "name": "法林浩之"
+            },
+            "tags": [
+                "イベント・セミナー・勉強会",
+                "AIインフラ",
+                "JANOG",
+                "アリスタ",
+                "コミュニティ",
+                "さくらの夕べ",
+                "松山",
+                "高火力"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIインフラとコミュニティについてあれこれ聞いてみた 〜「さくらの夕べ in 松山 with アリスタネットワークス」レポート〜",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.107,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/09/29/110748",
+            "content_html": "こんにちは！ SmartHRのCRE（Customer Reliability Engineering）部 でマネージャーをやっている a-know（井上）です。8月下旬に夏休みを取ったのですが、6日連続で15,000歩くらい歩いた結果、左膝に爆弾を抱えてしまいました。昨年も同じようなことをしたのですが、そのときには問題なかったのですが⋯⋯年々体の衰えを感じずにはいられませんね。 さて、実はこの9月は SRE（Software Reliability Engineering） のコミュニティが異様に盛り上がっていたことに、みなさんは気づいていましたでしょうか？ 私が把握できただけでも、9月は以…",
+            "url": "https://tech.smarthr.jp/entry/2026/09/29/110748",
+            "title": "SREコミュニティイベントでLT登壇5連発！ CREが参加して見えてきたこと | SmartHR Tech Blog",
+            "summary": "こんにちは！ SmartHRのCRE（Customer Reliability Engineering）部 でマネージャーをやっている a-know（井上）です。8月下旬に夏休みを取ったのですが、6日連続で15,000歩くらい歩いた結果、左膝に爆弾を抱えてしまいました。昨年も同じようなことをしたのですが、そのときには問題なかったのですが⋯⋯年々体の衰えを感じずにはいられませんね。 さて、実はこの9",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/2abdd8aa82c72d8e1bdff120901e9eb901d729be/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20260929%2F20260929110750.png",
+                "alt": "SREコミュニティイベントでLT登壇5連発！ CREが参加して見えてきたこと - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T02:07:48.000Z",
+            "date_published": "2026-09-29T02:07:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SREコミュニティイベントでLT登壇5連発！ CREが参加して見えてきたこと",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR",
+                "host": "tech.smarthr.jp",
+                "score": 0.106,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://zenn.dev/aishift/articles/050045247128e9",
+            "content_html": "こんにちは、@key60228 です。Kubernetes や Cloud Native の文脈において、AI Workload とともにマルチクラスタ運用の話題もますます増えてきてますよね。KubeCon + CloudNativeCon Japan 2026 でもいくつかセッションがありました。 (前者は「軽率にマルチクラスタにするな」って主旨でしたが)https://www.youtube.com/watch?v=-0gJNQogilQ&amp;list=PLH1zduub3WrE&amp;index=109https://www.youtube.com/watch?v=G...",
+            "url": "https://zenn.dev/aishift/articles/050045247128e9",
+            "title": "GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ | AI Shift Tech Blogのフィード",
+            "summary": "こんにちは、@key60228 です。Kubernetes や Cloud Native の文脈において、AI Workload とともにマルチクラスタ運用の話題もますます増えてきてますよね。KubeCon + CloudNativeCon Japan 2026 でもいくつかセッションがありました。 (前者は「軽率にマルチクラスタにするな」って主旨でしたが)https://www.youtube.",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vswSQyoT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GKE%2520%25E3%2581%25AB%2520Open%2520Cluster%2520Management%2520%2528OCM%2529%2520%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB%25E3%2583%258F%25E3%2583%259E%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:KEY60228%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYwNWRjYjM3YmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T01:00:08.000Z",
+            "date_published": "2026-09-29T01:00:08.000Z",
+            "author": {
+                "name": "KEY60228"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ",
+                "blogTitle": "AI Shift Tech Blogのフィード",
+                "blogLink": "https://zenn.dev/p/aishift",
+                "blogLinkMd5Hash": "c76ff6050e4d4c73646f4935e8a28874",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "AI Shift",
+                "host": "zenn.dev",
+                "score": 0.103,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=65704",
+            "content_html": "Safe ECS controller migration with zero downtime: run parallel services, Terraform-owned config, and a staged cutover behind the same load balancer.",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/65704/",
+            "title": "Switching ECS deployment types with nearly zero disruption | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "Safe ECS controller migration with zero downtime: run parallel services, Terraform-owned config, and a staged cutover behind the same load balancer.",
+            "image": {
+                "height": "630",
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/08/feature-image-switching-ecs-deployment-types.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-28T23:00:38.000Z",
+            "date_published": "2026-09-28T23:00:38.000Z",
+            "author": {
+                "name": "cuongvd"
+            },
+            "tags": [
+                "エンジニア",
+                "AWS",
+                "CI/CD",
+                "ECS",
+                "GitHub Actions",
+                "Hanoi DevCenter",
+                "PipeCD",
+                "Terraform"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Switching ECS deployment types with nearly zero disruption",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent",
+                "host": "developers.cyberagent.co.jp",
+                "score": 0.1,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

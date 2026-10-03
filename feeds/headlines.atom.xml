@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines</id>
+    <title>RSS (Headlines)</title>
+    <updated>2026-10-03T22:49:43.251Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml"/>
+    <subtitle>HN・ITmedia速報など</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[07:16 再び浮上した「クレカ表現規制問題」　クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/04/2000001978/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/04/2000001978/"/>
+        <updated>2026-10-03T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。（1/6 ページ）]]></summary>
+        <content type="html"><![CDATA[9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。（1/6 ページ）]]></content>
+        <category label="news"/>
+        <published>2026-10-03T22:16:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[07:07 Federal judge calls Flock 'indiscriminate mass surveillance' (techcrunch.com · ↑50 · 22 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49948254</id>
+        <link href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"/>
+        <updated>2026-10-03T22:07:13.000Z</updated>
+        <summary type="html"><![CDATA[A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendmen]]></summary>
+        <content type="html"><![CDATA[A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant. ]]></content>
+        <author>
+            <name>sbulaev</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T22:07:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[05:49 Reasons I didn't become an EMT, ranked (ben.stolovitz.com · ↑26 · 7 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49947631</id>
+        <link href="https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"/>
+        <updated>2026-10-03T20:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Here are 21 reasons I delayed getting my EMT licensed, sorted loosely by ridicul]]></summary>
+        <content type="html"><![CDATA[Here are 21 reasons I delayed getting my EMT licensed, sorted loosely by ridiculousness.]]></content>
+        <author>
+            <name>citelao</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T20:49:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[05:27 Surely you have ultra-wideband radios on your bins too? (sjg.io · ↑23 · 6 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49947472</id>
+        <link href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/"/>
+        <updated>2026-10-03T20:27:44.000Z</updated>
+        <summary type="html"><![CDATA[How I massively over-engineered a trivial problem again because I just can't hel]]></summary>
+        <content type="html"><![CDATA[How I massively over-engineered a trivial problem again because I just can't help myself]]></content>
+        <author>
+            <name>simonjgreen</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T20:27:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04:33 We want you to build the next Git platform on Cloudflare (blog.cloudflare.com · ↑89 · 76 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49947051</id>
+        <link href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/"/>
+        <updated>2026-10-03T19:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare is hosting a competition to see who will build the next Git platform ]]></summary>
+        <content type="html"><![CDATA[Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.]]></content>
+        <author>
+            <name>geoffbp</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T19:33:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04:14 The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux (phoronix.com · ↑36 · 2 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946895</id>
+        <link href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"/>
+        <updated>2026-10-03T19:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPUComments U]]></summary>
+        <content type="html"><![CDATA[Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPUComments URL: https://news.ycombinator.com/item?id=49946895Points: 36# Comments: 2]]></content>
+        <author>
+            <name>speckx</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T19:14:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04:09 RSS Feed Best Practices (2022) (kevincox.ca · ↑25 · 7 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946845</id>
+        <link href="https://kevincox.ca/2022/05/06/rss-feed-best-practices/"/>
+        <updated>2026-10-03T19:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/Comments URL]]></summary>
+        <content type="html"><![CDATA[Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/Comments URL: https://news.ycombinator.com/item?id=49946845Points: 25# Comments: 7]]></content>
+        <author>
+            <name>KomoD</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T19:09:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:52 How to hack time, with C2PA (da.vidbuchanan.co.uk · ↑8 · 1 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946707</id>
+        <link href="https://www.da.vidbuchanan.co.uk/blog/hacking-time.html"/>
+        <updated>2026-10-03T18:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.htmlComments URL]]></summary>
+        <content type="html"><![CDATA[Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.htmlComments URL: https://news.ycombinator.com/item?id=49946707Points: 8# Comments: 1]]></content>
+        <author>
+            <name>Retr0id</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:52:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:29 Getting the most out of Opus 5.5 in Claude and Claude Code (claude.dev · ↑117 · 79 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946567</id>
+        <link href="https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"/>
+        <updated>2026-10-03T18:29:30.000Z</updated>
+        <summary type="html"><![CDATA[How to prompt Opus 5.5, steer a long run, and check your results in Claude apps ]]></summary>
+        <content type="html"><![CDATA[How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></content>
+        <author>
+            <name>saikatsg</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:29:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:23 What Meta got right with Muse (metedata.substack.com · ↑10 · 4 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946526</id>
+        <link href="https://metedata.substack.com/p/what-meta-got-right-with-muse"/>
+        <updated>2026-10-03T18:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://metedata.substack.com/p/what-meta-got-right-with-museCommen]]></summary>
+        <content type="html"><![CDATA[Article URL: https://metedata.substack.com/p/what-meta-got-right-with-museComments URL: https://news.ycombinator.com/item?id=49946526Points: 10# Comments: 4]]></content>
+        <author>
+            <name>young_mete</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:23:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:06 Hole Punch: Sling your spaceship around gravitational fields (notoriousbfg.com · ↑172 · 47 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946393</id>
+        <link href="https://notoriousbfg.com/hole-punch/"/>
+        <updated>2026-10-03T18:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Punch black holes in space and sling a ship home round them.]]></summary>
+        <content type="html"><![CDATA[Punch black holes in space and sling a ship home round them.]]></content>
+        <author>
+            <name>trwhite</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:06:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:01 Treachery in the Rodin Museum 3D scan verdict (cosmowenman.substack.com · ↑16 · 4 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946355</id>
+        <link href="https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict"/>
+        <updated>2026-10-03T18:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdictComm]]></summary>
+        <content type="html"><![CDATA[Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdictComments URL: https://news.ycombinator.com/item?id=49946355Points: 16# Comments: 4]]></content>
+        <author>
+            <name>CosmoWenman</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:01:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02:44 LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents (fortune.com · ↑30 · 13 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946228</id>
+        <link href="https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"/>
+        <updated>2026-10-03T17:44:29.000Z</updated>
+        <summary type="html"><![CDATA[The former Meta chief AI scientist shares his take on recent rogue AI incidents ]]></summary>
+        <content type="html"><![CDATA[The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.]]></content>
+        <author>
+            <name>Anon84</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:44:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02:35 Automating my 35mm film scanning pipeline (shannadige.com · ↑5 · 2 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946148</id>
+        <link href="https://shannadige.com/blog/darkroom/"/>
+        <updated>2026-10-03T17:35:42.000Z</updated>
+        <summary type="html"><![CDATA[A story about replacing a creative workflow and focusing on another.]]></summary>
+        <content type="html"><![CDATA[A story about replacing a creative workflow and focusing on another.]]></content>
+        <author>
+            <name>shannadige</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:35:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02:23 Vx – One Language, Every Chip (vxlang.org · ↑51 · 28 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49946076</id>
+        <link href="https://vxlang.org/"/>
+        <updated>2026-10-03T17:23:20.000Z</updated>
+        <summary type="html"><![CDATA[A heterogeneous-systems programming language that puts placement and reachabilit]]></summary>
+        <content type="html"><![CDATA[A heterogeneous-systems programming language that puts placement and reachability in the type system.]]></content>
+        <author>
+            <name>elffjs</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:23:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02:03 Agents don't need memory, they need documentation (liao.gg · ↑14 · 9 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49945933</id>
+        <link href="https://liao.gg/blog/agents-dont-need-memory"/>
+        <updated>2026-10-03T17:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Why agents need project documentation instead of retrieval from old conversation]]></summary>
+        <content type="html"><![CDATA[Why agents need project documentation instead of retrieval from old conversations.]]></content>
+        <author>
+            <name>kmeh</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:03:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02:00 RetailReady (YC W24) Is Hiring (ycombinator.com · ↑0 · 0 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49945904</id>
+        <link href="https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations"/>
+        <updated>2026-10-03T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[We are RetailReady (YC W24) - an AI-powered supply chain compliance engine. We’v]]></summary>
+        <content type="html"><![CDATA[We are RetailReady (YC W24) - an AI-powered supply chain compliance engine. We’ve raised $6.6M in funding, onboarded over 50 customers, and in the past 12 months we’ve 4x’d our revenue. We are building world-class software that will disrupt an antiquated industry &amp;amp; we want you on board.  What we’re doing here matters. We’re tackling everyday challenges for real people in the supply chain – that’s the heart of every business. With us, you’ll see your work come to life in amazing ways. Imagine bei]]></content>
+        <author>
+            <name>sarah74</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:00:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:55 Docker has always used microVMs (well since 2016) (dave.recoil.org · ↑9 · 0 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49945352</id>
+        <link href="https://dave.recoil.org/docker-has-always-used-microvms/"/>
+        <updated>2026-10-03T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Docker Desktop has always run containers inside a minimal, purpose-built VM. Her]]></summary>
+        <content type="html"><![CDATA[Docker Desktop has always run containers inside a minimal, purpose-built VM. Here is why, and what it bought us.]]></content>
+        <author>
+            <name>avsm</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T15:55:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:19 Show HN: Factorio but with unreliable components (think-twice.me · ↑13 · 2 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49945058</id>
+        <link href="https://think-twice.me/public/rely/"/>
+        <updated>2026-10-03T15:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Rely is an automation puzzle game about building reliable systems from unreliabl]]></summary>
+        <content type="html"><![CDATA[Rely is an automation puzzle game about building reliable systems from unreliable components.]]></content>
+        <author>
+            <name>zug_zug</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T15:19:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[00:02 FTL: A new operating system for clouds (ftl-os.org · ↑136 · 57 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49944912</id>
+        <link href="https://ftl-os.org/"/>
+        <updated>2026-10-03T15:02:36.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/nuta/ftlComments URL: https://news.ycombinator.com/item?id=49]]></summary>
+        <content type="html"><![CDATA[https://github.com/nuta/ftlComments URL: https://news.ycombinator.com/item?id=49944912Points: 136# Comments: 57]]></content>
+        <author>
+            <name>romac</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T15:02:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21:27 Watson Jr. memo about CDC 6600 (1963) (computerhistory.org · ↑5 · 3 comments)]]></title>
+        <id>https://news.ycombinator.com/item?id=49943685</id>
+        <link href="https://www.computerhistory.org/revolution/supercomputers/10/33/62"/>
+        <updated>2026-10-03T12:27:31.000Z</updated>
+        <summary type="html"><![CDATA[&amp;lt;p&amp;gt;Watson penned this scathing memo asking how IBM lost “our industry leadership]]></summary>
+        <content type="html"><![CDATA[&amp;lt;p&amp;gt;Watson penned this scathing memo asking how IBM lost “our industry leadership” to a company with “34 people, including the janitor.” Also known as "The Janitor Memo," it shows the impact Control Data Corporation and its computers had on the leadership of IBM.&amp;lt;/p&amp;gt;]]></content>
+        <author>
+            <name>mooreds</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T12:27:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12:00 貧乏な子どもが“稼げる大人”になる条件とは？　米ハーバード大などがFacebook7000万アカウント超から分析　2022年にNature掲載 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001935/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001935/"/>
+        <updated>2026-10-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米ハーバード大学や米スタンフォード大学などに所属する研究者らが2022年にNature誌で発表した論文「Social capital I: measuremen]]></summary>
+        <content type="html"><![CDATA[米ハーバード大学や米スタンフォード大学などに所属する研究者らが2022年にNature誌で発表した論文「Social capital I: measurement and associations with economic mobility」は、どんな人とのつながりが、将来の収入アップに影響するのかを分析した研究報告だ。]]></content>
+        <category label="news"/>
+        <published>2026-10-03T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:45 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001981/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001981/"/>
+        <updated>2026-10-03T01:45:11.000Z</updated>
+        <summary type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></summary>
+        <content type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></content>
+        <category label="news"/>
+        <published>2026-10-03T01:45:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:41 Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001984/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001984/"/>
+        <updated>2026-10-03T01:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向]]></summary>
+        <content type="html"><![CDATA[Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。]]></content>
+        <category label="news"/>
+        <published>2026-10-03T01:41:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:38 Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001983/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001983/"/>
+        <updated>2026-10-03T00:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な]]></summary>
+        <content type="html"><![CDATA[Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。]]></content>
+        <category label="news"/>
+        <published>2026-10-03T00:38:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:26 「Androidのマイナンバーカード」提供へ　20日から　物理カードなしでも本人確認など可能に (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/02/2000001968/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001968/"/>
+        <updated>2026-10-02T09:26:25.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁は10月2日、「Androidのマイナンバーカード」の提供を20日に始める予定だと発表した。既存の「Androidスマホ用電子証明書搭載サービス」を刷]]></summary>
+        <content type="html"><![CDATA[デジタル庁は10月2日、「Androidのマイナンバーカード」の提供を20日に始める予定だと発表した。既存の「Androidスマホ用電子証明書搭載サービス」を刷新するもので、Android端末でも実物のカードを提示せずに、スマートフォンで対面の本人確認や年齢確認などを受けられるようになる。]]></content>
+        <category label="news"/>
+        <published>2026-10-02T09:26:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:23 都営地下鉄の公衆電話、すべて撤去へ　28年11月までに (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/02/2000001948/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001948/"/>
+        <updated>2026-10-02T00:23:15.000Z</updated>
+        <summary type="html"><![CDATA[撤去予定の公衆電話には、撤去予定日の2週間前までに「公衆電話撤去のお知らせ」を掲示する。]]></summary>
+        <content type="html"><![CDATA[撤去予定の公衆電話には、撤去予定日の2週間前までに「公衆電話撤去のお知らせ」を掲示する。]]></content>
+        <category label="news"/>
+        <published>2026-10-02T00:23:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[08:52 ローソンのメールサーバが踏み台に、不審メール約70万件送信　件名「RE」など (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/02/2000001947/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001947/"/>
+        <updated>2026-10-01T23:52:46.000Z</updated>
+        <summary type="html"><![CDATA[同社が確認した不審メールは、件名が「Mutual Benefit」または「RE」で、英文で金銭の取得を示唆し、メールでの連絡や個人情報の提供などを求める内容。]]></summary>
+        <content type="html"><![CDATA[同社が確認した不審メールは、件名が「Mutual Benefit」または「RE」で、英文で金銭の取得を示唆し、メールでの連絡や個人情報の提供などを求める内容。]]></content>
+        <category label="news"/>
+        <published>2026-10-01T23:52:46.000Z</published>
+    </entry>
+</feed>

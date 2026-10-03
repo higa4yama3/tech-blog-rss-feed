@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (今日の5本)</title>
+    <updated>2026-10-03T22:49:43.246Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>読んで高揚しそうな記事をスコア順に選んだもの</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ413] 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</id>
+        <link href="https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14"/>
+        <updated>2026-10-02T15:17:29.000Z</updated>
+        <summary type="html"><![CDATA[はてブ413 · 動かしてみた
+はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></summary>
+        <content type="html"><![CDATA[はてブ413 · 動かしてみた
+はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-02T15:17:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ22] Getting the most out of Opus 5.5 in Claude and Claude Code | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=49946567</id>
+        <link href="https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"/>
+        <updated>2026-10-03T18:29:30.000Z</updated>
+        <summary type="html"><![CDATA[はてブ22 · HN 117pt
+How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></summary>
+        <content type="html"><![CDATA[はてブ22 · HN 117pt
+How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></content>
+        <author>
+            <name>saikatsg</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:29:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ65] 2026 年 10 月前半の LLM 利用状況 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://voluntas.ghost.io/2026-10-first-half-llm/</id>
+        <link href="https://voluntas.ghost.io/2026-10-first-half-llm/"/>
+        <updated>2026-10-03T08:13:44.000Z</updated>
+        <summary type="html"><![CDATA[はてブ65
+あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替]]></summary>
+        <content type="html"><![CDATA[はてブ65
+あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。  Ollama Cloud は月 $500 支払うと $1000 ドル分利用できる。さらにDeepSeek のピークが日本時間の 21:00-03:00 ということで、営業時間にかぶらないというメリットがあり、実質利用枠が 2 倍になった。   Cursor  Team]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T08:13:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ49] Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261002/k8s</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261002/k8s"/>
+        <updated>2026-10-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はてブ49 · 設計判断・移行
+■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3.]]></summary>
+        <content type="html"><![CDATA[はてブ49 · 設計判断・移行
+■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか？ k8sリソースの粒度の問題 マニフェスト抽象化OSSの選定 PlatformAppの記述例 拡張性とガードレールの両立 4. 今後の課題 まとめ]]></content>
+        <published>2026-10-02T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261003-ministack/</id>
+        <link href="https://gigazine.net/news/20261003-ministack/"/>
+        <updated>2026-10-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はてブ57
+AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></summary>
+        <content type="html"><![CDATA[はてブ57
+AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></content>
+        <published>2026-10-03T03:00:00.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering</id>
+    <title>RSS (設計・SRE・基盤)</title>
+    <updated>2026-10-03T22:49:43.227Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml"/>
+    <subtitle>設計・SRE・基盤の記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://gigazine.net/news/20261003-ministack/</id>
+        <link href="https://gigazine.net/news/20261003-ministack/"/>
+        <updated>2026-10-03T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></summary>
+        <content type="html"><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T03:06:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 36pt] The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=49946895</id>
+        <link href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"/>
+        <updated>2026-10-03T19:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPUComments URL: https://news.ycombinator.com/item?id=49946895Points: 36# Comments: 2]]></summary>
+        <content type="html"><![CDATA[Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPUComments URL: https://news.ycombinator.com/item?id=49946895Points: 36# Comments: 2]]></content>
+        <author>
+            <name>speckx</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T19:14:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ49] Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261002/k8s</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261002/k8s"/>
+        <updated>2026-10-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか]]></summary>
+        <content type="html"><![CDATA[■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか？ k8sリソースの粒度の問題 マニフェスト抽象化OSSの選定 PlatformAppの記述例 拡張性とガードレールの両立 4. 今後の課題 まとめ]]></content>
+        <published>2026-10-02T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 9pt] Docker has always used microVMs (well since 2016) | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=49945352</id>
+        <link href="https://dave.recoil.org/docker-has-always-used-microvms/"/>
+        <updated>2026-10-03T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Docker Desktop has always run containers inside a minimal, purpose-built VM. Here is why, and what it bought us.]]></summary>
+        <content type="html"><![CDATA[Docker Desktop has always run containers inside a minimal, purpose-built VM. Here is why, and what it bought us.]]></content>
+        <author>
+            <name>avsm</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T15:55:31.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[数字のインパクト] 開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp"/>
+        <updated>2026-10-02T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、 When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit を日本語訳したものです。 はじめに Sansan Global Development Center, Inc.（SGDC）でQAリードを務めるReubenです。私たちのチームは、経理AXサービス「]]></summary>
+        <content type="html"><![CDATA[この記事は、 When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit を日本語訳したものです。 はじめに Sansan Global Development Center, Inc.（SGDC）でQAリードを務めるReubenです。私たちのチームは、経理AXサービス「Bill One」のAI自動照合機能における、QAエンジニアリングの大部分を担当しています。本稿では、手作業で実施していたE2Eテストの所要時間をどのように削減したか、そのために何を構築する必要があっ…]]></content>
+        <published>2026-10-02T05:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[数字のインパクト] 原因不明のメモリ高騰を追う！GCEの「見掛け上のメモリ増加」解明による50%コスト削減 [DeNA インフラ SRE] | Blog on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/blog/2026/10/gce-e2-memory-rightsizing/</id>
+        <link href="https://engineering.dena.com/blog/2026/10/gce-e2-memory-rightsizing/"/>
+        <updated>2026-10-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[  はじめに  こんにちは。IT基盤部第二グループの若松です。普段は、ゲームプラットフォームにおけるインフラの安定稼働とコスト最適化に日々取り組んでいます。 私たちのチームでは、GCE (Google Compute Engine) を活用したインフラ運用を行っています。GCE のインスタンスを使用する上で、コスト最適化の観点でインスタンススペックの適正化が重要となります。その中 …]]></summary>
+        <content type="html"><![CDATA[  はじめに  こんにちは。IT基盤部第二グループの若松です。普段は、ゲームプラットフォームにおけるインフラの安定稼働とコスト最適化に日々取り組んでいます。 私たちのチームでは、GCE (Google Compute Engine) を活用したインフラ運用を行っています。GCE のインスタンスを使用する上で、コスト最適化の観点でインスタンススペックの適正化が重要となります。その中 …]]></content>
+        <published>2026-10-01T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ9] HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=160077</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077"/>
+        <updated>2026-10-01T08:30:49.000Z</updated>
+        <summary type="html"><![CDATA[概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at]]></summary>
+        <content type="html"><![CDATA[概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails関連"/>
+        <category label="Active Storage"/>
+        <category label="HotCell"/>
+        <category label="Ruby on Rails"/>
+        <category label="翻訳記事"/>
+        <published>2026-10-01T08:30:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everpure FlashArrayで実現するランサムウェア対策 ── 基幹データベースの不変スナップショット運用 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/everpure-flasharray-safemode</id>
+        <link href="https://techblog.zozo.com/entry/everpure-flasharray-safemode"/>
+        <updated>2026-10-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。EC基盤開発本部 SRE部 カート決済SREの遠藤です。 普段はカート決済に関連する機能のリプレイスや保守運用をメインに、ZOZOTOWNのDBREとして活動しています。 近年、ランサムウェア攻撃が世界中で猛威を振るっており、企業のデータ保護は喫緊の課題となっています。特にデータベースは企業活動の根幹を支える重要な資産であり、万が一の攻撃に備えた対策が不可欠です。 本記事では、Everpure社（旧Pure Storage社）のストレージ製品「FlashArray」を活用したランサムウェア対策をご紹介します。対象はZOZOTOWNの基幹データベースであるMicrosoft…]]></content>
+        <published>2026-10-02T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ20] 10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み | freee Developers Hub]]></title>
+        <id>https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev</id>
+        <link href="https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev"/>
+        <updated>2026-09-29T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が]]></summary>
+        <content type="html"><![CDATA[はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が誕生する前から開発が続けられていたプロダクトでは、独自の権限管理処理を持っているものもいくつか存在しています。 今回の記事では、少し長くなりますが、私たち権限管理基盤チームが直近で取り組んだ、free…]]></content>
+        <published>2026-09-29T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] 増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/go-test-sharding</id>
+        <link href="https://techblog.zozo.com/entry/go-test-sharding"/>
+        <updated>2026-09-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、w]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、wall-clock）は13分前後となることが多い状態でした。 そこで、wall-clockを短縮するとともに、今後のテスト数の増加にも対応できるよう、テストのシャーディングを中心に実行方式を見直しまし…]]></content>
+        <published>2026-09-29T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[設計判断・移行] Digdag on GKEからManaged Service for Apache Airflowへの移行と監視の紹介 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/digdag-on-gke-to-managed-service-for-airflow</id>
+        <link href="https://techblog.zozo.com/entry/digdag-on-gke-to-managed-service-for-airflow"/>
+        <updated>2026-09-30T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、MA部のMA基盤開発ブロックの@gachi-muchi-engineerと松岡（@pine0619）です。 MA部では、メール、LINE、プッシュ通知などを配信しています。配信に必要なデータの生成や夜間の集計など、複数のワークフローを運用しています。これまで、これらのワークフローはGKE上に構築したDigdagで実行していました。Digdagの構成や運用については、以下のテッ]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、MA部のMA基盤開発ブロックの@gachi-muchi-engineerと松岡（@pine0619）です。 MA部では、メール、LINE、プッシュ通知などを配信しています。配信に必要なデータの生成や夜間の集計など、複数のワークフローを運用しています。これまで、これらのワークフローはGKE上に構築したDigdagで実行していました。Digdagの構成や運用については、以下のテックブログで紹介しています。 techblog.zozo.com Digdagは、ワークフローを定義して実行するための便利なツールでした。一方で、近年は開発が活発ではなく、利用中に発生した問題や機能不足…]]></content>
+        <published>2026-09-30T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[設計判断・移行] 詳説 BigQuery の課金モデルの選定と Editions への移行手順 [DeNA インフラ SRE] | Blog on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/blog/2026/09/bigquery-editions-migration/</id>
+        <link href="https://engineering.dena.com/blog/2026/09/bigquery-editions-migration/"/>
+        <updated>2026-09-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[  はじめに  こんにちは、   IT 本部 IT 基盤部   第三グループの渡邊です。IT 基盤部では、組織横断的にさまざまなサービスのインフラ運用とコスト削減に取り組んでいます。 BigQuery のクエリ費用には、スキャンしたバイト数に課金するオンデマンドと、確保したスロット（BigQuery の計算リソースの単位）の時間に課金する BigQuery Editions（以 …]]></summary>
+        <content type="html"><![CDATA[  はじめに  こんにちは、   IT 本部 IT 基盤部   第三グループの渡邊です。IT 基盤部では、組織横断的にさまざまなサービスのインフラ運用とコスト削減に取り組んでいます。 BigQuery のクエリ費用には、スキャンしたバイト数に課金するオンデマンドと、確保したスロット（BigQuery の計算リソースの単位）の時間に課金する BigQuery Editions（以 …]]></content>
+        <published>2026-09-29T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「文字列の長さ」の判定で気をつけるべきこと【後編】MySQL と Spanner のカラム長 | COLOPL Tech Blog]]></title>
+        <id>https://blog.colopl.dev/entry/php-string-length-database</id>
+        <link href="https://blog.colopl.dev/entry/php-string-length-database"/>
+        <updated>2026-10-01T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、エンジニアの 工藤 です。 この記事は前後編の後編です。前回の記事は こちら です。 前編では、 PHP で「文字列の長さ」を数える単位は一つではないこと、そして名前入力のような場面では書記素クラスタ数とバイト数の両方に上限をかける必要があることを説明しました。 blog.colopl.dev 後編では、そうしてチェックした文字列をデータベースで扱う時の話をさせていただければと思います]]></summary>
+        <content type="html"><![CDATA[こんにちは、エンジニアの 工藤 です。 この記事は前後編の後編です。前回の記事は こちら です。 前編では、 PHP で「文字列の長さ」を数える単位は一つではないこと、そして名前入力のような場面では書記素クラスタ数とバイト数の両方に上限をかける必要があることを説明しました。 blog.colopl.dev 後編では、そうしてチェックした文字列をデータベースで扱う時の話をさせていただければと思います。カラムの桁数として書いたつもりの 20 が実際には何を数えているのかを、代表的なものとして MySQL と Cloud Spanner で見ていきます。]]></content>
+        <published>2026-10-01T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さくら社員のリアルなCDN活用事例 ～さくらのウェブアクセラレータ 10周年記念～ | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51702</id>
+        <link href="https://knowledge.sakura.ad.jp/51702/"/>
+        <updated>2026-10-01T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに さくらインターネットのCDNサービス「さくらのウェブアクセラレータ」は、2016年10月1日にさくらのクラウドのオプションサービスとして正式提供を開始し、2026年10月で提供開始から10周年を迎えます。月間数 […]]]></summary>
+        <content type="html"><![CDATA[はじめに さくらインターネットのCDNサービス「さくらのウェブアクセラレータ」は、2016年10月1日にさくらのクラウドのオプションサービスとして正式提供を開始し、2026年10月で提供開始から10周年を迎えます。月間数 […]]]></content>
+        <author>
+            <name>さくらのウェブアクセラレータ（CDN）企画・開発チーム</name>
+        </author>
+        <category label="エンジニア向け"/>
+        <category label="AppRun"/>
+        <category label="CDN"/>
+        <category label="Codex"/>
+        <category label="GitHub Actions"/>
+        <category label="ImageFLux Live Streaming"/>
+        <category label="Notion"/>
+        <category label="WordPress"/>
+        <category label="さくらのVPS"/>
+        <category label="さくらのウェブアクセラレータ"/>
+        <category label="さくらのレンタルサーバ"/>
+        <published>2026-10-01T01:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年10月技術イベント予定 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/10/01/100000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/10/01/100000"/>
+        <updated>2026-10-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sansan株式会社では、技術イベントや勉強会の主催・登壇・協賛を行っています。 各イベントの詳細については、以下のリンクからご確認ください。 ※開催状況により、すでに受付を終了している場合がございます。 ※掲載している内容は公開当時の情報です。最新情報は各イベントページをご確認ください。]]></summary>
+        <content type="html"><![CDATA[Sansan株式会社では、技術イベントや勉強会の主催・登壇・協賛を行っています。 各イベントの詳細については、以下のリンクからご確認ください。 ※開催状況により、すでに受付を終了している場合がございます。 ※掲載している内容は公開当時の情報です。最新情報は各イベントページをご確認ください。]]></content>
+        <published>2026-10-01T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年9月のイチオシGoogle Cloud・Google Workspaceアップデート | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/update-in-this-month-2026-09</id>
+        <link href="https://blog.g-gen.co.jp/entry/update-in-this-month-2026-09"/>
+        <updated>2026-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の杉村です。2026年9月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート Cloud Run services で Agent Platform 機能が使用可能に（Preview） Gemini モデルで]]></summary>
+        <content type="html"><![CDATA[G-gen の杉村です。2026年9月に発表された、Google Cloud や Google Workspace のイチオシアップデートをまとめてご紹介します。記載は全て、記事公開当時のものですのでご留意ください。 はじめに Google Cloud のアップデート Cloud Run services で Agent Platform 機能が使用可能に（Preview） Gemini モデルで Agentic video understanding が Preview 公開 Gemini 3.8 Flash / Gemini 3.8 Flash Cyber が一般公開（GA） Cloud …]]></content>
+        <published>2026-10-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDCAの罠 〜A/Bテストの使いどころ〜 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/10/01/110000</id>
+        <link href="https://www.m3tech.blog/entry/2026/10/01/110000"/>
+        <updated>2026-09-30T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。エンジニアリンググループ プロダクト支援チームでプロダクトマネージャーをしている中村です。 業務でAIエージェントを活用するようになり、分析のスピードが圧倒的に上がりました。気になった数字をすぐ別の切り口で分解し、仮説を立てては検証する。以前なら一段で止まっていた深掘りが、何段も進むようになったのです。その結果、A/Bテストの設計から効果検証までが格段に捗るようになりました。 そうして]]></summary>
+        <content type="html"><![CDATA[こんにちは。エンジニアリンググループ プロダクト支援チームでプロダクトマネージャーをしている中村です。 業務でAIエージェントを活用するようになり、分析のスピードが圧倒的に上がりました。気になった数字をすぐ別の切り口で分解し、仮説を立てては検証する。以前なら一段で止まっていた深掘りが、何段も進むようになったのです。その結果、A/Bテストの設計から効果検証までが格段に捗るようになりました。 そうして積み重ねた改善は、一つひとつ確実に成果を出し、プロダクトは順当に成長しています。ただ、10xを狙えるステップチェンジには、まだ至っていません。 PDCAで成果が出ているからこそ、無自覚にPDCAを回し…]]></content>
+        <published>2026-09-30T04:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafkaアラートの初動調査を支援するAI Alert Watcherの開発（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20260929b</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20260929b"/>
+        <updated>2026-09-29T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。法政大学情報科学部3年の霍 永豪と申します。2026年8月17日〜9月11日の4週間、社内のデータ基盤に使われているKafkaを運用するチームでインターンとして参加し、Grafan...]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。法政大学情報科学部3年の霍 永豪と申します。2026年8月17日〜9月11日の4週間、社内のデータ基盤に使われているKafkaを運用するチームでインターンとして参加し、Grafan...]]></content>
+        <published>2026-09-29T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プライベートクラウドにおけるサービス間通信の今、そして「サービス指向クラウド」が作る未来 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20260930b</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20260930b"/>
+        <updated>2026-09-30T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。LINEヤフーで、プライベートクラウドのネットワーク関連サービスを開発している清水です。現代の大規模なWebサービスにおいては、一つのモノリシックなアプリケーションだけで構成されることは少...]]></summary>
+        <content type="html"><![CDATA[こんにちは。LINEヤフーで、プライベートクラウドのネットワーク関連サービスを開発している清水です。現代の大規模なWebサービスにおいては、一つのモノリシックなアプリケーションだけで構成されることは少...]]></content>
+        <published>2026-09-30T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通知配信基盤（メール配信基盤）の開発を振り返る | DMM Developers Blog]]></title>
+        <id>https://developersblog.dmm.com/entry/2026/09/30/110000</id>
+        <link href="https://developersblog.dmm.com/entry/2026/09/30/110000"/>
+        <updated>2026-09-30T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 通知配信基盤構想のはじまり プロダクト要求仕様書（PRD）を作成 アプリケーションアーキテクチャ設計 技術選定 技術スタック一覧 APIの通信形式 データストア メールサーバ 軽量仕様駆動開発により2ヶ月程度で開発を完遂 いざリリース リリースまでを振り返って課題に感じたこと さいごに We are Hiring! はじめに こんにちは。プラットフォーム開発本部第1開発部 アカウントサー]]></summary>
+        <content type="html"><![CDATA[はじめに 通知配信基盤構想のはじまり プロダクト要求仕様書（PRD）を作成 アプリケーションアーキテクチャ設計 技術選定 技術スタック一覧 APIの通信形式 データストア メールサーバ 軽量仕様駆動開発により2ヶ月程度で開発を完遂 いざリリース リリースまでを振り返って課題に感じたこと さいごに We are Hiring! はじめに こんにちは。プラットフォーム開発本部第1開発部 アカウントサービスグループ 会員バックエンドチームでチームリーダーをやっている吉川と申します。DMM.comのプラットフォーム開発本部は、認証・認可・会員基盤・決済基盤等、DMMの各サービスで共通利用できる機能のA…]]></content>
+        <published>2026-09-30T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さくらのクラウドとTerraformを活用したDIVER OSINT CTFにおけるインフラ基盤 | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51535</id>
+        <link href="https://knowledge.sakura.ad.jp/51535/"/>
+        <updated>2026-09-30T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。DIVER OSINT CTF インフラチームのy-chanとxryuseixです。DIVER OSINT CTF 2026では、インフラの大部分にパートナーであるさくらインターネットさんの「さくら […]]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。DIVER OSINT CTF インフラチームのy-chanとxryuseixです。DIVER OSINT CTF 2026では、インフラの大部分にパートナーであるさくらインターネットさんの「さくら […]]]></content>
+        <author>
+            <name>DIVER OSINT CTF</name>
+        </author>
+        <category label="エンジニア向け"/>
+        <category label="CTF"/>
+        <category label="CTFd"/>
+        <category label="IaC"/>
+        <category label="Prometheus"/>
+        <category label="Terraform"/>
+        <category label="さくらのクラウド"/>
+        <published>2026-09-30T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google SecOps MCP serverとSkillsでアラートをトリアージする | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/secops-case-triage-with-mcp-and-skills</id>
+        <link href="https://blog.g-gen.co.jp/entry/secops-case-triage-with-mcp-and-skills"/>
+        <updated>2026-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の武井です。当記事では、Google SecOps MCP server と Skills を組み合わせ、Google SecOps で検知したアラート（ケース）をトリアージする方法について紹介します。 はじめに 前提知識 Google SecOps トリアージと調査エージェント（TIN） Google SecOps MCP server Antigravity CLI Skills ]]></summary>
+        <content type="html"><![CDATA[G-gen の武井です。当記事では、Google SecOps MCP server と Skills を組み合わせ、Google SecOps で検知したアラート（ケース）をトリアージする方法について紹介します。 はじめに 前提知識 Google SecOps トリアージと調査エージェント（TIN） Google SecOps MCP server Antigravity CLI Skills 検証の概要 構成 検証の流れ 検証の方針 環境構築 事前準備（IAMと認証） Antigravity CLI のインストール Antigravity CLI のサインイン Google SecOps …]]></content>
+        <published>2026-09-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIインフラとコミュニティについてあれこれ聞いてみた 〜「さくらの夕べ in 松山 with アリスタネットワークス」レポート〜 | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51302</id>
+        <link href="https://knowledge.sakura.ad.jp/51302/"/>
+        <updated>2026-09-29T02:54:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 2026年7月15日(水)に「さくらの夕べ in 松山 with アリスタネットワークス」を開催しました。今回のイベントは同時期に愛媛県松山市で開催されたJANOG58ミーティングに併せて実施したもので、JAN […]]]></summary>
+        <content type="html"><![CDATA[はじめに 2026年7月15日(水)に「さくらの夕べ in 松山 with アリスタネットワークス」を開催しました。今回のイベントは同時期に愛媛県松山市で開催されたJANOG58ミーティングに併せて実施したもので、JAN […]]]></content>
+        <author>
+            <name>法林浩之</name>
+        </author>
+        <category label="イベント・セミナー・勉強会"/>
+        <category label="AIインフラ"/>
+        <category label="JANOG"/>
+        <category label="アリスタ"/>
+        <category label="コミュニティ"/>
+        <category label="さくらの夕べ"/>
+        <category label="松山"/>
+        <category label="高火力"/>
+        <published>2026-09-29T02:54:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SREコミュニティイベントでLT登壇5連発！ CREが参加して見えてきたこと | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/09/29/110748</id>
+        <link href="https://tech.smarthr.jp/entry/2026/09/29/110748"/>
+        <updated>2026-09-29T02:07:48.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ SmartHRのCRE（Customer Reliability Engineering）部 でマネージャーをやっている a-know（井上）です。8月下旬に夏休みを取ったのですが、6日連続で15,000歩くらい歩いた結果、左膝に爆弾を抱えてしまいました。昨年も同じようなことをしたのですが、そのときには問題なかったのですが⋯⋯年々体の衰えを感じずにはいられませんね。 さて、実はこの9]]></summary>
+        <content type="html"><![CDATA[こんにちは！ SmartHRのCRE（Customer Reliability Engineering）部 でマネージャーをやっている a-know（井上）です。8月下旬に夏休みを取ったのですが、6日連続で15,000歩くらい歩いた結果、左膝に爆弾を抱えてしまいました。昨年も同じようなことをしたのですが、そのときには問題なかったのですが⋯⋯年々体の衰えを感じずにはいられませんね。 さて、実はこの9月は SRE（Software Reliability Engineering） のコミュニティが異様に盛り上がっていたことに、みなさんは気づいていましたでしょうか？ 私が把握できただけでも、9月は以…]]></content>
+        <published>2026-09-29T02:07:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ | AI Shift Tech Blogのフィード]]></title>
+        <id>https://zenn.dev/aishift/articles/050045247128e9</id>
+        <link href="https://zenn.dev/aishift/articles/050045247128e9"/>
+        <updated>2026-09-29T01:00:08.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、@key60228 です。Kubernetes や Cloud Native の文脈において、AI Workload とともにマルチクラスタ運用の話題もますます増えてきてますよね。KubeCon + CloudNativeCon Japan 2026 でもいくつかセッションがありました。 (前者は「軽率にマルチクラスタにするな」って主旨でしたが)https://www.youtube.]]></summary>
+        <content type="html"><![CDATA[こんにちは、@key60228 です。Kubernetes や Cloud Native の文脈において、AI Workload とともにマルチクラスタ運用の話題もますます増えてきてますよね。KubeCon + CloudNativeCon Japan 2026 でもいくつかセッションがありました。 (前者は「軽率にマルチクラスタにするな」って主旨でしたが)https://www.youtube.com/watch?v=-0gJNQogilQ&amp;amp;list=PLH1zduub3WrE&amp;amp;index=109https://www.youtube.com/watch?v=G...]]></content>
+        <author>
+            <name>KEY60228</name>
+        </author>
+        <published>2026-09-29T01:00:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching ECS deployment types with nearly zero disruption | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=65704</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/65704/"/>
+        <updated>2026-09-28T23:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Safe ECS controller migration with zero downtime: run parallel services, Terraform-owned config, and a staged cutover behind the same load balancer.]]></summary>
+        <content type="html"><![CDATA[Safe ECS controller migration with zero downtime: run parallel services, Terraform-owned config, and a staged cutover behind the same load balancer.]]></content>
+        <author>
+            <name>cuongvd</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="AWS"/>
+        <category label="CI/CD"/>
+        <category label="ECS"/>
+        <category label="GitHub Actions"/>
+        <category label="Hanoi DevCenter"/>
+        <category label="PipeCD"/>
+        <category label="Terraform"/>
+        <published>2026-09-28T23:00:38.000Z</published>
+    </entry>
+</feed>

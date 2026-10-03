@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it</id>
+    <title>RSS (はてなIT人気)</title>
+    <updated>2026-10-03T22:49:43.272Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <subtitle>はてなブックマーク ITカテゴリ人気（厳選）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ413] 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita (qiita.com)]]></title>
+        <id>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</id>
+        <link href="https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14"/>
+        <updated>2026-10-02T15:17:29.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい]]></summary>
+        <content type="html"><![CDATA[はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-02T15:17:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ178] 韓国6行に「AIハッキング」、4行で個人情報流出 (chosunonline.com)]]></title>
+        <id>https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html</id>
+        <link href="https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html"/>
+        <updated>2026-10-03T03:45:48.000Z</updated>
+        <summary type="html"><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></summary>
+        <content type="html"><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T03:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ91] 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001981/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001981/"/>
+        <updated>2026-10-03T00:45:23.000Z</updated>
+        <summary type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></summary>
+        <content type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T00:45:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ65] 2026 年 10 月前半の LLM 利用状況 (voluntas.ghost.io)]]></title>
+        <id>https://voluntas.ghost.io/2026-10-first-half-llm/</id>
+        <link href="https://voluntas.ghost.io/2026-10-first-half-llm/"/>
+        <updated>2026-10-03T08:13:44.000Z</updated>
+        <summary type="html"><![CDATA[あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と]]></summary>
+        <content type="html"><![CDATA[あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。  Ollama Cloud は月 $500 支払うと $1000 ドル分利用できる。さらにDeepSeek のピークが日本時間の 21:00-03:00 ということで、営業時間にかぶらないというメリットがあり、実質利用枠が 2 倍になった。   Cursor  Team]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T08:13:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ64] ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府 (www8.cao.go.jp)]]></title>
+        <id>https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html</id>
+        <link href="https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html"/>
+        <updated>2026-10-02T23:40:34.000Z</updated>
+        <summary type="html"><![CDATA[内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月]]></summary>
+        <content type="html"><![CDATA[内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-02T23:40:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 (gigazine.net)]]></title>
+        <id>https://gigazine.net/news/20261003-ministack/</id>
+        <link href="https://gigazine.net/news/20261003-ministack/"/>
+        <updated>2026-10-03T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理]]></summary>
+        <content type="html"><![CDATA[AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T03:06:02.000Z</published>
+    </entry>
+</feed>

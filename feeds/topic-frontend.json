@@ -1,0 +1,183 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (フロントエンド・デザイン)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.json",
+    "description": "フロントエンド・デザインの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://coliss.com/?p=84674",
+            "content_html": "CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS",
+            "url": "https://coliss.com/articles/build-websites/operation/css/css-supports-named-feature.html",
+            "title": "[はてブ14] 長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」 | コリス",
+            "summary": "CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026090501@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:36:15.000Z",
+            "date_published": "2026-10-01T00:36:15.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -CSS",
+                "@supports named-feature()"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ14 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.787,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ14",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=83776",
+            "content_html": "※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され",
+            "url": "https://coliss.com/articles/book-review/isbn-9784839990527.html",
+            "title": "[はてブ3] ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド | コリス",
+            "summary": "※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/9784839990527-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T00:36:24.000Z",
+            "date_published": "2026-10-02T00:36:24.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Book Review",
+                "ai",
+                "マイナビ出版"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.632,
+                "topics": [
+                    "ai",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=159634",
+            "content_html": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Recreating Stimulus: how",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_30/159634",
+            "title": "[仕組みを掘る] Stimulusフレームワークを作って学ぶ（1）: data-controllerの仕組み（翻訳） | TechRacho",
+            "summary": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Recreating Stimulus: how",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/08/stimulus_recreating1_data_controllers_eyecatch.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T08:30:19.000Z",
+            "date_published": "2026-09-30T08:30:19.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails以外の開発一般",
+                "JavaScript",
+                "Stimulus.js",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Stimulusフレームワークを作って学ぶ（1）: data-controllerの仕組み（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho",
+                "host": "techracho.bpsinc.jp",
+                "score": 0.493,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/09/30/110000",
+            "content_html": "はじめに こんにちは。技術本部でモバイルエンジニアをしている松山（@akidon0000）です。 営業AXサービス「Sansan」のiOSアプリでは、Client APIを呼び出す通信層をAlamofireによる手書きの実装から、OpenAPI Generatorで生成したKotlin Multiplatform（KMP）のコードへと移行しています。今回は、その移行の中で得たノウハウを記事にしました。",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/09/30/110000",
+            "title": "10年もののiOSアプリの通信層を止めずにKotlin Multiplatformへ移す5ステップ | Sansan Tech Blog",
+            "summary": "はじめに こんにちは。技術本部でモバイルエンジニアをしている松山（@akidon0000）です。 営業AXサービス「Sansan」のiOSアプリでは、Client APIを呼び出す通信層をAlamofireによる手書きの実装から、OpenAPI Generatorで生成したKotlin Multiplatform（KMP）のコードへと移行しています。今回は、その移行の中で得たノウハウを記事にしまし",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/43444be2d8ac198480b5774c7d353b863313153f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20260918%2F20260918100002.png",
+                "alt": "10年もののiOSアプリの通信層を止めずにKotlin Multiplatformへ移す5ステップ - Sansan Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T02:00:00.000Z",
+            "date_published": "2026-09-30T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "10年もののiOSアプリの通信層を止めずにKotlin Multiplatformへ移す5ステップ",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "フロントエンド・デザイン",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 0.167,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

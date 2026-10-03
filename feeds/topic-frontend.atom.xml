@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend</id>
+    <title>RSS (フロントエンド・デザイン)</title>
+    <updated>2026-10-03T22:49:43.232Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml"/>
+    <subtitle>フロントエンド・デザインの記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ14] 長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」 | コリス]]></title>
+        <id>https://coliss.com/?p=84674</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-supports-named-feature.html"/>
+        <updated>2026-10-01T00:36:15.000Z</updated>
+        <summary type="html"><![CDATA[CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS]]></summary>
+        <content type="html"><![CDATA[CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -CSS"/>
+        <category label="@supports named-feature()"/>
+        <published>2026-10-01T00:36:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド | コリス]]></title>
+        <id>https://coliss.com/?p=83776</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784839990527.html"/>
+        <updated>2026-10-02T00:36:24.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Book Review"/>
+        <category label="ai"/>
+        <category label="マイナビ出版"/>
+        <published>2026-10-02T00:36:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[仕組みを掘る] Stimulusフレームワークを作って学ぶ（1）: data-controllerの仕組み（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=159634</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_09_30/159634"/>
+        <updated>2026-09-30T08:30:19.000Z</updated>
+        <summary type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Recreating Stimulus: how]]></summary>
+        <content type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Recreating Stimulus: how]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="Ruby / Rails以外の開発一般"/>
+        <category label="JavaScript"/>
+        <category label="Stimulus.js"/>
+        <category label="翻訳記事"/>
+        <published>2026-09-30T08:30:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10年もののiOSアプリの通信層を止めずにKotlin Multiplatformへ移す5ステップ | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/09/30/110000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/09/30/110000"/>
+        <updated>2026-09-30T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。技術本部でモバイルエンジニアをしている松山（@akidon0000）です。 営業AXサービス「Sansan」のiOSアプリでは、Client APIを呼び出す通信層をAlamofireによる手書きの実装から、OpenAPI Generatorで生成したKotlin Multiplatform（KMP）のコードへと移行しています。今回は、その移行の中で得たノウハウを記事にしまし]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは。技術本部でモバイルエンジニアをしている松山（@akidon0000）です。 営業AXサービス「Sansan」のiOSアプリでは、Client APIを呼び出す通信層をAlamofireによる手書きの実装から、OpenAPI Generatorで生成したKotlin Multiplatform（KMP）のコードへと移行しています。今回は、その移行の中で得たノウハウを記事にしました。]]></content>
+        <published>2026-09-30T02:00:00.000Z</published>
+    </entry>
+</feed>

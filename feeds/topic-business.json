@@ -1,0 +1,272 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (ビジネス・公共)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.json",
+    "description": "ビジネス・公共の記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+            "content_html": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...",
+            "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+            "title": "[はてブ64] ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...",
+            "image": {
+                "url": "https://www.cao.go.jp/common4/img/ogp_image001.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T23:40:34.000Z",
+            "date_published": "2026-10-02T23:40:34.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 64,
+                "originalTitle": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ64",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "www8.cao.go.jp",
+                "score": 2.127,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "はてブ64"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/",
+            "content_html": "9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。（1/6 ページ）",
+            "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/",
+            "title": "再び浮上した「クレカ表現規制問題」　クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り | ITmedia NEWS 最新記事一覧",
+            "summary": "9月下旬にボクたちイラストやマンガを生業とする人間にとって、不安になってしまう出来事が立て続けにありました。（1/6 ページ）",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/04/2000001978/10008326/2048"
+            },
+            "date_modified": "2026-10-03T22:16:00.000Z",
+            "date_published": "2026-10-03T22:16:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "再び浮上した「クレカ表現規制問題」　クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "ビジネス・公共 · カルチャー",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.235,
+                "topics": [
+                    "business",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共",
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00935/093000005/",
+            "content_html": "ドトールコーヒー創業者の鳥羽博道氏は1990年代に「コンビニの父」鈴木敏文氏と出会った。鈴木氏の語った「品質の追求は量」という言葉が、自身の経営に大きな影響を与えたと振り返る。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00935/093000005/",
+            "title": "ドトール創業者・鳥羽氏、鈴木敏文氏の「品質の追求は量」を経営の財産に (経営者たちが見た鈴木敏文) | 日経ビジネス電子版　最新記事",
+            "summary": "ドトールコーヒー創業者の鳥羽博道氏は1990年代に「コンビニの父」鈴木敏文氏と出会った。鈴木氏の語った「品質の追求は量」という言葉が、自身の経営に大きな影響を与えたと振り返る。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00935/093000005/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T08:00:00.000Z",
+            "date_published": "2026-10-02T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ドトール創業者・鳥羽氏、鈴木敏文氏の「品質の追求は量」を経営の財産に (経営者たちが見た鈴木敏文)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "組織・マネジメント・QA · ビジネス・公共",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.53,
+                "topics": [
+                    "org",
+                    "business"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA",
+                    "ビジネス・公共"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/092400004/",
+            "content_html": "改正公益通報者保護法の説明会当日、東邦商事本館26階の大会議室には、開始前から重苦しい空気が漂っていた。本社の全部長、主要子会社の管理担当役員、監査、法務、人事、財務。会場には100人近い管理職が集まり、壁際の大型モニターには、オンラインで参加する海外拠点長の名前と映像が並んでいた。資料の表紙には、森村透子が赤字で書き直したタイトルが、そのまま印刷されていた。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/092400004/",
+            "title": "[仕組みを掘る] ［連載小説4］内部通報の強化に反発する現場　カリスマ顧問「会社を壊すなよ」 (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "改正公益通報者保護法の説明会当日、東邦商事本館26階の大会議室には、開始前から重苦しい空気が漂っていた。本社の全部長、主要子会社の管理担当役員、監査、法務、人事、財務。会場には100人近い管理職が集まり、壁際の大型モニターには、オンラインで参加する海外拠点長の名前と映像が並んでいた。資料の表紙には、森村透子が赤字で書き直したタイトルが、そのまま印刷されていた。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/092400004/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T08:00:00.000Z",
+            "date_published": "2026-10-02T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［連載小説4］内部通報の強化に反発する現場　カリスマ顧問「会社を壊すなよ」 (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.53,
+                "topics": [
+                    "business",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00885/093000010/",
+            "content_html": "三菱商事が新人向けの法務研修であえて人工知能（AI）の利用を認めた。狙いはAIに依存して考える力を失うという最悪の事態を防ぐことで、新人を鍛錬する仕組みを巧みに盛り込んだ。その試行錯誤は、業種を問わずAI時代の人材育成を考える上で示唆に富む。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00885/093000010/",
+            "title": "三菱商事、AI活用と「考える力」を両立　誤情報と格闘させる新人向け法務研修 (攻めの法務) | 日経ビジネス電子版　最新記事",
+            "summary": "三菱商事が新人向けの法務研修であえて人工知能（AI）の利用を認めた。狙いはAIに依存して考える力を失うという最悪の事態を防ぐことで、新人を鍛錬する仕組みを巧みに盛り込んだ。その試行錯誤は、業種を問わずAI時代の人材育成を考える上で示唆に富む。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00885/093000010/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T08:00:00.000Z",
+            "date_published": "2026-10-01T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "三菱商事、AI活用と「考える力」を両立　誤情報と格闘させる新人向け法務研修 (攻めの法務)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "AI・LLM · ビジネス・公共",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.334,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00297/100100325/",
+            "content_html": " 「1年分の予算を5カ月半で使い切る」「月の半ばで利用枠が底を突く」――。生成AI（人工知能）の利用拡大に伴い、トークンの消費が当初想定を超えて膨らむ「トークン爆発」の状態となる企業が相次いでいる。その結果、年間予算を超過するケースも出ている。定額料金で契約するAIサービスでも、クレジットの利用枠が枯渇し、高機能モデルなどが一時的に使えなくなる事例もある。本特集の第1回では、複数の企業事例を通じて、トークン爆発が発生した理由や、そのような状態を引き起こす「落とし穴」を解説する。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00297/100100325/",
+            "title": "AIの年間予算が半年弱で枯渇、企業を襲う「トークン爆発」 (日経クロステック) | 日経ビジネス電子版　最新記事",
+            "summary": " 「1年分の予算を5カ月半で使い切る」「月の半ばで利用枠が底を突く」――。生成AI（人工知能）の利用拡大に伴い、トークンの消費が当初想定を超えて膨らむ「トークン爆発」の状態となる企業が相次いでいる。その結果、年間予算を超過するケースも出ている。定額料金で契約するAIサービスでも、クレジットの利用枠が枯渇し、高機能モデルなどが一時的に使えなくなる事例もある。本特集の第1回では、複数の企業事例を通じて",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00297/100100325/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T08:00:00.000Z",
+            "date_published": "2026-10-02T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIの年間予算が半年弱で枯渇、企業を襲う「トークン爆発」 (日経クロステック)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "AI・LLM · ビジネス・公共",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.331,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00461/092400677/",
+            "content_html": "世界を震撼させた先端AI「クロード・ミュトス」の“衝撃”は、多段階の攻撃ステップを自ら組み立てていく能力にありました。クロード・ミュトスとその公開版のクロード・フェイブル、それらの実力を検証する政府機関について解説します。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00461/092400677/",
+            "title": "世界を震撼させた先端AI「クロード・ミュトス」の正体とは (ビジネスTopics) | 日経ビジネス電子版　最新記事",
+            "summary": "世界を震撼させた先端AI「クロード・ミュトス」の“衝撃”は、多段階の攻撃ステップを自ら組み立てていく能力にありました。クロード・ミュトスとその公開版のクロード・フェイブル、それらの実力を検証する政府機関について解説します。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00461/092400677/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T08:00:00.000Z",
+            "date_published": "2026-10-02T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "世界を震撼させた先端AI「クロード・ミュトス」の正体とは (ビジネスTopics)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "AI・LLM · ビジネス・公共",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.331,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

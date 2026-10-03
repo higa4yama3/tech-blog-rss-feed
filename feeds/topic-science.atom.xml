@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science</id>
+    <title>RSS (サイエンス)</title>
+    <updated>2026-10-03T22:49:43.237Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml"/>
+    <subtitle>サイエンスの記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ91] 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001981/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001981/"/>
+        <updated>2026-10-03T00:45:23.000Z</updated>
+        <summary type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></summary>
+        <content type="html"><![CDATA[複数の顧客から「注文情報と一致する不審な返金案内メールを受信した」との問い合わせが寄せられ、同社が調査を始めて判明した。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T00:45:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ53] 社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/</id>
+        <link href="https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/"/>
+        <updated>2026-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。]]></summary>
+        <content type="html"><![CDATA[ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。]]></content>
+        <published>2026-10-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[発見] うつ病予防になるのは「恋人」or「友達」どっち？意外な結果が判明 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=172816</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/172816"/>
+        <updated>2026-10-03T03:00:22.000Z</updated>
+        <summary type="html"><![CDATA[世間では一般に、恋愛が人生を豊かにするものと考えられがちです。 ドラマや映画でも「あぁ、恋人がいれば幸せな人生だろうに…」なんてメッセージがしばしば強調されます。 しかし米ミシガン州立大学（MSU）の最新研究は、こうした考えに一石を投じる結果を示しました。 それによると、恋愛関係はうつ症状を増加させる可能性があるのに対し、真にメンタルヘルスを向上させるのは友情関係であることが支持されたのです。 研]]></summary>
+        <content type="html"><![CDATA[世間では一般に、恋愛が人生を豊かにするものと考えられがちです。 ドラマや映画でも「あぁ、恋人がいれば幸せな人生だろうに…」なんてメッセージがしばしば強調されます。 しかし米ミシガン州立大学（MSU）の最新研究は、こうした考えに一石を投じる結果を示しました。 それによると、恋愛関係はうつ症状を増加させる可能性があるのに対し、真にメンタルヘルスを向上させるのは友情関係であることが支持されたのです。 研究の詳細は2025年2月20日付で学術誌『Journal of Social and Personal Relationships』に掲載されています。   目次  恋人がいれば幸せ？それとも…？心…]]></content>
+        <author>
+            <name>千野 真吾</name>
+        </author>
+        <category label="健康"/>
+        <category label="うつ病"/>
+        <category label="ストレス"/>
+        <category label="メンタルヘルス"/>
+        <category label="恋愛"/>
+        <published>2026-10-03T03:00:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[発見] 魚のオスの好みは単純、メスの好みは複雑だと判明 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=200515</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/200515"/>
+        <updated>2026-10-03T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[友人に「どんな人がタイプなの」と聞かれて、うまく答えられずに笑ってごまかしたことがある人は少なくないはずです。 自分の好みをはっきり言葉にするのは、案外むずかしいものです。 相手が動物となれば、なおさら本人に聞くことはできません。 そこでエクセター大学の研究チームは、魚に画面の中の「仮想の相手」を選ばせ、それを9世代にわたってくり返すという実験を行いました。 いわば魚たちに、自分だけの「理想の相手]]></summary>
+        <content type="html"><![CDATA[友人に「どんな人がタイプなの」と聞かれて、うまく答えられずに笑ってごまかしたことがある人は少なくないはずです。 自分の好みをはっきり言葉にするのは、案外むずかしいものです。 相手が動物となれば、なおさら本人に聞くことはできません。 そこでエクセター大学の研究チームは、魚に画面の中の「仮想の相手」を選ばせ、それを9世代にわたってくり返すという実験を行いました。 いわば魚たちに、自分だけの「理想の相手」をデザインさせたのです。 では、オスとメスはそれぞれ、どんな相手を作り上げたのでしょうか。 この話題の詳細は2026年9月29日に『Phys.org』にて公開されました。   目次  画面の中で「…]]></content>
+        <author>
+            <name>山下 浩介</name>
+        </author>
+        <category label="動物"/>
+        <category label="生物学"/>
+        <category label="実験"/>
+        <published>2026-10-03T12:05:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[発見] 「歯が何度も生え変わる」白亜紀の哺乳類を発見 | ナゾロジー]]></title>
+        <id>https://nazology.kusuguru.co.jp/?p=200552</id>
+        <link href="https://nazology.kusuguru.co.jp/archives/200552"/>
+        <updated>2026-10-03T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[子どものころ、ぐらぐらする歯を舌で押しながら、抜ける日を今か今かと待っていた人も多いでしょう。 私たち哺乳類の多くは、一生のうちに歯が1回しか生え替わりません。 歯が乳歯と永久歯の2世代だけというこの性質は、上下の歯がぴったりかみ合うことなど、哺乳類らしい特徴の進化にとってとても大事だと長く考えられてきました。 ところが、恐竜がいた時代(中生代)の哺乳類がどのように歯を生え替えていたのかは、まだよ]]></summary>
+        <content type="html"><![CDATA[子どものころ、ぐらぐらする歯を舌で押しながら、抜ける日を今か今かと待っていた人も多いでしょう。 私たち哺乳類の多くは、一生のうちに歯が1回しか生え替わりません。 歯が乳歯と永久歯の2世代だけというこの性質は、上下の歯がぴったりかみ合うことなど、哺乳類らしい特徴の進化にとってとても大事だと長く考えられてきました。 ところが、恐竜がいた時代(中生代)の哺乳類がどのように歯を生え替えていたのかは、まだよく分かっていません。 そんな中、研究チームは、中国の白亜紀前期(恐竜がいた時代の一時期)にいた哺乳類の、ほぼ全身がそろった化石を報告しました。 記事で紹介されていた画像はこちら（画像1、画像2） で…]]></content>
+        <author>
+            <name>山下 浩介</name>
+        </author>
+        <category label="古生物"/>
+        <category label="化石"/>
+        <category label="哺乳類"/>
+        <category label="恐竜"/>
+        <category label="歴史・考古学"/>
+        <category label="進化"/>
+        <published>2026-10-03T10:10:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RecSys 2026の論文を紹介するぜ！ | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/10/03/210914</id>
+        <link href="https://www.m3tech.blog/entry/2026/10/03/210914"/>
+        <updated>2026-10-03T12:09:14.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。エンジニアリンググループのAI・機械学習チームに所属している鴨田 です。弊チームでは毎週1時間の技術共有会を実施しており、各自が担当するプロダクトの技術や、最近読んだ論文を紹介しています。9/27〜10/1までRecSys 2026が開催されていたこともあり、同学会の論文読み会となりました。 本ブログでは輪読会で取り上げた論文を紹介します。また、2026年の内容が公開される前の8月末か]]></summary>
+        <content type="html"><![CDATA[こんにちは。エンジニアリンググループのAI・機械学習チームに所属している鴨田 です。弊チームでは毎週1時間の技術共有会を実施しており、各自が担当するプロダクトの技術や、最近読んだ論文を紹介しています。9/27〜10/1までRecSys 2026が開催されていたこともあり、同学会の論文読み会となりました。 本ブログでは輪読会で取り上げた論文を紹介します。また、2026年の内容が公開される前の8月末から実施していたため、その期間に実施したRecSys 2025の論文紹介も合わせて掲載します！ RecSysTopページから素材を拝借し組み合わせた画像]]></content>
+        <published>2026-10-03T12:09:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SICE FES 2026で研究成果を発表！～単眼RGBから「空間を理解する」3D Scene Graph生成技術～ | fltech - 富士通研究所の技術ブログ]]></title>
+        <id>https://blog.fltech.dev/entry/2026/09/30/sicefes2026-ja</id>
+        <link href="https://blog.fltech.dev/entry/2026/09/30/sicefes2026-ja"/>
+        <updated>2026-10-02T06:41:42.000Z</updated>
+        <summary type="html"><![CDATA[SICE FES 2026で研究成果を発表！～単眼RGBから「空間を理解する」3D Scene Graph生成技術～ 鄭 明燮｜フィジカルAI研究所｜2026年9月 はじめに こんにちは、フィジカルAI研究所の鄭です。 2026年9月14日から17日にパシフィコ横浜で開催された「SICE Festival with Annual Conference 2026（SICE FES 2026）」に参加]]></summary>
+        <content type="html"><![CDATA[SICE FES 2026で研究成果を発表！～単眼RGBから「空間を理解する」3D Scene Graph生成技術～ 鄭 明燮｜フィジカルAI研究所｜2026年9月 はじめに こんにちは、フィジカルAI研究所の鄭です。 2026年9月14日から17日にパシフィコ横浜で開催された「SICE Festival with Annual Conference 2026（SICE FES 2026）」に参加し、単眼RGB画像から3D Scene Graphを生成する研究成果をオーラル発表しました。本記事では、会場の様子、発表内容の概要、評価で得られた結果、さらに会場で印象に残った研究を紹介します。]]></content>
+        <published>2026-10-02T06:41:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[数字のインパクト] NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT | ABEJA Tech Blog]]></title>
+        <id>https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609</id>
+        <link href="https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609"/>
+        <updated>2026-09-30T04:45:49.000Z</updated>
+        <summary type="html"><![CDATA[ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念する]]></summary>
+        <content type="html"><![CDATA[ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念することなく産業データを安全に利活用できる「プライバシーファーストAI」の確立を目的としたものです。 産業特化型LLMの開発として、直近では NVIDIA Nemotron 3 をベースモデルとして追加学…]]></content>
+        <published>2026-09-30T04:45:49.000Z</published>
+    </entry>
+</feed>

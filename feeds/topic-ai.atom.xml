@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai</id>
+    <title>RSS (AI・LLM)</title>
+    <updated>2026-10-03T22:49:43.220Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai.atom.xml"/>
+    <subtitle>AI・LLMの記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ413] 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</id>
+        <link href="https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14"/>
+        <updated>2026-10-02T15:17:29.000Z</updated>
+        <summary type="html"><![CDATA[はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></summary>
+        <content type="html"><![CDATA[はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-02T15:17:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ22] Getting the most out of Opus 5.5 in Claude and Claude Code | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=49946567</id>
+        <link href="https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"/>
+        <updated>2026-10-03T18:29:30.000Z</updated>
+        <summary type="html"><![CDATA[How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></summary>
+        <content type="html"><![CDATA[How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.]]></content>
+        <author>
+            <name>saikatsg</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T18:29:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ65] 2026 年 10 月前半の LLM 利用状況 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://voluntas.ghost.io/2026-10-first-half-llm/</id>
+        <link href="https://voluntas.ghost.io/2026-10-first-half-llm/"/>
+        <updated>2026-10-03T08:13:44.000Z</updated>
+        <summary type="html"><![CDATA[あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。  O]]></summary>
+        <content type="html"><![CDATA[あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。   サブスク  サブスクは Ollama Cloud と Cursor と Codex の三つ。   Ollama Cloud  Team プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。  Ollama Cloud は月 $500 支払うと $1000 ドル分利用できる。さらにDeepSeek のピークが日本時間の 21:00-03:00 ということで、営業時間にかぶらないというメリットがあり、実質利用枠が 2 倍になった。   Cursor  Team]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T08:13:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ178] 韓国6行に「AIハッキング」、4行で個人情報流出 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html</id>
+        <link href="https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html"/>
+        <updated>2026-10-03T03:45:48.000Z</updated>
+        <summary type="html"><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></summary>
+        <content type="html"><![CDATA[韓国6行に「AIハッキング」、4行で個人情報流出]]></content>
+        <category label="hatena"/>
+        <published>2026-10-03T03:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応 | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001984/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001984/"/>
+        <updated>2026-10-03T01:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。]]></summary>
+        <content type="html"><![CDATA[Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。]]></content>
+        <category label="news"/>
+        <published>2026-10-03T01:41:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 30pt] LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=49946228</id>
+        <link href="https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"/>
+        <updated>2026-10-03T17:44:29.000Z</updated>
+        <summary type="html"><![CDATA[The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.]]></summary>
+        <content type="html"><![CDATA[The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.]]></content>
+        <author>
+            <name>Anon84</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:44:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ70] Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」 | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/03/2000001983/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001983/"/>
+        <updated>2026-10-03T00:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。]]></summary>
+        <content type="html"><![CDATA[Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。]]></content>
+        <category label="news"/>
+        <published>2026-10-03T00:38:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 14pt] Agents don't need memory, they need documentation | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=49945933</id>
+        <link href="https://liao.gg/blog/agents-dont-need-memory"/>
+        <updated>2026-10-03T17:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Why agents need project documentation instead of retrieval from old conversations.]]></summary>
+        <content type="html"><![CDATA[Why agents need project documentation instead of retrieval from old conversations.]]></content>
+        <author>
+            <name>kmeh</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-03T17:03:37.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ49] 無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261002-pi-1-0/</id>
+        <link href="https://gigazine.net/news/20261002-pi-1-0/"/>
+        <updated>2026-10-02T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。]]></summary>
+        <content type="html"><![CDATA[機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。]]></content>
+        <published>2026-10-02T08:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[数字のインパクト] 開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp"/>
+        <updated>2026-10-02T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、 When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit を日本語訳したものです。 はじめに Sansan Global Development Center, Inc.（SGDC）でQAリードを務めるReubenです。私たちのチームは、経理AXサービス「]]></summary>
+        <content type="html"><![CDATA[この記事は、 When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit を日本語訳したものです。 はじめに Sansan Global Development Center, Inc.（SGDC）でQAリードを務めるReubenです。私たちのチームは、経理AXサービス「Bill One」のAI自動照合機能における、QAエンジニアリングの大部分を担当しています。本稿では、手作業で実施していたE2Eテストの所要時間をどのように削減したか、そのために何を構築する必要があっ…]]></content>
+        <published>2026-10-02T05:15:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ26] The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</id>
+        <link href="https://tech.layerx.co.jp/entry/10minute_test_plan_gen"/>
+        <updated>2026-09-30T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテスト計画の叩き台をシュッと生成する仕組み」を構築したお話]]></summary>
+        <content type="html"><![CDATA[こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテスト計画の叩き台をシュッと生成する仕組み」を構築したお話です。 なぜこの仕組みを作ったのか 新規プロダクトや大きめの新機能開発や大規模改修などにおいて、ゼロからテスト計画を立てることは一定の時間と労力がかかります。フェーズに応じたテストピラミッド（自動テス…]]></content>
+        <published>2026-09-30T08:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ40] AI に伴走してもらうチームマネジメントの試み | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/ai-empowered-team-management</id>
+        <link href="https://tech.layerx.co.jp/entry/ai-empowered-team-management"/>
+        <updated>2026-10-01T02:00:05.000Z</updated>
+        <summary type="html"><![CDATA[LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取り組んできたことを共有できればと思います。主な内容は以下になります: AI には、判断の自動化という]]></summary>
+        <content type="html"><![CDATA[LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取り組んできたことを共有できればと思います。主な内容は以下になります: AI には、判断の自動化というよりは観測範囲の拡張を担ってもらい、コミュニケーションのきっかけをつくってもらう 現場の解像度を上げていくことが課題 [FYI] Ai Workforce 開発部の現在地 この半年とその前とを比べると…]]></content>
+        <published>2026-10-01T02:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[動かしてみた] ［Copilot］キーに右［Ctrl］と［Menu］キーの動作が追加。何が便利か試してみた | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2144999.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2144999.html"/>
+        <updated>2026-10-01T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ 2026年9月のプレビューパッチにより、［Copilot］キーの機能変更に、［右コントロール］と［コンテキスト メニュー］が追加された。]]></summary>
+        <content type="html"><![CDATA[ 2026年9月のプレビューパッチにより、［Copilot］キーの機能変更に、［右コントロール］と［コンテキスト メニュー］が追加された。]]></content>
+        <author>
+            <name>石田 賀津男</name>
+        </author>
+        <published>2026-10-01T23:01:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/claude-frontier-academy</id>
+        <link href="https://www.anthropic.com/news/claude-frontier-academy"/>
+        <updated>2026-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.]]></summary>
+        <content type="html"><![CDATA[Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ23] AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html"/>
+        <updated>2026-09-30T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。]]></summary>
+        <content type="html"><![CDATA[ こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。]]></content>
+        <author>
+            <name>白井暁彦（しらいはかせ）</name>
+        </author>
+        <published>2026-09-30T23:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド | コリス]]></title>
+        <id>https://coliss.com/?p=83776</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784839990527.html"/>
+        <updated>2026-10-02T00:36:24.000Z</updated>
+        <summary type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され]]></summary>
+        <content type="html"><![CDATA[※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="Book Review"/>
+        <category label="ai"/>
+        <category label="マイナビ出版"/>
+        <published>2026-10-02T00:36:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[作ってみた] 声が主役の入力へ ─ CRE が AI 音声入力ツールを自作して変わった働き方 | 弁護士ドットコム株式会社 Creators’ blog]]></title>
+        <id>https://creators.bengo4.com/entry/2026/09/30/080000</id>
+        <link href="https://creators.bengo4.com/entry/2026/09/30/080000"/>
+        <updated>2026-09-29T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI時代の入力をもっと速く。WhisperとローカルLLMで、音声認識・文章整形・誤変換補正まで端末内で完結するmacOS音声入力ツール「fujitani-voice」を自作した話]]></summary>
+        <content type="html"><![CDATA[AI時代の入力をもっと速く。WhisperとローカルLLMで、音声認識・文章整形・誤変換補正まで端末内で完結するmacOS音声入力ツール「fujitani-voice」を自作した話]]></content>
+        <published>2026-09-29T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oct 1, 2026ScienceClaude-shaped science | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/claude-shaped-science</id>
+        <link href="https://www.anthropic.com/research/claude-shaped-science"/>
+        <updated>2026-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quant]]></summary>
+        <content type="html"><![CDATA[Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barclays scales Claude to upgrade operations and improve client experience | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/barclays-scales-claude</id>
+        <link href="https://www.anthropic.com/news/barclays-scales-claude"/>
+        <updated>2026-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.]]></summary>
+        <content type="html"><![CDATA[Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Development Got Faster, QA Had to Follow: Building an AI-Assisted Test Execution Toolkit | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-en</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-en"/>
+        <updated>2026-10-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Please see the Japanese version here Introduction Hi, I'm Reuben, a QA Lead from Sansan Global Development Center, Inc. (SGDC). Our team handles most of the QA engineering for AI Auto-Matching feature]]></summary>
+        <content type="html"><![CDATA[Please see the Japanese version here Introduction Hi, I'm Reuben, a QA Lead from Sansan Global Development Center, Inc. (SGDC). Our team handles most of the QA engineering for AI Auto-Matching feature of Bill One, the accounting AX solution. This article is about how we cut the time we spend running…]]></content>
+        <published>2026-10-02T05:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[数字のインパクト] NVIDIA Nemotron 3 Nano 30B A3B Base に対する汎用・金融特化SFT | ABEJA Tech Blog]]></title>
+        <id>https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609</id>
+        <link href="https://tech-blog.abeja.asia/entry/llm-dev-nemotron-nano-sft-202609"/>
+        <updated>2026-09-30T04:45:49.000Z</updated>
+        <summary type="html"><![CDATA[ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念する]]></summary>
+        <content type="html"><![CDATA[ABEJA でデータサイエンティストをしている藤原です。 弊社は NEDO が進める「ポスト5G情報通信システム基盤強化研究開発事業／データの秘匿性を考慮した効率的なAI学習手法の開発」に参画し、当該事業の実施委託先として採択を受けた一般社団法人AIデータ主権共創機構（CODAS）より委託を受け、中核の一つである「産業特化型LLM」の開発を行っています。当該事業は企業がセキュリティリスクを懸念することなく産業データを安全に利活用できる「プライバシーファーストAI」の確立を目的としたものです。 産業特化型LLMの開発として、直近では NVIDIA Nemotron 3 をベースモデルとして追加学…]]></content>
+        <published>2026-09-30T04:45:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ16] Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</id>
+        <link href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"/>
+        <updated>2026-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.]]></summary>
+        <content type="html"><![CDATA[GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-09-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ20] embeddingベースの推薦システムでA/Bテストを高速に回すための配信基盤REP | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/rep-embedding-platform</id>
+        <link href="https://techblog.zozo.com/entry/rep-embedding-platform"/>
+        <updated>2026-09-29T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、データシステム部推薦研究ブロックの寺崎（@f6wbl6）です。 ZOZOTOWNでは、ユーザーと商品を同じベクトル空間で表現するembeddingをTwo-Towerモデルで学習しています。このembeddingを複数の推薦施策で共有できるEmbedding基盤を運用しており、過去のテックブログで紹介しました。 techblog.zozo.com このEmbedding基盤を]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、データシステム部推薦研究ブロックの寺崎（@f6wbl6）です。 ZOZOTOWNでは、ユーザーと商品を同じベクトル空間で表現するembeddingをTwo-Towerモデルで学習しています。このembeddingを複数の推薦施策で共有できるEmbedding基盤を運用しており、過去のテックブログで紹介しました。 techblog.zozo.com このEmbedding基盤を活用することで、新しい推薦施策の立ち上げ時に新たなモデル構築やモデルのためのインフラ整備等をゼロから行う必要がなくなり、立ち上げ期間を大きく短縮できました。この基盤を使った汎用推薦システムの構築事例も…]]></content>
+        <published>2026-09-29T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ12] 新卒2年目の社員が挑んだ、楽楽勤怠へのAIチャットボット導入プロジェクト | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20260929/rakuraku-kintai-ai-chatbot</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20260929/rakuraku-kintai-ai-chatbot"/>
+        <updated>2026-09-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は、楽楽勤怠に組み込まれたAIチャットボット機能の開発を担当した、楽楽勤怠開発課の黒田さんに話を聞きました。 黒田さんは新卒2年目。事業部・デザイナー・インフラ担当など多くの関係者を巻き込むこの開発を、ほぼ一人で任されています。 楽楽勤怠とは 楽楽勤怠のAIチャットボットとは何か なぜこの機能を作ったのか 開発の話：工夫した点、難しかった点 実装より大変だった、社内の情報連携 当初試していたR]]></summary>
+        <content type="html"><![CDATA[今回は、楽楽勤怠に組み込まれたAIチャットボット機能の開発を担当した、楽楽勤怠開発課の黒田さんに話を聞きました。 黒田さんは新卒2年目。事業部・デザイナー・インフラ担当など多くの関係者を巻き込むこの開発を、ほぼ一人で任されています。 楽楽勤怠とは 楽楽勤怠のAIチャットボットとは何か なぜこの機能を作ったのか 開発の話：工夫した点、難しかった点 実装より大変だった、社内の情報連携 当初試していたRAGの課題と方針転換 回答精度のチューニングと、こだわった速さ 今後の展望 おわりに]]></content>
+        <published>2026-09-29T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三菱商事、AI活用と「考える力」を両立　誤情報と格闘させる新人向け法務研修 (攻めの法務) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00885/093000010/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00885/093000010/"/>
+        <updated>2026-10-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[三菱商事が新人向けの法務研修であえて人工知能（AI）の利用を認めた。狙いはAIに依存して考える力を失うという最悪の事態を防ぐことで、新人を鍛錬する仕組みを巧みに盛り込んだ。その試行錯誤は、業種を問わずAI時代の人材育成を考える上で示唆に富む。]]></summary>
+        <content type="html"><![CDATA[三菱商事が新人向けの法務研修であえて人工知能（AI）の利用を認めた。狙いはAIに依存して考える力を失うという最悪の事態を防ぐことで、新人を鍛錬する仕組みを巧みに盛り込んだ。その試行錯誤は、業種を問わずAI時代の人材育成を考える上で示唆に富む。]]></content>
+        <published>2026-10-01T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIの年間予算が半年弱で枯渇、企業を襲う「トークン爆発」 (日経クロステック) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00297/100100325/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00297/100100325/"/>
+        <updated>2026-10-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ 「1年分の予算を5カ月半で使い切る」「月の半ばで利用枠が底を突く」――。生成AI（人工知能）の利用拡大に伴い、トークンの消費が当初想定を超えて膨らむ「トークン爆発」の状態となる企業が相次いでいる。その結果、年間予算を超過するケースも出ている。定額料金で契約するAIサービスでも、クレジットの利用枠が枯渇し、高機能モデルなどが一時的に使えなくなる事例もある。本特集の第1回では、複数の企業事例を通じて]]></summary>
+        <content type="html"><![CDATA[ 「1年分の予算を5カ月半で使い切る」「月の半ばで利用枠が底を突く」――。生成AI（人工知能）の利用拡大に伴い、トークンの消費が当初想定を超えて膨らむ「トークン爆発」の状態となる企業が相次いでいる。その結果、年間予算を超過するケースも出ている。定額料金で契約するAIサービスでも、クレジットの利用枠が枯渇し、高機能モデルなどが一時的に使えなくなる事例もある。本特集の第1回では、複数の企業事例を通じて、トークン爆発が発生した理由や、そのような状態を引き起こす「落とし穴」を解説する。]]></content>
+        <published>2026-10-02T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界を震撼させた先端AI「クロード・ミュトス」の正体とは (ビジネスTopics) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00461/092400677/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00461/092400677/"/>
+        <updated>2026-10-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[世界を震撼させた先端AI「クロード・ミュトス」の“衝撃”は、多段階の攻撃ステップを自ら組み立てていく能力にありました。クロード・ミュトスとその公開版のクロード・フェイブル、それらの実力を検証する政府機関について解説します。]]></summary>
+        <content type="html"><![CDATA[世界を震撼させた先端AI「クロード・ミュトス」の“衝撃”は、多段階の攻撃ステップを自ら組み立てていく能力にありました。クロード・ミュトスとその公開版のクロード・フェイブル、それらの実力を検証する政府機関について解説します。]]></content>
+        <published>2026-10-02T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[動かしてみた] OpenAIの音声エージェント評価ガイドを日本語の小売サポートで試してみた | AI Shift Tech Blogのフィード]]></title>
+        <id>https://zenn.dev/aishift/articles/38baaf6dd758d2</id>
+        <link href="https://zenn.dev/aishift/articles/38baaf6dd758d2"/>
+        <updated>2026-09-30T00:42:38.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、AI Shift AIチームの大竹です。今回は、OpenAI CookbookのGPT-Live evaluation guideを、日本語の小売サポートに当てはめて試した検証ログです。GPT-Live evaluation guideは、GPT-Liveのような「聞きながら話す」音声エージェントを評価するためのガイドとハーネス一式です。ガイドでは架空の飲食店の予約アシスタントを例に、]]></summary>
+        <content type="html"><![CDATA[こんにちは、AI Shift AIチームの大竹です。今回は、OpenAI CookbookのGPT-Live evaluation guideを、日本語の小売サポートに当てはめて試した検証ログです。GPT-Live evaluation guideは、GPT-Liveのような「聞きながら話す」音声エージェントを評価するためのガイドとハーネス一式です。ガイドでは架空の飲食店の予約アシスタントを例に、「Mayaの名前で8月7日、いや6日の19時に2名で」という発話から、訂正後の日付で予約を1件だけ作り、ツールが成功してから確定を伝えられるかを確かめています。評価は、一発話への応答を見る...]]></content>
+        <author>
+            <name>sinhat98</name>
+        </author>
+        <published>2026-09-30T00:42:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この数字、成果にできますか? ABテストの落とし穴を公開データで確かめる全5問 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/abtest-trap-quiz</id>
+        <link href="https://www.m3tech.blog/entry/abtest-trap-quiz"/>
+        <updated>2026-09-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。AI・機械学習チームの高田です。 施策の効果検証では、発生頻度の低いイベントをKPIに置くことがあります。母数が小さいぶん、集計定義のちょっとした違いで数字が動きやすくなります。「test群が勝っています」と報告を受けたとき、その数字をどこまで信じてよいのか。判断に使う観点を一度整理しておきたいと考えていました。]]></summary>
+        <content type="html"><![CDATA[こんにちは。AI・機械学習チームの高田です。 施策の効果検証では、発生頻度の低いイベントをKPIに置くことがあります。母数が小さいぶん、集計定義のちょっとした違いで数字が動きやすくなります。「test群が勝っています」と報告を受けたとき、その数字をどこまで信じてよいのか。判断に使う観点を一度整理しておきたいと考えていました。]]></content>
+        <published>2026-09-30T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人で育てたAIエージェント設定を、チームの資産にする（APMによるSkill・指示・MCPの配布とマルチエディタ展開） | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20260930a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20260930a"/>
+        <updated>2026-09-30T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、LINEヤフー株式会社の殿山雄大です。普段は社内のGPU/AI基盤の構築・運用を担当しています。本記事では、2026年7月16日（木）に開催した社内ワークショップOrchestration...]]></summary>
+        <content type="html"><![CDATA[こんにちは、LINEヤフー株式会社の殿山雄大です。普段は社内のGPU/AI基盤の構築・運用を担当しています。本記事では、2026年7月16日（木）に開催した社内ワークショップOrchestration...]]></content>
+        <published>2026-09-30T02:00:00.000Z</published>
+    </entry>
+</feed>

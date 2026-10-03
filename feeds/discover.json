@@ -1,0 +1,764 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Discover)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.json",
+    "description": "今週の人気（はてブ3件以上・直近7日をスコア順）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+            "content_html": "■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか？ k8sリソースの粒度の問題 マニフェスト抽象化OSSの選定 PlatformAppの記述例 拡張性とガードレールの両立 4. 今後の課題 まとめ",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+            "title": "[はてブ49] Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理的な境界の積み重ね 3. リソースの粒度をどう変えたのか",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/118ca9452df32db050fbdedd93b4dd94ff82b5d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgumamon%2F20261001%2F20261001145748.png",
+                "alt": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T06:00:00.000Z",
+            "date_published": "2026-10-02T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 49,
+                "originalTitle": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ49 · 設計判断・移行",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス",
+                "host": "tech-blog.rakus.co.jp",
+                "score": 2.363,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ49",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/10minute_test_plan_gen",
+            "content_html": "こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテスト計画の叩き台をシュッと生成する仕組み」を構築したお話です。 なぜこの仕組みを作ったのか 新規プロダクトや大きめの新機能開発や大規模改修などにおいて、ゼロからテスト計画を立てることは一定の時間と労力がかかります。フェーズに応じたテストピラミッド（自動テス…",
+            "url": "https://tech.layerx.co.jp/entry/10minute_test_plan_gen",
+            "title": "[はてブ26] The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み | LayerX エンジニアブログ",
+            "summary": "こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテスト計画の叩き台をシュッと生成する仕組み」を構築したお話",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/3a578097cff4b5cb18bcb51b1333ce70ab3933fa/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkoyatest%2F20260930%2F20260930131341.png",
+                "alt": "The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T08:30:00.000Z",
+            "date_published": "2026-09-30T08:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "はてブ26 · 仕組みを掘る · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX",
+                "host": "tech.layerx.co.jp",
+                "score": 1.205,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ26",
+                    "仕組みを掘る",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261002-pi-1-0/",
+            "content_html": "機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。",
+            "url": "https://gigazine.net/news/20261002-pi-1-0/",
+            "title": "[はてブ49] 無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加 | GIGAZINE",
+            "summary": "機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/02/pi-1-0/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T08:45:00.000Z",
+            "date_published": "2026-10-02T08:45:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 49,
+                "originalTitle": "無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ49 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.811,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ49",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261003-ministack/",
+            "content_html": "AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。",
+            "url": "https://gigazine.net/news/20261003-ministack/",
+            "title": "[はてブ57] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能 | GIGAZINE",
+            "summary": "AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/03/ministack/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-03T03:00:00.000Z",
+            "date_published": "2026-10-03T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 57,
+                "originalTitle": "無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ57",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 2.157,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ57"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
+            "content_html": "ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。",
+            "url": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
+            "title": "[はてブ53] 社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果 | GIGAZINE",
+            "summary": "ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/03/growing-up-east-germany-cognitive-health/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-03T00:00:00.000Z",
+            "date_published": "2026-10-03T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 53,
+                "originalTitle": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ53",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 2.008,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ53"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/ai-empowered-team-management",
+            "content_html": "LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取り組んできたことを共有できればと思います。主な内容は以下になります: AI には、判断の自動化というよりは観測範囲の拡張を担ってもらい、コミュニケーションのきっかけをつくってもらう 現場の解像度を上げていくことが課題 [FYI] Ai Workforce 開発部の現在地 この半年とその前とを比べると…",
+            "url": "https://tech.layerx.co.jp/entry/ai-empowered-team-management",
+            "title": "[はてブ40] AI に伴走してもらうチームマネジメントの試み | LayerX エンジニアブログ",
+            "summary": "LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取り組んできたことを共有できればと思います。主な内容は以下になります: AI には、判断の自動化という",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/2e0e397508c4b05fbb3905330c4ce9c9a8c2d456/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fipod_nana%2F20261001%2F20261001105426.png",
+                "alt": "AI に伴走してもらうチームマネジメントの試み - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T02:00:05.000Z",
+            "date_published": "2026-10-01T02:00:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 40,
+                "originalTitle": "AI に伴走してもらうチームマネジメントの試み",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "はてブ40",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX",
+                "host": "tech.layerx.co.jp",
+                "score": 1.12,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ40"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=160077",
+            "content_html": "概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077",
+            "title": "[はてブ9] HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳） | TechRacho",
+            "summary": "概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: hotcell/README.md at",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/09/rails_hotcell_readme_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T08:30:49.000Z",
+            "date_published": "2026-10-01T08:30:49.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Active Storage",
+                "HotCell",
+                "Ruby on Rails",
+                "翻訳記事"
+            ],
+            "_custom": {
+                "hatenaCount": 9,
+                "originalTitle": "HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳）",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "はてブ9",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho",
+                "host": "techracho.bpsinc.jp",
+                "score": 0.902,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ9"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev",
+            "content_html": "はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が誕生する前から開発が続けられていたプロダクトでは、独自の権限管理処理を持っているものもいくつか存在しています。 今回の記事では、少し長くなりますが、私たち権限管理基盤チームが直近で取り組んだ、free…",
+            "url": "https://developers.freee.co.jp/entry/access_control_to_platform_data_migration_dev",
+            "title": "[はてブ20] 10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み | freee Developers Hub",
+            "summary": "はじめまして、権限管理基盤チームのyocchiといいます。 freeeでは、freee人事労務やfreee販売、freee請求書といった様々なプロダクトを提供していますが、これらのプロダクトから共通で利用できるアクセス制御用のシステムとして、「権限管理基盤」とよばれるマイクロサービス類を内製しています。 しかし、freeeのすべてのプロダクトがこの共通基盤を利用できているわけではありません。基盤が",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/de51f4e9f59b4039c71236f9197cb723a9ada5bf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyocchi_freee%2F20260928%2F20260928190543.png",
+                "alt": "10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み - freee Developers Hub",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T01:00:00.000Z",
+            "date_published": "2026-09-29T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 20,
+                "originalTitle": "10年以上開発が続くモノリスから、権限管理機能を基盤へ移行するための取り組み",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "はてブ20 · 設計判断・移行",
+                "sourceTier": "core",
+                "sourceLabel": "freee",
+                "host": "developers.freee.co.jp",
+                "score": 0.459,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ20",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=84674",
+            "content_html": "CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS",
+            "url": "https://coliss.com/articles/build-websites/operation/css/css-supports-named-feature.html",
+            "title": "[はてブ14] 長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」 | コリス",
+            "summary": "CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202603/2026090501@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-01T00:36:15.000Z",
+            "date_published": "2026-10-01T00:36:15.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -CSS",
+                "@supports named-feature()"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ14 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.787,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ14",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2145034.html",
+            "content_html": " デスクトップ向け「Microsoft Edge」に搭載されている「IE モード」は、少なくとも2029年末までサポートされるとのこと。米Microsoftが9月16日（現地時間）、「Microsoft 365 管理センター」のメッセージセンターで改めて周知した（MC1473151）。「IE モード」への依存を残している組織に対し、移行計画を早めに立てるよう呼びかけている。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2145034.html",
+            "title": "[はてブ14] 「Edge」の「IE モード」は少なくとも2029年末までサポート ～Microsoftが改めて周知／早めの移行計画を | 窓の杜",
+            "summary": " デスクトップ向け「Microsoft Edge」に搭載されている「IE モード」は、少なくとも2029年末までサポートされるとのこと。米Microsoftが9月16日（現地時間）、「Microsoft 365 管理センター」のメッセージセンターで改めて周知した（MC1473151）。「IE モード」への依存を残している組織に対し、移行計画を早めに立てるよう呼びかけている。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2145/034/ie.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-02T01:05:00.000Z",
+            "date_published": "2026-10-02T01:05:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "「Edge」の「IE モード」は少なくとも2029年末までサポート ～Microsoftが改めて周知／早めの移行計画を",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ14 · 設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 0.962,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ14",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/go-test-sharding",
+            "content_html": "はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、wall-clock）は13分前後となることが多い状態でした。 そこで、wall-clockを短縮するとともに、今後のテスト数の増加にも対応できるよう、テストのシャーディングを中心に実行方式を見直しまし…",
+            "url": "https://techblog.zozo.com/entry/go-test-sharding",
+            "title": "[はてブ3] 増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ECプラットフォーム部の権守です。普段はZOZOTOWNの会員基盤の開発に携わっています。 会員基盤では機能追加やリプレイスを継続しており、それに伴ってテストコードも増え続けています。テストが増えること自体は品質を維持する上で必要ですが、GitHub Actions上のテストにかかる時間も徐々に長くなっていました。具体的には、ワークフロー開始から完了までの実経過時間（以下、w",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/03e193ed3faa9faf34cc7c72c9cdd98e36ba7604/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260928%2F20260928113142.png",
+                "alt": "増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T08:00:00.000Z",
+            "date_published": "2026-09-29T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "増え続けるGoのテストに対応するGitHub Actionsのテストシャーディングと高速化",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ3 · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.438,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+            "content_html": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+            "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+            "title": "[はてブ16] Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities | Anthropic Research",
+            "summary": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 16,
+                "originalTitle": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ16",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.385,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ16"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html",
+            "content_html": " こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。",
+            "url": "https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html",
+            "title": "[はてブ23] AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】 | 窓の杜",
+            "summary": " こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2144/656/image2.png",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T23:11:00.000Z",
+            "date_published": "2026-09-30T23:11:00.000Z",
+            "author": {
+                "name": "白井暁彦（しらいはかせ）"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ23",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 0.661,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ23"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/rep-embedding-platform",
+            "content_html": "はじめに こんにちは、データシステム部推薦研究ブロックの寺崎（@f6wbl6）です。 ZOZOTOWNでは、ユーザーと商品を同じベクトル空間で表現するembeddingをTwo-Towerモデルで学習しています。このembeddingを複数の推薦施策で共有できるEmbedding基盤を運用しており、過去のテックブログで紹介しました。 techblog.zozo.com このEmbedding基盤を活用することで、新しい推薦施策の立ち上げ時に新たなモデル構築やモデルのためのインフラ整備等をゼロから行う必要がなくなり、立ち上げ期間を大きく短縮できました。この基盤を使った汎用推薦システムの構築事例も…",
+            "url": "https://techblog.zozo.com/entry/rep-embedding-platform",
+            "title": "[はてブ20] embeddingベースの推薦システムでA/Bテストを高速に回すための配信基盤REP | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、データシステム部推薦研究ブロックの寺崎（@f6wbl6）です。 ZOZOTOWNでは、ユーザーと商品を同じベクトル空間で表現するembeddingをTwo-Towerモデルで学習しています。このembeddingを複数の推薦施策で共有できるEmbedding基盤を運用しており、過去のテックブログで紹介しました。 techblog.zozo.com このEmbedding基盤を",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/83a4e986e4b13e5522f5f4546e6b6d97a21ba3d2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260925%2F20260925174343.png",
+                "alt": "embeddingベースの推薦システムでA/Bテストを高速に回すための配信基盤REP - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T02:00:00.000Z",
+            "date_published": "2026-09-29T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 20,
+                "originalTitle": "embeddingベースの推薦システムでA/Bテストを高速に回すための配信基盤REP",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ20",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.383,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ20"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2144856.html",
+            "content_html": " 米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで提供される。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2144856.html",
+            "title": "[はてブ18] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を | 窓の杜",
+            "summary": " 米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2144/856/java.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T08:31:00.000Z",
+            "date_published": "2026-10-01T08:31:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 18,
+                "originalTitle": "「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ18 · 設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 0.734,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ18",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20260929/rakuraku-kintai-ai-chatbot",
+            "content_html": "今回は、楽楽勤怠に組み込まれたAIチャットボット機能の開発を担当した、楽楽勤怠開発課の黒田さんに話を聞きました。 黒田さんは新卒2年目。事業部・デザイナー・インフラ担当など多くの関係者を巻き込むこの開発を、ほぼ一人で任されています。 楽楽勤怠とは 楽楽勤怠のAIチャットボットとは何か なぜこの機能を作ったのか 開発の話：工夫した点、難しかった点 実装より大変だった、社内の情報連携 当初試していたRAGの課題と方針転換 回答精度のチューニングと、こだわった速さ 今後の展望 おわりに",
+            "url": "https://tech-blog.rakus.co.jp/entry/20260929/rakuraku-kintai-ai-chatbot",
+            "title": "[はてブ12] 新卒2年目の社員が挑んだ、楽楽勤怠へのAIチャットボット導入プロジェクト | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "今回は、楽楽勤怠に組み込まれたAIチャットボット機能の開発を担当した、楽楽勤怠開発課の黒田さんに話を聞きました。 黒田さんは新卒2年目。事業部・デザイナー・インフラ担当など多くの関係者を巻き込むこの開発を、ほぼ一人で任されています。 楽楽勤怠とは 楽楽勤怠のAIチャットボットとは何か なぜこの機能を作ったのか 開発の話：工夫した点、難しかった点 実装より大変だった、社内の情報連携 当初試していたR",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0765f867188b91eb6320c46705bb375c1b78d3d9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20260928%2F20260928103129.png",
+                "alt": "新卒2年目の社員が挑んだ、楽楽勤怠へのAIチャットボット導入プロジェクト - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-29T06:00:00.000Z",
+            "date_published": "2026-09-29T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 12,
+                "originalTitle": "新卒2年目の社員が挑んだ、楽楽勤怠へのAIチャットボット導入プロジェクト",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ12",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス",
+                "host": "tech-blog.rakus.co.jp",
+                "score": 0.367,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ12"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2026/09/30/183000",
+            "content_html": "はてな「技術グループ」によるポッドキャスト「Backyard Hatena」を更新。今回のゲストは、社長の id:chris4403 です。創業25周年を迎えた節目にリリースされた新サービス「はてなパークス」について、サービスの立ち上げから関わっている chris さんにお話を伺いました。",
+            "url": "https://developer.hatenastaff.com/entry/2026/09/30/183000",
+            "title": "[はてブ23] はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena | Hatena Developer Blog",
+            "summary": "はてな「技術グループ」によるポッドキャスト「Backyard Hatena」を更新。今回のゲストは、社長の id:chris4403 です。創業25周年を迎えた節目にリリースされた新サービス「はてなパークス」について、サービスの立ち上げから関わっている chris さんにお話を伺いました。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f509903613ae8639ca417dbcd50a96fccf91c830/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F12704346814673975483%2F4207112889896980759",
+                "alt": "はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena - Hatena Developer Blog"
+            },
+            "date_modified": "2026-09-30T09:30:00.000Z",
+            "date_published": "2026-09-30T09:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 23,
+                "originalTitle": "はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena",
+                "blogTitle": "Hatena Developer Blog",
+                "blogLink": "https://developer.hatenastaff.com/",
+                "blogLinkMd5Hash": "82438b7efb4fd1a27bf1f1d57489dd2b",
+                "favicon": "https://developer.hatenastaff.com/icon/favicon",
+                "pickReason": "はてブ23",
+                "sourceTier": "core",
+                "sourceLabel": "はてな",
+                "host": "developer.hatenastaff.com",
+                "score": 0.435,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ23"
+                ],
+                "penalties": [
+                    "定期配信・お知らせ"
+                ]
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=83776",
+            "content_html": "※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され",
+            "url": "https://coliss.com/articles/book-review/isbn-9784839990527.html",
+            "title": "[はてブ3] ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド | コリス",
+            "summary": "※本ページは、アフィリエイト広告を利用しています。 AIが当たり前になりつつある現在、デザインのワークフローも劇的な変化をし始めています。エディタをはじめ、AdobeやFigmaなどにもAIが採用され",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/9784839990527-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-02T00:36:24.000Z",
+            "date_published": "2026-10-02T00:36:24.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "Book Review",
+                "ai",
+                "マイナビ出版"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ここ1,2年で大きく変わった！ デザインのワークフローにAIを活用したやり方がよく分かる解説書 -AIを味方にする デザインワークフロー実践ガイド",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.632,
+                "topics": [
+                    "ai",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/09/30/200852",
+            "content_html": "※本記事は、2026年7月までLayerXのAi Workforce事業部でFDEインターンとして活躍してくれたakatuki（あかつき）さんによる執筆です。本人のインターン期間終了に伴い、LayerX の maruchiho（まるちほ）が代理で投稿いたします。 はじめに こんにちは、名古屋工業大学 3年の山本賢人（あかつき）というものです。2026年5月〜7月の3ヶ月間、株式会社LayerX Ai Workforce事業 FDE部にてインターンに参加していました。こちらは、その際に取り組んだこと、感想をまとめた記事になります。 業務内容・取り組んだタスクの概要 今回所属していたFDE部では、…",
+            "url": "https://tech.layerx.co.jp/entry/2026/09/30/200852",
+            "title": "[はてブ19] LayerXのFDEインターンに参加した話 | LayerX エンジニアブログ",
+            "summary": "※本記事は、2026年7月までLayerXのAi Workforce事業部でFDEインターンとして活躍してくれたakatuki（あかつき）さんによる執筆です。本人のインターン期間終了に伴い、LayerX の maruchiho（まるちほ）が代理で投稿いたします。 はじめに こんにちは、名古屋工業大学 3年の山本賢人（あかつき）というものです。2026年5月〜7月の3ヶ月間、株式会社LayerX A",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/49fcf1a31891c7211fae7e6deadaa667cc664682/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmaruchiho_layerx%2F20260930%2F20260930200722.png",
+                "alt": "LayerXのFDEインターンに参加した話 - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-09-30T11:08:52.000Z",
+            "date_published": "2026-09-30T11:08:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 19,
+                "originalTitle": "LayerXのFDEインターンに参加した話",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "はてブ19",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX",
+                "host": "tech.layerx.co.jp",
+                "score": 0.032,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ19"
+                ],
+                "penalties": [
+                    "イベント告知・参加記",
+                    "採用・社内行事"
+                ]
+            }
+        }
+    ]
+}
