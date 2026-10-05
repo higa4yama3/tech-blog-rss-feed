@@ -1,0 +1,36 @@
+---
+layout: layouts/main.njk
+eleventyComputed:
+    pageTitle: "{{ shelf.label }}｜{{ constants.siteTitle }}"
+    lastUpdated: "{{ lastModifiedBlogsDate }}"
+pagination:
+    data: topicShelves
+    size: 1
+    alias: shelf
+    addAllPagesToCollections: true
+permalink: "topics/{{ shelf.id }}/"
+---
+
+{% include 'layouts/partials/nav.njk' %}
+
+<section class="ui-section-content ui-section-feed">
+    <div class="ui-layout-container">
+        <h2 class='ui-typography-heading'>{{ shelf.label }}<small>直近{{ constants.topicWindowDays }}日・スコア順</small></h2>
+        <p class='ui-text-note'>このトピックだけを購読する: <a href="{{ shelf.feedUrl }}">RSS</a></p>
+
+        <div class="ui-section-content--feature ui-layout-grid ui-layout-grid-3 ui-container-feed ui-container-feed--hot">
+            {% asyncEach feedItem in shelf.items %}
+                {% if loop.index <= 4 %}
+                    {% set imageLoading = 'eager' %}
+                {% else %}
+                    {% set imageLoading = 'lazy' %}
+                {% endif %}
+                {% include 'layouts/partials/feed-item.njk' %}
+            {% endeach %}
+        </div>
+    </div>
+</section>
+
+<script>
+    {% include "scripts/index.ts" %}
+</script>

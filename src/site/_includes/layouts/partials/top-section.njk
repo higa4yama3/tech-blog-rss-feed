@@ -1,0 +1,95 @@
+<section class="ui-section-content ui-top-section">
+    <div class="ui-layout-container">
+        <div class="bento-grid">
+            {# Hero Card #}
+            <div class="bento-card bento-card--hero">
+                <div class="bento-hero__inner">
+                    <div class="bento-hero__icon">
+                        <img src="{{ page.url | relativeUrl }}images/icon512-transparent.png" alt="サイトアイコン" loading="eager" width="88" height="88" />
+                    </div>
+                    <h1 class="bento-hero__title">{{ constants.siteTitle }}</h1>
+                    <p class="bento-hero__desc">
+                        あっ、好きな記事をまとめた<br>RSSフィード
+                    </p>
+                </div>
+            </div>
+
+            {# RSS Feed Card #}
+            <div class="bento-card bento-card--rss bento-card--rss-list">
+                <div class="bento-card__label">{% include 'layouts/partials/icon-rss.njk' %} RSS Feeds</div>
+                <p class="bento-card__hint">まずは今日の{{ constants.picksMaxItems }}本。Core は企業ブログまとめ。トピック別は各トピックのページから。</p>
+                {% set feedUrlRows = [
+                    { label: '今日の' ~ constants.picksMaxItems ~ '本', url: constants.feedUrls.picks, id: 'feed-url-picks' },
+                    { label: 'Core', url: constants.feedUrls.core, id: 'feed-url-core' },
+                    { label: 'Discover', url: constants.feedUrls.discover, id: 'feed-url-discover' },
+                    { label: 'Headlines', url: constants.feedUrls.headlines, id: 'feed-url-headlines' },
+                    { label: 'はてなIT人気', url: constants.feedUrls.hatenaIt, id: 'feed-url-hatena-it' }
+                ] %}
+                {% for row in feedUrlRows %}
+                <div class="bento-card__url-row">
+                    <span class="bento-card__url-label">{{ row.label }}</span>
+                    <input type="text" readonly value="{{ row.url }}" class="bento-card__url-input" id="{{ row.id }}" />
+                    <button class="bento-copy-btn" type="button" onclick="copyToClipboard('{{ row.id }}', this)" aria-label="{{ row.label }}のURLをコピー">コピー</button>
+                </div>
+                {% endfor %}
+            </div>
+
+            {# Stats Card #}
+            <div class="bento-card bento-card--stats">
+                <div class="bento-stat">
+                    <span class="bento-stat__value">{{ blogFeeds | length }}</span>
+                    <span class="bento-stat__label">ブログ数</span>
+                </div>
+                <div class="bento-stat">
+                    <span class="bento-stat__value">{% set totalItems = 0 %}{% for dateString, feedItems in feedItemsChunks %}{% set totalItems = totalItems + feedItems.length %}{% endfor %}{{ totalItems }}</span>
+                    <span class="bento-stat__label">今週の記事</span>
+                </div>
+            </div>
+
+            {# GitHub Link Card #}
+            <a class="bento-card bento-card--link bento-card--github" href="{{ constants.gitHubRepositoryUrl }}" target="_blank" rel="noopener">
+                <img src="{{ page.url | relativeUrl }}images/icon-github.png" alt="GitHub" loading="eager" width="48" height="48" class="bento-link__icon" />
+                <div class="bento-link__text">
+                    <span class="bento-link__name">GitHub</span>
+                    <span class="bento-link__handle">@{{ constants.author }}</span>
+                </div>
+            </a>
+
+            {# Navigation Card #}
+            <div class="bento-card bento-card--nav">
+                <a class="bento-nav__item {% if ['/'].includes(page.url) %}bento-nav__item--active{% endif %}" href="{{ page.url | relativeUrl }}" aria-label="今日">
+                    <span class="bento-nav__icon">{% include 'layouts/partials/icon-newspaper.njk' %}</span>
+                    <span class="bento-nav__label">今日</span>
+                </a>
+                <a class="bento-nav__item" href="{{ page.url | relativeUrl }}latest/" aria-label="新着">
+                    <span class="bento-nav__icon">{% include 'layouts/partials/icon-rss.njk' %}</span>
+                    <span class="bento-nav__label">新着</span>
+                </a>
+                <a class="bento-nav__item" href="{{ page.url | relativeUrl }}hot/" aria-label="人気">
+                    <span class="bento-nav__icon">{% include 'layouts/partials/icon-flame.njk' %}</span>
+                    <span class="bento-nav__label">人気</span>
+                </a>
+                <a class="bento-nav__item {% if ['/blogs/'].includes(page.url) %}bento-nav__item--active{% endif %}" href="{{ page.url | relativeUrl }}blogs/" aria-label="ブログ一覧">
+                    <span class="bento-nav__icon">{% include 'layouts/partials/icon-book-stack.njk' %}</span>
+                    <span class="bento-nav__label">ブログ一覧</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+function copyToClipboard(inputId, btn) {
+    const input = document.getElementById(inputId);
+    if (!input) return;
+    navigator.clipboard.writeText(input.value).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = 'OK';
+        btn.classList.add('copied');
+        setTimeout(() => {
+            btn.textContent = orig;
+            btn.classList.remove('copied');
+        }, 1500);
+    });
+}
+</script>
