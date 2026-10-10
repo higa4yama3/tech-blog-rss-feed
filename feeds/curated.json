@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Curated)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.json",
+    "description": "キュレーション（今日のブクマ等）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://idid.team/?p=4468",
+            "content_html": "いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。",
+            "url": "https://idid.team/articles/other/netherland-shiftbrain-08/",
+            "title": "【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム） | iDID – クリエイターのための情報メディア",
+            "summary": "いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。",
+            "image": {
+                "height": "536",
+                "type": "image/jpeg",
+                "url": "https://idid.team/wp-content/uploads/2026/10/Numbered-1024x536.jpg",
+                "width": "1024"
+            },
+            "date_modified": "2026-10-10T05:57:50.000Z",
+            "date_published": "2026-10-10T05:57:50.000Z",
+            "author": {
+                "name": "idid_ohtake"
+            },
+            "tags": [
+                "Other",
+                "クリエイティブエージェンシー",
+                "グローバル",
+                "デザイン",
+                "design",
+                "curated"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム）",
+                "blogTitle": "iDID – クリエイターのための情報メディア",
+                "blogLink": "https://idid.team/",
+                "blogLinkMd5Hash": "e308077426c0a6b0e57fb06bde905884",
+                "favicon": "https://idid.team/wp-content/themes/idid_260827/assets/img/favicon.ico",
+                "pickReason": "フロントエンド・デザイン",
+                "sourceTier": "curated",
+                "sourceLabel": "iDID",
+                "host": "idid.team",
+                "score": 0.714,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

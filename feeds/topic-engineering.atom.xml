@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering</id>
+    <title>RSS (設計・SRE・基盤)</title>
+    <updated>2026-10-10T23:26:37.528Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml"/>
+    <subtitle>設計・SRE・基盤の記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ55] SQLite 本体にベクトル検索拡張 vec1 がやってきた | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
+        <link href="https://zenn.dev/mattn/articles/6e9996319ac099"/>
+        <updated>2026-10-10T17:16:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...]]></summary>
+        <content type="html"><![CDATA[はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T17:16:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 68pt] Unikernels were hard. key word: were | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50033357</id>
+        <link href="https://ghuntley.com/unikernels/"/>
+        <updated>2026-10-10T14:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt]]></summary>
+        <content type="html"><![CDATA[Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt, and if you care about security you should seriously consider them.]]></content>
+        <author>
+            <name>ghuntley</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-10T14:27:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス]]></title>
+        <id>https://coliss.com/?p=85582</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html"/>
+        <updated>2026-10-09T05:21:49.000Z</updated>
+        <summary type="html"><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></summary>
+        <content type="html"><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="excel"/>
+        <category label="PowerPoint"/>
+        <category label="word"/>
+        <published>2026-10-09T05:21:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ31] IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/09/2000002147/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002147/"/>
+        <updated>2026-10-09T21:56:46.000Z</updated>
+        <summary type="html"><![CDATA[「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。]]></summary>
+        <content type="html"><![CDATA[「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。]]></content>
+        <category label="news"/>
+        <published>2026-10-09T21:56:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261010-readest/</id>
+        <link href="https://gigazine.net/news/20261010-readest/"/>
+        <updated>2026-10-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。]]></summary>
+        <content type="html"><![CDATA[電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。]]></content>
+        <published>2026-10-10T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ10] IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援 | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/10/2000002187/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/10/2000002187/"/>
+        <updated>2026-10-09T22:49:06.000Z</updated>
+        <summary type="html"><![CDATA[フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。]]></summary>
+        <content type="html"><![CDATA[フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。]]></content>
+        <category label="news"/>
+        <published>2026-10-09T22:49:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ37] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2146735.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2146735.html"/>
+        <updated>2026-10-08T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。]]></summary>
+        <content type="html"><![CDATA[ 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-08T07:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 | LayerX エンジニアブログ]]></title>
+        <id>https://tech.layerx.co.jp/entry/2026/10/09/162114</id>
+        <link href="https://tech.layerx.co.jp/entry/2026/10/09/162114"/>
+        <updated>2026-10-09T07:21:14.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証]]></summary>
+        <content type="html"><![CDATA[こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証情報が盗まれるワーム型の攻撃が公開されました。 この検体は、盗んだ認証情報で別のパッケージを次々と再公開して広がるだけでなく、Claude Code や VS Code の設定ファイルに自分自身を書き…]]></content>
+        <published>2026-10-09T07:21:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[仕組みを掘る] テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側 | Blog on DeNA Engineering]]></title>
+        <id>https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/</id>
+        <link href="https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/"/>
+        <updated>2026-10-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …]]></summary>
+        <content type="html"><![CDATA[  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …]]></content>
+        <published>2026-10-07T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[geohash について知ったので、パン屋巡りに使えないか考えてみた | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/geohash-and-bakery</id>
+        <link href="https://www.m3tech.blog/entry/geohash-and-bakery"/>
+        <updated>2026-10-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日]]></summary>
+        <content type="html"><![CDATA[※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日にたまにパン屋巡りをするのですが、これを応用すれば効率的にパン屋を巡れるんじゃないかと思いついたので、考えたことを書いていこうと思います。 ただ、人間の胃には限界があるため、実際にこのとおり巡るのは難…]]></content>
+        <published>2026-10-09T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/fbz-history</id>
+        <link href="https://techblog.zozo.com/entry/fbz-history"/>
+        <updated>2026-10-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数5]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数500本超、40個以上のスタックで稼働しています。サーバーレス自体の運用負荷は低い一方、9年間でツールの有償化やプラグインの保守停止、ランタイムのEOL、リソース上限といった「周辺環境の変化」への追従を…]]></content>
+        <published>2026-10-09T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=66722</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/66722/"/>
+        <updated>2026-10-09T03:49:45.000Z</updated>
+        <summary type="html"><![CDATA[今回は後者のセッションでも言及されている、Open Cluster Management (OCM) ...]]></summary>
+        <content type="html"><![CDATA[今回は後者のセッションでも言及されている、Open Cluster Management (OCM) ...]]></content>
+        <author>
+            <name>技術 / クリエイティブ広報</name>
+        </author>
+        <category label="エンジニア"/>
+        <published>2026-10-09T03:49:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustで自己言及プログラムであるQuineを作っていく | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/rust-quine-m3</id>
+        <link href="https://www.m3tech.blog/entry/rust-quine-m3"/>
+        <updated>2026-10-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに エムスリー株式会社 メディカルマーケティングオートメーションチームの中村（@inakam00）です。 本記事はメディカルマーケティングオートメーションチーム(unit2)のブログリレー1日目の記事です。 エムスリーテックブログではお馴染みとなりつつあるQuineを、今回はRustで作ってみました。 はじめに Quineについて RustでM3 Quineを作る 完成品 コードを3つのパー]]></summary>
+        <content type="html"><![CDATA[はじめに エムスリー株式会社 メディカルマーケティングオートメーションチームの中村（@inakam00）です。 本記事はメディカルマーケティングオートメーションチーム(unit2)のブログリレー1日目の記事です。 エムスリーテックブログではお馴染みとなりつつあるQuineを、今回はRustで作ってみました。 はじめに Quineについて RustでM3 Quineを作る 完成品 コードを3つのパートに分ける 空白の代わりにコメントを使う マスク情報も英字にしてコードに溶け込ませる raw文字列と文字エスケープ raw文字列の終端記号 置換処理の重複防止 空白文字の保持 おわりに 編集後記 We…]]></content>
+        <published>2026-10-09T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VPNだけじゃない — さくらのクラウドVPNルータで作る境界ネットワーク | さくらのナレッジ]]></title>
+        <id>https://knowledge.sakura.ad.jp/?p=51275</id>
+        <link href="https://knowledge.sakura.ad.jp/51275/"/>
+        <updated>2026-10-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに クラウド環境では、「どこまで公開するか」「どこで通信を止めるか」というネットワーク設計により、障害時の影響範囲やセキュリティリスクが大きく変わります。可用性と信頼性を確保するため、役割に応じてネットワーク領域を […]]]></summary>
+        <content type="html"><![CDATA[はじめに クラウド環境では、「どこまで公開するか」「どこで通信を止めるか」というネットワーク設計により、障害時の影響範囲やセキュリティリスクが大きく変わります。可用性と信頼性を確保するため、役割に応じてネットワーク領域を […]]]></content>
+        <author>
+            <name>可知豊</name>
+        </author>
+        <category label="エンジニア向け"/>
+        <category label="さくらのクラウド"/>
+        <category label="SDN"/>
+        <category label="VPC"/>
+        <category label="VPN"/>
+        <category label="VPNルータ"/>
+        <category label="ネットワーク"/>
+        <published>2026-10-08T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ4] CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-cococli-hackathon/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-cococli-hackathon/entry"/>
+        <updated>2026-10-06T03:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。]]></summary>
+        <content type="html"><![CDATA[Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。]]></content>
+        <published>2026-10-06T03:01:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成 | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/automate-google-play-review-analysis</id>
+        <link href="https://techblog.zozo.com/entry/automate-google-play-review-analysis"/>
+        <updated>2026-10-06T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、グローバルプロダクト開発本部ZOZOFIT USブロックの平川です。普段はZOZOFITの身体計測に関するデータを分析しています。 ZOZOFITは、スマートフォンで身体を3D計測し、体型の変化を記録・管理できるボディマネジメントアプリです。アメリカを中心に海外へ展開しています。 今回ZOZOFIT開発チームでは、Google PlayストアのレビューをAIで分析し、リリース]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、グローバルプロダクト開発本部ZOZOFIT USブロックの平川です。普段はZOZOFITの身体計測に関するデータを分析しています。 ZOZOFITは、スマートフォンで身体を3D計測し、体型の変化を記録・管理できるボディマネジメントアプリです。アメリカを中心に海外へ展開しています。 今回ZOZOFIT開発チームでは、Google PlayストアのレビューをAIで分析し、リリース情報も加味した考察レポートを自動生成する仕組みを構築しました。本記事では、この仕組みの設計と運用について紹介します。]]></content>
+        <published>2026-10-06T02:00:00.000Z</published>
+    </entry>
+</feed>

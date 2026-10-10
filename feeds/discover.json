@@ -1,0 +1,850 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Discover)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.json",
+    "description": "今週の人気（はてブ3件以上・直近7日をスコア順）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://future-architect.github.io/articles/20261009a/",
+            "content_html": "業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261009a/",
+            "title": "[はてブ204] bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+            "summary": "業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261009a/purchase_request.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "date_published": "2026-10-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 204,
+                "originalTitle": "bpmn.io で始める AI-Ready な業務フロー管理",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ204",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.891,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ204"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85582",
+            "content_html": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "url": "https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html",
+            "title": "[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス",
+            "summary": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100901@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T05:21:49.000Z",
+            "date_published": "2026-10-09T05:21:49.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "excel",
+                "PowerPoint",
+                "word"
+            ],
+            "_custom": {
+                "hatenaCount": 248,
+                "originalTitle": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ248 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 2.11,
+                "topics": [
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ248",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "content_html": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "title": "[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜",
+            "summary": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T22:50:00.000Z",
+            "date_published": "2026-10-08T22:50:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 163,
+                "originalTitle": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ163 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.761,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ163",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://joisino.hatenablog.com/entry/filler",
+            "content_html": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなることが確認されています [Greenblat 2025]。 少し難しい以下のような問題に思考の連鎖を付けずにただちに答えさせようとしても LLM は間違えます。 問題：イリジウムの原子番号とモーツァルト…",
+            "url": "https://joisino.hatenablog.com/entry/filler",
+            "title": "[はてブ295] 最近のLLMは黙って考えられるようになっている | ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+            "summary": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなるこ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8a0262dd141a1e925fe258356cb931f0e5a0ffc7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjoisino%2F20261007%2F20261007092415.png",
+                "alt": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T08:15:49.000Z",
+            "date_published": "2026-10-07T08:15:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 295,
+                "originalTitle": "最近のLLMは黙って考えられるようになっている",
+                "blogTitle": "ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+                "blogLink": "https://joisino.hatenablog.com/",
+                "blogLinkMd5Hash": "6f14f2f6a895ba8ed117ae4f64f10dad",
+                "favicon": "https://joisino.hatenablog.com/icon/favicon",
+                "pickReason": "はてブ295",
+                "sourceTier": "core",
+                "sourceLabel": "joisino",
+                "host": "joisino.hatenablog.com",
+                "score": 1.106,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ295"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "content_html": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.",
+            "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "title": "[はてブ21] Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research",
+            "summary": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join ",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 21,
+                "originalTitle": "Launching an opt-in vulnerability-finding service for open-source software",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ21 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.3,
+                "topics": [
+                    "ai",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ21",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85533",
+            "content_html": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html",
+            "title": "[はてブ414] PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス",
+            "summary": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100800-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:36:52.000Z",
+            "date_published": "2026-10-08T00:36:52.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "adobe"
+            ],
+            "_custom": {
+                "hatenaCount": 414,
+                "originalTitle": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ414 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 1.292,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ414",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "content_html": "AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞれの領域を強みとするメンバーを組み合わせてプロダクトを前に進める。万能な一人へ仕事を集約するのではなく、専門性を持つメンバーがチームで大きな成果を狙う組織へ移る挑戦を開始しました。今後も加速する技術の…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "title": "[はてブ33] AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 | Sansan Tech Blog",
+            "summary": "AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/70e8d43440edb466b13efb75ee1548f885ff0c93/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg",
+                "alt": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:00:00.000Z",
+            "date_published": "2026-10-09T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "はてブ33",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 1.756,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ33"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "content_html": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで、なぜそうしているのかと合わせて紹介します。ファインディの開発組織に興味を持ってくださっている方や、組織の文化づくりに取り組んでいる方の参考になると幸いです。 開発の土台をつくる コード生成前の準備 …",
+            "url": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "title": "[はてブ11] ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み | Findy Tech Blog",
+            "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b898ad5052c3b91340b2c364f39bad2732c8ad66/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261008%2F20261008114435.png",
+                "alt": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み - Findy Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T22:00:00.000Z",
+            "date_published": "2026-10-08T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み",
+                "blogTitle": "Findy Tech Blog",
+                "blogLink": "https://tech.findy.co.jp/",
+                "blogLinkMd5Hash": "fbd3f27d454988167016d210b62c5f67",
+                "favicon": "https://tech.findy.co.jp/icon/favicon",
+                "pickReason": "はてブ11 · 仕組みを掘る",
+                "sourceTier": "core",
+                "sourceLabel": "Findy",
+                "host": "tech.findy.co.jp",
+                "score": 1.602,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ11",
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/anthropic-cyber-mission",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+            "title": "[はてブ8] Introducing the Anthropic Cyber Mission | Anthropic News",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 8,
+                "originalTitle": "Introducing the Anthropic Cyber Mission",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ8 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 1.085,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ8",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261008a/",
+            "content_html": "オライリー・ジャパンの『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』を読んだ感想と、各章の「関連リソース」に挙がる書籍55冊を整理した読書マップを紹介します。",
+            "url": "https://future-architect.github.io/articles/20261008a/",
+            "title": "[はてブ189] 「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ",
+            "summary": "オライリー・ジャパンの『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』を読んだ感想と、各章の「関連リソース」に挙がる書籍55冊を整理した読書マップを紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261008a/top.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "date_published": "2026-10-07T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 189,
+                "originalTitle": "「ソフトウェアエンジニアリングの基礎」から見る読書マップ",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ189",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 0.942,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ189"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+            "content_html": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。",
+            "url": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+            "title": "[はてブ38] バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？ | GIGAZINE",
+            "summary": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/data-backups-arent-simple/00_m.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T00:00:00.000Z",
+            "date_published": "2026-10-10T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 38,
+                "originalTitle": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ38 · 設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.773,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ38",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "content_html": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "title": "[はてブ37] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜",
+            "summary": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/735/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T07:22:00.000Z",
+            "date_published": "2026-10-08T07:22:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ37 · 動かしてみた",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.05,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ37",
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-readest/",
+            "content_html": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "url": "https://gigazine.net/news/20261010-readest/",
+            "title": "[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE",
+            "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/readest/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T09:00:00.000Z",
+            "date_published": "2026-10-10T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ5 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.882,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ5",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "content_html": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "title": "[はてブ92] Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定 | 窓の杜",
+            "summary": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/802/synthid_detector.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T08:32:00.000Z",
+            "date_published": "2026-10-08T08:32:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 92,
+                "originalTitle": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ92",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.026,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ92"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+            "content_html": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。",
+            "url": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+            "title": "[はてブ3] ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明 | GIGAZINE",
+            "summary": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/adhd-higher-odds-gut-problems/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T14:00:00.000Z",
+            "date_published": "2026-10-10T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3 · 発見",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.868,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/2026-usage-policy-update",
+            "content_html": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+            "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+            "title": "[はてブ11] 2026 Usage Policy update | Anthropic News",
+            "summary": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "2026 Usage Policy update",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ11",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.876,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ11"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "content_html": "Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来たりと作業していたんです。それで昨今の流行でworktreeサブコマンドの存在を知ったときには悔しいのなんの。 とはいえ、worktreeを使って（AIエージェントも使って）超多並列で開発業務をやって…",
+            "url": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "title": "[はてブ58] git worktree大増殖で困っていた | エムスリーテックブログ",
+            "summary": "Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8599973812294943206/14945776032084410398/1791255909",
+                "alt": "git worktree大増殖で困っていた - エムスリーテックブログ"
+            },
+            "date_modified": "2026-10-06T03:05:04.000Z",
+            "date_published": "2026-10-06T03:05:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 58,
+                "originalTitle": "git worktree大増殖で困っていた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ58",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.482,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ58"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+            "content_html": "Claude Science helped produce the first complete map of the sky in UV light",
+            "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+            "title": "[はてブ5] The missing map of the sky | Anthropic Research",
+            "summary": "Claude Science helped produce the first complete map of the sky in UV light",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dde28f2eb899eade347dd07314a9c6b65bfbbb3c-1200x630.png",
+                "alt": "The first complete map of the sky in UV light",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "The missing map of the sky",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ5",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.709,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ5"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157325",
+            "content_html": "キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。",
+            "url": "https://www.cinematoday.jp/news/N0157325",
+            "title": "[はてブ91] 「サイバーパンク2077」映画化！ | シネマトゥデイ",
+            "summary": "キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/-kmFMcmnj60l/_size_r1200x630/_v_1791507573/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T00:59:33.000Z",
+            "date_published": "2026-10-09T00:59:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 91,
+                "originalTitle": "「サイバーパンク2077」映画化！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ91",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.804,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ91"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-cococli-hackathon/entry",
+            "content_html": "Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。",
+            "url": "https://engineers.ntt.com/entry/202609-cococli-hackathon/entry",
+            "title": "[はてブ4] CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 | NTT docomo Business Engineers' Blog",
+            "summary": "Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/53a06e44531f2a979b74bcf0d4d46a2d76e94319/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040",
+                "alt": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 - NTT docomo Business Engineers' Blog"
+            },
+            "date_modified": "2026-10-06T03:01:18.000Z",
+            "date_published": "2026-10-06T03:01:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ4",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ",
+                "host": "engineers.ntt.com",
+                "score": 0.254,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ4"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/cyber-verification-program",
+            "content_html": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+            "url": "https://www.anthropic.com/news/cyber-verification-program",
+            "title": "[はてブ3] Expanding the Cyber Verification Program | Anthropic News",
+            "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+                "alt": "Hand with padlock and key on detailed security graphic"
+            },
+            "date_modified": "2026-10-06T00:00:00.000Z",
+            "date_published": "2026-10-06T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Expanding the Cyber Verification Program",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.243,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

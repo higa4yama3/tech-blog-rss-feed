@@ -1,0 +1,377 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (カルチャー)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.json",
+    "description": "カルチャーの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "content_html": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "title": "[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜",
+            "summary": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T22:50:00.000Z",
+            "date_published": "2026-10-08T22:50:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 163,
+                "originalTitle": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ163 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.761,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ163",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157325",
+            "content_html": "キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。",
+            "url": "https://www.cinematoday.jp/news/N0157325",
+            "title": "[はてブ91] 「サイバーパンク2077」映画化！ | シネマトゥデイ",
+            "summary": "キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/-kmFMcmnj60l/_size_r1200x630/_v_1791507573/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T00:59:33.000Z",
+            "date_published": "2026-10-09T00:59:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 91,
+                "originalTitle": "「サイバーパンク2077」映画化！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ91",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.804,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ91"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157336",
+            "content_html": "江口洋介と松嶋菜々子がダブル主演を務めるフジテレビ系10月期の新・月9ドラマ「救命病棟24時」（10月12日スタート、毎週月曜21時～※初回15分拡大）に、鈴木伸之が出演することが発表された。",
+            "url": "https://www.cinematoday.jp/news/N0157336",
+            "title": "[発見] 鈴木伸之「救命病棟24時」で5年ぶり月9出演！詳細は謎のキーパーソンに | シネマトゥデイ",
+            "summary": "江口洋介と松嶋菜々子がダブル主演を務めるフジテレビ系10月期の新・月9ドラマ「救命病棟24時」（10月12日スタート、毎週月曜21時～※初回15分拡大）に、鈴木伸之が出演することが発表された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/TPY7vKhswwrc/_size_r1200x630/_v_1791524596/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T20:30:00.000Z",
+            "date_published": "2026-10-10T20:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "鈴木伸之「救命病棟24時」で5年ぶり月9出演！詳細は謎のキーパーソンに",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "発見",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.756,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/092800005/",
+            "content_html": "。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/092800005/",
+            "title": "[仕組みを掘る] ［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/092800005/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T08:00:00.000Z",
+            "date_published": "2026-10-09T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.524,
+                "topics": [
+                    "business",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157356",
+            "content_html": "スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。",
+            "url": "https://www.cinematoday.jp/news/N0157356",
+            "title": "『ゴジラ-0.0』山崎監督に憂いなし　前作大成功のプレッシャー一蹴「またすげぇ映画作りゃいい」 | シネマトゥデイ",
+            "summary": "スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/wRi8N2x4TucM/_size_r1200x630/_v_1791548809/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T22:32:00.000Z",
+            "date_published": "2026-10-09T22:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "『ゴジラ-0.0』山崎監督に憂いなし　前作大成功のプレッシャー一蹴「またすげぇ映画作りゃいい」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.483,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157349",
+            "content_html": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第12話「取り戻せ！ギリコVSバーサー！」が、11日午前9時30分よりテレビ朝日系にて放送される。",
+            "url": "https://www.cinematoday.jp/news/N0157349",
+            "title": "「角醒ハンター オメガホーン」ギリコVSバーサー、因縁のハンターバトル【第12話あらすじ】 | シネマトゥデイ",
+            "summary": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第12話「取り戻せ！ギリコVSバーサー！」が、11日午前9時30分よりテレビ朝日系にて放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/jVSW7kKiu2v7/_size_r1200x630/_v_1791539766/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T00:10:00.000Z",
+            "date_published": "2026-10-10T00:10:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「角醒ハンター オメガホーン」ギリコVSバーサー、因縁のハンターバトル【第12話あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.409,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157267",
+            "content_html": "吉田恵輔監督（「吉」はつちよしが正式表記）による最新作『mentor』でW主演を果たし、少年時代の過ちを抱えて生きる幼馴染を演じた磯村勇斗と末澤誠也（Aぇ! group）。",
+            "url": "https://www.cinematoday.jp/news/N0157267",
+            "title": "磯村勇斗＆末澤誠也、初共演で芽生えた兄弟のような絆　衝撃作『mentor』で役者の魅力実感 | シネマトゥデイ",
+            "summary": "吉田恵輔監督（「吉」はつちよしが正式表記）による最新作『mentor』でW主演を果たし、少年時代の過ちを抱えて生きる幼馴染を演じた磯村勇斗と末澤誠也（Aぇ! group）。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/0cOFrRV-IZU7/_size_r1200x630/_v_1791534635/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T23:32:00.000Z",
+            "date_published": "2026-10-09T23:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "磯村勇斗＆末澤誠也、初共演で芽生えた兄弟のような絆　衝撃作『mentor』で役者の魅力実感",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.404,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157355",
+            "content_html": "本日（11日）から14日までの4日間連続で、『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）に登場するキャラクターたちのPVを公開。第一弾として猫猫・壬氏一行が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0157355",
+            "title": "「薬屋のひとりごと」劇場版、4日連続キャラPV公開！第一弾は猫猫＆壬氏一行 | シネマトゥデイ",
+            "summary": "本日（11日）から14日までの4日間連続で、『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）に登場するキャラクターたちのPVを公開。第一弾として猫猫・壬氏一行が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/teAw53T6DG6-/_size_r1200x630/_v_1791546496/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T23:00:00.000Z",
+            "date_published": "2026-10-10T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「薬屋のひとりごと」劇場版、4日連続キャラPV公開！第一弾は猫猫＆壬氏一行",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.397,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157087",
+            "content_html": "『踊る大捜査線』シリーズで織田裕二が演じる主人公・青島俊作を象徴するものとして真っ先に思い浮かぶのが、モスグリーンのモッズコートだ。",
+            "url": "https://www.cinematoday.jp/news/N0157087",
+            "title": "『踊る大捜査線』30年愛される“青島コート”の秘密　続編のたびに4～5着製作、色味＆涼感加工もアップデート | シネマトゥデイ",
+            "summary": "『踊る大捜査線』シリーズで織田裕二が演じる主人公・青島俊作を象徴するものとして真っ先に思い浮かぶのが、モスグリーンのモッズコートだ。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/BovZr-hEqFTY/_size_r1200x630/_v_1791556309/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T22:02:00.000Z",
+            "date_published": "2026-10-10T22:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『踊る大捜査線』30年愛される“青島コート”の秘密　続編のたびに4～5着製作、色味＆涼感加工もアップデート",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.389,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157308",
+            "content_html": "日曜劇場「VIVANT」（TBS系）の第20話（第2シーズン第10話）が、11日よる9時から放送される。",
+            "url": "https://www.cinematoday.jp/news/N0157308",
+            "title": "今夜「VIVANT」黒須たちが囚われた牢獄まで辿り着く【第20話あらすじ】 | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」（TBS系）の第20話（第2シーズン第10話）が、11日よる9時から放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/auZUB9rLJ_js/_size_r1200x630/_v_1791433597/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T21:32:00.000Z",
+            "date_published": "2026-10-10T21:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "今夜「VIVANT」黒須たちが囚われた牢獄まで辿り着く【第20話あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.386,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

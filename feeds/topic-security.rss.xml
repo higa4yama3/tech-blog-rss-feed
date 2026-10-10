@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (セキュリティ)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml</link>
+        <description>セキュリティの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (セキュリティ)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[HN 397pt] Telegram Desktop vulnerability allowed any user's file to be stolen | Hacker News: Front Page]]></title>
+            <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
+            <guid>https://news.ycombinator.com/item?id=50029123</guid>
+            <pubDate>Sat, 10 Oct 2026 03:02:47 GMT</pubDate>
+            <description><![CDATA[An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.]]></description>
+            <content:encoded><![CDATA[An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png" alt="From a clicked link to the victim's session files."/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ101] 「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002184/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002184/</guid>
+            <pubDate>Sat, 10 Oct 2026 03:38:24 GMT</pubDate>
+            <description><![CDATA[ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の内容について運営元のIDCフロンティアに聞いた。]]></description>
+            <content:encoded><![CDATA[ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の内容について運営元のIDCフロンティアに聞いた。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002184/10009012/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002184/10009012/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ166] 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</link>
+            <guid>https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</guid>
+            <pubDate>Sat, 10 Oct 2026 15:48:52 GMT</pubDate>
+            <description><![CDATA[2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2026年9月前後」に国内組織で不正アクセスによる個人情報等の漏えい]]></description>
+            <content:encoded><![CDATA[2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2026年9月前後」に国内組織で不正アクセスによる個人情報等の漏えい被害が相次いでいるとした。複数の製品やサービスで被害が発生している中、「技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的」とも記している。同注意喚起は、普段から断続的、散発的に発生…]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image//10257846132616586766/14945776032088434102/1791647033" url="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032088434102/1791647033" alt="国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ155] 個人情報漏洩が日常になってしまった世界でどうしていくべきか | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://nyosegawa.com/posts/data-leak-era/</link>
+            <guid>https://nyosegawa.com/posts/data-leak-era/</guid>
+            <pubDate>Sat, 10 Oct 2026 07:36:44 GMT</pubDate>
+            <description><![CDATA[2026年は大規模な個人情報の漏洩が続いています。いま何が流出しているのか、流出した情報でどんな連絡が届くのか、わたしたちは何をすればいいのかを、グラフと例でまとめます。]]></description>
+            <content:encoded><![CDATA[2026年は大規模な個人情報の漏洩が続いています。いま何が流出しているのか、流出した情報でどんな連絡が届くのか、わたしたちは何をすればいいのかを、グラフと例でまとめます。]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image/jpeg" height="630" url="https://nyosegawa.com/og/data-leak-era.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ21] Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</link>
+            <guid>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join ]]></description>
+            <content:encoded><![CDATA[We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 | LayerX エンジニアブログ]]></title>
+            <link>https://tech.layerx.co.jp/entry/2026/10/09/162114</link>
+            <guid>https://tech.layerx.co.jp/entry/2026/10/09/162114</guid>
+            <pubDate>Fri, 09 Oct 2026 07:21:14 GMT</pubDate>
+            <description><![CDATA[こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証]]></description>
+            <content:encoded><![CDATA[こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証情報が盗まれるワーム型の攻撃が公開されました。 この検体は、盗んだ認証情報で別のパッケージを次々と再公開して広がるだけでなく、Claude Code や VS Code の設定ファイルに自分自身を書き…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/8e7b426a1a2951b1aaaa6d13cbe5bad8243520ef/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmas358%2F20261009%2F20261009165746.png" alt="ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 - LayerX エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[数字のインパクト] ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/audio/22/00001/100800977/</link>
+            <guid>https://business.nikkei.com/atcl/audio/22/00001/100800977/</guid>
+            <pubDate>Thu, 08 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他]]></description>
+            <content:encoded><![CDATA[［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/audio/22/00001/100800977/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内 | Mackerel ブログ #mackerelio]]></title>
+            <link>https://mackerel.io/ja/blog/entry/announcement/20261007-idcf</link>
+            <guid>https://mackerel.io/ja/blog/entry/announcement/20261007-idcf</guid>
+            <pubDate>Wed, 07 Oct 2026 09:55:23 GMT</pubDate>
+            <description><![CDATA[いつもMackerelをご利用いただき、ありがとうございます。 本日2026年10月7日、株式会社IDCフロンティア（以下「IDCフロンティア」）より、IDCFクラウドの一部システムへの第三者による不正アクセスについて発表がありました。 当社サービスの一部システムに対する不正アクセスについて | ニュース | IDCフロンティア https://www.idcf.jp/news/topics/20]]></description>
+            <content:encoded><![CDATA[いつもMackerelをご利用いただき、ありがとうございます。 本日2026年10月7日、株式会社IDCフロンティア（以下「IDCフロンティア」）より、IDCFクラウドの一部システムへの第三者による不正アクセスについて発表がありました。 当社サービスの一部システムに対する不正アクセスについて | ニュース | IDCフロンティア https://www.idcf.jp/news/topics/20261007001 MackerelはIDCFクラウドと連携しており、IDCFクラウドアカウントを利用したログインや、IDCFクラウド上のリソースの監視にMackerelをご利用いただけるプラン（ID…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/a6e3cc3ebd4e3b4b1ef77cb1a43fabdb5ca3f2d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20261007%2F20261007185208.png" alt="IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内 - Mackerel ブログ #mackerelio"/>
+        </item>
+        <item>
+            <title><![CDATA[「攻めるDX」と「守るセキュリティ」を支えるIIJの技術を、ひろしまIT総合展2026で体感 | IIJ Engineers Blog]]></title>
+            <link>https://eng-blog.iij.ad.jp/archives/37857</link>
+            <guid>https://eng-blog.iij.ad.jp/?p=37857</guid>
+            <pubDate>Wed, 07 Oct 2026 06:04:50 GMT</pubDate>
+            <description><![CDATA[はじめに IIJは、2026年10月15日（木）～16日（金）に開催される「ひろしまIT総合展 2026」に出展します。 本展示会では、「攻めるDXも、守るセキ...]]></description>
+            <content:encoded><![CDATA[はじめに IIJは、2026年10月15日（木）～16日（金）に開催される「ひろしまIT総合展 2026」に出展します。 本展示会では、「攻めるDXも、守るセキ...]]></content:encoded>
+            <category>イベント</category>
+            <category>セキュリティ</category>
+            <category>イベント告知</category>
+            <category>iot-magazine</category>
+            <category>DC</category>
+            <category>SASE</category>
+            <category>BCP</category>
+            <enclosure length="0" type="png" url="https://eng-blog.iij.ad.jp/wp-content/uploads/2026/09/hiroshima_1024x576.png"/>
+        </item>
+    </channel>
+</rss>

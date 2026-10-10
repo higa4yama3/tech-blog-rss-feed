@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (今日の5本)</title>
+    <updated>2026-10-10T23:26:37.541Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>読んで高揚しそうな記事をスコア順に選んだもの</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ55] SQLite 本体にベクトル検索拡張 vec1 がやってきた | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
+        <link href="https://zenn.dev/mattn/articles/6e9996319ac099"/>
+        <updated>2026-10-10T17:16:51.000Z</updated>
+        <summary type="html"><![CDATA[はてブ55
+はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...]]></summary>
+        <content type="html"><![CDATA[はてブ55
+はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T17:16:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ74] 写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2147318.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2147318.html"/>
+        <updated>2026-10-09T23:24:10.000Z</updated>
+        <summary type="html"><![CDATA[はてブ74 · 数字のインパクト
+ 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)]]></summary>
+        <content type="html"><![CDATA[はてブ74 · 数字のインパクト
+ 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)はHugging FaceとKaggleからダウンロードでき、Apache 2.0ライセンスの下で商用利用も認められる。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-09T23:24:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 228pt] Talorys – A self-hosted personal AI agent on Cloudflare's free tier | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50031614</id>
+        <link href="https://github.com/rociiu/talorys"/>
+        <updated>2026-10-10T10:52:09.000Z</updated>
+        <summary type="html"><![CDATA[HN 228pt
+Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-use]]></summary>
+        <content type="html"><![CDATA[HN 228pt
+Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...]]></content>
+        <author>
+            <name>rociiu</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-10T10:52:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス]]></title>
+        <id>https://coliss.com/?p=85582</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html"/>
+        <updated>2026-10-09T05:21:49.000Z</updated>
+        <summary type="html"><![CDATA[はてブ248 · 新しく出た
+今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></summary>
+        <content type="html"><![CDATA[はてブ248 · 新しく出た
+今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="excel"/>
+        <category label="PowerPoint"/>
+        <category label="word"/>
+        <published>2026-10-09T05:21:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ33] AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/10/09/130000"/>
+        <updated>2026-10-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はてブ33
+AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に]]></summary>
+        <content type="html"><![CDATA[はてブ33
+AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞれの領域を強みとするメンバーを組み合わせてプロダクトを前に進める。万能な一人へ仕事を集約するのではなく、専門性を持つメンバーがチームで大きな成果を狙う組織へ移る挑戦を開始しました。今後も加速する技術の…]]></content>
+        <published>2026-10-09T04:00:00.000Z</published>
+    </entry>
+</feed>

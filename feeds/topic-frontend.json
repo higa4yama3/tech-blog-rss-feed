@@ -1,0 +1,317 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (フロントエンド・デザイン)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.json",
+    "description": "フロントエンド・デザインの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://coliss.com/?p=85582",
+            "content_html": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "url": "https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html",
+            "title": "[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス",
+            "summary": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100901@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T05:21:49.000Z",
+            "date_published": "2026-10-09T05:21:49.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "excel",
+                "PowerPoint",
+                "word"
+            ],
+            "_custom": {
+                "hatenaCount": 248,
+                "originalTitle": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ248 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 2.11,
+                "topics": [
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ248",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-readest/",
+            "content_html": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "url": "https://gigazine.net/news/20261010-readest/",
+            "title": "[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE",
+            "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/readest/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T09:00:00.000Z",
+            "date_published": "2026-10-10T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ5 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.882,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ5",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "content_html": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "title": "[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜",
+            "summary": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T22:50:00.000Z",
+            "date_published": "2026-10-08T22:50:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 163,
+                "originalTitle": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ163 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.761,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ163",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85533",
+            "content_html": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html",
+            "title": "[はてブ414] PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス",
+            "summary": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100800-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:36:52.000Z",
+            "date_published": "2026-10-08T00:36:52.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "adobe"
+            ],
+            "_custom": {
+                "hatenaCount": 414,
+                "originalTitle": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ414 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 1.292,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ414",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://idid.team/?p=4468",
+            "content_html": "いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。",
+            "url": "https://idid.team/articles/other/netherland-shiftbrain-08/",
+            "title": "【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム） | iDID – クリエイターのための情報メディア",
+            "summary": "いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。",
+            "image": {
+                "height": "536",
+                "type": "image/jpeg",
+                "url": "https://idid.team/wp-content/uploads/2026/10/Numbered-1024x536.jpg",
+                "width": "1024"
+            },
+            "date_modified": "2026-10-10T05:57:50.000Z",
+            "date_published": "2026-10-10T05:57:50.000Z",
+            "author": {
+                "name": "idid_ohtake"
+            },
+            "tags": [
+                "Other",
+                "クリエイティブエージェンシー",
+                "グローバル",
+                "デザイン",
+                "design",
+                "curated"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム）",
+                "blogTitle": "iDID – クリエイターのための情報メディア",
+                "blogLink": "https://idid.team/",
+                "blogLinkMd5Hash": "e308077426c0a6b0e57fb06bde905884",
+                "favicon": "https://idid.team/wp-content/themes/idid_260827/assets/img/favicon.ico",
+                "pickReason": "フロントエンド・デザイン",
+                "sourceTier": "curated",
+                "sourceLabel": "iDID",
+                "host": "idid.team",
+                "score": 0.714,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85199",
+            "content_html": "10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols",
+            "url": "https://coliss.com/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html",
+            "title": "[新しく出た] Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能 | コリス",
+            "summary": "10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100701@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:26:59.000Z",
+            "date_published": "2026-10-08T00:26:59.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "サイト構築 -CSS",
+                "ブラウザ -Chrome"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.527,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261006b",
+            "content_html": "こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261006b",
+            "title": "デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/2c474ea2eb2d4cf6d98e64282b34dcd3/f0810/55a473f55a654abdb4f3a1ba9331b3e5.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-06T03:00:00.000Z",
+            "date_published": "2026-10-06T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM · フロントエンド・デザイン · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.106,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

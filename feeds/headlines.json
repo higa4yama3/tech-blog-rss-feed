@@ -1,0 +1,1097 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Headlines)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.json",
+    "description": "HN・ITmedia速報など",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=50037949",
+            "content_html": "\"System one\" decision models are models that infer and respond with calibrated probabilities or every allowed answer.  Consider your everyday language model, to get typed output from it (JSON), you may use Structured Output to constrain the output to guaranteed valid JSON. While model prefills the input in one pass,",
+            "url": "https://nishtahir.com/build-your-own-decision-model/",
+            "title": "07:50 Build your own decision model (nishtahir.com · ↑5 · 0 comments)",
+            "summary": "\"System one\" decision models are models that infer and respond with calibrated p",
+            "date_modified": "2026-10-10T22:50:10.000Z",
+            "date_published": "2026-10-10T22:50:10.000Z",
+            "author": {
+                "name": "softwaredoug"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Build your own decision model",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://nishtahir.com/content/images/size/w256h256/format/jpeg/2025/05/bafkreicnyzyqko4jl55t2v37wj25k5kgr4jlgczpaobpao7hiq6desyc2a-2.jpg",
+                "pickReason": "HN 5pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "nishtahir.com",
+                "score": 1.319,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 5pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50037299",
+            "content_html": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+            "title": "06:19 Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks (bleepingcomputer.com · ↑23 · 8 comments)",
+            "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Goo",
+            "image": {
+                "height": "900",
+                "url": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
+                "width": "1600",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T21:19:42.000Z",
+            "date_published": "2026-10-10T21:19:42.000Z",
+            "author": {
+                "name": "PicardManeuver"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.bleepstatic.com/favicon/bleeping.ico",
+                "pickReason": "HN 23pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "bleepingcomputer.com",
+                "score": 2.447,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 23pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50036864",
+            "content_html": "A city-building game about trying to get housing built in San Francisco. By Oliver Sin.",
+            "url": "https://housing.over.pizza/",
+            "title": "05:31 A city-building game in which the city would prefer you didn't (housing.over.pizza · ↑91 · 39 comments)",
+            "summary": "A city-building game about trying to get housing built in San Francisco. By Oliv",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://housing.over.pizza/share-card.png",
+                "width": "1200",
+                "alt": "Discretionary Review, a San Francisco housing simulator by Oliver Sin, alongside the game's pixel-art city map."
+            },
+            "date_modified": "2026-10-10T20:31:50.000Z",
+            "date_published": "2026-10-10T20:31:50.000Z",
+            "author": {
+                "name": "JumpCrisscross"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "A city-building game in which the city would prefer you didn't",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%231f3350'/%3E%3Crect x='3' y='5' width='4' height='9' fill='%23ffd24a'/%3E%3Crect x='9' y='2' width='4' height='12' fill='%23f3efe6'/%3E%3C/svg%3E",
+                "pickReason": "HN 91pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "housing.over.pizza",
+                "score": 2.616,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 91pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50036119",
+            "content_html": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_CastleComments URL: https://news.ycombinator.com/item?id=50036119Points: 85# Comments: 30",
+            "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+            "title": "04:12 Takeshi's Castle (en.wikipedia.org · ↑85 · 30 comments)",
+            "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_CastleComments URL: https",
+            "date_modified": "2026-10-10T19:12:55.000Z",
+            "date_published": "2026-10-10T19:12:55.000Z",
+            "author": {
+                "name": "tosh"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Takeshi's Castle",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "HN 85pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "en.wikipedia.org",
+                "score": 2.517,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 85pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50035886",
+            "content_html": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+            "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+            "title": "03:48 Nvidia in talks to acquire US 'open' model startup Reflection AI (ft.com · ↑96 · 62 comments)",
+            "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alterna",
+            "image": {
+                "url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T18:48:35.000Z",
+            "date_published": "2026-10-10T18:48:35.000Z",
+            "author": {
+                "name": "arkj"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=svg",
+                "pickReason": "HN 96pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "ft.com",
+                "score": 3.197,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 96pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50035530",
+            "content_html": "DuckDB 2.0 alpha vs 1.5.5 on one laptop: recursive CTEs up to 90x, VARIANT 6x faster than JSON text, async I/O 2.4x on S3. What changes, and how to model data to get the speedup. | Reading time: 15 min read",
+            "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+            "title": "03:08 Why DuckDB 2.0 is faster (motherduck.com · ↑109 · 34 comments)",
+            "summary": "DuckDB 2.0 alpha vs 1.5.5 on one laptop: recursive CTEs up to 90x, VARIANT 6x fa",
+            "image": {
+                "height": "630",
+                "url": "https://motherduck-com-web-prod.s3.us-east-1.amazonaws.com/assets/img/duckdb20_96b85ab729.png",
+                "width": "1200",
+                "alt": "Why DuckDB 2.0 is faster | MotherDuck",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T18:08:49.000Z",
+            "date_published": "2026-10-10T18:08:49.000Z",
+            "author": {
+                "name": "tosh"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Why DuckDB 2.0 is faster",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://motherduck.com/favicon.ico",
+                "pickReason": "HN 109pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "motherduck.com",
+                "score": 2.587,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 109pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50034123",
+            "content_html": "Cuban is impressed by how much effort MrBeast puts into understanding social media algorithms.",
+            "url": "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas",
+            "title": "00:51 MrBeast 'spends millions reverse engineering the algorithms on each platform' (barchart.com · ↑31 · 29 comments)",
+            "summary": "Cuban is impressed by how much effort MrBeast puts into understanding social med",
+            "image": {
+                "height": "900",
+                "url": "https://media.barchart.com/contributors-admin/common-images/images/Famous%20People/MrBeast%20by%20Fidias%20via%20Wikimedia%20Commons.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T15:51:39.000Z",
+            "date_published": "2026-10-10T15:51:39.000Z",
+            "author": {
+                "name": "theanonymousone"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://assets.barchart.com/favicon.ico",
+                "pickReason": "HN 31pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "barchart.com",
+                "score": 1.895,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 31pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50034081",
+            "content_html": "Twenty years ago I got a reward check from Donald Knuth.",
+            "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+            "title": "00:47 Knuth reward check (thomas-huehn.com · ↑127 · 47 comments)",
+            "summary": "Twenty years ago I got a reward check from Donald Knuth.",
+            "image": {
+                "url": "https://www.thomas-huehn.com/knuth.scheck-256.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T15:47:01.000Z",
+            "date_published": "2026-10-10T15:47:01.000Z",
+            "author": {
+                "name": "Curiositry"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Knuth reward check",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "data:image/png,",
+                "pickReason": "HN 127pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "thomas-huehn.com",
+                "score": 2.544,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 127pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50033407",
+            "content_html": "Hello everyone! Starting in the next release, the Bitwarden apps published to the various stores will be the commercially licensed builds. No action is needed, and the apps will work exactly as they do today. Bitwarden remains committed to open source security and transparency The GPLv3 OSS licensed version continues to be updated and published on GitHub All current features are available in both versions License details are on GitHub Bitwarden remains committed to a robust, free forever plan...",
+            "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+            "title": "23:32 Bitwarden Dual License Model (community.bitwarden.com · ↑328 · 240 comments)",
+            "summary": "Hello everyone! Starting in the next release, the Bitwarden apps published to th",
+            "image": {
+                "url": "https://us1.discourse-cdn.com/flex001/uploads/bitwarden1/original/3X/7/f/7f03815c05cadc57a3915c4e7d01826f041b39ac.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T14:32:50.000Z",
+            "date_published": "2026-10-10T14:32:50.000Z",
+            "author": {
+                "name": "Cider9986"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Bitwarden Dual License Model",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://us1.discourse-cdn.com/flex001/uploads/bitwarden1/optimized/3X/7/a/7a270efc3aae0860aca62ffb8641044e2668ea37_2_32x32.png",
+                "pickReason": "HN 328pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "community.bitwarden.com",
+                "score": 2.923,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 328pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50033357",
+            "content_html": "Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt, and if you care about security you should seriously consider them.",
+            "url": "https://ghuntley.com/unikernels/",
+            "title": "23:27 Unikernels were hard. key word: were (ghuntley.com · ↑68 · 31 comments)",
+            "summary": "Justin Cormack, who worked on MirageOS back in the day, called me at the pub to ",
+            "image": {
+                "height": "670",
+                "url": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2026/10/Symbolic-traditional-tattoo-art-print-portraying-a-unikernel-operating-system-as-a-lively-streamlined-digital-core-with-complex-ornamental-circuitry--bright-vibrant-retro-colors--intense-dramatic-lighting--energetic-glowing-accents--sharp-h.jpg",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T14:27:09.000Z",
+            "date_published": "2026-10-10T14:27:09.000Z",
+            "author": {
+                "name": "ghuntley"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Unikernels were hard. key word: were",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w256h256/format/jpeg/2026/02/A-black-and-white--low-angle-digital-illustration-in-a-symbolic-traditional-tattoo-art-style.--A-bald--light-skinned-man-with-a-bushy-beard--prominent-eyebrows--and-a-friendly-expression-wears-denim-overalls--2-.jpg",
+                "pickReason": "HN 68pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "ghuntley.com",
+                "score": 2.744,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "HN 68pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50032758",
+            "content_html": "Many of us are inconsistent in our economic desires. I would like the price of my home to rise, because it increases my wealth, but I would also like the prices of all other homes to fall, so that I could sell my house and buy an even nicer house. Also, I would like to",
+            "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+            "title": "22:29 I would like the value of my home to rise, while my property taxes fall (conversableeconomist.com · ↑193 · 462 comments)",
+            "summary": "Many of us are inconsistent in our economic desires. I would like the price of m",
+            "image": {
+                "url": "https://i0.wp.com/conversableeconomist.com/wp-content/uploads/2021/08/cropped-Screen-Shot-2021-08-23-at-2.04.56-PM.png?fit=889%2C66&ssl=1",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T13:29:03.000Z",
+            "date_published": "2026-10-10T13:29:03.000Z",
+            "author": {
+                "name": "colinprince"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "I would like the value of my home to rise, while my property taxes fall",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://i0.wp.com/conversableeconomist.com/wp-content/uploads/2021/08/cropped-Screen-Shot-2021-08-23-at-2.13.20-PM.png?fit=32%2C32&ssl=1",
+                "pickReason": "HN 193pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "conversableeconomist.com",
+                "score": 2.623,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 193pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50031653",
+            "content_html": "Article URL: https://www.opengroup.org//openbrand/register/Comments URL: https://news.ycombinator.com/item?id=50031653Points: 232# Comments: 210",
+            "url": "https://www.opengroup.org//openbrand/register/",
+            "title": "19:57 Apple/macOS removed from official Unix registry (opengroup.org · ↑232 · 210 comments)",
+            "summary": "Article URL: https://www.opengroup.org//openbrand/register/Comments URL: https:/",
+            "date_modified": "2026-10-10T10:57:31.000Z",
+            "date_published": "2026-10-10T10:57:31.000Z",
+            "author": {
+                "name": "john_alan"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 6,
+                "originalTitle": "Apple/macOS removed from official Unix registry",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "はてブ6 · HN 232pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "opengroup.org",
+                "score": 2.578,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ6",
+                    "HN 232pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50031614",
+            "content_html": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
+            "url": "https://github.com/rociiu/talorys",
+            "title": "19:52 Talorys – A self-hosted personal AI agent on Cloudflare's free tier (github.com · ↑228 · 114 comments)",
+            "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/aad967bff334e63919fd6fb602ebfabb3de91eadfdf2446a0c2a9184f009fd4f/rociiu/talorys",
+                "width": "1200",
+                "alt": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ..."
+            },
+            "date_modified": "2026-10-10T10:52:09.000Z",
+            "date_published": "2026-10-10T10:52:09.000Z",
+            "author": {
+                "name": "rociiu"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "HN 228pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "github.com",
+                "score": 3.207,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 228pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50029830",
+            "content_html": "In healthy adults, meals matched for calories and nutrients, but otherwise prepared differently, led to unexpectedly different metabolic responses and activity in the brain’s reward system.",
+            "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+            "title": "14:22 Food processing influences metabolism and brain activity (news.vt.edu · ↑91 · 76 comments)",
+            "summary": "In healthy adults, meals matched for calories and nutrients, but otherwise prepa",
+            "image": {
+                "url": "https://news.vt.edu/content/news_vt_edu/en/articles/2026/10/research_fralinbiomed_upfhutelin/_jcr_content/image.transform/l-medium/image.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T05:22:30.000Z",
+            "date_published": "2026-10-10T05:22:30.000Z",
+            "author": {
+                "name": "gmays"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Food processing influences metabolism and brain activity",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://assets.cms.vt.edu/favicon/favicon.ico",
+                "pickReason": "HN 91pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "news.vt.edu",
+                "score": 1.954,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 91pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50029487",
+            "content_html": "A new direction for computing: projecting information into the real world to augment it, with a device that combines a projector and computer vision in the shape of a large lightbulb.",
+            "url": "https://lightbulbcomputer.com/",
+            "title": "13:12 The Lightbulb Computer (lightbulbcomputer.com · ↑156 · 38 comments)",
+            "summary": "A new direction for computing: projecting information into the real world to aug",
+            "image": {
+                "height": "872",
+                "url": "https://lightbulbcomputer.com/social-preview.jpg",
+                "width": "1200",
+                "alt": "The Lightbulb Computer",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T04:12:26.000Z",
+            "date_published": "2026-10-10T04:12:26.000Z",
+            "author": {
+                "name": "oskarth"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Lightbulb Computer",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "HN 156pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "lightbulbcomputer.com",
+                "score": 2.113,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 156pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+            "content_html": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の内容について運営元のIDCフロンティアに聞いた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+            "title": "12:38 「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は (itmedia.co.jp)",
+            "summary": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002184/10009012/2048"
+            },
+            "date_modified": "2026-10-10T03:38:24.000Z",
+            "date_published": "2026-10-10T03:38:24.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 101,
+                "originalTitle": "「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ101",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 2.734,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ101"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50029123",
+            "content_html": "An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.",
+            "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+            "title": "12:02 Telegram Desktop vulnerability allowed any user's file to be stolen (beaksec.github.io · ↑397 · 246 comments)",
+            "summary": "An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicke",
+            "image": {
+                "url": "https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png",
+                "alt": "From a clicked link to the victim's session files.",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T03:02:47.000Z",
+            "date_published": "2026-10-10T03:02:47.000Z",
+            "author": {
+                "name": "g-b-r"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://beaksec.github.io/assets/img/favicons/favicon.ico",
+                "pickReason": "HN 397pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "beaksec.github.io",
+                "score": 3.016,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "HN 397pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
+            "content_html": "東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cancer」は、日本人の大腸がん発症に特定の腸内細菌が関与していることを突き止めた研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
+            "title": "12:00 日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析 (itmedia.co.jp)",
+            "summary": "東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalenc",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002035/10008517/2048"
+            },
+            "date_modified": "2026-10-10T03:00:00.000Z",
+            "date_published": "2026-10-10T03:00:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 170,
+                "originalTitle": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ170",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 2.353,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ170"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50028275",
+            "content_html": "Reverse engineer apps, binaries and browser behavior with your coding agent. Follow clear guides and try interactive examples with REA.",
+            "url": "https://rea.tools/",
+            "title": "09:37 REA Reverse – Engineer Anything (rea.tools · ↑672 · 295 comments)",
+            "summary": "Reverse engineer apps, binaries and browser behavior with your coding agent. Fol",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://rea.tools/assets/social-card.png",
+                "width": "1200",
+                "alt": "REA — Find out how software works. Reverse engineering with your coding agent."
+            },
+            "date_modified": "2026-10-10T00:37:07.000Z",
+            "date_published": "2026-10-10T00:37:07.000Z",
+            "author": {
+                "name": "modinfo"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "REA Reverse – Engineer Anything",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://rea.tools/assets/favicon.svg",
+                "pickReason": "はてブ3 · HN 672pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "rea.tools",
+                "score": 2.49,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ3",
+                    "HN 672pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50028162",
+            "content_html": "A lattice calculation has narrowed the uncertainty on the strong coupling to five parts per mille.",
+            "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+            "title": "09:13 How strong is the strong interaction? (cerncourier.com · ↑41 · 11 comments)",
+            "summary": "A lattice calculation has narrowed the uncertainty on the strong coupling to fiv",
+            "image": {
+                "height": "675",
+                "type": "image/jpeg",
+                "url": "https://cerncourier.com/wp-content/uploads/2026/09/CCSepOct26_QCD_frontis.jpg",
+                "width": "1200"
+            },
+            "date_modified": "2026-10-10T00:13:16.000Z",
+            "date_published": "2026-10-10T00:13:16.000Z",
+            "author": {
+                "name": "EA-3167"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How strong is the strong interaction?",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://cerncourier.com/wp-content/themes/iopp/static/img/favicon.png",
+                "pickReason": "HN 41pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "cerncourier.com",
+                "score": 1.496,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 41pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+            "content_html": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+            "title": "08:28 OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明 (itmedia.co.jp)",
+            "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenA",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002189/10009029/2048"
+            },
+            "date_modified": "2026-10-09T23:28:02.000Z",
+            "date_published": "2026-10-09T23:28:02.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ14",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.686,
+                "topics": [
+                    "ai",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ14"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
+            "content_html": "フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
+            "title": "07:49 IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援 (itmedia.co.jp)",
+            "summary": "フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002187/10009019/2048"
+            },
+            "date_modified": "2026-10-09T22:49:06.000Z",
+            "date_published": "2026-10-09T22:49:06.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ10",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.531,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ10"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50027257",
+            "content_html": "Early evidence from InnovationEval: No",
+            "url": "https://epoch.ai/publications/innovationeval",
+            "title": "07:14 Recent AI models struggled to match a human algorithmic innovation (epoch.ai · ↑62 · 51 comments)",
+            "summary": "Early evidence from InnovationEval: No",
+            "image": {
+                "url": "https://epoch.ai/assets/images/posts/2026/innovationeval/t-innovationeval.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T22:14:40.000Z",
+            "date_published": "2026-10-09T22:14:40.000Z",
+            "author": {
+                "name": "merksittich"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Recent AI models struggled to match a human algorithmic innovation",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://epoch.ai/favicon.svg",
+                "pickReason": "HN 62pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "epoch.ai",
+                "score": 1.97,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 62pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
+            "content_html": "「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
+            "title": "06:56 IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み (itmedia.co.jp)",
+            "summary": "「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002147/10008892/2048"
+            },
+            "date_modified": "2026-10-09T21:56:46.000Z",
+            "date_published": "2026-10-09T21:56:46.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 31,
+                "originalTitle": "IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ31",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.959,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ31"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50024242",
+            "content_html": "An open-source, on-device personal information filter — among the smallest and most effective that can reasonably run in a browser.",
+            "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+            "title": "02:52 Rampart: Browser native on-device PII radaction (ndstudio.gov · ↑62 · 28 comments)",
+            "summary": "An open-source, on-device personal information filter — among the smallest and m",
+            "image": {
+                "url": "https://ndstudio.gov/blog-posts/say-hello-to-rampart/featured.webp",
+                "alt": "A grayscale illustration of a medieval stone rampart with crenellated battlements and two towers, rendered with a soft grain.",
+                "type": "webp"
+            },
+            "date_modified": "2026-10-09T17:52:07.000Z",
+            "date_published": "2026-10-09T17:52:07.000Z",
+            "author": {
+                "name": "nateb2022"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Rampart: Browser native on-device PII radaction",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://ndstudio.gov/favicon.ico",
+                "pickReason": "HN 62pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "ndstudio.gov",
+                "score": 1.449,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 62pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002177/",
+            "content_html": "NTTドコモは10月9日、同社の「dポイント」に関連する約1億1000万件の顧客情報がダークウェブ上で販売されているとするSNS上の投稿について、調査の結果、同様の事実は確認していないと発表した。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002177/",
+            "title": "18:54 ドコモの顧客情報1億件超がダークウェブに？　同社「流出は確認していない」 (itmedia.co.jp)",
+            "summary": "NTTドコモは10月9日、同社の「dポイント」に関連する約1億1000万件の顧客情報がダークウェブ上で販売されているとするSNS上の投稿について、調査の結果、同",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002177/10008990/2048"
+            },
+            "date_modified": "2026-10-09T09:54:41.000Z",
+            "date_published": "2026-10-09T09:54:41.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 45,
+                "originalTitle": "ドコモの顧客情報1億件超がダークウェブに？　同社「流出は確認していない」",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ45",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.34,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ45"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+            "content_html": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+            "title": "12:20 “AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に (itmedia.co.jp)",
+            "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002121/10008821/2048"
+            },
+            "date_modified": "2026-10-09T03:20:15.000Z",
+            "date_published": "2026-10-09T03:20:15.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 32,
+                "originalTitle": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ32",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.378,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ32"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+            "content_html": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職活動でどれほどまん延しているかを調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+            "title": "12:00 履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究 (itmedia.co.jp)",
+            "summary": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Sym",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002102/10008744/2048"
+            },
+            "date_modified": "2026-10-09T03:00:00.000Z",
+            "date_published": "2026-10-09T03:00:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 39,
+                "originalTitle": "履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ39",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.426,
+                "topics": [
+                    "ai",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ39"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

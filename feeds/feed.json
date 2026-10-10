@@ -1,0 +1,3006 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Core)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/core.json",
+    "description": "あっ、好きな記事をまとめたRSSフィード",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.cinematoday.jp/news/N0157355",
+            "content_html": "本日（11日）から14日までの4日間連続で、『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）に登場するキャラクターたちのPVを公開。第一弾として猫猫・壬氏一行が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0157355",
+            "title": "「薬屋のひとりごと」劇場版、4日連続キャラPV公開！第一弾は猫猫＆壬氏一行 | シネマトゥデイ",
+            "summary": "本日（11日）から14日までの4日間連続で、『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）に登場するキャラクターたちのPVを公開。第一弾として猫猫・壬氏一行が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/teAw53T6DG6-/_size_r1200x630/_v_1791546496/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T23:00:00.000Z",
+            "date_published": "2026-10-10T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「薬屋のひとりごと」劇場版、4日連続キャラPV公開！第一弾は猫猫＆壬氏一行",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.397,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=201271",
+            "content_html": "休日の公園では、子どもたちを遊ばせながら、親どうしが「次はいつ会おうか」と相談している姿をよく見かけます。 同じ年ごろの仲間と遊ぶことは、子どもの成長に欠かせないものと考えられています。 ところが森の中には、その仲間に出会うこと自体がとても難しい動物がいます。 大型の類人猿(ヒトに近いサルのなかま)の中で、もっとも単独で暮らすオランウータンです。 母親と子どもだけで森を移動する彼らの子どもは、どうやって遊び相手と出会っているのでしょうか。 マックス・プランク動物行動研究所などのチームが野生のオランウータンを15年にわたって追った研究から、子どもの遊びをめぐる母親たちのある行動が見えてきました…",
+            "url": "https://nazology.kusuguru.co.jp/archives/201271",
+            "title": "オランウータンの母親は子どもに「遊び相手」を探してあげていたと判明 | ナゾロジー",
+            "summary": "休日の公園では、子どもたちを遊ばせながら、親どうしが「次はいつ会おうか」と相談している姿をよく見かけます。 同じ年ごろの仲間と遊ぶことは、子どもの成長に欠かせないものと考えられています。 ところが森の中には、その仲間に出会うこと自体がとても難しい動物がいます。 大型の類人猿(ヒトに近いサルのなかま)の中で、もっとも単独で暮らすオランウータンです。 母親と子どもだけで森を移動する彼らの子どもは、どう",
+            "image": {
+                "height": "900",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c416-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T22:30:00.000Z",
+            "date_published": "2026-10-10T22:30:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "動物",
+                "子ども",
+                "時間",
+                "類人猿"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "オランウータンの母親は子どもに「遊び相手」を探してあげていたと判明",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.787,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157087",
+            "content_html": "『踊る大捜査線』シリーズで織田裕二が演じる主人公・青島俊作を象徴するものとして真っ先に思い浮かぶのが、モスグリーンのモッズコートだ。",
+            "url": "https://www.cinematoday.jp/news/N0157087",
+            "title": "『踊る大捜査線』30年愛される“青島コート”の秘密　続編のたびに4～5着製作、色味＆涼感加工もアップデート | シネマトゥデイ",
+            "summary": "『踊る大捜査線』シリーズで織田裕二が演じる主人公・青島俊作を象徴するものとして真っ先に思い浮かぶのが、モスグリーンのモッズコートだ。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/BovZr-hEqFTY/_size_r1200x630/_v_1791556309/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T22:02:00.000Z",
+            "date_published": "2026-10-10T22:02:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『踊る大捜査線』30年愛される“青島コート”の秘密　続編のたびに4～5着製作、色味＆涼感加工もアップデート",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.389,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157308",
+            "content_html": "日曜劇場「VIVANT」（TBS系）の第20話（第2シーズン第10話）が、11日よる9時から放送される。",
+            "url": "https://www.cinematoday.jp/news/N0157308",
+            "title": "今夜「VIVANT」黒須たちが囚われた牢獄まで辿り着く【第20話あらすじ】 | シネマトゥデイ",
+            "summary": "日曜劇場「VIVANT」（TBS系）の第20話（第2シーズン第10話）が、11日よる9時から放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/auZUB9rLJ_js/_size_r1200x630/_v_1791433597/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T21:32:00.000Z",
+            "date_published": "2026-10-10T21:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "今夜「VIVANT」黒須たちが囚われた牢獄まで辿り着く【第20話あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.386,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157336",
+            "content_html": "江口洋介と松嶋菜々子がダブル主演を務めるフジテレビ系10月期の新・月9ドラマ「救命病棟24時」（10月12日スタート、毎週月曜21時～※初回15分拡大）に、鈴木伸之が出演することが発表された。",
+            "url": "https://www.cinematoday.jp/news/N0157336",
+            "title": "鈴木伸之「救命病棟24時」で5年ぶり月9出演！詳細は謎のキーパーソンに | シネマトゥデイ",
+            "summary": "江口洋介と松嶋菜々子がダブル主演を務めるフジテレビ系10月期の新・月9ドラマ「救命病棟24時」（10月12日スタート、毎週月曜21時～※初回15分拡大）に、鈴木伸之が出演することが発表された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/TPY7vKhswwrc/_size_r1200x630/_v_1791524596/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T20:30:00.000Z",
+            "date_published": "2026-10-10T20:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "鈴木伸之「救命病棟24時」で5年ぶり月9出演！詳細は謎のキーパーソンに",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "発見",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.756,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+            "content_html": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。",
+            "url": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+            "title": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明 | GIGAZINE",
+            "summary": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/adhd-higher-odds-gut-problems/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T14:00:00.000Z",
+            "date_published": "2026-10-10T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3 · 発見",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.868,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200987",
+            "content_html": "健康診断の紙を受け取ると、まず体重の欄を見てため息をつくのが毎年のお決まりです。 体重を減らす痩せ薬「GLP-1薬」は、いまや世界で最も売れている薬になりました。 ところがこの薬について、体重計では測れない「体の年齢」との関係を調べた報告が出てきました。 デンマークのノボ ノルディスクとイーライリリーという製薬大手2社が、老化の治療法を探る学会で、自社の痩せ薬と老化の関係を発表したのです。 では、痩せ薬は体重だけでなく、体の年齢にも何か影響を与えていたのでしょうか。 この話題の詳細は2026年10月6日に『MIT Technology Review』にて公開されました。   目次  体の年齢…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200987",
+            "title": "痩せ薬を使う人ほど「体の老化」が遅いと製薬会社が発表 | ナゾロジー",
+            "summary": "健康診断の紙を受け取ると、まず体重の欄を見てため息をつくのが毎年のお決まりです。 体重を減らす痩せ薬「GLP-1薬」は、いまや世界で最も売れている薬になりました。 ところがこの薬について、体重計では測れない「体の年齢」との関係を調べた報告が出てきました。 デンマークのノボ ノルディスクとイーライリリーという製薬大手2社が、老化の治療法を探る学会で、自社の痩せ薬と老化の関係を発表したのです。 では、",
+            "image": {
+                "height": "900",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c200-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T09:10:00.000Z",
+            "date_published": "2026-10-10T09:10:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "健康",
+                "DNA",
+                "医療",
+                "時計",
+                "生物学",
+                "老化"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "痩せ薬を使う人ほど「体の老化」が遅いと製薬会社が発表",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "サイエンス",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.037,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-readest/",
+            "content_html": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "url": "https://gigazine.net/news/20261010-readest/",
+            "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE",
+            "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/readest/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T09:00:00.000Z",
+            "date_published": "2026-10-10T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ5 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.882,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ5",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200977",
+            "content_html": "ドラッグストアの美容コーナーには、「ハリ」「うるおい」といった言葉を添えたコラーゲンのドリンクや粉末がずらりと並んでいます。 コラーゲンを口から摂ると肌の老化に良い、という考えは、美容の世界ですっかり定着しているように見えます。 ところが科学の世界では、飲むコラーゲンが肌に効くかどうかは、いまも意見が分かれ、証拠も限られているテーマです。 そこで近年は、たくさんの研究結果をまとめて「結局どうなのか」を判定しようとする分析が行われてきました。 では、その「まとめ」は本当に信頼できるものだったのでしょうか。 今回、研究チームが、飲むコラーゲンの効果をまとめた主要な分析を、一から点検し直しました。…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200977",
+            "title": "コラーゲンサプリの効果を示す研究に「大きな欠陥」があったと判明 | ナゾロジー",
+            "summary": "ドラッグストアの美容コーナーには、「ハリ」「うるおい」といった言葉を添えたコラーゲンのドリンクや粉末がずらりと並んでいます。 コラーゲンを口から摂ると肌の老化に良い、という考えは、美容の世界ですっかり定着しているように見えます。 ところが科学の世界では、飲むコラーゲンが肌に効くかどうかは、いまも意見が分かれ、証拠も限られているテーマです。 そこで近年は、たくさんの研究結果をまとめて「結局どうなのか",
+            "image": {
+                "height": "899",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c1-fig-thumb-1.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T06:00:00.000Z",
+            "date_published": "2026-10-10T06:00:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "健康",
+                "医療"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "コラーゲンサプリの効果を示す研究に「大きな欠陥」があったと判明",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.001,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157349",
+            "content_html": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第12話「取り戻せ！ギリコVSバーサー！」が、11日午前9時30分よりテレビ朝日系にて放送される。",
+            "url": "https://www.cinematoday.jp/news/N0157349",
+            "title": "「角醒ハンター オメガホーン」ギリコVSバーサー、因縁のハンターバトル【第12話あらすじ】 | シネマトゥデイ",
+            "summary": "“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第12話「取り戻せ！ギリコVSバーサー！」が、11日午前9時30分よりテレビ朝日系にて放送される。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/jVSW7kKiu2v7/_size_r1200x630/_v_1791539766/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T00:10:00.000Z",
+            "date_published": "2026-10-10T00:10:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「角醒ハンター オメガホーン」ギリコVSバーサー、因縁のハンターバトル【第12話あらすじ】",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.409,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+            "content_html": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。",
+            "url": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+            "title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？ | GIGAZINE",
+            "summary": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/data-backups-arent-simple/00_m.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T00:00:00.000Z",
+            "date_published": "2026-10-10T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 38,
+                "originalTitle": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ38 · 設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.773,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ38",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157267",
+            "content_html": "吉田恵輔監督（「吉」はつちよしが正式表記）による最新作『mentor』でW主演を果たし、少年時代の過ちを抱えて生きる幼馴染を演じた磯村勇斗と末澤誠也（Aぇ! group）。",
+            "url": "https://www.cinematoday.jp/news/N0157267",
+            "title": "磯村勇斗＆末澤誠也、初共演で芽生えた兄弟のような絆　衝撃作『mentor』で役者の魅力実感 | シネマトゥデイ",
+            "summary": "吉田恵輔監督（「吉」はつちよしが正式表記）による最新作『mentor』でW主演を果たし、少年時代の過ちを抱えて生きる幼馴染を演じた磯村勇斗と末澤誠也（Aぇ! group）。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/0cOFrRV-IZU7/_size_r1200x630/_v_1791534635/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T23:32:00.000Z",
+            "date_published": "2026-10-09T23:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "磯村勇斗＆末澤誠也、初共演で芽生えた兄弟のような絆　衝撃作『mentor』で役者の魅力実感",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.404,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157356",
+            "content_html": "スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。",
+            "url": "https://www.cinematoday.jp/news/N0157356",
+            "title": "『ゴジラ-0.0』山崎監督に憂いなし　前作大成功のプレッシャー一蹴「またすげぇ映画作りゃいい」 | シネマトゥデイ",
+            "summary": "スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/wRi8N2x4TucM/_size_r1200x630/_v_1791548809/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T22:32:00.000Z",
+            "date_published": "2026-10-09T22:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "『ゴジラ-0.0』山崎監督に憂いなし　前作大成功のプレッシャー一蹴「またすげぇ映画作りゃいい」",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.483,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146814.html",
+            "content_html": " 米Microsoftは10月1日（現地時間）、「高度シェーダー デリバリー」の提供範囲をIntel、NVIDIA、QualcommのWindows 11デバイスにも拡大すると発表した。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146814.html",
+            "title": "ゲームの起動を爆速にする「ASD」、Intel、NVIDIA、QualcommのWindows 11機にも拡大へ／初回起動時のシェーダーコンパイルを約95％短縮。「Gears of War: E-Day」でお披露目 | 窓の杜",
+            "summary": " 米Microsoftは10月1日（現地時間）、「高度シェーダー デリバリー」の提供範囲をIntel、NVIDIA、QualcommのWindows 11デバイスにも拡大すると発表した。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/814/directx12_ultimate.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T09:56:00.000Z",
+            "date_published": "2026-10-09T09:56:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ゲームの起動を爆速にする「ASD」、Intel、NVIDIA、QualcommのWindows 11機にも拡大へ／初回起動時のシェーダーコンパイルを約95％短縮。「Gears of War: E-Day」でお披露目",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3 · 数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.006,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ3",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/geohash-and-bakery",
+            "content_html": "※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日にたまにパン屋巡りをするのですが、これを応用すれば効率的にパン屋を巡れるんじゃないかと思いついたので、考えたことを書いていこうと思います。 ただ、人間の胃には限界があるため、実際にこのとおり巡るのは難…",
+            "url": "https://www.m3tech.blog/entry/geohash-and-bakery",
+            "title": "geohash について知ったので、パン屋巡りに使えないか考えてみた | エムスリーテックブログ",
+            "summary": "※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/723c83482be5afa4d413101d17657e92e6a90f6a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261009%2F20261009180628.jpg",
+                "alt": "geohash について知ったので、パン屋巡りに使えないか考えてみた - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T09:00:00.000Z",
+            "date_published": "2026-10-09T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "geohash について知ったので、パン屋巡りに使えないか考えてみた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.763,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/092800005/",
+            "content_html": "。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/092800005/",
+            "title": "［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/092800005/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T08:00:00.000Z",
+            "date_published": "2026-10-09T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.524,
+                "topics": [
+                    "business",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "content_html": "こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証情報が盗まれるワーム型の攻撃が公開されました。 この検体は、盗んだ認証情報で別のパッケージを次々と再公開して広がるだけでなく、Claude Code や VS Code の設定ファイルに自分自身を書き…",
+            "url": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "title": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 | LayerX エンジニアブログ",
+            "summary": "こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8e7b426a1a2951b1aaaa6d13cbe5bad8243520ef/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmas358%2F20261009%2F20261009165746.png",
+                "alt": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T07:21:14.000Z",
+            "date_published": "2026-10-09T07:21:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX",
+                "host": "tech.layerx.co.jp",
+                "score": 0.902,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85582",
+            "content_html": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "url": "https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html",
+            "title": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス",
+            "summary": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100901@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T05:21:49.000Z",
+            "date_published": "2026-10-09T05:21:49.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "excel",
+                "PowerPoint",
+                "word"
+            ],
+            "_custom": {
+                "hatenaCount": 248,
+                "originalTitle": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ248 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 2.11,
+                "topics": [
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ248",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/10/09/134458",
+            "content_html": "SmartHRは、2026年10月16日、17日に東京・ベルサール渋谷ガーデンで開催される「Kaigi on Rails 2026」に協賛します！ 当日はブースを出展し、社員30名が現地参加します。また、関係者3名が登壇し、2名がKaigi on Rails 2026のオーガナイザーを務めます。 あわせて、学生参加支援（記事公開時点で募集は終了）と、Kaigi on Rails 2026の事後勉強会の開催も予定しています。 kaigionrails.org 目次 目次 テーマ：「渋谷でハチ合わせ！」 協賛 ブース 学生スカラシップ 登壇 「Railsのためのパスキー実践入門 〜マルチテナントS…",
+            "url": "https://tech.smarthr.jp/entry/2026/10/09/134458",
+            "title": "SmartHRはKaigi on Rails 2026に協賛し、30名が参加、3名が登壇、2名がオーガナイザーを務めます！ そして、ブース出展と、学生参加支援、事後勉強会も実施します!! 渋谷でハチ合わせ!!! | SmartHR Tech Blog",
+            "summary": "SmartHRは、2026年10月16日、17日に東京・ベルサール渋谷ガーデンで開催される「Kaigi on Rails 2026」に協賛します！ 当日はブースを出展し、社員30名が現地参加します。また、関係者3名が登壇し、2名がKaigi on Rails 2026のオーガナイザーを務めます。 あわせて、学生参加支援（記事公開時点で募集は終了）と、Kaigi on Rails 2026の事後勉強",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f0b6dd1b0bc450a64ddb6542829189f3f00b5192/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261009%2F20261009134523.jpg",
+                "alt": "SmartHRはKaigi on Rails 2026に協賛し、30名が参加、3名が登壇、2名がオーガナイザーを務めます！ そして、ブース出展と、学生参加支援、事後勉強会も実施します!! 渋谷でハチ合わせ!!! - SmartHR Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:44:58.000Z",
+            "date_published": "2026-10-09T04:44:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SmartHRはKaigi on Rails 2026に協賛し、30名が参加、3名が登壇、2名がオーガナイザーを務めます！ そして、ブース出展と、学生参加支援、事後勉強会も実施します!! 渋谷でハチ合わせ!!!",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR",
+                "host": "tech.smarthr.jp",
+                "score": 0.07,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        },
+        {
+            "id": "https://developers.freee.co.jp/entry/iosdc2026",
+            "content_html": "こんにちは、会計のモバイルアプリを開発している kuni です。今回は、 9/11(土) - 13(日)の3日間開催された iOSDC Japan 2026 に参加した様子をお伝えしたいと思います。iOSDC Japan は、年1回開催されているiOS関連の技術をテーマにしたカンファレンスです。去年から会場が早稲田から有明に変わり、今回は有明での2回目の開催ということで会場へのアクセスも迷う事なく行けました。 みんなで看板前でパシャリ 会場の有明セントラルタワー 印象に残った発表 ここからは、 kuni が3日間参加して印象に残った発表を紹介します。Suglyさんによる「「いつかやってみたかっ…",
+            "url": "https://developers.freee.co.jp/entry/iosdc2026",
+            "title": "iOSDC Japan 2026 に参加してきました ! | freee Developers Hub",
+            "summary": "こんにちは、会計のモバイルアプリを開発している kuni です。今回は、 9/11(土) - 13(日)の3日間開催された iOSDC Japan 2026 に参加した様子をお伝えしたいと思います。iOSDC Japan は、年1回開催されているiOS関連の技術をテーマにしたカンファレンスです。去年から会場が早稲田から有明に変わり、今回は有明での2回目の開催ということで会場へのアクセスも迷う事なく",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/64e27e1c2b1df4d71b00cc3f7dc2fa6afbb45f60/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkuni255%2F20261002%2F20261002132941.jpg",
+                "alt": "iOSDC Japan 2026 に参加してきました ! - freee Developers Hub",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:30:00.000Z",
+            "date_published": "2026-10-09T04:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "iOSDC Japan 2026 に参加してきました !",
+                "blogTitle": "freee Developers Hub",
+                "blogLink": "https://developers.freee.co.jp/",
+                "blogLinkMd5Hash": "8909e9b2e16e7ed79f5b8aec252959e1",
+                "favicon": "https://developers.freee.co.jp/icon/favicon",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "freee",
+                "host": "developers.freee.co.jp",
+                "score": 0.07,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
+            "content_html": " サイトー企画は10月8日、テキストエディター「秀丸エディタ」の最新版v9.59を正式公開した。本バージョンでは、Windows XP/Vistaのサポートが打ち切られている。これらのOSに対応する最後のバージョンは、7月9日に公開されたv9.57。今後の対応OSはWindows 7以降となる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
+            "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく | 窓の杜",
+            "summary": " サイトー企画は10月8日、テキストエディター「秀丸エディタ」の最新版v9.59を正式公開した。本バージョンでは、Windows XP/Vistaのサポートが打ち切られている。これらのOSに対応する最後のバージョンは、7月9日に公開されたv9.57。今後の対応OSはWindows 7以降となる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/950/hidemaru.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:05:00.000Z",
+            "date_published": "2026-10-09T04:05:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 87,
+                "originalTitle": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ87",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.185,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ87"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "content_html": "AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞれの領域を強みとするメンバーを組み合わせてプロダクトを前に進める。万能な一人へ仕事を集約するのではなく、専門性を持つメンバーがチームで大きな成果を狙う組織へ移る挑戦を開始しました。今後も加速する技術の…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "title": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 | Sansan Tech Blog",
+            "summary": "AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/70e8d43440edb466b13efb75ee1548f885ff0c93/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg",
+                "alt": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:00:00.000Z",
+            "date_published": "2026-10-09T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "はてブ33",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 1.756,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ33"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66722",
+            "content_html": "今回は後者のセッションでも言及されている、Open Cluster Management (OCM) ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66722/",
+            "title": "GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "今回は後者のセッションでも言及されている、Open Cluster Management (OCM) ...",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vswSQyoT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GKE%2520%25E3%2581%25AB%2520Open%2520Cluster%2520Management%2520%2528OCM%2529%2520%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB%25E3%2583%258F%25E3%2583%259E%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:KEY60228%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYwNWRjYjM3YmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T03:49:45.000Z",
+            "date_published": "2026-10-09T03:49:45.000Z",
+            "author": {
+                "name": "技術 / クリエイティブ広報"
+            },
+            "tags": [
+                "エンジニア"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent",
+                "host": "developers.cyberagent.co.jp",
+                "score": 0.432,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66719",
+            "content_html": "この記事では、評価ガイドの概要と、使ってみた所感をまとめます。モデルの性能比較が目的ではありません。",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66719/",
+            "title": "OpenAIの音声エージェント評価ガイドを日本語の小売サポートで試してみた | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "この記事では、評価ガイドの概要と、使ってみた所感をまとめます。モデルの性能比較が目的ではありません。",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--oKdazjYG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenAI%25E3%2581%25AE%25E9%259F%25B3%25E5%25A3%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E8%25A9%2595%25E4%25BE%25A1%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2582%2592%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2581%25AE%25E5%25B0%258F%25E5%25A3%25B2%25E3%2582%25B5%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sinhat98%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUxHWWlGXzNfUkthdXU3azFXSnp1YVJEejZ6UGNCN0pmY1R3N0JrXzhkelFISEVJNmc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T03:47:34.000Z",
+            "date_published": "2026-10-09T03:47:34.000Z",
+            "author": {
+                "name": "技術 / クリエイティブ広報"
+            },
+            "tags": [
+                "エンジニア"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAIの音声エージェント評価ガイドを日本語の小売サポートで試してみた",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "動かしてみた",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent",
+                "host": "developers.cyberagent.co.jp",
+                "score": 0.863,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/47127baca9eaa0",
+            "content_html": "株式会社松尾研究所で働いている栗原です。以前、「音声合成の日本語化手法が一般化した話」を書きました。今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部について、前後編に分けて解説しています。前編では、「日本語の読みがいかに難しいか、それが日本語TTSの難しさにどうつながるか」を、音声学・音韻論の知見から紹介しました。後編では、辞書とTransformer・BERTを組み合わせて、読みや高低アクセントを推定する方法を解説します。専門家・理系の方でなくても読めるよう、なるべく平易に書きますので、お読みください！ はじめに前...",
+            "url": "https://zenn.dev/mkj/articles/47127baca9eaa0",
+            "title": "音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【後編】 | 松尾研究所テックブログのフィード",
+            "summary": "株式会社松尾研究所で働いている栗原です。以前、「音声合成の日本語化手法が一般化した話」を書きました。今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部について、前後編に分けて解説しています。前編では、「日本語の読みがいかに難しいか、それが日本語TTSの難しさにどうつながるか」を、音声学・音韻論の知見から紹介しました。後編では、辞書とTrans",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--AhxCnvu8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AB%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%2592%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%258F%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2582%2589%25E3%2581%2586%25E8%25A9%25B1%2520%25E3%2580%259C%25E9%25AB%2598%25E4%25BD%258E%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589G2P%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%259C%2520%25E3%2580%2590%25E5%25BE%258C%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kiyoshi%2520Kurihara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnAwaG5JMy1EczJmWVJQSUZHMUZsWHF0Q01sOHo1UVY1MXdlZkJkWk92SF9GWEpBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T02:50:05.000Z",
+            "date_published": "2026-10-09T02:50:05.000Z",
+            "author": {
+                "name": "Kiyoshi Kurihara"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【後編】",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "サイエンス",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所",
+                "host": "zenn.dev",
+                "score": 0.339,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/fbz-history",
+            "content_html": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数500本超、40個以上のスタックで稼働しています。サーバーレス自体の運用負荷は低い一方、9年間でツールの有償化やプラグインの保守停止、ランタイムのEOL、リソース上限といった「周辺環境の変化」への追従を…",
+            "url": "https://techblog.zozo.com/entry/fbz-history",
+            "title": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数5",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e663c03f7a2d3ef154c5fcdb43b501fc131200f9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png",
+                "alt": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T02:00:00.000Z",
+            "date_published": "2026-10-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.667,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/rust-quine-m3",
+            "content_html": "はじめに エムスリー株式会社 メディカルマーケティングオートメーションチームの中村（@inakam00）です。 本記事はメディカルマーケティングオートメーションチーム(unit2)のブログリレー1日目の記事です。 エムスリーテックブログではお馴染みとなりつつあるQuineを、今回はRustで作ってみました。 はじめに Quineについて RustでM3 Quineを作る 完成品 コードを3つのパートに分ける 空白の代わりにコメントを使う マスク情報も英字にしてコードに溶け込ませる raw文字列と文字エスケープ raw文字列の終端記号 置換処理の重複防止 空白文字の保持 おわりに 編集後記 We…",
+            "url": "https://www.m3tech.blog/entry/rust-quine-m3",
+            "title": "Rustで自己言及プログラムであるQuineを作っていく | エムスリーテックブログ",
+            "summary": "はじめに エムスリー株式会社 メディカルマーケティングオートメーションチームの中村（@inakam00）です。 本記事はメディカルマーケティングオートメーションチーム(unit2)のブログリレー1日目の記事です。 エムスリーテックブログではお馴染みとなりつつあるQuineを、今回はRustで作ってみました。 はじめに Quineについて RustでM3 Quineを作る 完成品 コードを3つのパー",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8599973812294943206/14945776032086788418/1791520936",
+                "alt": "Rustで自己言及プログラムであるQuineを作っていく - エムスリーテックブログ"
+            },
+            "date_modified": "2026-10-09T02:00:00.000Z",
+            "date_published": "2026-10-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Rustで自己言及プログラムであるQuineを作っていく",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.417,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/2026/10/09/100000",
+            "content_html": "はじめに こんにちは、BASE DepartmentでPHPerをしている @meihei です。 長く運用しているサービスでは、機能の追加や変更を重ねるうちに、「もう使っていなさそうなデータ」が残ることがあります。以前は必要だった配列のキーが残り、その値を取得して受け渡す処理も動き続けている（ただし描画では使っていない）、といった具合です。 使われているデータは残し、不要なものだけを安全に削除したい。そのためには、まず本当に使われていないのかを確かめる必要があります。 この記事では、ArrayAccess と trigger_error() を使い、廃止候補のキーが読まれたら警告を出す仕組み…",
+            "url": "https://devblog.thebase.in/entry/2026/10/09/100000",
+            "title": "PHPの配列のキーを安全に削除する | BASEプロダクトチームブログ",
+            "summary": "はじめに こんにちは、BASE DepartmentでPHPerをしている @meihei です。 長く運用しているサービスでは、機能の追加や変更を重ねるうちに、「もう使っていなさそうなデータ」が残ることがあります。以前は必要だった配列のキーが残り、その値を取得して受け渡す処理も動き続けている（ただし描画では使っていない）、といった具合です。 使われているデータは残し、不要なものだけを安全に削除し",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10328537792370962182/14945776032085081328/1791507601",
+                "alt": "PHPの配列のキーを安全に削除する - BASEプロダクトチームブログ"
+            },
+            "date_modified": "2026-10-09T01:00:00.000Z",
+            "date_published": "2026-10-09T01:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PHPの配列のキーを安全に削除する",
+                "blogTitle": "BASEプロダクトチームブログ",
+                "blogLink": "https://devblog.thebase.in/",
+                "blogLinkMd5Hash": "ba64bb53934641f1faa1f7c9f9a301d5",
+                "favicon": "https://devblog.thebase.in/icon/favicon",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "BASE",
+                "host": "devblog.thebase.in",
+                "score": 0.327,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157325",
+            "content_html": "キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。",
+            "url": "https://www.cinematoday.jp/news/N0157325",
+            "title": "「サイバーパンク2077」映画化！ | シネマトゥデイ",
+            "summary": "キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/-kmFMcmnj60l/_size_r1200x630/_v_1791507573/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T00:59:33.000Z",
+            "date_published": "2026-10-09T00:59:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 91,
+                "originalTitle": "「サイバーパンク2077」映画化！",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "はてブ91",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.804,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ91"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66628",
+            "content_html": "はじめに こんにちは。グループIT推進本部の Roki です。 AIエージェントにPRレビューを手伝わせる場面",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66628/",
+            "title": "ひとつのMCPセッションで複数PRを並列レビューする 〜code-review-graphのグラフDBをGit worktreeごとに使い分ける〜 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "はじめに こんにちは。グループIT推進本部の Roki です。 AIエージェントにPRレビューを手伝わせる場面",
+            "image": {
+                "url": "https://developers.cyberagent.co.jp/blog/wp-content/themes/onepress-child/assets/images/og/og.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T23:00:15.000Z",
+            "date_published": "2026-10-08T23:00:15.000Z",
+            "author": {
+                "name": "Roki"
+            },
+            "tags": [
+                "エンジニア",
+                "#code-review-graph",
+                "#GitWorktree",
+                "#MCPサーバー",
+                "#MultiWorktree",
+                "AI",
+                "GitHub",
+                "MCP"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ひとつのMCPセッションで複数PRを並列レビューする 〜code-review-graphのグラフDBをGit worktreeごとに使い分ける〜",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2016/09/cropped-ca-32x32.png",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent",
+                "host": "developers.cyberagent.co.jp",
+                "score": 0.394,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "content_html": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜",
+            "summary": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T22:50:00.000Z",
+            "date_published": "2026-10-08T22:50:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 163,
+                "originalTitle": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ163 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.761,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ163",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "content_html": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで、なぜそうしているのかと合わせて紹介します。ファインディの開発組織に興味を持ってくださっている方や、組織の文化づくりに取り組んでいる方の参考になると幸いです。 開発の土台をつくる コード生成前の準備 …",
+            "url": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "title": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み | Findy Tech Blog",
+            "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b898ad5052c3b91340b2c364f39bad2732c8ad66/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261008%2F20261008114435.png",
+                "alt": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み - Findy Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T22:00:00.000Z",
+            "date_published": "2026-10-08T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み",
+                "blogTitle": "Findy Tech Blog",
+                "blogLink": "https://tech.findy.co.jp/",
+                "blogLinkMd5Hash": "fbd3f27d454988167016d210b62c5f67",
+                "favicon": "https://tech.findy.co.jp/icon/favicon",
+                "pickReason": "はてブ11 · 仕組みを掘る",
+                "sourceTier": "core",
+                "sourceLabel": "Findy",
+                "host": "tech.findy.co.jp",
+                "score": 1.602,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ11",
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement",
+            "content_html": "G-gen の杉村です。当記事は、2026年10月9日午前2時30分（日本時間）に開催された Gemini at Work 2026で発表された「Gemini エージェント」に関する速報です。 Gemini at Work Gemini の「エージェント化」 デモ Gemini 4 Argon の一般公開は未定 Gemini at Work 太平洋標準時2026年10月8日午前10時30分（日本時間では2026年10月9日午前2時30分）、Google の生成 AI モデル「Gemini」および AI エージェントのビジネス活用に特化したカンファレンスイベント、Gemini at Work が…",
+            "url": "https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement",
+            "title": "Gemini at Work 2026で発表されたGeminiエージェント速報 | G-gen Tech Blog",
+            "summary": "G-gen の杉村です。当記事は、2026年10月9日午前2時30分（日本時間）に開催された Gemini at Work 2026で発表された「Gemini エージェント」に関する速報です。 Gemini at Work Gemini の「エージェント化」 デモ Gemini 4 Argon の一般公開は未定 Gemini at Work 太平洋標準時2026年10月8日午前10時30分（日本時",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a43bbb736e64de2709ba1e4e298d810fe0096224/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261009%2F20261009033013.png",
+                "alt": "Gemini at Work 2026で発表されたGeminiエージェント速報 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T22:00:00.000Z",
+            "date_published": "2026-10-08T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Gemini at Work 2026で発表されたGeminiエージェント速報",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.618,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+            "content_html": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+            "url": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+            "title": "ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング) | 日経ビジネス電子版　最新記事",
+            "summary": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/audio/22/00001/100800977/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "security",
+                    "business"
+                ],
+                "topicLabels": [
+                    "セキュリティ",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
+            "content_html": "任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
+            "title": "半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保) | 日経ビジネス電子版　最新記事",
+            "summary": "任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00800/100800044/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00936/100500001/",
+            "content_html": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00936/100500001/",
+            "title": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事",
+            "summary": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00936/100500001/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念 (ゼンショー 逆転の法則)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.645,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261009a/",
+            "content_html": "業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261009a/",
+            "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+            "summary": "業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261009a/purchase_request.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "date_published": "2026-10-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 204,
+                "originalTitle": "bpmn.io で始める AI-Ready な業務フロー管理",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ204",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.891,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ204"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/NBD/19/special/02665/",
+            "content_html": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "url": "https://business.nikkei.com/atcl/NBD/19/special/02665/",
+            "title": "「失われた30年」で株価373倍　日本の停滞期駆け抜けた「巨星」 (ゼンショー　逆転の法則　小川賢太郎が遺した理念と実践) | 日経ビジネス電子版　最新記事",
+            "summary": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/NBD/19/special/02665/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "date_published": "2026-10-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「失われた30年」で株価373倍　日本の停滞期駆け抜けた「巨星」 (ゼンショー　逆転の法則　小川賢太郎が遺した理念と実践)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.472,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "content_html": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定 | 窓の杜",
+            "summary": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/802/synthid_detector.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T08:32:00.000Z",
+            "date_published": "2026-10-08T08:32:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 92,
+                "originalTitle": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ92",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.026,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ92"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=160154",
+            "content_html": "概要 https://techracho.bpsinc.jp/hachi8833/2026_09_28/160",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_08/160154",
+            "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Action View、Railties | TechRacho",
+            "summary": "概要 https://techracho.bpsinc.jp/hachi8833/2026_09_28/160",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/10/rails_814_changelog_action_view_railties_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T08:30:09.000Z",
+            "date_published": "2026-10-08T08:30:09.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Action View",
+                "Rails Changelog",
+                "Railties",
+                "Ruby on Rails"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Rails 8.1.4 Changelog（全項目リンク付き）: Action View、Railties",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho",
+                "host": "techracho.bpsinc.jp",
+                "score": 0.381,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.unifa-e.com/entry/2026/10/08/172347",
+            "content_html": "こんにちは。ユニファでサーバーエンジニアをしているおうまえです。 6月のAWS Summitで、「仕様駆動開発（Spec-Driven Development）」をテーマにしたセッションを聞いて興味を持ちました。 AWSのKiroを使わなくても、Claude Codeでも同じようなことができそうだと思い、それ以降の案件で少しずつ取り入れてみました。この記事では、実際に数ヶ月試してみて感じたことをまとめます。",
+            "url": "https://tech.unifa-e.com/entry/2026/10/08/172347",
+            "title": "Claude Codeで始める仕様駆動開発 — 数ヶ月試して分かったこと | ユニファ開発者ブログ",
+            "summary": "こんにちは。ユニファでサーバーエンジニアをしているおうまえです。 6月のAWS Summitで、「仕様駆動開発（Spec-Driven Development）」をテーマにしたセッションを聞いて興味を持ちました。 AWSのKiroを使わなくても、Claude Codeでも同じようなことができそうだと思い、それ以降の案件で少しずつ取り入れてみました。この記事では、実際に数ヶ月試してみて感じたことをま",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/46010891e2572db3de5e5a5bc64ee227cb069bbd/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fu%2Funifa_tech%2F20260911%2F20260911113836.png",
+                "alt": "Claude Codeで始める仕様駆動開発 — 数ヶ月試して分かったこと - ユニファ開発者ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T08:23:47.000Z",
+            "date_published": "2026-10-08T08:23:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Claude Codeで始める仕様駆動開発 — 数ヶ月試して分かったこと",
+                "blogTitle": "ユニファ開発者ブログ",
+                "blogLink": "https://tech.unifa-e.com/",
+                "blogLinkMd5Hash": "795babe06a581fd2c9dd2b2c55008ca8",
+                "favicon": "https://tech.unifa-e.com/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "ユニファ",
+                "host": "tech.unifa-e.com",
+                "score": 0.297,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "content_html": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "title": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜",
+            "summary": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/735/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T07:22:00.000Z",
+            "date_published": "2026-10-08T07:22:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ37 · 動かしてみた",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.05,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ37",
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/10/08/150000",
+            "content_html": "こんにちは。SmartHRのR&amp;Dユニットに所属するプロダクトエンジニアのydahです。大阪に住んでいてKyobashi.rbの主催や関西Ruby会議09のチーフオーガナイザーを務めました。 2026年10月31日（土）に浅草橋ヒューリックホール＆カンファレンスで開催されるPicoRubyKaigi 2026 Assembleに、SmartHRからわたしが登壇します。わたしはこのカンファレンスのオーガナイザーのひとりでもあるので、登壇のお知らせとあわせて、当日の見どころも紹介します。 PicoRubyKaigi 2026 Assembleとは PicoRubyKaigiは、小さなRubyKai…",
+            "url": "https://tech.smarthr.jp/entry/2026/10/08/150000",
+            "title": "PicoRubyKaigi 2026 Assembleにydahが登壇します —— オーガナイザーが紹介する当日の見どころ | SmartHR Tech Blog",
+            "summary": "こんにちは。SmartHRのR&amp;Dユニットに所属するプロダクトエンジニアのydahです。大阪に住んでいてKyobashi.rbの主催や関西Ruby会議09のチーフオーガナイザーを務めました。 2026年10月31日（土）に浅草橋ヒューリックホール＆カンファレンスで開催されるPicoRubyKaigi 2026 Assembleに、SmartHRからわたしが登壇します。わたしはこのカンファレンスのオ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/28fc32516ea64ca04e85bf9acb24b1543e9bd051/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261008%2F20261008150004.png",
+                "alt": "PicoRubyKaigi 2026 Assembleにydahが登壇します —— オーガナイザーが紹介する当日の見どころ - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T06:00:00.000Z",
+            "date_published": "2026-10-08T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PicoRubyKaigi 2026 Assembleにydahが登壇します —— オーガナイザーが紹介する当日の見どころ",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR",
+                "host": "tech.smarthr.jp",
+                "score": 0.045,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261008a",
+            "content_html": "こんにちは！LINEヤフー 分析ユニット LINE Service Analytics Divisionの柳です。8月20日にデータサイエンス関連の事例を共有するイベントを開催しました。本記事では、イ...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261008a",
+            "title": "「LINEヤフー Data Science Share #2」を開催しました！（イベントレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは！LINEヤフー 分析ユニット LINE Service Analytics Divisionの柳です。8月20日にデータサイエンス関連の事例を共有するイベントを開催しました。本記事では、イ...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/3d4cbe7b2b2ba534dae71575a40fbd34/f0810/0f064eaaca1545198d018b30a4d8049e.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T03:00:00.000Z",
+            "date_published": "2026-10-08T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「LINEヤフー Data Science Share #2」を開催しました！（イベントレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.043,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/generals-io-self-play-rl",
+            "content_html": "はじめにこんにちは、松尾研究所の奥村です。最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他のジャンルにはない中毒性があると思っています。今回は、先月開催されたRLVG 2026というワークショップで発表された、シミュレーションコンペのようなSelf-Play RLに関する論文...",
+            "url": "https://zenn.dev/mkj/articles/generals-io-self-play-rl",
+            "title": "KaggleっぽいSelf-Play RLの論文を紹介 | 松尾研究所テックブログのフィード",
+            "summary": "はじめにこんにちは、松尾研究所の奥村です。最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他の",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--1LJVTCCP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584Self-Play%2520RL%25E3%2581%25AE%25E8%25AB%2596%25E6%2596%2587%25E3%2582%2592%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okumura%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NhZjJkMTA5ZjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T02:50:05.000Z",
+            "date_published": "2026-10-08T02:50:05.000Z",
+            "author": {
+                "name": "okumura"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "KaggleっぽいSelf-Play RLの論文を紹介",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "サイエンス",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所",
+                "host": "zenn.dev",
+                "score": 0.213,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/2026/10/08/113054",
+            "content_html": "はじめに こんにちは。BASE Departmentでバックエンドエンジニアをしている白数（かじゅ）です。 私たちのチームでは今年の夏、カートの表示速度を改善するプロジェクトに取り組みました。 ここでいう「速度」は、サーバーの処理時間だけを指すものではなく、購入者がボタンを押してから次の画面が表示されるまで、実際に待っている時間を指します。 計測を始めた時点で特に表示に時間がかかっていたのは、PAY IDアプリで「購入手続きに進む」を押してから購入確認画面が表示されるまでの経路でした。 一度に大きく作り替えず、小さく変えては数字を見る、を繰り返しフロントエンドとバックエンド合わせてマージ（リリ…",
+            "url": "https://devblog.thebase.in/entry/2026/10/08/113054",
+            "title": "最大53%！小さな改善を積み重ねてカートの表示時間を短縮した話 | BASEプロダクトチームブログ",
+            "summary": "はじめに こんにちは。BASE Departmentでバックエンドエンジニアをしている白数（かじゅ）です。 私たちのチームでは今年の夏、カートの表示速度を改善するプロジェクトに取り組みました。 ここでいう「速度」は、サーバーの処理時間だけを指すものではなく、購入者がボタンを押してから次の画面が表示されるまで、実際に待っている時間を指します。 計測を始めた時点で特に表示に時間がかかっていたのは、PA",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e0a865e2694cd3a53b03a4061cdece1860174ab0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasedevteam%2F20260925%2F20260925165809.png",
+                "alt": "最大53%！小さな改善を積み重ねてカートの表示時間を短縮した話 - BASEプロダクトチームブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T02:30:54.000Z",
+            "date_published": "2026-10-08T02:30:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "最大53%！小さな改善を積み重ねてカートの表示時間を短縮した話",
+                "blogTitle": "BASEプロダクトチームブログ",
+                "blogLink": "https://devblog.thebase.in/",
+                "blogLinkMd5Hash": "ba64bb53934641f1faa1f7c9f9a301d5",
+                "favicon": "https://devblog.thebase.in/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "BASE",
+                "host": "devblog.thebase.in",
+                "score": 0.424,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.colopl.dev/entry/2026/10/08/110000",
+            "content_html": "こんにちは、クライアントエンジニアの平野孝明です！ コロプラでは開発現場でのAI活用を積極的に進めており、以前には 16GB VRAMでもローカルLLMは実務に届くのか。2か月の検証で見えたこと や AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入 といった記事を公開してきました。 現在はコーディング支援ツールとして Claude Code の活用も進めています。AI による支援は、コードの初稿作成や定型処理の実装速度を引き上げてくれる大きなメリットがあります。一方で、実際の Unity を用いた大規模タイトルの開発では、コンパイルだけでも5分以上かかることがあり、さら…",
+            "url": "https://blog.colopl.dev/entry/2026/10/08/110000",
+            "title": "Unity大規模開発のAIコーディングで手戻りを減らす。「grill-me」で実装スコープを絞り込んだ実践例 | COLOPL Tech Blog",
+            "summary": "こんにちは、クライアントエンジニアの平野孝明です！ コロプラでは開発現場でのAI活用を積極的に進めており、以前には 16GB VRAMでもローカルLLMは実務に届くのか。2か月の検証で見えたこと や AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入 といった記事を公開してきました。 現在はコーディング支援ツールとして Claude Code の活用も進めています。AI によ",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032078482726/1791508375",
+                "alt": "Unity大規模開発のAIコーディングで手戻りを減らす。「grill-me」で実装スコープを絞り込んだ実践例 - COLOPL Tech Blog"
+            },
+            "date_modified": "2026-10-08T02:00:00.000Z",
+            "date_published": "2026-10-08T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Unity大規模開発のAIコーディングで手戻りを減らす。「grill-me」で実装スコープを絞り込んだ実践例",
+                "blogTitle": "COLOPL Tech Blog",
+                "blogLink": "https://blog.colopl.dev/",
+                "blogLinkMd5Hash": "e6a68eee4c188124f9f59f9252781495",
+                "favicon": "https://blog.colopl.dev/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "コロプラ",
+                "host": "blog.colopl.dev",
+                "score": 0.42,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51275",
+            "content_html": "はじめに クラウド環境では、「どこまで公開するか」「どこで通信を止めるか」というネットワーク設計により、障害時の影響範囲やセキュリティリスクが大きく変わります。可用性と信頼性を確保するため、役割に応じてネットワーク領域を […]",
+            "url": "https://knowledge.sakura.ad.jp/51275/",
+            "title": "VPNだけじゃない — さくらのクラウドVPNルータで作る境界ネットワーク | さくらのナレッジ",
+            "summary": "はじめに クラウド環境では、「どこまで公開するか」「どこで通信を止めるか」というネットワーク設計により、障害時の影響範囲やセキュリティリスクが大きく変わります。可用性と信頼性を確保するため、役割に応じてネットワーク領域を […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/07/VPNRouter-1200x630.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T02:00:00.000Z",
+            "date_published": "2026-10-08T02:00:00.000Z",
+            "author": {
+                "name": "可知豊"
+            },
+            "tags": [
+                "エンジニア向け",
+                "さくらのクラウド",
+                "SDN",
+                "VPC",
+                "VPN",
+                "VPNルータ",
+                "ネットワーク"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "VPNだけじゃない — さくらのクラウドVPNルータで作る境界ネットワーク",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.263,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85533",
+            "content_html": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html",
+            "title": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス",
+            "summary": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100800-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:36:52.000Z",
+            "date_published": "2026-10-08T00:36:52.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "adobe"
+            ],
+            "_custom": {
+                "hatenaCount": 414,
+                "originalTitle": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ414 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 1.292,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ414",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85199",
+            "content_html": "10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols",
+            "url": "https://coliss.com/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html",
+            "title": "Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能 | コリス",
+            "summary": "10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100701@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:26:59.000Z",
+            "date_published": "2026-10-08T00:26:59.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "サイト構築 -CSS",
+                "ブラウザ -Chrome"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.527,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/gemini-3-5-flash-tokyo-limitations",
+            "content_html": "G-gen の杉村です。Gemini Enterprise Agent Platform（略称 Agent Platform）における Gemini 3.5 Flash の東京リージョン（asia-northeast1）提供状況と、課金体系による使用可否の注意点について解説します。 はじめに 当記事について 前提とする環境と情報 Gemini 3.5 Flash の東京リージョン提供 一覧ドキュメントでの記載 モデル詳細ドキュメントにおける記載 東京リージョンにおける設計 選択肢 検討事項 はじめに 当記事について 生成 AI を組み込んだシステムを開発する際、Google Cloud の G…",
+            "url": "https://blog.g-gen.co.jp/entry/gemini-3-5-flash-tokyo-limitations",
+            "title": "Gemini 3.5 Flashを東京リージョンで使う場合の落とし穴 | G-gen Tech Blog",
+            "summary": "G-gen の杉村です。Gemini Enterprise Agent Platform（略称 Agent Platform）における Gemini 3.5 Flash の東京リージョン（asia-northeast1）提供状況と、課金体系による使用可否の注意点について解説します。 はじめに 当記事について 前提とする環境と情報 Gemini 3.5 Flash の東京リージョン提供 一覧ドキュメ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/4db2f9649170d4eb3c2038780385e43052ca4690/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20260924%2F20260924150840.png",
+                "alt": "Gemini 3.5 Flashを東京リージョンで使う場合の落とし穴 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Gemini 3.5 Flashを東京リージョンで使う場合の落とし穴",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.404,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://creators.bengo4.com/entry/2026/10/08/080000",
+            "content_html": "割り込みの多いCREで、スクラムマスター未経験の私がスクラムを再導入。兼務の少人数チームでの判断ルール、実績からの割り込みバッファ算出、運営の自動化、ステークホルダーの巻き込みまで、泥臭く回してきた4か月の記録です。",
+            "url": "https://creators.bengo4.com/entry/2026/10/08/080000",
+            "title": "割り込みの多い CRE でスクラムは回るのか ─ 未経験スクラムマスターが 4 か月試したこと | 弁護士ドットコム株式会社 Creators’ blog",
+            "summary": "割り込みの多いCREで、スクラムマスター未経験の私がスクラムを再導入。兼務の少人数チームでの判断ルール、実績からの割り込みバッファ算出、運営の自動化、ステークホルダーの巻き込みまで、泥臭く回してきた4か月の記録です。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c16e56f9b8bf1c3139e617dcebe3e2896d7c40af/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbengo4%2F20261008%2F20261008080004.png",
+                "alt": "割り込みの多い CRE でスクラムは回るのか ─ 未経験スクラムマスターが 4 か月試したこと - 弁護士ドットコム株式会社 Creators’ blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T23:00:00.000Z",
+            "date_published": "2026-10-07T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "割り込みの多い CRE でスクラムは回るのか ─ 未経験スクラムマスターが 4 か月試したこと",
+                "blogTitle": "弁護士ドットコム株式会社 Creators’ blog",
+                "blogLink": "https://creators.bengo4.com/",
+                "blogLinkMd5Hash": "cb5dd8ab1e74d304e86a23f15ef5ac09",
+                "favicon": "https://creators.bengo4.com/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "弁護士ドットコム",
+                "host": "creators.bengo4.com",
+                "score": 0.397,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261008a/",
+            "content_html": "オライリー・ジャパンの『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』を読んだ感想と、各章の「関連リソース」に挙がる書籍55冊を整理した読書マップを紹介します。",
+            "url": "https://future-architect.github.io/articles/20261008a/",
+            "title": "「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ",
+            "summary": "オライリー・ジャパンの『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』を読んだ感想と、各章の「関連リソース」に挙がる書籍55冊を整理した読書マップを紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261008a/top.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "date_published": "2026-10-07T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 189,
+                "originalTitle": "「ソフトウェアエンジニアリングの基礎」から見る読書マップ",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ189",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 0.942,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ189"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/",
+            "content_html": "  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …",
+            "url": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/",
+            "title": "テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側 | Blog on DeNA Engineering",
+            "summary": "  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "date_published": "2026-10-07T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "仕組みを掘る · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 0.871,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "仕組みを掘る",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://mackerel.io/ja/blog/entry/announcement/20261007-idcf",
+            "content_html": "いつもMackerelをご利用いただき、ありがとうございます。 本日2026年10月7日、株式会社IDCフロンティア（以下「IDCフロンティア」）より、IDCFクラウドの一部システムへの第三者による不正アクセスについて発表がありました。 当社サービスの一部システムに対する不正アクセスについて | ニュース | IDCフロンティア https://www.idcf.jp/news/topics/20261007001 MackerelはIDCFクラウドと連携しており、IDCFクラウドアカウントを利用したログインや、IDCFクラウド上のリソースの監視にMackerelをご利用いただけるプラン（ID…",
+            "url": "https://mackerel.io/ja/blog/entry/announcement/20261007-idcf",
+            "title": "IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内 | Mackerel ブログ #mackerelio",
+            "summary": "いつもMackerelをご利用いただき、ありがとうございます。 本日2026年10月7日、株式会社IDCフロンティア（以下「IDCフロンティア」）より、IDCFクラウドの一部システムへの第三者による不正アクセスについて発表がありました。 当社サービスの一部システムに対する不正アクセスについて | ニュース | IDCフロンティア https://www.idcf.jp/news/topics/20",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a6e3cc3ebd4e3b4b1ef77cb1a43fabdb5ca3f2d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20261007%2F20261007185208.png",
+                "alt": "IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内 - Mackerel ブログ #mackerelio",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T09:55:23.000Z",
+            "date_published": "2026-10-07T09:55:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内",
+                "blogTitle": "Mackerel ブログ #mackerelio",
+                "blogLink": "https://mackerel.io/ja/blog/",
+                "blogLinkMd5Hash": "6274999a3d0a169575b1c551d2730aae",
+                "favicon": "https://mackerel.io/ja/blog/icon/favicon",
+                "pickReason": "セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "Mackerel",
+                "host": "mackerel.io",
+                "score": 0.308,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=160147",
+            "content_html": "概要 https://techracho.bpsinc.jp/hachi8833/2026_09_28/160",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_07/160147",
+            "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Support | TechRacho",
+            "summary": "概要 https://techracho.bpsinc.jp/hachi8833/2026_09_28/160",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/10/rails_814_changelog_active_support_eyecatch-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T08:30:55.000Z",
+            "date_published": "2026-10-07T08:30:55.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Active Support",
+                "Rails Changelog",
+                "Ruby on Rails"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Support",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho",
+                "host": "techracho.bpsinc.jp",
+                "score": 0.24,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://joisino.hatenablog.com/entry/filler",
+            "content_html": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなることが確認されています [Greenblat 2025]。 少し難しい以下のような問題に思考の連鎖を付けずにただちに答えさせようとしても LLM は間違えます。 問題：イリジウムの原子番号とモーツァルト…",
+            "url": "https://joisino.hatenablog.com/entry/filler",
+            "title": "最近のLLMは黙って考えられるようになっている | ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+            "summary": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなるこ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8a0262dd141a1e925fe258356cb931f0e5a0ffc7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjoisino%2F20261007%2F20261007092415.png",
+                "alt": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T08:15:49.000Z",
+            "date_published": "2026-10-07T08:15:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 295,
+                "originalTitle": "最近のLLMは黙って考えられるようになっている",
+                "blogTitle": "ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+                "blogLink": "https://joisino.hatenablog.com/",
+                "blogLinkMd5Hash": "6f14f2f6a895ba8ed117ae4f64f10dad",
+                "favicon": "https://joisino.hatenablog.com/icon/favicon",
+                "pickReason": "はてブ295",
+                "sourceTier": "core",
+                "sourceLabel": "joisino",
+                "host": "joisino.hatenablog.com",
+                "score": 1.106,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ295"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37857",
+            "content_html": "はじめに IIJは、2026年10月15日（木）～16日（金）に開催される「ひろしまIT総合展 2026」に出展します。 本展示会では、「攻めるDXも、守るセキ...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37857",
+            "title": "「攻めるDX」と「守るセキュリティ」を支えるIIJの技術を、ひろしまIT総合展2026で体感 | IIJ Engineers Blog",
+            "summary": "はじめに IIJは、2026年10月15日（木）～16日（金）に開催される「ひろしまIT総合展 2026」に出展します。 本展示会では、「攻めるDXも、守るセキ...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/09/hiroshima_1024x576.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T06:04:50.000Z",
+            "date_published": "2026-10-07T06:04:50.000Z",
+            "author": {
+                "name": "吉田"
+            },
+            "tags": [
+                "イベント",
+                "セキュリティ",
+                "イベント告知",
+                "iot-magazine",
+                "DC",
+                "SASE",
+                "BCP"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「攻めるDX」と「守るセキュリティ」を支えるIIJの技術を、ひろしまIT総合展2026で体感",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ",
+                "host": "eng-blog.iij.ad.jp",
+                "score": 0.179,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261007a",
+            "content_html": "こんにちは、エンジニアの中山です。以前 Google の AI Overview で、ピザに接着剤を使うアドバイス が掲出されて話題になりましたが、皆さんは生成 AI の出力品質にどのように向き合って...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261007a",
+            "title": "今日、生成 AI は良い仕事をした。では、明日は？ | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは、エンジニアの中山です。以前 Google の AI Overview で、ピザに接着剤を使うアドバイス が掲出されて話題になりましたが、皆さんは生成 AI の出力品質にどのように向き合って...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/7ede589b5a6873adef4f08a07ba1d1ed/7d66e/e4662456524f4da1853e91e502664a5c.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T02:00:00.000Z",
+            "date_published": "2026-10-07T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "今日、生成 AI は良い仕事をした。では、明日は？",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.165,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51272",
+            "content_html": "はじめに API経由でクラウドのリソースを操作すると、コントロールパネルで行う煩雑な操作を自動化できます。たとえば、サーバーの起動・停止や設定変更をスクリプトに組み込むことで、再現性の向上、ヒューマンエラーの削減、大規模 […]",
+            "url": "https://knowledge.sakura.ad.jp/51272/",
+            "title": "さくらのクラウドのAPI情報はどこで調べる？ — 運用自動化の入口、新APIポータルを使おう | さくらのナレッジ",
+            "summary": "はじめに API経由でクラウドのリソースを操作すると、コントロールパネルで行う煩雑な操作を自動化できます。たとえば、サーバーの起動・停止や設定変更をスクリプトに組み込むことで、再現性の向上、ヒューマンエラーの削減、大規模 […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/image-1200x630.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T02:00:00.000Z",
+            "date_published": "2026-10-07T02:00:00.000Z",
+            "author": {
+                "name": "可知豊"
+            },
+            "tags": [
+                "エンジニア向け",
+                "さくらのクラウド",
+                "API",
+                "APIポータル",
+                "OpenAPI",
+                "クラウド"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "さくらのクラウドのAPI情報はどこで調べる？ — 運用自動化の入口、新APIポータルを使おう",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.132,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/10/07/090000",
+            "content_html": "こんにちは！ SmartHRのエンジニアの@ydahです。 2026年11月28日（土）・29日（日）に東京ビッグサイトで開催される「YAPC::Tokyo 2026」に登壇します！ 私は普段、Rubyのコミッターとして、Rubyの構文解析器の改善や、パーサージェネレーター「Lrama」の開発に取り組んでいます。今回はその活動ともつながるテーマとして、Perl・Ruby・PHPの文法ファイルを読み比べる発表をします。 yapcjapan.org YAPC::Tokyo 2026とは YAPC::Tokyo 2026は、一般社団法人Japan Perl Associationが主催する技術カンフ…",
+            "url": "https://tech.smarthr.jp/entry/2026/10/07/090000",
+            "title": "YAPC::Tokyo 2026にydahが登壇します | SmartHR Tech Blog",
+            "summary": "こんにちは！ SmartHRのエンジニアの@ydahです。 2026年11月28日（土）・29日（日）に東京ビッグサイトで開催される「YAPC::Tokyo 2026」に登壇します！ 私は普段、Rubyのコミッターとして、Rubyの構文解析器の改善や、パーサージェネレーター「Lrama」の開発に取り組んでいます。今回はその活動ともつながるテーマとして、Perl・Ruby・PHPの文法ファイルを読み",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/871c0665458ae352b1deb0546f5b1f7e21125642/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261007%2F20261007090008.png",
+                "alt": "YAPC::Tokyo 2026にydahが登壇します - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T00:00:00.000Z",
+            "date_published": "2026-10-07T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "YAPC::Tokyo 2026にydahが登壇します",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR",
+                "host": "tech.smarthr.jp",
+                "score": 0.025,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        },
+        {
+            "id": "https://creators.bengo4.com/entry/2026/10/07/080000",
+            "content_html": "こんにちは、クラウドサインでエンジニアをしている@enkdsnです。最近は CANDY TUNE にハマっていて、社内外を問わず「倍倍FIGHT!」を 100 回聴くように指導して回っています。100 回を超えると見える地平があります。 仕事のほうでは、共通基盤のモデリングのために、クラウドサインのマスタ群で起きる業務イベントをドキュメントにする作業をしています。このドキュメントは LLM に書かせているのですが、読み返すたびに細かい誤りが見つかります。 そこで業務イベントのドキュメントの元データを CUE で書き、LLM に書かせても精度が落ちないように制約を作り込んでいます。今回は、その制…",
+            "url": "https://creators.bengo4.com/entry/2026/10/07/080000",
+            "title": "AI と CUE で始めるイベントモデリング | 弁護士ドットコム株式会社 Creators’ blog",
+            "summary": "こんにちは、クラウドサインでエンジニアをしている@enkdsnです。最近は CANDY TUNE にハマっていて、社内外を問わず「倍倍FIGHT!」を 100 回聴くように指導して回っています。100 回を超えると見える地平があります。 仕事のほうでは、共通基盤のモデリングのために、クラウドサインのマスタ群で起きる業務イベントをドキュメントにする作業をしています。このドキュメントは LLM に書か",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5e50a0ce3afc6a87f24cdd7d2be86fd1e9a4bc39/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbengo4%2F20261007%2F20261007080006.png",
+                "alt": "AI と CUE で始めるイベントモデリング - 弁護士ドットコム株式会社 Creators’ blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T23:00:00.000Z",
+            "date_published": "2026-10-06T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "AI と CUE で始めるイベントモデリング",
+                "blogTitle": "弁護士ドットコム株式会社 Creators’ blog",
+                "blogLink": "https://creators.bengo4.com/",
+                "blogLinkMd5Hash": "cb5dd8ab1e74d304e86a23f15ef5ac09",
+                "favicon": "https://creators.bengo4.com/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "弁護士ドットコム",
+                "host": "creators.bengo4.com",
+                "score": 0.305,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
+            "content_html": "  メンバーの立ち上げもAI Nativeに  チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを作った話を紹介します。 とくに以下のような方にオススメ …",
+            "url": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
+            "title": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | Blog on DeNA Engineering",
+            "summary": "  メンバーの立ち上げもAI Nativeに  チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを作った話を紹介します。 とくに以下のような方にオススメ …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T15:00:00.000Z",
+            "date_published": "2026-10-06T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "AI・LLM · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 0.134,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261007a/",
+            "content_html": "ITコンサルを本業とするフューチャーが、FPGA を使った AI アクセラレータ『Mark-I』を独自開発した背景と、SPU・PINK・RISC-V コントローラからなるアーキテクチャ、主要スペック、リアルタイム顔認識とジェスチャー認識のデモ動画を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261007a/",
+            "title": "フューチャー製 AIアクセラレータ「Mark-I」開発の紹介 | フューチャー技術ブログ",
+            "summary": "ITコンサルを本業とするフューチャーが、FPGA を使った AI アクセラレータ『Mark-I』を独自開発した背景と、SPU・PINK・RISC-V コントローラからなるアーキテクチャ、主要スペック、リアルタイム顔認識とジェスチャー認識のデモ動画を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261007a/Mark-I%E6%A7%8B%E6%88%90%E5%9B%B3.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T15:00:00.000Z",
+            "date_published": "2026-10-06T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "フューチャー製 AIアクセラレータ「Mark-I」開発の紹介",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 0.134,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techracho.bpsinc.jp/?p=160138",
+            "content_html": "概要 https://techracho.bpsinc.jp/hachi8833/2026_09_28/160",
+            "url": "https://techracho.bpsinc.jp/hachi8833/2026_10_06/160138",
+            "title": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Record | TechRacho",
+            "summary": "概要 https://techracho.bpsinc.jp/hachi8833/2026_09_28/160",
+            "image": {
+                "height": "720",
+                "url": "https://techracho.bpsinc.jp/wp-content/uploads/2026/10/rails_814_changelog_active_record_eyecatch2-min.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T08:30:41.000Z",
+            "date_published": "2026-10-06T08:30:41.000Z",
+            "author": {
+                "name": "hachi8833"
+            },
+            "tags": [
+                "Ruby / Rails関連",
+                "Active Record",
+                "Rails Changelog",
+                "Ruby on Rails"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Rails 8.1.4 Changelog（全項目リンク付き）: Active Record",
+                "blogTitle": "TechRacho",
+                "blogLink": "https://techracho.bpsinc.jp",
+                "blogLinkMd5Hash": "b0807fca39826ec5773a95e8ed047f9b",
+                "favicon": "https://techracho.bpsinc.jp/wp-content/themes/techracho/assets/images/favicon.ico?_=iqm3mf",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "TechRacho",
+                "host": "techracho.bpsinc.jp",
+                "score": 0.151,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=38016",
+            "content_html": "みなさんこんにちは！IIJの片貝です。 肌寒くなったと思ったら暑くなったりと、衣替えのタイミングが難しい今日この頃、いかがお過ごしでしょうか？ そんな秋めいてき...",
+            "url": "https://eng-blog.iij.ad.jp/archives/38016",
+            "title": "QUNOG 36 Meetingに登壇します！ | IIJ Engineers Blog",
+            "summary": "みなさんこんにちは！IIJの片貝です。 肌寒くなったと思ったら暑くなったりと、衣替えのタイミングが難しい今日この頃、いかがお過ごしでしょうか？ そんな秋めいてき...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/10/Designer-4.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T05:40:29.000Z",
+            "date_published": "2026-10-06T05:40:29.000Z",
+            "author": {
+                "name": "片貝 悠"
+            },
+            "tags": [
+                "技術情報",
+                "地域NOG",
+                "LT",
+                "講演",
+                "QUNOG"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "QUNOG 36 Meetingに登壇します！",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ",
+                "host": "eng-blog.iij.ad.jp",
+                "score": 0.018,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        },
+        {
+            "id": "https://mackerel.io/ja/blog/entry/weekly/20261006",
+            "content_html": "こんにちは！Mackerel チーム CRE の五十嵐（id:masarasi）です。今回のアップデート内容をお知らせいたします。 OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました mackerel-agentが環境変数で指定されたプロキシを利用せずに通信できるようになりました mackerel-agentのアップデートをおこなう際の注意点 不具合を修正しました ステータスページのコンポーネントにログ機能を追加しました OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました Mackerelのトレース…",
+            "url": "https://mackerel.io/ja/blog/entry/weekly/20261006",
+            "title": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート | Mackerel ブログ #mackerelio",
+            "summary": "こんにちは！Mackerel チーム CRE の五十嵐（id:masarasi）です。今回のアップデート内容をお知らせいたします。 OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました mackerel-agentが環境変数で指定されたプロキシを利用せずに通信できるようになりました mackerel-agentのアップデートをおこなう際の注意点 不具合",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/01ca8c8bfa5ab18d5c84fecc3e5b03d1ae3c8ce0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20261005%2F20261005155521.png",
+                "alt": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート - Mackerel ブログ #mackerelio",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T03:47:26.000Z",
+            "date_published": "2026-10-06T03:47:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート",
+                "blogTitle": "Mackerel ブログ #mackerelio",
+                "blogLink": "https://mackerel.io/ja/blog/",
+                "blogLinkMd5Hash": "6274999a3d0a169575b1c551d2730aae",
+                "favicon": "https://mackerel.io/ja/blog/icon/favicon",
+                "pickReason": "AI・LLM · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "Mackerel",
+                "host": "mackerel.io",
+                "score": 0.108,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "content_html": "Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来たりと作業していたんです。それで昨今の流行でworktreeサブコマンドの存在を知ったときには悔しいのなんの。 とはいえ、worktreeを使って（AIエージェントも使って）超多並列で開発業務をやって…",
+            "url": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "title": "git worktree大増殖で困っていた | エムスリーテックブログ",
+            "summary": "Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8599973812294943206/14945776032084410398/1791255909",
+                "alt": "git worktree大増殖で困っていた - エムスリーテックブログ"
+            },
+            "date_modified": "2026-10-06T03:05:04.000Z",
+            "date_published": "2026-10-06T03:05:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 58,
+                "originalTitle": "git worktree大増殖で困っていた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ58",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.482,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ58"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-cococli-hackathon/entry",
+            "content_html": "Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。",
+            "url": "https://engineers.ntt.com/entry/202609-cococli-hackathon/entry",
+            "title": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 | NTT docomo Business Engineers' Blog",
+            "summary": "Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/53a06e44531f2a979b74bcf0d4d46a2d76e94319/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040",
+                "alt": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 - NTT docomo Business Engineers' Blog"
+            },
+            "date_modified": "2026-10-06T03:01:18.000Z",
+            "date_published": "2026-10-06T03:01:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ4",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ",
+                "host": "engineers.ntt.com",
+                "score": 0.254,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ4"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261006b",
+            "content_html": "こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261006b",
+            "title": "デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/2c474ea2eb2d4cf6d98e64282b34dcd3/f0810/55a473f55a654abdb4f3a1ba9331b3e5.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-06T03:00:00.000Z",
+            "date_published": "2026-10-06T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM · フロントエンド・デザイン · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.106,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/automate-google-play-review-analysis",
+            "content_html": "はじめに こんにちは、グローバルプロダクト開発本部ZOZOFIT USブロックの平川です。普段はZOZOFITの身体計測に関するデータを分析しています。 ZOZOFITは、スマートフォンで身体を3D計測し、体型の変化を記録・管理できるボディマネジメントアプリです。アメリカを中心に海外へ展開しています。 今回ZOZOFIT開発チームでは、Google PlayストアのレビューをAIで分析し、リリース情報も加味した考察レポートを自動生成する仕組みを構築しました。本記事では、この仕組みの設計と運用について紹介します。",
+            "url": "https://techblog.zozo.com/entry/automate-google-play-review-analysis",
+            "title": "GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、グローバルプロダクト開発本部ZOZOFIT USブロックの平川です。普段はZOZOFITの身体計測に関するデータを分析しています。 ZOZOFITは、スマートフォンで身体を3D計測し、体型の変化を記録・管理できるボディマネジメントアプリです。アメリカを中心に海外へ展開しています。 今回ZOZOFIT開発チームでは、Google PlayストアのレビューをAIで分析し、リリース",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5e3e953a853e2517c96188c408da765dac324416/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930164929.png",
+                "alt": "GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.203,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51558",
+            "content_html": "はじめに さくらのナレッジ編集部の法林です。 2026年8月9日(日)に、株式会社アジャイルウェア大阪オフィスにてOpenStreetMap関西カンファレンス2026が開催されました。本記事ではこのイベントの模様をレポー […]",
+            "url": "https://knowledge.sakura.ad.jp/51558/",
+            "title": "自由な地図の力でより良い未来を作ろう 〜OpenStreetMap関西カンファレンス2026レポート〜 | さくらのナレッジ",
+            "summary": "はじめに さくらのナレッジ編集部の法林です。 2026年8月9日(日)に、株式会社アジャイルウェア大阪オフィスにてOpenStreetMap関西カンファレンス2026が開催されました。本記事ではこのイベントの模様をレポー […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/202609-osm-cover-1200x630.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "author": {
+                "name": "法林浩之"
+            },
+            "tags": [
+                "イベント・セミナー・勉強会",
+                "OpenStreetMap",
+                "アプリ",
+                "さくらのクラウド",
+                "マッピング",
+                "地図",
+                "大阪",
+                "関西"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "自由な地図の力でより良い未来を作ろう 〜OpenStreetMap関西カンファレンス2026レポート〜",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.104,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/06/110000",
+            "content_html": "I’m part of Team Haraya at Sansan. Haraya was formed as Data Hub’s first global team, bringing together members in Japan and Cebu, Philippines.For a look at the team, King, one of Haraya’s founding members, wrote about our Design Marathon: a one-hour systems design activity that paired colleagues fr…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/06/110000",
+            "title": "What I Learned About Bounded Concurrency in Production Go Code | Sansan Tech Blog",
+            "summary": "I’m part of Team Haraya at Sansan. Haraya was formed as Data Hub’s first global team, bringing together members in Japan and Cebu, Philippines.For a look at the team, King, one of Haraya’s founding me",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032083372732/1791252047",
+                "alt": "What I Learned About Bounded Concurrency in Production Go Code - Sansan Tech Blog"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What I Learned About Bounded Concurrency in Production Go Code",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 0.083,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.colopl.dev/entry/2026/10/06/110000",
+            "content_html": "こんにちは、サーバー基盤グループ LCE チームの仲山です。LCE は Launch Coordination Engineering の略で、新作タイトルの立ち上げを支援するチームです。普段はゲームタイトルを横断したサーバー基盤の開発、保守、運用などを担当しています。 コロプラでは毎年、新卒向けの研修を実施しています。前半は全職種共通で、後半は専門性を深める職種別研修に分かれます。本記事では、そのうち2026年度にバックエンドエンジニア向けに実施した「オンラインゲームのシステム全体像」を紹介します。この研修は職種別研修の序盤に置かれていて、ここで全体の地図を手に入れてから、アプリケーション設…",
+            "url": "https://blog.colopl.dev/entry/2026/10/06/110000",
+            "title": "【資料公開】2026年度 新卒研修「オンラインゲームのシステム全体像」を実施しました！ | COLOPL Tech Blog",
+            "summary": "こんにちは、サーバー基盤グループ LCE チームの仲山です。LCE は Launch Coordination Engineering の略で、新作タイトルの立ち上げを支援するチームです。普段はゲームタイトルを横断したサーバー基盤の開発、保守、運用などを担当しています。 コロプラでは毎年、新卒向けの研修を実施しています。前半は全職種共通で、後半は専門性を深める職種別研修に分かれます。本記事では、そ",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032059346394/1791335619",
+                "alt": "【資料公開】2026年度 新卒研修「オンラインゲームのシステム全体像」を実施しました！ - COLOPL Tech Blog"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "【資料公開】2026年度 新卒研修「オンラインゲームのシステム全体像」を実施しました！",
+                "blogTitle": "COLOPL Tech Blog",
+                "blogLink": "https://blog.colopl.dev/",
+                "blogLinkMd5Hash": "e6a68eee4c188124f9f59f9252781495",
+                "favicon": "https://blog.colopl.dev/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "コロプラ",
+                "host": "blog.colopl.dev",
+                "score": 0.047,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": [
+                    "採用・社内行事"
+                ]
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
+            "content_html": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stokesだけで約270万回のメッセージをやり取りし、約1300億output tokenを生成したという。最初のエージェントを走らせてから約88時間後、AIは解に到達した。9月1日に着手し、6日にはLean…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
+            "title": "自ら、問いに向かい合うことの有難さについて | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stoke",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b0875f0f708513eb896bc3ea7ce2ba2fbefe2644/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260913%2F20260913174354.jpg",
+                "alt": "自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-13T08:50:45.000Z",
+            "date_published": "2026-09-13T08:50:45.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "自ら、問いに向かい合うことの有難さについて",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人（はてなブログ） · はてブ26",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）",
+                "host": "kaz-ataka.hatenablog.com",
+                "score": 0,
+                "topics": [
+                    "ai",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "必読 · 安宅和人（はてなブログ）",
+                    "はてブ26"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000",
+            "content_html": "Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁流が谷を埋め、集落を呑み込んでいる。しかしNYTの衛星画像でスケールを確認して、話がまったく違うことがわかった*1。山の高所で氷河と岩盤が崩れ、氷、岩、泥、水が一体となって谷を駆け下り、地形そのものを…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/31/070000",
+            "title": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "Oirase Stream, Aomori, Japan Leica M10-P / Summilux 50mm f1.4 / RAW 写真では、洪水に見えた 先日、故郷の富山、そして隣の石川が記録的な集中豪雨に襲われているのと、ほぼ同じタイミングで、ネパール・チベット国境では、これもまた長く語られることになるであろう事象が発生した。その写真を最初に見たとき、僕はそれを「激しい洪水」だと思った。濁",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c1cc049bc49baf3ec9e2b0f5eab9ad4cab91436d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260830%2F20260830073552.jpg",
+                "alt": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-30T22:00:00.000Z",
+            "date_published": "2026-08-30T22:00:00.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Disaster-ready2.0 — 地形が動く時代の防災をデザインする",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人（はてなブログ）",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）",
+                "host": "kaz-ataka.hatenablog.com",
+                "score": 0,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "必読 · 安宅和人（はてなブログ）"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249",
+            "content_html": "火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年以上、100人を超える人間で様々に検討してきたことは『風の谷という希望』に相当に体系立てて書いた。その後もブログにいくつか書いている。講演や取材の依頼の大半をご辞退せざるを得ない状況でもあり、まずはそ…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/22/231249",
+            "title": "集約の外側にも、国土はある — コンパクトシティが答えていないこと | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "火入れによって保たれる茅場と、地形に沿った道 Minakami-Fujiwara, Gunma, Japan 1.4/50 Summilux, Leica M10P, RAW先日、国土計画に携わる方から連絡をいただいた。人口減少や社会経済の変化を踏まえた今後の国土像について、「風の谷」の考え方も含め、一度話を聞かせてほしいという。僕自身、かなり重要なテーマだと思っている。ただ、この問題について七年",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0952beca351cda84dc1908de42558dfcbf4eba1f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20201101%2F20201101124006.jpg",
+                "alt": "集約の外側にも、国土はある — コンパクトシティが答えていないこと - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-22T14:12:49.000Z",
+            "date_published": "2026-08-22T14:12:49.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 81,
+                "originalTitle": "集約の外側にも、国土はある — コンパクトシティが答えていないこと",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人（はてなブログ） · はてブ81",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）",
+                "host": "kaz-ataka.hatenablog.com",
+                "score": 0,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "必読 · 安宅和人（はてなブログ）",
+                    "はてブ81"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158",
+            "content_html": "制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にならず、孤独や無力感に耐えられなければ、権威への服従や画一化へと自由を手放してしまう、そんな話だ。自由からの逃走 新版作者:エーリッヒ・フロム東京創元社Amazonあの頃、店でも部屋でもよく流れていた曲…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/08/16/015158",
+            "title": "Killing Me Softly——AI時代に「自らに由る」とは | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "制約のある世界のなかでも自在に動ける力 Shodoshima island, Japan 1.4/50 Summilux, Leica M (Typ 240), RAW 学生の頃、友人たちと実によく飲み、よく語り合った。そこには何冊か必読書があり、その一冊がエーリッヒ・フロムの『自由からの逃走』（東京創元社、日高六郎訳）だった。伝統や権威という「第一次的な絆」から解放されることだけでは人は自由にな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/39ff8c9ef5b63e27c817d123febe267f5afd3912/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20260816%2F20260816011427.jpg",
+                "alt": "Killing Me Softly——AI時代に「自らに由る」とは - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-08-15T16:51:58.000Z",
+            "date_published": "2026-08-15T16:51:58.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Killing Me Softly——AI時代に「自らに由る」とは",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人（はてなブログ） · はてブ4",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）",
+                "host": "kaz-ataka.hatenablog.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "必読 · 安宅和人（はてなブログ）",
+                    "はてブ4"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (組織・マネジメント・QA)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org.json",
+    "description": "組織・マネジメント・QAの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "content_html": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで、なぜそうしているのかと合わせて紹介します。ファインディの開発組織に興味を持ってくださっている方や、組織の文化づくりに取り組んでいる方の参考になると幸いです。 開発の土台をつくる コード生成前の準備 …",
+            "url": "https://tech.findy.co.jp/entry/2026/10/09/070000",
+            "title": "[はてブ11] ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み | Findy Tech Blog",
+            "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/b898ad5052c3b91340b2c364f39bad2732c8ad66/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261008%2F20261008114435.png",
+                "alt": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み - Findy Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T22:00:00.000Z",
+            "date_published": "2026-10-08T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み",
+                "blogTitle": "Findy Tech Blog",
+                "blogLink": "https://tech.findy.co.jp/",
+                "blogLinkMd5Hash": "fbd3f27d454988167016d210b62c5f67",
+                "favicon": "https://tech.findy.co.jp/icon/favicon",
+                "pickReason": "はてブ11 · 仕組みを掘る",
+                "sourceTier": "core",
+                "sourceLabel": "Findy",
+                "host": "tech.findy.co.jp",
+                "score": 1.602,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ11",
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/",
+            "content_html": "  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …",
+            "url": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/",
+            "title": "[仕組みを掘る] テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側 | Blog on DeNA Engineering",
+            "summary": "  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "date_published": "2026-10-07T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "仕組みを掘る · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 0.871,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "仕組みを掘る",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/geohash-and-bakery",
+            "content_html": "※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日にたまにパン屋巡りをするのですが、これを応用すれば効率的にパン屋を巡れるんじゃないかと思いついたので、考えたことを書いていこうと思います。 ただ、人間の胃には限界があるため、実際にこのとおり巡るのは難…",
+            "url": "https://www.m3tech.blog/entry/geohash-and-bakery",
+            "title": "geohash について知ったので、パン屋巡りに使えないか考えてみた | エムスリーテックブログ",
+            "summary": "※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/723c83482be5afa4d413101d17657e92e6a90f6a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261009%2F20261009180628.jpg",
+                "alt": "geohash について知ったので、パン屋巡りに使えないか考えてみた - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T09:00:00.000Z",
+            "date_published": "2026-10-09T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "geohash について知ったので、パン屋巡りに使えないか考えてみた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.763,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/fbz-history",
+            "content_html": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数500本超、40個以上のスタックで稼働しています。サーバーレス自体の運用負荷は低い一方、9年間でツールの有償化やプラグインの保守停止、ランタイムのEOL、リソース上限といった「周辺環境の変化」への追従を…",
+            "url": "https://techblog.zozo.com/entry/fbz-history",
+            "title": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数5",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e663c03f7a2d3ef154c5fcdb43b501fc131200f9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png",
+                "alt": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T02:00:00.000Z",
+            "date_published": "2026-10-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.667,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://devblog.thebase.in/entry/2026/10/08/113054",
+            "content_html": "はじめに こんにちは。BASE Departmentでバックエンドエンジニアをしている白数（かじゅ）です。 私たちのチームでは今年の夏、カートの表示速度を改善するプロジェクトに取り組みました。 ここでいう「速度」は、サーバーの処理時間だけを指すものではなく、購入者がボタンを押してから次の画面が表示されるまで、実際に待っている時間を指します。 計測を始めた時点で特に表示に時間がかかっていたのは、PAY IDアプリで「購入手続きに進む」を押してから購入確認画面が表示されるまでの経路でした。 一度に大きく作り替えず、小さく変えては数字を見る、を繰り返しフロントエンドとバックエンド合わせてマージ（リリ…",
+            "url": "https://devblog.thebase.in/entry/2026/10/08/113054",
+            "title": "最大53%！小さな改善を積み重ねてカートの表示時間を短縮した話 | BASEプロダクトチームブログ",
+            "summary": "はじめに こんにちは。BASE Departmentでバックエンドエンジニアをしている白数（かじゅ）です。 私たちのチームでは今年の夏、カートの表示速度を改善するプロジェクトに取り組みました。 ここでいう「速度」は、サーバーの処理時間だけを指すものではなく、購入者がボタンを押してから次の画面が表示されるまで、実際に待っている時間を指します。 計測を始めた時点で特に表示に時間がかかっていたのは、PA",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e0a865e2694cd3a53b03a4061cdece1860174ab0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbasedevteam%2F20260925%2F20260925165809.png",
+                "alt": "最大53%！小さな改善を積み重ねてカートの表示時間を短縮した話 - BASEプロダクトチームブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T02:30:54.000Z",
+            "date_published": "2026-10-08T02:30:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "最大53%！小さな改善を積み重ねてカートの表示時間を短縮した話",
+                "blogTitle": "BASEプロダクトチームブログ",
+                "blogLink": "https://devblog.thebase.in/",
+                "blogLinkMd5Hash": "ba64bb53934641f1faa1f7c9f9a301d5",
+                "favicon": "https://devblog.thebase.in/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "BASE",
+                "host": "devblog.thebase.in",
+                "score": 0.424,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://creators.bengo4.com/entry/2026/10/08/080000",
+            "content_html": "割り込みの多いCREで、スクラムマスター未経験の私がスクラムを再導入。兼務の少人数チームでの判断ルール、実績からの割り込みバッファ算出、運営の自動化、ステークホルダーの巻き込みまで、泥臭く回してきた4か月の記録です。",
+            "url": "https://creators.bengo4.com/entry/2026/10/08/080000",
+            "title": "割り込みの多い CRE でスクラムは回るのか ─ 未経験スクラムマスターが 4 か月試したこと | 弁護士ドットコム株式会社 Creators’ blog",
+            "summary": "割り込みの多いCREで、スクラムマスター未経験の私がスクラムを再導入。兼務の少人数チームでの判断ルール、実績からの割り込みバッファ算出、運営の自動化、ステークホルダーの巻き込みまで、泥臭く回してきた4か月の記録です。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c16e56f9b8bf1c3139e617dcebe3e2896d7c40af/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbengo4%2F20261008%2F20261008080004.png",
+                "alt": "割り込みの多い CRE でスクラムは回るのか ─ 未経験スクラムマスターが 4 か月試したこと - 弁護士ドットコム株式会社 Creators’ blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T23:00:00.000Z",
+            "date_published": "2026-10-07T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "割り込みの多い CRE でスクラムは回るのか ─ 未経験スクラムマスターが 4 か月試したこと",
+                "blogTitle": "弁護士ドットコム株式会社 Creators’ blog",
+                "blogLink": "https://creators.bengo4.com/",
+                "blogLinkMd5Hash": "cb5dd8ab1e74d304e86a23f15ef5ac09",
+                "favicon": "https://creators.bengo4.com/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "弁護士ドットコム",
+                "host": "creators.bengo4.com",
+                "score": 0.397,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
+            "content_html": "  メンバーの立ち上げもAI Nativeに  チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを作った話を紹介します。 とくに以下のような方にオススメ …",
+            "url": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
+            "title": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | Blog on DeNA Engineering",
+            "summary": "  メンバーの立ち上げもAI Nativeに  チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを作った話を紹介します。 とくに以下のような方にオススメ …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T15:00:00.000Z",
+            "date_published": "2026-10-06T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "AI・LLM · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 0.134,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://mackerel.io/ja/blog/entry/weekly/20261006",
+            "content_html": "こんにちは！Mackerel チーム CRE の五十嵐（id:masarasi）です。今回のアップデート内容をお知らせいたします。 OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました mackerel-agentが環境変数で指定されたプロキシを利用せずに通信できるようになりました mackerel-agentのアップデートをおこなう際の注意点 不具合を修正しました ステータスページのコンポーネントにログ機能を追加しました OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました Mackerelのトレース…",
+            "url": "https://mackerel.io/ja/blog/entry/weekly/20261006",
+            "title": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート | Mackerel ブログ #mackerelio",
+            "summary": "こんにちは！Mackerel チーム CRE の五十嵐（id:masarasi）です。今回のアップデート内容をお知らせいたします。 OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました mackerel-agentが環境変数で指定されたプロキシを利用せずに通信できるようになりました mackerel-agentのアップデートをおこなう際の注意点 不具合",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/01ca8c8bfa5ab18d5c84fecc3e5b03d1ae3c8ce0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20261005%2F20261005155521.png",
+                "alt": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート - Mackerel ブログ #mackerelio",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T03:47:26.000Z",
+            "date_published": "2026-10-06T03:47:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート",
+                "blogTitle": "Mackerel ブログ #mackerelio",
+                "blogLink": "https://mackerel.io/ja/blog/",
+                "blogLinkMd5Hash": "6274999a3d0a169575b1c551d2730aae",
+                "favicon": "https://mackerel.io/ja/blog/icon/favicon",
+                "pickReason": "AI・LLM · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "Mackerel",
+                "host": "mackerel.io",
+                "score": 0.108,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261006b",
+            "content_html": "こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261006b",
+            "title": "デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/2c474ea2eb2d4cf6d98e64282b34dcd3/f0810/55a473f55a654abdb4f3a1ba9331b3e5.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-06T03:00:00.000Z",
+            "date_published": "2026-10-06T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM · フロントエンド・デザイン · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.106,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51558",
+            "content_html": "はじめに さくらのナレッジ編集部の法林です。 2026年8月9日(日)に、株式会社アジャイルウェア大阪オフィスにてOpenStreetMap関西カンファレンス2026が開催されました。本記事ではこのイベントの模様をレポー […]",
+            "url": "https://knowledge.sakura.ad.jp/51558/",
+            "title": "自由な地図の力でより良い未来を作ろう 〜OpenStreetMap関西カンファレンス2026レポート〜 | さくらのナレッジ",
+            "summary": "はじめに さくらのナレッジ編集部の法林です。 2026年8月9日(日)に、株式会社アジャイルウェア大阪オフィスにてOpenStreetMap関西カンファレンス2026が開催されました。本記事ではこのイベントの模様をレポー […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/202609-osm-cover-1200x630.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "author": {
+                "name": "法林浩之"
+            },
+            "tags": [
+                "イベント・セミナー・勉強会",
+                "OpenStreetMap",
+                "アプリ",
+                "さくらのクラウド",
+                "マッピング",
+                "地図",
+                "大阪",
+                "関西"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "自由な地図の力でより良い未来を作ろう 〜OpenStreetMap関西カンファレンス2026レポート〜",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.104,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.colopl.dev/entry/2026/10/06/110000",
+            "content_html": "こんにちは、サーバー基盤グループ LCE チームの仲山です。LCE は Launch Coordination Engineering の略で、新作タイトルの立ち上げを支援するチームです。普段はゲームタイトルを横断したサーバー基盤の開発、保守、運用などを担当しています。 コロプラでは毎年、新卒向けの研修を実施しています。前半は全職種共通で、後半は専門性を深める職種別研修に分かれます。本記事では、そのうち2026年度にバックエンドエンジニア向けに実施した「オンラインゲームのシステム全体像」を紹介します。この研修は職種別研修の序盤に置かれていて、ここで全体の地図を手に入れてから、アプリケーション設…",
+            "url": "https://blog.colopl.dev/entry/2026/10/06/110000",
+            "title": "【資料公開】2026年度 新卒研修「オンラインゲームのシステム全体像」を実施しました！ | COLOPL Tech Blog",
+            "summary": "こんにちは、サーバー基盤グループ LCE チームの仲山です。LCE は Launch Coordination Engineering の略で、新作タイトルの立ち上げを支援するチームです。普段はゲームタイトルを横断したサーバー基盤の開発、保守、運用などを担当しています。 コロプラでは毎年、新卒向けの研修を実施しています。前半は全職種共通で、後半は専門性を深める職種別研修に分かれます。本記事では、そ",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032059346394/1791335619",
+                "alt": "【資料公開】2026年度 新卒研修「オンラインゲームのシステム全体像」を実施しました！ - COLOPL Tech Blog"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "【資料公開】2026年度 新卒研修「オンラインゲームのシステム全体像」を実施しました！",
+                "blogTitle": "COLOPL Tech Blog",
+                "blogLink": "https://blog.colopl.dev/",
+                "blogLinkMd5Hash": "e6a68eee4c188124f9f59f9252781495",
+                "favicon": "https://blog.colopl.dev/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "コロプラ",
+                "host": "blog.colopl.dev",
+                "score": 0.047,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": [
+                    "採用・社内行事"
+                ]
+            }
+        }
+    ]
+}

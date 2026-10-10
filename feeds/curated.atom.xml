@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated</id>
+    <title>RSS (Curated)</title>
+    <updated>2026-10-10T23:26:37.583Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml"/>
+    <subtitle>キュレーション（今日のブクマ等）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム） | iDID – クリエイターのための情報メディア]]></title>
+        <id>https://idid.team/?p=4468</id>
+        <link href="https://idid.team/articles/other/netherland-shiftbrain-08/"/>
+        <updated>2026-10-10T05:57:50.000Z</updated>
+        <summary type="html"><![CDATA[いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。]]></summary>
+        <content type="html"><![CDATA[いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。]]></content>
+        <author>
+            <name>idid_ohtake</name>
+        </author>
+        <category label="Other"/>
+        <category label="クリエイティブエージェンシー"/>
+        <category label="グローバル"/>
+        <category label="デザイン"/>
+        <category label="design"/>
+        <category label="curated"/>
+        <published>2026-10-10T05:57:50.000Z</published>
+    </entry>
+</feed>

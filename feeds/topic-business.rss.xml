@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (ビジネス・公共)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml</link>
+        <description>ビジネス・公共の記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (ビジネス・公共)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[数字のインパクト] ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/audio/22/00001/100800977/</link>
+            <guid>https://business.nikkei.com/atcl/audio/22/00001/100800977/</guid>
+            <pubDate>Thu, 08 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他]]></description>
+            <content:encoded><![CDATA[［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/audio/22/00001/100800977/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[数字のインパクト] 半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00800/100800044/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00800/100800044/</guid>
+            <pubDate>Thu, 08 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。]]></description>
+            <content:encoded><![CDATA[任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00800/100800044/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[数字のインパクト] ［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00936/100500001/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00936/100500001/</guid>
+            <pubDate>Thu, 08 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。]]></description>
+            <content:encoded><![CDATA[「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00936/100500001/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[仕組みを掘る] ［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00934/092800005/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00934/092800005/</guid>
+            <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。]]></description>
+            <content:encoded><![CDATA[。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00934/092800005/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[数字のインパクト] 「失われた30年」で株価373倍　日本の停滞期駆け抜けた「巨星」 (ゼンショー　逆転の法則　小川賢太郎が遺した理念と実践) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/NBD/19/special/02665/</link>
+            <guid>https://business.nikkei.com/atcl/NBD/19/special/02665/</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。]]></description>
+            <content:encoded><![CDATA[「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/NBD/19/special/02665/fb.jpg"/>
+        </item>
+    </channel>
+</rss>

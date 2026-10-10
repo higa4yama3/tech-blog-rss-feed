@@ -1,0 +1,786 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Media)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.json",
+    "description": "高頻度メディアソース（件数上限あり）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=201271",
+            "content_html": "休日の公園では、子どもたちを遊ばせながら、親どうしが「次はいつ会おうか」と相談している姿をよく見かけます。 同じ年ごろの仲間と遊ぶことは、子どもの成長に欠かせないものと考えられています。 ところが森の中には、その仲間に出会うこと自体がとても難しい動物がいます。 大型の類人猿(ヒトに近いサルのなかま)の中で、もっとも単独で暮らすオランウータンです。 母親と子どもだけで森を移動する彼らの子どもは、どうやって遊び相手と出会っているのでしょうか。 マックス・プランク動物行動研究所などのチームが野生のオランウータンを15年にわたって追った研究から、子どもの遊びをめぐる母親たちのある行動が見えてきました…",
+            "url": "https://nazology.kusuguru.co.jp/archives/201271",
+            "title": "オランウータンの母親は子どもに「遊び相手」を探してあげていたと判明 | ナゾロジー",
+            "summary": "休日の公園では、子どもたちを遊ばせながら、親どうしが「次はいつ会おうか」と相談している姿をよく見かけます。 同じ年ごろの仲間と遊ぶことは、子どもの成長に欠かせないものと考えられています。 ところが森の中には、その仲間に出会うこと自体がとても難しい動物がいます。 大型の類人猿(ヒトに近いサルのなかま)の中で、もっとも単独で暮らすオランウータンです。 母親と子どもだけで森を移動する彼らの子どもは、どう",
+            "image": {
+                "height": "900",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c416-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T22:30:00.000Z",
+            "date_published": "2026-10-10T22:30:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "動物",
+                "子ども",
+                "時間",
+                "類人猿"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "オランウータンの母親は子どもに「遊び相手」を探してあげていたと判明",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.787,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+            "content_html": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。",
+            "url": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+            "title": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明 | GIGAZINE",
+            "summary": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/adhd-higher-odds-gut-problems/00.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T14:00:00.000Z",
+            "date_published": "2026-10-10T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ3 · 発見",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.868,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200987",
+            "content_html": "健康診断の紙を受け取ると、まず体重の欄を見てため息をつくのが毎年のお決まりです。 体重を減らす痩せ薬「GLP-1薬」は、いまや世界で最も売れている薬になりました。 ところがこの薬について、体重計では測れない「体の年齢」との関係を調べた報告が出てきました。 デンマークのノボ ノルディスクとイーライリリーという製薬大手2社が、老化の治療法を探る学会で、自社の痩せ薬と老化の関係を発表したのです。 では、痩せ薬は体重だけでなく、体の年齢にも何か影響を与えていたのでしょうか。 この話題の詳細は2026年10月6日に『MIT Technology Review』にて公開されました。   目次  体の年齢…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200987",
+            "title": "痩せ薬を使う人ほど「体の老化」が遅いと製薬会社が発表 | ナゾロジー",
+            "summary": "健康診断の紙を受け取ると、まず体重の欄を見てため息をつくのが毎年のお決まりです。 体重を減らす痩せ薬「GLP-1薬」は、いまや世界で最も売れている薬になりました。 ところがこの薬について、体重計では測れない「体の年齢」との関係を調べた報告が出てきました。 デンマークのノボ ノルディスクとイーライリリーという製薬大手2社が、老化の治療法を探る学会で、自社の痩せ薬と老化の関係を発表したのです。 では、",
+            "image": {
+                "height": "900",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c200-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T09:10:00.000Z",
+            "date_published": "2026-10-10T09:10:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "健康",
+                "DNA",
+                "医療",
+                "時計",
+                "生物学",
+                "老化"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "痩せ薬を使う人ほど「体の老化」が遅いと製薬会社が発表",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "サイエンス",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.037,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-readest/",
+            "content_html": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "url": "https://gigazine.net/news/20261010-readest/",
+            "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE",
+            "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/readest/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T09:00:00.000Z",
+            "date_published": "2026-10-10T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ5 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.882,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ5",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=200977",
+            "content_html": "ドラッグストアの美容コーナーには、「ハリ」「うるおい」といった言葉を添えたコラーゲンのドリンクや粉末がずらりと並んでいます。 コラーゲンを口から摂ると肌の老化に良い、という考えは、美容の世界ですっかり定着しているように見えます。 ところが科学の世界では、飲むコラーゲンが肌に効くかどうかは、いまも意見が分かれ、証拠も限られているテーマです。 そこで近年は、たくさんの研究結果をまとめて「結局どうなのか」を判定しようとする分析が行われてきました。 では、その「まとめ」は本当に信頼できるものだったのでしょうか。 今回、研究チームが、飲むコラーゲンの効果をまとめた主要な分析を、一から点検し直しました。…",
+            "url": "https://nazology.kusuguru.co.jp/archives/200977",
+            "title": "コラーゲンサプリの効果を示す研究に「大きな欠陥」があったと判明 | ナゾロジー",
+            "summary": "ドラッグストアの美容コーナーには、「ハリ」「うるおい」といった言葉を添えたコラーゲンのドリンクや粉末がずらりと並んでいます。 コラーゲンを口から摂ると肌の老化に良い、という考えは、美容の世界ですっかり定着しているように見えます。 ところが科学の世界では、飲むコラーゲンが肌に効くかどうかは、いまも意見が分かれ、証拠も限られているテーマです。 そこで近年は、たくさんの研究結果をまとめて「結局どうなのか",
+            "image": {
+                "height": "899",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c1-fig-thumb-1.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T06:00:00.000Z",
+            "date_published": "2026-10-10T06:00:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "健康",
+                "医療"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "コラーゲンサプリの効果を示す研究に「大きな欠陥」があったと判明",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.001,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+            "content_html": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。",
+            "url": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+            "title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？ | GIGAZINE",
+            "summary": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/data-backups-arent-simple/00_m.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T00:00:00.000Z",
+            "date_published": "2026-10-10T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 38,
+                "originalTitle": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ38 · 設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.773,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ38",
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146814.html",
+            "content_html": " 米Microsoftは10月1日（現地時間）、「高度シェーダー デリバリー」の提供範囲をIntel、NVIDIA、QualcommのWindows 11デバイスにも拡大すると発表した。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146814.html",
+            "title": "ゲームの起動を爆速にする「ASD」、Intel、NVIDIA、QualcommのWindows 11機にも拡大へ／初回起動時のシェーダーコンパイルを約95％短縮。「Gears of War: E-Day」でお披露目 | 窓の杜",
+            "summary": " 米Microsoftは10月1日（現地時間）、「高度シェーダー デリバリー」の提供範囲をIntel、NVIDIA、QualcommのWindows 11デバイスにも拡大すると発表した。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/814/directx12_ultimate.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T09:56:00.000Z",
+            "date_published": "2026-10-09T09:56:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "ゲームの起動を爆速にする「ASD」、Intel、NVIDIA、QualcommのWindows 11機にも拡大へ／初回起動時のシェーダーコンパイルを約95％短縮。「Gears of War: E-Day」でお披露目",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ3 · 数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.006,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ3",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00934/092800005/",
+            "content_html": "。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00934/092800005/",
+            "title": "［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層) | 日経ビジネス電子版　最新記事",
+            "summary": "。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00934/092800005/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T08:00:00.000Z",
+            "date_published": "2026-10-09T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.524,
+                "topics": [
+                    "business",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85582",
+            "content_html": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "url": "https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html",
+            "title": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス",
+            "summary": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100901@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T05:21:49.000Z",
+            "date_published": "2026-10-09T05:21:49.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "excel",
+                "PowerPoint",
+                "word"
+            ],
+            "_custom": {
+                "hatenaCount": 248,
+                "originalTitle": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ248 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 2.11,
+                "topics": [
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ248",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
+            "content_html": " サイトー企画は10月8日、テキストエディター「秀丸エディタ」の最新版v9.59を正式公開した。本バージョンでは、Windows XP/Vistaのサポートが打ち切られている。これらのOSに対応する最後のバージョンは、7月9日に公開されたv9.57。今後の対応OSはWindows 7以降となる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
+            "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく | 窓の杜",
+            "summary": " サイトー企画は10月8日、テキストエディター「秀丸エディタ」の最新版v9.59を正式公開した。本バージョンでは、Windows XP/Vistaのサポートが打ち切られている。これらのOSに対応する最後のバージョンは、7月9日に公開されたv9.57。今後の対応OSはWindows 7以降となる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/950/hidemaru.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:05:00.000Z",
+            "date_published": "2026-10-09T04:05:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 87,
+                "originalTitle": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ87",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.185,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ87"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "content_html": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜",
+            "summary": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T22:50:00.000Z",
+            "date_published": "2026-10-08T22:50:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 163,
+                "originalTitle": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ163 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.761,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ163",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+            "content_html": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+            "url": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+            "title": "ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング) | 日経ビジネス電子版　最新記事",
+            "summary": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/audio/22/00001/100800977/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "security",
+                    "business"
+                ],
+                "topicLabels": [
+                    "セキュリティ",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
+            "content_html": "任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
+            "title": "半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保) | 日経ビジネス電子版　最新記事",
+            "summary": "任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00800/100800044/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00936/100500001/",
+            "content_html": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00936/100500001/",
+            "title": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事",
+            "summary": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00936/100500001/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念 (ゼンショー 逆転の法則)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.645,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/NBD/19/special/02665/",
+            "content_html": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "url": "https://business.nikkei.com/atcl/NBD/19/special/02665/",
+            "title": "「失われた30年」で株価373倍　日本の停滞期駆け抜けた「巨星」 (ゼンショー　逆転の法則　小川賢太郎が遺した理念と実践) | 日経ビジネス電子版　最新記事",
+            "summary": "「失われた30年」にあらがうかのように大きく成長してきたゼンショーホールディングス。創業者の故・小川賢太郎氏による先見の明と強力なリーダーシップが成長をけん引した。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/NBD/19/special/02665/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T15:00:00.000Z",
+            "date_published": "2026-10-08T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「失われた30年」で株価373倍　日本の停滞期駆け抜けた「巨星」 (ゼンショー　逆転の法則　小川賢太郎が遺した理念と実践)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.472,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "content_html": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定 | 窓の杜",
+            "summary": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/802/synthid_detector.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T08:32:00.000Z",
+            "date_published": "2026-10-08T08:32:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 92,
+                "originalTitle": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ92",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.026,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ92"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "content_html": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "title": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜",
+            "summary": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/735/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T07:22:00.000Z",
+            "date_published": "2026-10-08T07:22:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ37 · 動かしてみた",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.05,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ37",
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85533",
+            "content_html": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html",
+            "title": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス",
+            "summary": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100800-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:36:52.000Z",
+            "date_published": "2026-10-08T00:36:52.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "adobe"
+            ],
+            "_custom": {
+                "hatenaCount": 414,
+                "originalTitle": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ414 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 1.292,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ414",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85199",
+            "content_html": "10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols",
+            "url": "https://coliss.com/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html",
+            "title": "Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能 | コリス",
+            "summary": "10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100701@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:26:59.000Z",
+            "date_published": "2026-10-08T00:26:59.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "サイト構築 -CSS",
+                "ブラウザ -Chrome"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.527,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

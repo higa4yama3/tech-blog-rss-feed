@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (サイエンス)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml</link>
+        <description>サイエンスの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (サイエンス)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ3] ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/</link>
+            <guid>https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/</guid>
+            <pubDate>Sat, 10 Oct 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。]]></description>
+            <content:encoded><![CDATA[注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://i.gzn.jp/img/2026/10/10/adhd-higher-odds-gut-problems/00.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] オランウータンの母親は子どもに「遊び相手」を探してあげていたと判明 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201271</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201271</guid>
+            <pubDate>Sat, 10 Oct 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[休日の公園では、子どもたちを遊ばせながら、親どうしが「次はいつ会おうか」と相談している姿をよく見かけます。 同じ年ごろの仲間と遊ぶことは、子どもの成長に欠かせないものと考えられています。 ところが森の中には、その仲間に出会うこと自体がとても難しい動物がいます。 大型の類人猿(ヒトに近いサルのなかま)の中で、もっとも単独で暮らすオランウータンです。 母親と子どもだけで森を移動する彼らの子どもは、どう]]></description>
+            <content:encoded><![CDATA[休日の公園では、子どもたちを遊ばせながら、親どうしが「次はいつ会おうか」と相談している姿をよく見かけます。 同じ年ごろの仲間と遊ぶことは、子どもの成長に欠かせないものと考えられています。 ところが森の中には、その仲間に出会うこと自体がとても難しい動物がいます。 大型の類人猿(ヒトに近いサルのなかま)の中で、もっとも単独で暮らすオランウータンです。 母親と子どもだけで森を移動する彼らの子どもは、どうやって遊び相手と出会っているのでしょうか。 マックス・プランク動物行動研究所などのチームが野生のオランウータンを15年にわたって追った研究から、子どもの遊びをめぐる母親たちのある行動が見えてきました…]]></content:encoded>
+            <category>動物</category>
+            <category>子ども</category>
+            <category>時間</category>
+            <category>類人猿</category>
+            <enclosure length="0" type="jpg" height="900" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c416-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ14] OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明 | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/10/2000002189/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/10/2000002189/</guid>
+            <pubDate>Fri, 09 Oct 2026 23:28:02 GMT</pubDate>
+            <description><![CDATA[OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。]]></description>
+            <content:encoded><![CDATA[OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/10/2000002189/10009029/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002189/10009029/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ39] 履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究 | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002102/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002102/</guid>
+            <pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職]]></description>
+            <content:encoded><![CDATA[米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職活動でどれほどまん延しているかを調査した研究報告だ。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002102/10008744/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002102/10008744/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[痩せ薬を使う人ほど「体の老化」が遅いと製薬会社が発表 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/200987</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=200987</guid>
+            <pubDate>Sat, 10 Oct 2026 09:10:00 GMT</pubDate>
+            <description><![CDATA[健康診断の紙を受け取ると、まず体重の欄を見てため息をつくのが毎年のお決まりです。 体重を減らす痩せ薬「GLP-1薬」は、いまや世界で最も売れている薬になりました。 ところがこの薬について、体重計では測れない「体の年齢」との関係を調べた報告が出てきました。 デンマークのノボ ノルディスクとイーライリリーという製薬大手2社が、老化の治療法を探る学会で、自社の痩せ薬と老化の関係を発表したのです。 では、]]></description>
+            <content:encoded><![CDATA[健康診断の紙を受け取ると、まず体重の欄を見てため息をつくのが毎年のお決まりです。 体重を減らす痩せ薬「GLP-1薬」は、いまや世界で最も売れている薬になりました。 ところがこの薬について、体重計では測れない「体の年齢」との関係を調べた報告が出てきました。 デンマークのノボ ノルディスクとイーライリリーという製薬大手2社が、老化の治療法を探る学会で、自社の痩せ薬と老化の関係を発表したのです。 では、痩せ薬は体重だけでなく、体の年齢にも何か影響を与えていたのでしょうか。 この話題の詳細は2026年10月6日に『MIT Technology Review』にて公開されました。   目次  体の年齢…]]></content:encoded>
+            <category>健康</category>
+            <category>DNA</category>
+            <category>医療</category>
+            <category>時計</category>
+            <category>生物学</category>
+            <category>老化</category>
+            <enclosure length="0" type="jpg" height="900" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c200-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] コラーゲンサプリの効果を示す研究に「大きな欠陥」があったと判明 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/200977</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=200977</guid>
+            <pubDate>Sat, 10 Oct 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[ドラッグストアの美容コーナーには、「ハリ」「うるおい」といった言葉を添えたコラーゲンのドリンクや粉末がずらりと並んでいます。 コラーゲンを口から摂ると肌の老化に良い、という考えは、美容の世界ですっかり定着しているように見えます。 ところが科学の世界では、飲むコラーゲンが肌に効くかどうかは、いまも意見が分かれ、証拠も限られているテーマです。 そこで近年は、たくさんの研究結果をまとめて「結局どうなのか]]></description>
+            <content:encoded><![CDATA[ドラッグストアの美容コーナーには、「ハリ」「うるおい」といった言葉を添えたコラーゲンのドリンクや粉末がずらりと並んでいます。 コラーゲンを口から摂ると肌の老化に良い、という考えは、美容の世界ですっかり定着しているように見えます。 ところが科学の世界では、飲むコラーゲンが肌に効くかどうかは、いまも意見が分かれ、証拠も限られているテーマです。 そこで近年は、たくさんの研究結果をまとめて「結局どうなのか」を判定しようとする分析が行われてきました。 では、その「まとめ」は本当に信頼できるものだったのでしょうか。 今回、研究チームが、飲むコラーゲンの効果をまとめた主要な分析を、一から点検し直しました。…]]></content:encoded>
+            <category>健康</category>
+            <category>医療</category>
+            <enclosure length="0" type="jpg" height="899" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c1-fig-thumb-1.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【後編】 | 松尾研究所テックブログのフィード]]></title>
+            <link>https://zenn.dev/mkj/articles/47127baca9eaa0</link>
+            <guid>https://zenn.dev/mkj/articles/47127baca9eaa0</guid>
+            <pubDate>Fri, 09 Oct 2026 02:50:05 GMT</pubDate>
+            <description><![CDATA[株式会社松尾研究所で働いている栗原です。以前、「音声合成の日本語化手法が一般化した話」を書きました。今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部について、前後編に分けて解説しています。前編では、「日本語の読みがいかに難しいか、それが日本語TTSの難しさにどうつながるか」を、音声学・音韻論の知見から紹介しました。後編では、辞書とTrans]]></description>
+            <content:encoded><![CDATA[株式会社松尾研究所で働いている栗原です。以前、「音声合成の日本語化手法が一般化した話」を書きました。今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部について、前後編に分けて解説しています。前編では、「日本語の読みがいかに難しいか、それが日本語TTSの難しさにどうつながるか」を、音声学・音韻論の知見から紹介しました。後編では、辞書とTransformer・BERTを組み合わせて、読みや高低アクセントを推定する方法を解説します。専門家・理系の方でなくても読めるよう、なるべく平易に書きますので、お読みください！ はじめに前...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--AhxCnvu8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AB%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%2592%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%258F%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2582%2589%25E3%2581%2586%25E8%25A9%25B1%2520%25E3%2580%259C%25E9%25AB%2598%25E4%25BD%258E%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589G2P%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%259C%2520%25E3%2580%2590%25E5%25BE%258C%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kiyoshi%2520Kurihara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnAwaG5JMy1EczJmWVJQSUZHMUZsWHF0Q01sOHo1UVY1MXdlZkJkWk92SF9GWEpBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[KaggleっぽいSelf-Play RLの論文を紹介 | 松尾研究所テックブログのフィード]]></title>
+            <link>https://zenn.dev/mkj/articles/generals-io-self-play-rl</link>
+            <guid>https://zenn.dev/mkj/articles/generals-io-self-play-rl</guid>
+            <pubDate>Thu, 08 Oct 2026 02:50:05 GMT</pubDate>
+            <description><![CDATA[はじめにこんにちは、松尾研究所の奥村です。最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他の]]></description>
+            <content:encoded><![CDATA[はじめにこんにちは、松尾研究所の奥村です。最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。他のジャンルにはない中毒性があると思っています。今回は、先月開催されたRLVG 2026というワークショップで発表された、シミュレーションコンペのようなSelf-Play RLに関する論文...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1LJVTCCP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584Self-Play%2520RL%25E3%2581%25AE%25E8%25AB%2596%25E6%2596%2587%25E3%2582%2592%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okumura%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NhZjJkMTA5ZjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (フロントエンド・デザイン)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml</link>
+        <description>フロントエンド・デザインの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (フロントエンド・デザイン)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html</link>
+            <guid>https://coliss.com/?p=85582</guid>
+            <pubDate>Fri, 09 Oct 2026 05:21:49 GMT</pubDate>
+            <description><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></description>
+            <content:encoded><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>excel</category>
+            <category>PowerPoint</category>
+            <category>word</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026100901@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261010-readest/</link>
+            <guid>https://gigazine.net/news/20261010-readest/</guid>
+            <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。]]></description>
+            <content:encoded><![CDATA[電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/10/readest/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2146954.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2146954.html</guid>
+            <pubDate>Thu, 08 Oct 2026 22:50:00 GMT</pubDate>
+            <description><![CDATA[ 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。]]></description>
+            <content:encoded><![CDATA[ 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ414] PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html</link>
+            <guid>https://coliss.com/?p=85533</guid>
+            <pubDate>Thu, 08 Oct 2026 00:36:52 GMT</pubDate>
+            <description><![CDATA[10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti]]></description>
+            <content:encoded><![CDATA[10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>adobe</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026100800-01@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム） | iDID – クリエイターのための情報メディア]]></title>
+            <link>https://idid.team/articles/other/netherland-shiftbrain-08/</link>
+            <guid>https://idid.team/?p=4468</guid>
+            <pubDate>Sat, 10 Oct 2026 05:57:50 GMT</pubDate>
+            <description><![CDATA[いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。]]></description>
+            <content:encoded><![CDATA[いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。]]></content:encoded>
+            <category>Other</category>
+            <category>クリエイティブエージェンシー</category>
+            <category>グローバル</category>
+            <category>デザイン</category>
+            <category>design</category>
+            <category>curated</category>
+            <enclosure length="0" type="image/jpeg" height="536" url="https://idid.team/wp-content/uploads/2026/10/Numbered-1024x536.jpg" width="1024"/>
+        </item>
+        <item>
+            <title><![CDATA[[新しく出た] Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能 | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html</link>
+            <guid>https://coliss.com/?p=85199</guid>
+            <pubDate>Thu, 08 Oct 2026 00:26:59 GMT</pubDate>
+            <description><![CDATA[10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols]]></description>
+            <content:encoded><![CDATA[10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>サイト構築 -CSS</category>
+            <category>ブラウザ -Chrome</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026100701@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20261006b</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20261006b</guid>
+            <pubDate>Tue, 06 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...]]></description>
+            <content:encoded><![CDATA[こんにちは。LINEでAndroidアプリの開発を担当しているMoriです。この記事では、DroidKaigi 2026で発表した「デバイス操作はAIエージェントの時代へ。mobile-mcpを活用し...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://techblog.lycorp.co.jp/static/2c474ea2eb2d4cf6d98e64282b34dcd3/f0810/55a473f55a654abdb4f3a1ba9331b3e5.jpg"/>
+        </item>
+    </channel>
+</rss>

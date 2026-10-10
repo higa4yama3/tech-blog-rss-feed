@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Headlines)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        <description>HN・ITmedia速報など</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Headlines)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[07:50 Build your own decision model (nishtahir.com · ↑5 · 0 comments)]]></title>
+            <link>https://nishtahir.com/build-your-own-decision-model/</link>
+            <guid>https://news.ycombinator.com/item?id=50037949</guid>
+            <pubDate>Sat, 10 Oct 2026 22:50:10 GMT</pubDate>
+            <description><![CDATA["System one" decision models are models that infer and respond with calibrated p]]></description>
+            <content:encoded><![CDATA["System one" decision models are models that infer and respond with calibrated probabilities or every allowed answer.  Consider your everyday language model, to get typed output from it (JSON), you may use Structured Output to constrain the output to guaranteed valid JSON. While model prefills the input in one pass,]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[06:19 Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks (bleepingcomputer.com · ↑23 · 8 comments)]]></title>
+            <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</link>
+            <guid>https://news.ycombinator.com/item?id=50037299</guid>
+            <pubDate>Sat, 10 Oct 2026 21:19:42 GMT</pubDate>
+            <description><![CDATA[Hackers are abusing legitimate Bing search-result redirects as click URLs in Goo]]></description>
+            <content:encoded><![CDATA[Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="900" url="https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[05:31 A city-building game in which the city would prefer you didn't (housing.over.pizza · ↑91 · 39 comments)]]></title>
+            <link>https://housing.over.pizza/</link>
+            <guid>https://news.ycombinator.com/item?id=50036864</guid>
+            <pubDate>Sat, 10 Oct 2026 20:31:50 GMT</pubDate>
+            <description><![CDATA[A city-building game about trying to get housing built in San Francisco. By Oliv]]></description>
+            <content:encoded><![CDATA[A city-building game about trying to get housing built in San Francisco. By Oliver Sin.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://housing.over.pizza/share-card.png" width="1200" alt="Discretionary Review, a San Francisco housing simulator by Oliver Sin, alongside the game's pixel-art city map."/>
+        </item>
+        <item>
+            <title><![CDATA[04:12 Takeshi's Castle (en.wikipedia.org · ↑85 · 30 comments)]]></title>
+            <link>https://en.wikipedia.org/wiki/Takeshi%27s_Castle</link>
+            <guid>https://news.ycombinator.com/item?id=50036119</guid>
+            <pubDate>Sat, 10 Oct 2026 19:12:55 GMT</pubDate>
+            <description><![CDATA[Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_CastleComments URL: https]]></description>
+            <content:encoded><![CDATA[Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_CastleComments URL: https://news.ycombinator.com/item?id=50036119Points: 85# Comments: 30]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[03:48 Nvidia in talks to acquire US 'open' model startup Reflection AI (ft.com · ↑96 · 62 comments)]]></title>
+            <link>https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</link>
+            <guid>https://news.ycombinator.com/item?id=50035886</guid>
+            <pubDate>Sat, 10 Oct 2026 18:48:35 GMT</pubDate>
+            <description><![CDATA[Donald Trump’s administration hopes the company will rival cheap Chinese alterna]]></description>
+            <content:encoded><![CDATA[Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1"/>
+        </item>
+        <item>
+            <title><![CDATA[03:08 Why DuckDB 2.0 is faster (motherduck.com · ↑109 · 34 comments)]]></title>
+            <link>https://motherduck.com/blog/why-duckdb-20-is-faster/</link>
+            <guid>https://news.ycombinator.com/item?id=50035530</guid>
+            <pubDate>Sat, 10 Oct 2026 18:08:49 GMT</pubDate>
+            <description><![CDATA[DuckDB 2.0 alpha vs 1.5.5 on one laptop: recursive CTEs up to 90x, VARIANT 6x fa]]></description>
+            <content:encoded><![CDATA[DuckDB 2.0 alpha vs 1.5.5 on one laptop: recursive CTEs up to 90x, VARIANT 6x faster than JSON text, async I/O 2.4x on S3. What changes, and how to model data to get the speedup. | Reading time: 15 min read]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="630" url="https://motherduck-com-web-prod.s3.us-east-1.amazonaws.com/assets/img/duckdb20_96b85ab729.png" width="1200" alt="Why DuckDB 2.0 is faster | MotherDuck"/>
+        </item>
+        <item>
+            <title><![CDATA[00:51 MrBeast 'spends millions reverse engineering the algorithms on each platform' (barchart.com · ↑31 · 29 comments)]]></title>
+            <link>https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas</link>
+            <guid>https://news.ycombinator.com/item?id=50034123</guid>
+            <pubDate>Sat, 10 Oct 2026 15:51:39 GMT</pubDate>
+            <description><![CDATA[Cuban is impressed by how much effort MrBeast puts into understanding social med]]></description>
+            <content:encoded><![CDATA[Cuban is impressed by how much effort MrBeast puts into understanding social media algorithms.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="900" url="https://media.barchart.com/contributors-admin/common-images/images/Famous%20People/MrBeast%20by%20Fidias%20via%20Wikimedia%20Commons.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[00:47 Knuth reward check (thomas-huehn.com · ↑127 · 47 comments)]]></title>
+            <link>https://www.thomas-huehn.com/knuth-reward-check/</link>
+            <guid>https://news.ycombinator.com/item?id=50034081</guid>
+            <pubDate>Sat, 10 Oct 2026 15:47:01 GMT</pubDate>
+            <description><![CDATA[Twenty years ago I got a reward check from Donald Knuth.]]></description>
+            <content:encoded><![CDATA[Twenty years ago I got a reward check from Donald Knuth.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://www.thomas-huehn.com/knuth.scheck-256.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[23:32 Bitwarden Dual License Model (community.bitwarden.com · ↑328 · 240 comments)]]></title>
+            <link>https://community.bitwarden.com/t/published-version-update-in-app-stores/102750</link>
+            <guid>https://news.ycombinator.com/item?id=50033407</guid>
+            <pubDate>Sat, 10 Oct 2026 14:32:50 GMT</pubDate>
+            <description><![CDATA[Hello everyone! Starting in the next release, the Bitwarden apps published to th]]></description>
+            <content:encoded><![CDATA[Hello everyone! Starting in the next release, the Bitwarden apps published to the various stores will be the commercially licensed builds. No action is needed, and the apps will work exactly as they do today. Bitwarden remains committed to open source security and transparency The GPLv3 OSS licensed version continues to be updated and published on GitHub All current features are available in both versions License details are on GitHub Bitwarden remains committed to a robust, free forever plan...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://us1.discourse-cdn.com/flex001/uploads/bitwarden1/original/3X/7/f/7f03815c05cadc57a3915c4e7d01826f041b39ac.png"/>
+        </item>
+        <item>
+            <title><![CDATA[23:27 Unikernels were hard. key word: were (ghuntley.com · ↑68 · 31 comments)]]></title>
+            <link>https://ghuntley.com/unikernels/</link>
+            <guid>https://news.ycombinator.com/item?id=50033357</guid>
+            <pubDate>Sat, 10 Oct 2026 14:27:09 GMT</pubDate>
+            <description><![CDATA[Justin Cormack, who worked on MirageOS back in the day, called me at the pub to ]]></description>
+            <content:encoded><![CDATA[Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt, and if you care about security you should seriously consider them.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="670" url="https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2026/10/Symbolic-traditional-tattoo-art-print-portraying-a-unikernel-operating-system-as-a-lively-streamlined-digital-core-with-complex-ornamental-circuitry--bright-vibrant-retro-colors--intense-dramatic-lighting--energetic-glowing-accents--sharp-h.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[22:29 I would like the value of my home to rise, while my property taxes fall (conversableeconomist.com · ↑193 · 462 comments)]]></title>
+            <link>https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</link>
+            <guid>https://news.ycombinator.com/item?id=50032758</guid>
+            <pubDate>Sat, 10 Oct 2026 13:29:03 GMT</pubDate>
+            <description><![CDATA[Many of us are inconsistent in our economic desires. I would like the price of m]]></description>
+            <content:encoded><![CDATA[Many of us are inconsistent in our economic desires. I would like the price of my home to rise, because it increases my wealth, but I would also like the prices of all other homes to fall, so that I could sell my house and buy an even nicer house. Also, I would like to]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://i0.wp.com/conversableeconomist.com/wp-content/uploads/2021/08/cropped-Screen-Shot-2021-08-23-at-2.04.56-PM.png?fit=889%2C66&amp;ssl=1"/>
+        </item>
+        <item>
+            <title><![CDATA[19:57 Apple/macOS removed from official Unix registry (opengroup.org · ↑232 · 210 comments)]]></title>
+            <link>https://www.opengroup.org//openbrand/register/</link>
+            <guid>https://news.ycombinator.com/item?id=50031653</guid>
+            <pubDate>Sat, 10 Oct 2026 10:57:31 GMT</pubDate>
+            <description><![CDATA[Article URL: https://www.opengroup.org//openbrand/register/Comments URL: https:/]]></description>
+            <content:encoded><![CDATA[Article URL: https://www.opengroup.org//openbrand/register/Comments URL: https://news.ycombinator.com/item?id=50031653Points: 232# Comments: 210]]></content:encoded>
+            <category>news</category>
+        </item>
+        <item>
+            <title><![CDATA[19:52 Talorys – A self-hosted personal AI agent on Cloudflare's free tier (github.com · ↑228 · 114 comments)]]></title>
+            <link>https://github.com/rociiu/talorys</link>
+            <guid>https://news.ycombinator.com/item?id=50031614</guid>
+            <pubDate>Sat, 10 Oct 2026 10:52:09 GMT</pubDate>
+            <description><![CDATA[Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note]]></description>
+            <content:encoded><![CDATA[Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//aad967bff334e63919fd6fb602ebfabb3de91eadfdf2446a0c2a9184f009fd4f/rociiu/talorys" height="600" url="https://opengraph.githubassets.com/aad967bff334e63919fd6fb602ebfabb3de91eadfdf2446a0c2a9184f009fd4f/rociiu/talorys" width="1200" alt="Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ..."/>
+        </item>
+        <item>
+            <title><![CDATA[14:22 Food processing influences metabolism and brain activity (news.vt.edu · ↑91 · 76 comments)]]></title>
+            <link>https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</link>
+            <guid>https://news.ycombinator.com/item?id=50029830</guid>
+            <pubDate>Sat, 10 Oct 2026 05:22:30 GMT</pubDate>
+            <description><![CDATA[In healthy adults, meals matched for calories and nutrients, but otherwise prepa]]></description>
+            <content:encoded><![CDATA[In healthy adults, meals matched for calories and nutrients, but otherwise prepared differently, led to unexpectedly different metabolic responses and activity in the brain’s reward system.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://news.vt.edu/content/news_vt_edu/en/articles/2026/10/research_fralinbiomed_upfhutelin/_jcr_content/image.transform/l-medium/image.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[13:12 The Lightbulb Computer (lightbulbcomputer.com · ↑156 · 38 comments)]]></title>
+            <link>https://lightbulbcomputer.com/</link>
+            <guid>https://news.ycombinator.com/item?id=50029487</guid>
+            <pubDate>Sat, 10 Oct 2026 04:12:26 GMT</pubDate>
+            <description><![CDATA[A new direction for computing: projecting information into the real world to aug]]></description>
+            <content:encoded><![CDATA[A new direction for computing: projecting information into the real world to augment it, with a device that combines a projector and computer vision in the shape of a large lightbulb.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" height="872" url="https://lightbulbcomputer.com/social-preview.jpg" width="1200" alt="The Lightbulb Computer"/>
+        </item>
+        <item>
+            <title><![CDATA[12:38 「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002184/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002184/</guid>
+            <pubDate>Sat, 10 Oct 2026 03:38:24 GMT</pubDate>
+            <description><![CDATA[ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。]]></description>
+            <content:encoded><![CDATA[ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の内容について運営元のIDCフロンティアに聞いた。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002184/10009012/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002184/10009012/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[12:02 Telegram Desktop vulnerability allowed any user's file to be stolen (beaksec.github.io · ↑397 · 246 comments)]]></title>
+            <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
+            <guid>https://news.ycombinator.com/item?id=50029123</guid>
+            <pubDate>Sat, 10 Oct 2026 03:02:47 GMT</pubDate>
+            <description><![CDATA[An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicke]]></description>
+            <content:encoded><![CDATA[An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" url="https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png" alt="From a clicked link to the victim's session files."/>
+        </item>
+        <item>
+            <title><![CDATA[12:00 日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/10/2000002035/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/10/2000002035/</guid>
+            <pubDate>Sat, 10 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalenc]]></description>
+            <content:encoded><![CDATA[東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cancer」は、日本人の大腸がん発症に特定の腸内細菌が関与していることを突き止めた研究報告だ。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/10/2000002035/10008517/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002035/10008517/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[09:37 REA Reverse – Engineer Anything (rea.tools · ↑672 · 295 comments)]]></title>
+            <link>https://rea.tools/</link>
+            <guid>https://news.ycombinator.com/item?id=50028275</guid>
+            <pubDate>Sat, 10 Oct 2026 00:37:07 GMT</pubDate>
+            <description><![CDATA[Reverse engineer apps, binaries and browser behavior with your coding agent. Fol]]></description>
+            <content:encoded><![CDATA[Reverse engineer apps, binaries and browser behavior with your coding agent. Follow clear guides and try interactive examples with REA.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/png" height="630" url="https://rea.tools/assets/social-card.png" width="1200" alt="REA — Find out how software works. Reverse engineering with your coding agent."/>
+        </item>
+        <item>
+            <title><![CDATA[09:13 How strong is the strong interaction? (cerncourier.com · ↑41 · 11 comments)]]></title>
+            <link>https://cerncourier.com/how-strong-is-the-strong-interaction/</link>
+            <guid>https://news.ycombinator.com/item?id=50028162</guid>
+            <pubDate>Sat, 10 Oct 2026 00:13:16 GMT</pubDate>
+            <description><![CDATA[A lattice calculation has narrowed the uncertainty on the strong coupling to fiv]]></description>
+            <content:encoded><![CDATA[A lattice calculation has narrowed the uncertainty on the strong coupling to five parts per mille.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image/jpeg" height="675" url="https://cerncourier.com/wp-content/uploads/2026/09/CCSepOct26_QCD_frontis.jpg" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[08:28 OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/10/2000002189/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/10/2000002189/</guid>
+            <pubDate>Fri, 09 Oct 2026 23:28:02 GMT</pubDate>
+            <description><![CDATA[OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenA]]></description>
+            <content:encoded><![CDATA[OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/10/2000002189/10009029/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002189/10009029/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[07:49 IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/10/2000002187/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/10/2000002187/</guid>
+            <pubDate>Fri, 09 Oct 2026 22:49:06 GMT</pubDate>
+            <description><![CDATA[フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を]]></description>
+            <content:encoded><![CDATA[フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/10/2000002187/10009019/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002187/10009019/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[07:14 Recent AI models struggled to match a human algorithmic innovation (epoch.ai · ↑62 · 51 comments)]]></title>
+            <link>https://epoch.ai/publications/innovationeval</link>
+            <guid>https://news.ycombinator.com/item?id=50027257</guid>
+            <pubDate>Fri, 09 Oct 2026 22:14:40 GMT</pubDate>
+            <description><![CDATA[Early evidence from InnovationEval: No]]></description>
+            <content:encoded><![CDATA[Early evidence from InnovationEval: No]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="jpg" url="https://epoch.ai/assets/images/posts/2026/innovationeval/t-innovationeval.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[06:56 IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002147/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002147/</guid>
+            <pubDate>Fri, 09 Oct 2026 21:56:46 GMT</pubDate>
+            <description><![CDATA[「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。]]></description>
+            <content:encoded><![CDATA[「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002147/10008892/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002147/10008892/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[02:52 Rampart: Browser native on-device PII radaction (ndstudio.gov · ↑62 · 28 comments)]]></title>
+            <link>https://ndstudio.gov/posts/say-hello-to-rampart</link>
+            <guid>https://news.ycombinator.com/item?id=50024242</guid>
+            <pubDate>Fri, 09 Oct 2026 17:52:07 GMT</pubDate>
+            <description><![CDATA[An open-source, on-device personal information filter — among the smallest and m]]></description>
+            <content:encoded><![CDATA[An open-source, on-device personal information filter — among the smallest and most effective that can reasonably run in a browser.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="webp" url="https://ndstudio.gov/blog-posts/say-hello-to-rampart/featured.webp" alt="A grayscale illustration of a medieval stone rampart with crenellated battlements and two towers, rendered with a soft grain."/>
+        </item>
+        <item>
+            <title><![CDATA[18:54 ドコモの顧客情報1億件超がダークウェブに？　同社「流出は確認していない」 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002177/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002177/</guid>
+            <pubDate>Fri, 09 Oct 2026 09:54:41 GMT</pubDate>
+            <description><![CDATA[NTTドコモは10月9日、同社の「dポイント」に関連する約1億1000万件の顧客情報がダークウェブ上で販売されているとするSNS上の投稿について、調査の結果、同]]></description>
+            <content:encoded><![CDATA[NTTドコモは10月9日、同社の「dポイント」に関連する約1億1000万件の顧客情報がダークウェブ上で販売されているとするSNS上の投稿について、調査の結果、同様の事実は確認していないと発表した。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002177/10008990/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002177/10008990/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[12:20 “AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002121/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002121/</guid>
+            <pubDate>Fri, 09 Oct 2026 03:20:15 GMT</pubDate>
+            <description><![CDATA[米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI]]></description>
+            <content:encoded><![CDATA[米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002121/10008821/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002121/10008821/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[12:00 履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究 (itmedia.co.jp)]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/09/2000002102/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/09/2000002102/</guid>
+            <pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Sym]]></description>
+            <content:encoded><![CDATA[米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職活動でどれほどまん延しているかを調査した研究報告だ。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/09/2000002102/10008744/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002102/10008744/2048"/>
+        </item>
+    </channel>
+</rss>

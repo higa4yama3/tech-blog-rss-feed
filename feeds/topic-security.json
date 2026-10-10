@@ -1,0 +1,378 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (セキュリティ)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.json",
+    "description": "セキュリティの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=50029123",
+            "content_html": "An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.",
+            "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+            "title": "[HN 397pt] Telegram Desktop vulnerability allowed any user's file to be stolen | Hacker News: Front Page",
+            "summary": "An unescaped separator in Telegram Desktop’s single-instance IPC lets one clicked link read arbitrary files off the disk and send them to the attacker, session files included.",
+            "image": {
+                "url": "https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png",
+                "alt": "From a clicked link to the victim's session files.",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T03:02:47.000Z",
+            "date_published": "2026-10-10T03:02:47.000Z",
+            "author": {
+                "name": "g-b-r"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://beaksec.github.io/assets/img/favicons/favicon.ico",
+                "pickReason": "HN 397pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "beaksec.github.io",
+                "score": 3.016,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "HN 397pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+            "content_html": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の内容について運営元のIDCフロンティアに聞いた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+            "title": "[はてブ101] 「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は | ITmedia NEWS 最新記事一覧",
+            "summary": "ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の内容について運営元のIDCフロンティアに聞いた。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002184/10009012/2048"
+            },
+            "date_modified": "2026-10-10T03:38:24.000Z",
+            "date_published": "2026-10-10T03:38:24.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 101,
+                "originalTitle": "「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ101",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 2.734,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ101"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+            "content_html": "2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2026年9月前後」に国内組織で不正アクセスによる個人情報等の漏えい被害が相次いでいるとした。複数の製品やサービスで被害が発生している中、「技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的」とも記している。同注意喚起は、普段から断続的、散発的に発生…",
+            "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+            "title": "[はてブ166] 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2026年9月前後」に国内組織で不正アクセスによる個人情報等の漏えい",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032088434102/1791647033",
+                "alt": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog"
+            },
+            "date_modified": "2026-10-10T15:48:52.000Z",
+            "date_published": "2026-10-10T15:48:52.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 166,
+                "originalTitle": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://piyolog.hatenadiary.jp/icon/favicon",
+                "pickReason": "はてブ166",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "piyolog.hatenadiary.jp",
+                "score": 2.665,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ166"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://nyosegawa.com/posts/data-leak-era/",
+            "content_html": "2026年は大規模な個人情報の漏洩が続いています。いま何が流出しているのか、流出した情報でどんな連絡が届くのか、わたしたちは何をすればいいのかを、グラフと例でまとめます。",
+            "url": "https://nyosegawa.com/posts/data-leak-era/",
+            "title": "[はてブ155] 個人情報漏洩が日常になってしまった世界でどうしていくべきか | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "2026年は大規模な個人情報の漏洩が続いています。いま何が流出しているのか、流出した情報でどんな連絡が届くのか、わたしたちは何をすればいいのかを、グラフと例でまとめます。",
+            "image": {
+                "height": "630",
+                "type": "image/jpeg",
+                "url": "https://nyosegawa.com/og/data-leak-era.jpg",
+                "width": "1200"
+            },
+            "date_modified": "2026-10-10T07:36:44.000Z",
+            "date_published": "2026-10-10T07:36:44.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 155,
+                "originalTitle": "個人情報漏洩が日常になってしまった世界でどうしていくべきか",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://nyosegawa.com/favicon.png",
+                "pickReason": "はてブ155",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "nyosegawa.com",
+                "score": 2.237,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ155"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "content_html": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.",
+            "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "title": "[はてブ21] Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research",
+            "summary": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join ",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 21,
+                "originalTitle": "Launching an opt-in vulnerability-finding service for open-source software",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ21 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.3,
+                "topics": [
+                    "ai",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ21",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "content_html": "こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証情報が盗まれるワーム型の攻撃が公開されました。 この検体は、盗んだ認証情報で別のパッケージを次々と再公開して広がるだけでなく、Claude Code や VS Code の設定ファイルに自分自身を書き…",
+            "url": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "title": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 | LayerX エンジニアブログ",
+            "summary": "こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8e7b426a1a2951b1aaaa6d13cbe5bad8243520ef/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmas358%2F20261009%2F20261009165746.png",
+                "alt": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T07:21:14.000Z",
+            "date_published": "2026-10-09T07:21:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX",
+                "host": "tech.layerx.co.jp",
+                "score": 0.902,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+            "content_html": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+            "url": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+            "title": "[数字のインパクト] ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング) | 日経ビジネス電子版　最新記事",
+            "summary": "［新連載］ゼンショー、株価373倍の異次元成長 小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害 サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本 AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/audio/22/00001/100800977/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "security",
+                    "business"
+                ],
+                "topicLabels": [
+                    "セキュリティ",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://mackerel.io/ja/blog/entry/announcement/20261007-idcf",
+            "content_html": "いつもMackerelをご利用いただき、ありがとうございます。 本日2026年10月7日、株式会社IDCフロンティア（以下「IDCフロンティア」）より、IDCFクラウドの一部システムへの第三者による不正アクセスについて発表がありました。 当社サービスの一部システムに対する不正アクセスについて | ニュース | IDCフロンティア https://www.idcf.jp/news/topics/20261007001 MackerelはIDCFクラウドと連携しており、IDCFクラウドアカウントを利用したログインや、IDCFクラウド上のリソースの監視にMackerelをご利用いただけるプラン（ID…",
+            "url": "https://mackerel.io/ja/blog/entry/announcement/20261007-idcf",
+            "title": "IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内 | Mackerel ブログ #mackerelio",
+            "summary": "いつもMackerelをご利用いただき、ありがとうございます。 本日2026年10月7日、株式会社IDCフロンティア（以下「IDCフロンティア」）より、IDCFクラウドの一部システムへの第三者による不正アクセスについて発表がありました。 当社サービスの一部システムに対する不正アクセスについて | ニュース | IDCフロンティア https://www.idcf.jp/news/topics/20",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a6e3cc3ebd4e3b4b1ef77cb1a43fabdb5ca3f2d3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmackerelio%2F20261007%2F20261007185208.png",
+                "alt": "IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内 - Mackerel ブログ #mackerelio",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T09:55:23.000Z",
+            "date_published": "2026-10-07T09:55:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "IDCFクラウド連携でMackerelをご利用中のみなさまへのご案内",
+                "blogTitle": "Mackerel ブログ #mackerelio",
+                "blogLink": "https://mackerel.io/ja/blog/",
+                "blogLinkMd5Hash": "6274999a3d0a169575b1c551d2730aae",
+                "favicon": "https://mackerel.io/ja/blog/icon/favicon",
+                "pickReason": "セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "Mackerel",
+                "host": "mackerel.io",
+                "score": 0.308,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37857",
+            "content_html": "はじめに IIJは、2026年10月15日（木）～16日（金）に開催される「ひろしまIT総合展 2026」に出展します。 本展示会では、「攻めるDXも、守るセキ...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37857",
+            "title": "「攻めるDX」と「守るセキュリティ」を支えるIIJの技術を、ひろしまIT総合展2026で体感 | IIJ Engineers Blog",
+            "summary": "はじめに IIJは、2026年10月15日（木）～16日（金）に開催される「ひろしまIT総合展 2026」に出展します。 本展示会では、「攻めるDXも、守るセキ...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/09/hiroshima_1024x576.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T06:04:50.000Z",
+            "date_published": "2026-10-07T06:04:50.000Z",
+            "author": {
+                "name": "吉田"
+            },
+            "tags": [
+                "イベント",
+                "セキュリティ",
+                "イベント告知",
+                "iot-magazine",
+                "DC",
+                "SASE",
+                "BCP"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「攻めるDX」と「守るセキュリティ」を支えるIIJの技術を、ひろしまIT総合展2026で体感",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ",
+                "host": "eng-blog.iij.ad.jp",
+                "score": 0.179,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (カルチャー)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.atom.xml</link>
+        <description>カルチャーの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (カルチャー)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2146954.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2146954.html</guid>
+            <pubDate>Thu, 08 Oct 2026 22:50:00 GMT</pubDate>
+            <description><![CDATA[ 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。]]></description>
+            <content:encoded><![CDATA[ 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ91] 「サイバーパンク2077」映画化！ | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157325</link>
+            <guid>https://www.cinematoday.jp/news/N0157325</guid>
+            <pubDate>Fri, 09 Oct 2026 00:59:33 GMT</pubDate>
+            <description><![CDATA[キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。]]></description>
+            <content:encoded><![CDATA[キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/-kmFMcmnj60l/_size_r1200x630/_v_1791507573/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] 鈴木伸之「救命病棟24時」で5年ぶり月9出演！詳細は謎のキーパーソンに | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157336</link>
+            <guid>https://www.cinematoday.jp/news/N0157336</guid>
+            <pubDate>Sat, 10 Oct 2026 20:30:00 GMT</pubDate>
+            <description><![CDATA[江口洋介と松嶋菜々子がダブル主演を務めるフジテレビ系10月期の新・月9ドラマ「救命病棟24時」（10月12日スタート、毎週月曜21時～※初回15分拡大）に、鈴木伸之が出演することが発表された。]]></description>
+            <content:encoded><![CDATA[江口洋介と松嶋菜々子がダブル主演を務めるフジテレビ系10月期の新・月9ドラマ「救命病棟24時」（10月12日スタート、毎週月曜21時～※初回15分拡大）に、鈴木伸之が出演することが発表された。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/TPY7vKhswwrc/_size_r1200x630/_v_1791524596/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[仕組みを掘る] ［連載小説5］説明会後に内部通報が急増　1兆円超案件の現場からの相談も (氷層) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00934/092800005/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00934/092800005/</guid>
+            <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。]]></description>
+            <content:encoded><![CDATA[。その一文を読みながら、森村は6年前の買収案件を思い出していた。十分な調査を求めながら、成長機会を逃すという理由で退けられた案件だった。あの時も、最初にあったのは確信ではなく、小さな違和感だった。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00934/092800005/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[『ゴジラ-0.0』山崎監督に憂いなし　前作大成功のプレッシャー一蹴「またすげぇ映画作りゃいい」 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157356</link>
+            <guid>https://www.cinematoday.jp/news/N0157356</guid>
+            <pubDate>Fri, 09 Oct 2026 22:32:00 GMT</pubDate>
+            <description><![CDATA[スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。]]></description>
+            <content:encoded><![CDATA[スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/wRi8N2x4TucM/_size_r1200x630/_v_1791548809/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「角醒ハンター オメガホーン」ギリコVSバーサー、因縁のハンターバトル【第12話あらすじ】 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157349</link>
+            <guid>https://www.cinematoday.jp/news/N0157349</guid>
+            <pubDate>Sat, 10 Oct 2026 00:10:00 GMT</pubDate>
+            <description><![CDATA[“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第12話「取り戻せ！ギリコVSバーサー！」が、11日午前9時30分よりテレビ朝日系にて放送される。]]></description>
+            <content:encoded><![CDATA[“赤いヒーロー”が活躍する東映特撮シリーズ「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」の第12話「取り戻せ！ギリコVSバーサー！」が、11日午前9時30分よりテレビ朝日系にて放送される。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/jVSW7kKiu2v7/_size_r1200x630/_v_1791539766/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[磯村勇斗＆末澤誠也、初共演で芽生えた兄弟のような絆　衝撃作『mentor』で役者の魅力実感 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157267</link>
+            <guid>https://www.cinematoday.jp/news/N0157267</guid>
+            <pubDate>Fri, 09 Oct 2026 23:32:00 GMT</pubDate>
+            <description><![CDATA[吉田恵輔監督（「吉」はつちよしが正式表記）による最新作『mentor』でW主演を果たし、少年時代の過ちを抱えて生きる幼馴染を演じた磯村勇斗と末澤誠也（Aぇ! group）。]]></description>
+            <content:encoded><![CDATA[吉田恵輔監督（「吉」はつちよしが正式表記）による最新作『mentor』でW主演を果たし、少年時代の過ちを抱えて生きる幼馴染を演じた磯村勇斗と末澤誠也（Aぇ! group）。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/0cOFrRV-IZU7/_size_r1200x630/_v_1791534635/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「薬屋のひとりごと」劇場版、4日連続キャラPV公開！第一弾は猫猫＆壬氏一行 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157355</link>
+            <guid>https://www.cinematoday.jp/news/N0157355</guid>
+            <pubDate>Sat, 10 Oct 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[本日（11日）から14日までの4日間連続で、『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）に登場するキャラクターたちのPVを公開。第一弾として猫猫・壬氏一行が公開された。]]></description>
+            <content:encoded><![CDATA[本日（11日）から14日までの4日間連続で、『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）に登場するキャラクターたちのPVを公開。第一弾として猫猫・壬氏一行が公開された。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/teAw53T6DG6-/_size_r1200x630/_v_1791546496/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[『踊る大捜査線』30年愛される“青島コート”の秘密　続編のたびに4～5着製作、色味＆涼感加工もアップデート | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157087</link>
+            <guid>https://www.cinematoday.jp/news/N0157087</guid>
+            <pubDate>Sat, 10 Oct 2026 22:02:00 GMT</pubDate>
+            <description><![CDATA[『踊る大捜査線』シリーズで織田裕二が演じる主人公・青島俊作を象徴するものとして真っ先に思い浮かぶのが、モスグリーンのモッズコートだ。]]></description>
+            <content:encoded><![CDATA[『踊る大捜査線』シリーズで織田裕二が演じる主人公・青島俊作を象徴するものとして真っ先に思い浮かぶのが、モスグリーンのモッズコートだ。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/BovZr-hEqFTY/_size_r1200x630/_v_1791556309/main.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[今夜「VIVANT」黒須たちが囚われた牢獄まで辿り着く【第20話あらすじ】 | シネマトゥデイ]]></title>
+            <link>https://www.cinematoday.jp/news/N0157308</link>
+            <guid>https://www.cinematoday.jp/news/N0157308</guid>
+            <pubDate>Sat, 10 Oct 2026 21:32:00 GMT</pubDate>
+            <description><![CDATA[日曜劇場「VIVANT」（TBS系）の第20話（第2シーズン第10話）が、11日よる9時から放送される。]]></description>
+            <content:encoded><![CDATA[日曜劇場「VIVANT」（TBS系）の第20話（第2シーズン第10話）が、11日よる9時から放送される。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://img.cinematoday.jp/a/auZUB9rLJ_js/_size_r1200x630/_v_1791433597/main.jpg"/>
+        </item>
+    </channel>
+</rss>

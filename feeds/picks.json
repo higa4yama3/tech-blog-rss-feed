@@ -1,0 +1,219 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (今日の5本)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "読んで高揚しそうな記事をスコア順に選んだもの",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/mattn/articles/6e9996319ac099",
+            "content_html": "はてブ55\nはじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...",
+            "url": "https://zenn.dev/mattn/articles/6e9996319ac099",
+            "title": "[はてブ55] SQLite 本体にベクトル検索拡張 vec1 がやってきた | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "はてブ55\nはじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--PnneRXdm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQLite%2520%25E6%259C%25AC%25E4%25BD%2593%25E3%2581%25AB%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E6%25A4%259C%25E7%25B4%25A2%25E6%258B%25A1%25E5%25BC%25B5%2520vec1%2520%25E3%2581%258C%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwYjA3ZWIzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T17:16:51.000Z",
+            "date_published": "2026-10-10T17:16:51.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 55,
+                "originalTitle": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ55",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "zenn.dev",
+                "score": 3.584,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ55"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
+            "content_html": "はてブ74 · 数字のインパクト\n 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)はHugging FaceとKaggleからダウンロードでき、Apache 2.0ライセンスの下で商用利用も認められる。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
+            "title": "[はてブ74] 写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "はてブ74 · 数字のインパクト\n 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)",
+            "image": {
+                "url": "https://pc.watch.impress.co.jp/img/pcw/list/2147/318/01.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T23:24:10.000Z",
+            "date_published": "2026-10-09T23:24:10.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 74,
+                "originalTitle": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://pc.watch.impress.co.jp/favicon.ico",
+                "pickReason": "はてブ74 · 数字のインパクト",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "pc.watch.impress.co.jp",
+                "score": 3.534,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ74",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50031614",
+            "content_html": "HN 228pt\nYour personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
+            "url": "https://github.com/rociiu/talorys",
+            "title": "[HN 228pt] Talorys – A self-hosted personal AI agent on Cloudflare's free tier | Hacker News: Front Page",
+            "summary": "HN 228pt\nYour personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-use",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/aad967bff334e63919fd6fb602ebfabb3de91eadfdf2446a0c2a9184f009fd4f/rociiu/talorys",
+                "width": "1200",
+                "alt": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ..."
+            },
+            "date_modified": "2026-10-10T10:52:09.000Z",
+            "date_published": "2026-10-10T10:52:09.000Z",
+            "author": {
+                "name": "rociiu"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "HN 228pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "github.com",
+                "score": 3.207,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 228pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85582",
+            "content_html": "はてブ248 · 新しく出た\n今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "url": "https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html",
+            "title": "[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス",
+            "summary": "はてブ248 · 新しく出た\n今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100901@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T05:21:49.000Z",
+            "date_published": "2026-10-09T05:21:49.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "excel",
+                "PowerPoint",
+                "word"
+            ],
+            "_custom": {
+                "hatenaCount": 248,
+                "originalTitle": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ248 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 2.11,
+                "topics": [
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ248",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "content_html": "はてブ33\nAIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞれの領域を強みとするメンバーを組み合わせてプロダクトを前に進める。万能な一人へ仕事を集約するのではなく、専門性を持つメンバーがチームで大きな成果を狙う組織へ移る挑戦を開始しました。今後も加速する技術の…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "title": "[はてブ33] AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 | Sansan Tech Blog",
+            "summary": "はてブ33\nAIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/70e8d43440edb466b13efb75ee1548f885ff0c93/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg",
+                "alt": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:00:00.000Z",
+            "date_published": "2026-10-09T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "はてブ33",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 1.756,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ33"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-10-10T23:26:37.542Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>今週の人気（はてブ3件以上・直近7日をスコア順）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ204] bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261009a/</id>
+        <link href="https://future-architect.github.io/articles/20261009a/"/>
+        <updated>2026-10-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。]]></summary>
+        <content type="html"><![CDATA[業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。]]></content>
+        <published>2026-10-08T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス]]></title>
+        <id>https://coliss.com/?p=85582</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html"/>
+        <updated>2026-10-09T05:21:49.000Z</updated>
+        <summary type="html"><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></summary>
+        <content type="html"><![CDATA[今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="excel"/>
+        <category label="PowerPoint"/>
+        <category label="word"/>
+        <published>2026-10-09T05:21:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2146954.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2146954.html"/>
+        <updated>2026-10-08T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。]]></summary>
+        <content type="html"><![CDATA[ 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-08T22:50:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ295] 最近のLLMは黙って考えられるようになっている | ｼﾞｮｲｼﾞｮｲｼﾞｮｲ]]></title>
+        <id>https://joisino.hatenablog.com/entry/filler</id>
+        <link href="https://joisino.hatenablog.com/entry/filler"/>
+        <updated>2026-10-07T08:15:49.000Z</updated>
+        <summary type="html"><![CDATA[LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなるこ]]></summary>
+        <content type="html"><![CDATA[LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなることが確認されています [Greenblat 2025]。 少し難しい以下のような問題に思考の連鎖を付けずにただちに答えさせようとしても LLM は間違えます。 問題：イリジウムの原子番号とモーツァルト…]]></content>
+        <published>2026-10-07T08:15:49.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ21] Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</id>
+        <link href="https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"/>
+        <updated>2026-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join ]]></summary>
+        <content type="html"><![CDATA[We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ414] PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応 | コリス]]></title>
+        <id>https://coliss.com/?p=85533</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261008.html"/>
+        <updated>2026-10-08T00:36:52.000Z</updated>
+        <summary type="html"><![CDATA[10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti]]></summary>
+        <content type="html"><![CDATA[10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafti]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="adobe"/>
+        <published>2026-10-08T00:36:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ33] AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 | Sansan Tech Blog]]></title>
+        <id>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</id>
+        <link href="https://buildersbox.corp-sansan.com/entry/2026/10/09/130000"/>
+        <updated>2026-10-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞ]]></summary>
+        <content type="html"><![CDATA[AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞれの領域を強みとするメンバーを組み合わせてプロダクトを前に進める。万能な一人へ仕事を集約するのではなく、専門性を持つメンバーがチームで大きな成果を狙う組織へ移る挑戦を開始しました。今後も加速する技術の…]]></content>
+        <published>2026-10-09T04:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ11] ファインディの開発文化 - 小さな積み重ねと、それを支える仕組み | Findy Tech Blog]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/10/09/070000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/10/09/070000"/>
+        <updated>2026-10-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで]]></summary>
+        <content type="html"><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 このテックブログではこれまでファインディの開発組織の取り組みを紹介してきました。一方で、開発組織の文化を紹介した記事はあまりありませんでした。 そこで今回は、弊社のことをさらに知ってもらうためにファインディの開発文化を紹介します。日々の開発の進め方から、それを組織に広げて続けるための仕組み、そして文化を支えているものまで、なぜそうしているのかと合わせて紹介します。ファインディの開発組織に興味を持ってくださっている方や、組織の文化づくりに取り組んでいる方の参考になると幸いです。 開発の土台をつくる コード生成前の準備 …]]></content>
+        <published>2026-10-08T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ8] Introducing the Anthropic Cyber Mission | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/anthropic-cyber-mission</id>
+        <link href="https://www.anthropic.com/news/anthropic-cyber-mission"/>
+        <updated>2026-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></summary>
+        <content type="html"><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ189] 「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261008a/</id>
+        <link href="https://future-architect.github.io/articles/20261008a/"/>
+        <updated>2026-10-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オライリー・ジャパンの『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』を読んだ感想と、各章の「関連リソース」に挙がる書籍55冊を整理した読書マップを紹介します。]]></summary>
+        <content type="html"><![CDATA[オライリー・ジャパンの『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』を読んだ感想と、各章の「関連リソース」に挙がる書籍55冊を整理した読書マップを紹介します。]]></content>
+        <published>2026-10-07T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ38] バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？ | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261010-data-backups-arent-simple/</id>
+        <link href="https://gigazine.net/news/20261010-data-backups-arent-simple/"/>
+        <updated>2026-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。]]></summary>
+        <content type="html"><![CDATA[故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。]]></content>
+        <published>2026-10-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ37] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2146735.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2146735.html"/>
+        <updated>2026-10-08T07:22:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。]]></summary>
+        <content type="html"><![CDATA[ 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-08T07:22:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261010-readest/</id>
+        <link href="https://gigazine.net/news/20261010-readest/"/>
+        <updated>2026-10-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。]]></summary>
+        <content type="html"><![CDATA[電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。]]></content>
+        <published>2026-10-10T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ92] Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2146802.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2146802.html"/>
+        <updated>2026-10-08T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。]]></summary>
+        <content type="html"><![CDATA[ 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-08T08:32:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/</id>
+        <link href="https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/"/>
+        <updated>2026-10-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。]]></summary>
+        <content type="html"><![CDATA[注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。]]></content>
+        <published>2026-10-10T14:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ11] 2026 Usage Policy update | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/2026-usage-policy-update</id>
+        <link href="https://www.anthropic.com/news/2026-usage-policy-update"/>
+        <updated>2026-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.]]></summary>
+        <content type="html"><![CDATA[We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ58] git worktree大増殖で困っていた | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/git-worktree-gc</id>
+        <link href="https://www.m3tech.blog/entry/git-worktree-gc"/>
+        <updated>2026-10-06T03:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来]]></summary>
+        <content type="html"><![CDATA[Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来たりと作業していたんです。それで昨今の流行でworktreeサブコマンドの存在を知ったときには悔しいのなんの。 とはいえ、worktreeを使って（AIエージェントも使って）超多並列で開発業務をやって…]]></content>
+        <published>2026-10-06T03:05:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ5] The missing map of the sky | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/the-missing-map-of-the-sky</id>
+        <link href="https://www.anthropic.com/research/the-missing-map-of-the-sky"/>
+        <updated>2026-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Science helped produce the first complete map of the sky in UV light]]></summary>
+        <content type="html"><![CDATA[Claude Science helped produce the first complete map of the sky in UV light]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ91] 「サイバーパンク2077」映画化！ | シネマトゥデイ]]></title>
+        <id>https://www.cinematoday.jp/news/N0157325</id>
+        <link href="https://www.cinematoday.jp/news/N0157325"/>
+        <updated>2026-10-09T00:59:33.000Z</updated>
+        <summary type="html"><![CDATA[キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。]]></summary>
+        <content type="html"><![CDATA[キアヌ・リーヴスが出演したことでも話題のゲーム「サイバーパンク2077」ユニバースを舞台にした実写映画が、パラマウント・ピクチャーズの下で進行中であることが明らかになった。]]></content>
+        <published>2026-10-09T00:59:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ4] CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 | NTT docomo Business Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/202609-cococli-hackathon/entry</id>
+        <link href="https://engineers.ntt.com/entry/202609-cococli-hackathon/entry"/>
+        <updated>2026-10-06T03:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。]]></summary>
+        <content type="html"><![CDATA[Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。]]></content>
+        <published>2026-10-06T03:01:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] Expanding the Cyber Verification Program | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/cyber-verification-program</id>
+        <link href="https://www.anthropic.com/news/cyber-verification-program"/>
+        <updated>2026-10-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals]]></summary>
+        <content type="html"><![CDATA[We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-06T00:00:00.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,1218 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (AI・LLM)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai.json",
+    "description": "AI・LLMの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
+            "content_html": " 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)はHugging FaceとKaggleからダウンロードでき、Apache 2.0ライセンスの下で商用利用も認められる。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
+            "title": "[はてブ74] 写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": " 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)はHugging FaceとKag",
+            "image": {
+                "url": "https://pc.watch.impress.co.jp/img/pcw/list/2147/318/01.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T23:24:10.000Z",
+            "date_published": "2026-10-09T23:24:10.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 74,
+                "originalTitle": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://pc.watch.impress.co.jp/favicon.ico",
+                "pickReason": "はてブ74 · 数字のインパクト",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "pc.watch.impress.co.jp",
+                "score": 3.534,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ74",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261009a/",
+            "content_html": "業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261009a/",
+            "title": "[はてブ204] bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261009a/purchase_request.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T01:47:07.000Z",
+            "date_published": "2026-10-10T01:47:07.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 204,
+                "originalTitle": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ204",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "future-architect.github.io",
+                "score": 3.326,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ204"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50031614",
+            "content_html": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
+            "url": "https://github.com/rociiu/talorys",
+            "title": "[HN 228pt] Talorys – A self-hosted personal AI agent on Cloudflare's free tier | Hacker News: Front Page",
+            "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/aad967bff334e63919fd6fb602ebfabb3de91eadfdf2446a0c2a9184f009fd4f/rociiu/talorys",
+                "width": "1200",
+                "alt": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ..."
+            },
+            "date_modified": "2026-10-10T10:52:09.000Z",
+            "date_published": "2026-10-10T10:52:09.000Z",
+            "author": {
+                "name": "rociiu"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "HN 228pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "github.com",
+                "score": 3.207,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 228pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50035886",
+            "content_html": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+            "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+            "title": "[HN 96pt] Nvidia in talks to acquire US 'open' model startup Reflection AI | Hacker News: Front Page",
+            "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+            "image": {
+                "url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T18:48:35.000Z",
+            "date_published": "2026-10-10T18:48:35.000Z",
+            "author": {
+                "name": "arkj"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=svg",
+                "pickReason": "HN 96pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "ft.com",
+                "score": 3.197,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 96pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+            "content_html": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。   https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758  AI は誰でも&amp;hellip;",
+            "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+            "title": "[はてブ82] 事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。   https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758  AI は誰でも&amp;hellip;",
+            "image": {
+                "url": "https://files.speakerdeck.com/presentations/80f56f3bc15e4c9b8c887a0e18af226c/slide_0.jpg?40842325",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T01:29:35.000Z",
+            "date_published": "2026-10-10T01:29:35.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 82,
+                "originalTitle": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png",
+                "pickReason": "はてブ82",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "speakerdeck.com",
+                "score": 2.846,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ82"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu",
+            "content_html": "2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。",
+            "url": "https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu",
+            "title": "[はてブ148] AI駆動開発の時代になったのでトヨタ生産方式から見直す | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。",
+            "image": {
+                "url": "https://files.speakerdeck.com/presentations/5cb814cba1264d24a9fe46a96500d555/slide_0.jpg?40857783",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T15:18:20.000Z",
+            "date_published": "2026-10-09T15:18:20.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 148,
+                "originalTitle": "AI駆動開発の時代になったのでトヨタ生産方式から見直す",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png",
+                "pickReason": "はてブ148",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "speakerdeck.com",
+                "score": 2.584,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ148"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50037299",
+            "content_html": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+            "title": "[HN 23pt] Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks | Hacker News: Front Page",
+            "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
+            "image": {
+                "height": "900",
+                "url": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
+                "width": "1600",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T21:19:42.000Z",
+            "date_published": "2026-10-10T21:19:42.000Z",
+            "author": {
+                "name": "PicardManeuver"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.bleepstatic.com/favicon/bleeping.ico",
+                "pickReason": "HN 23pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "bleepingcomputer.com",
+                "score": 2.447,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 23pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+            "content_html": "若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...",
+            "url": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+            "title": "[はてブ85] 若手エンジニアに必要だと感じた「AIを使う力」 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--skPAiA9t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%258B%25A5%25E6%2589%258B%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AB%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25A0%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2581%259F%25E3%2580%258CAI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E5%258A%259B%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Goto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIxZGYyYTRkNjIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E4%25B8%2589%25E8%258F%25B1UFJ%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258E%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2586...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlYmJmNDUzOGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T10:44:35.000Z",
+            "date_published": "2026-10-09T10:44:35.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 85,
+                "originalTitle": "若手エンジニアに必要だと感じた「AIを使う力」",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ85",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "zenn.dev",
+                "score": 2.156,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ85"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50027257",
+            "content_html": "Early evidence from InnovationEval: No",
+            "url": "https://epoch.ai/publications/innovationeval",
+            "title": "[HN 62pt] Recent AI models struggled to match a human algorithmic innovation | Hacker News: Front Page",
+            "summary": "Early evidence from InnovationEval: No",
+            "image": {
+                "url": "https://epoch.ai/assets/images/posts/2026/innovationeval/t-innovationeval.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T22:14:40.000Z",
+            "date_published": "2026-10-09T22:14:40.000Z",
+            "author": {
+                "name": "merksittich"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Recent AI models struggled to match a human algorithmic innovation",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://epoch.ai/favicon.svg",
+                "pickReason": "HN 62pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "epoch.ai",
+                "score": 1.97,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 62pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-readest/",
+            "content_html": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "url": "https://gigazine.net/news/20261010-readest/",
+            "title": "[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE",
+            "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/readest/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T09:00:00.000Z",
+            "date_published": "2026-10-10T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ5 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.882,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ5",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "content_html": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+            "title": "[はてブ163] Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成 | 窓の杜",
+            "summary": " 米Anthropicは10月8日（現地時間、以下同）、「Claude」の新機能「Claude Dashboards」と「Claude Motion」を発表した。併せて、テスト提供されていた「Docs」「Slides」「Design」がベータ版を卒業し、無料（Free）を含むすべてのプランで利用できるようになったこともアナウンスされた。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/954/claude.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T22:50:00.000Z",
+            "date_published": "2026-10-08T22:50:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 163,
+                "originalTitle": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ163 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.761,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ163",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "content_html": "AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞれの領域を強みとするメンバーを組み合わせてプロダクトを前に進める。万能な一人へ仕事を集約するのではなく、専門性を持つメンバーがチームで大きな成果を狙う組織へ移る挑戦を開始しました。今後も加速する技術の…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/09/130000",
+            "title": "[はてブ33] AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 | Sansan Tech Blog",
+            "summary": "AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。Sansanが選んだのは、一見するとその流れに逆行する戦略です。PdMに求める共通の基礎を定めた上で、役割を5つの専門領域に分け、それぞ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/70e8d43440edb466b13efb75ee1548f885ff0c93/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsansantech%2F20261008%2F20261008125008.jpg",
+                "alt": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 - Sansan Tech Blog",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T04:00:00.000Z",
+            "date_published": "2026-10-09T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "はてブ33",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 1.756,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ33"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+            "content_html": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+            "title": "[はてブ14] OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明 | ITmedia NEWS 最新記事一覧",
+            "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002189/10009029/2048"
+            },
+            "date_modified": "2026-10-09T23:28:02.000Z",
+            "date_published": "2026-10-09T23:28:02.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ14",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.686,
+                "topics": [
+                    "ai",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ14"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+            "content_html": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職活動でどれほどまん延しているかを調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+            "title": "[はてブ39] 履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究 | ITmedia NEWS 最新記事一覧",
+            "summary": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002102/10008744/2048"
+            },
+            "date_modified": "2026-10-09T03:00:00.000Z",
+            "date_published": "2026-10-09T03:00:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 39,
+                "originalTitle": "履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ39",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.426,
+                "topics": [
+                    "ai",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ39"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+            "content_html": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+            "title": "[はてブ32] “AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に | ITmedia NEWS 最新記事一覧",
+            "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるか",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002121/10008821/2048"
+            },
+            "date_modified": "2026-10-09T03:20:15.000Z",
+            "date_published": "2026-10-09T03:20:15.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 32,
+                "originalTitle": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ32",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.378,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ32"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "content_html": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.",
+            "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "title": "[はてブ21] Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research",
+            "summary": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join ",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 21,
+                "originalTitle": "Launching an opt-in vulnerability-finding service for open-source software",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ21 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.3,
+                "topics": [
+                    "ai",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ21",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://joisino.hatenablog.com/entry/filler",
+            "content_html": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなることが確認されています [Greenblat 2025]。 少し難しい以下のような問題に思考の連鎖を付けずにただちに答えさせようとしても LLM は間違えます。 問題：イリジウムの原子番号とモーツァルト…",
+            "url": "https://joisino.hatenablog.com/entry/filler",
+            "title": "[はてブ295] 最近のLLMは黙って考えられるようになっている | ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+            "summary": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことです。これを質問に後付けすることで、精度が高くなるこ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8a0262dd141a1e925fe258356cb931f0e5a0ffc7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjoisino%2F20261007%2F20261007092415.png",
+                "alt": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T08:15:49.000Z",
+            "date_published": "2026-10-07T08:15:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 295,
+                "originalTitle": "最近のLLMは黙って考えられるようになっている",
+                "blogTitle": "ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+                "blogLink": "https://joisino.hatenablog.com/",
+                "blogLinkMd5Hash": "6f14f2f6a895ba8ed117ae4f64f10dad",
+                "favicon": "https://joisino.hatenablog.com/icon/favicon",
+                "pickReason": "はてブ295",
+                "sourceTier": "core",
+                "sourceLabel": "joisino",
+                "host": "joisino.hatenablog.com",
+                "score": 1.106,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ295"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/anthropic-cyber-mission",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+            "title": "[はてブ8] Introducing the Anthropic Cyber Mission | Anthropic News",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 8,
+                "originalTitle": "Introducing the Anthropic Cyber Mission",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ8 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 1.085,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ8",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "content_html": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "title": "[はてブ37] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜",
+            "summary": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/735/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T07:22:00.000Z",
+            "date_published": "2026-10-08T07:22:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ37 · 動かしてみた",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.05,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ37",
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "content_html": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
+            "title": "[はてブ92] Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定 | 窓の杜",
+            "summary": " 米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/802/synthid_detector.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T08:32:00.000Z",
+            "date_published": "2026-10-08T08:32:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 92,
+                "originalTitle": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ92",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.026,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ92"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/2026-usage-policy-update",
+            "content_html": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+            "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+            "title": "[はてブ11] 2026 Usage Policy update | Anthropic News",
+            "summary": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "2026 Usage Policy update",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ11",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.876,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ11"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66719",
+            "content_html": "この記事では、評価ガイドの概要と、使ってみた所感をまとめます。モデルの性能比較が目的ではありません。",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66719/",
+            "title": "[動かしてみた] OpenAIの音声エージェント評価ガイドを日本語の小売サポートで試してみた | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "この記事では、評価ガイドの概要と、使ってみた所感をまとめます。モデルの性能比較が目的ではありません。",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--oKdazjYG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenAI%25E3%2581%25AE%25E9%259F%25B3%25E5%25A3%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E8%25A9%2595%25E4%25BE%25A1%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2582%2592%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2581%25AE%25E5%25B0%258F%25E5%25A3%25B2%25E3%2582%25B5%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sinhat98%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUxHWWlGXzNfUkthdXU3azFXSnp1YVJEejZ6UGNCN0pmY1R3N0JrXzhkelFISEVJNmc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T03:47:34.000Z",
+            "date_published": "2026-10-09T03:47:34.000Z",
+            "author": {
+                "name": "技術 / クリエイティブ広報"
+            },
+            "tags": [
+                "エンジニア"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAIの音声エージェント評価ガイドを日本語の小売サポートで試してみた",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "動かしてみた",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent",
+                "host": "developers.cyberagent.co.jp",
+                "score": 0.863,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+            "title": "Investigating unintended model actions in our evaluations and internal use | Anthropic Research",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f11d2325e688229de8a887ef7ece34f520ab7134-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T00:00:00.000Z",
+            "date_published": "2026-10-09T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Investigating unintended model actions in our evaluations and internal use",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.861,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/genesis-mission-commitment",
+            "content_html": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. ",
+            "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+            "title": "[発見] Building on our commitment to American scientific discovery | Anthropic News",
+            "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. ",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&backgroundColor=heather",
+                "alt": "Stylized double helix representing the intersection of science and human potential"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Building on our commitment to American scientific discovery",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.82,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+            "content_html": "Claude Science helped produce the first complete map of the sky in UV light",
+            "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+            "title": "[はてブ5] The missing map of the sky | Anthropic Research",
+            "summary": "Claude Science helped produce the first complete map of the sky in UV light",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dde28f2eb899eade347dd07314a9c6b65bfbbb3c-1200x630.png",
+                "alt": "The first complete map of the sky in UV light",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "The missing map of the sky",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ5",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.709,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ5"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/fbz-history",
+            "content_html": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数500本超、40個以上のスタックで稼働しています。サーバーレス自体の運用負荷は低い一方、9年間でツールの有償化やプラグインの保守停止、ランタイムのEOL、リソース上限といった「周辺環境の変化」への追従を…",
+            "url": "https://techblog.zozo.com/entry/fbz-history",
+            "title": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数5",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e663c03f7a2d3ef154c5fcdb43b501fc131200f9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png",
+                "alt": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T02:00:00.000Z",
+            "date_published": "2026-10-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.667,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
+            "content_html": "任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
+            "title": "[数字のインパクト] 半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保) | 日経ビジネス電子版　最新記事",
+            "summary": "任天堂が半導体メモリーなどの高騰を理由にゲーム機を値上げした。AI向けに生産能力が振り向けられ、半導体は全般に不足している。日本企業は購入量の減少に伴い、半導体メーカーの「お得意さま」ではなくなった。優遇されない企業には、需給変動を先読みした調達戦略が求められる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00800/100800044/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T20:00:00.000Z",
+            "date_published": "2026-10-08T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement",
+            "content_html": "G-gen の杉村です。当記事は、2026年10月9日午前2時30分（日本時間）に開催された Gemini at Work 2026で発表された「Gemini エージェント」に関する速報です。 Gemini at Work Gemini の「エージェント化」 デモ Gemini 4 Argon の一般公開は未定 Gemini at Work 太平洋標準時2026年10月8日午前10時30分（日本時間では2026年10月9日午前2時30分）、Google の生成 AI モデル「Gemini」および AI エージェントのビジネス活用に特化したカンファレンスイベント、Gemini at Work が…",
+            "url": "https://blog.g-gen.co.jp/entry/gemini-at-work-new-gemini-announcement",
+            "title": "Gemini at Work 2026で発表されたGeminiエージェント速報 | G-gen Tech Blog",
+            "summary": "G-gen の杉村です。当記事は、2026年10月9日午前2時30分（日本時間）に開催された Gemini at Work 2026で発表された「Gemini エージェント」に関する速報です。 Gemini at Work Gemini の「エージェント化」 デモ Gemini 4 Argon の一般公開は未定 Gemini at Work 太平洋標準時2026年10月8日午前10時30分（日本時",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a43bbb736e64de2709ba1e4e298d810fe0096224/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261009%2F20261009033013.png",
+                "alt": "Gemini at Work 2026で発表されたGeminiエージェント速報 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T22:00:00.000Z",
+            "date_published": "2026-10-08T22:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Gemini at Work 2026で発表されたGeminiエージェント速報",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.618,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "content_html": "Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来たりと作業していたんです。それで昨今の流行でworktreeサブコマンドの存在を知ったときには悔しいのなんの。 とはいえ、worktreeを使って（AIエージェントも使って）超多並列で開発業務をやって…",
+            "url": "https://www.m3tech.blog/entry/git-worktree-gc",
+            "title": "[はてブ58] git worktree大増殖で困っていた | エムスリーテックブログ",
+            "summary": "Gitのworktreeサブコマンドは、AIエージェント開発が普及してから急によく知られるようになった感があります。実際にこれが登場したのはもう10年前、2016年のことだそうですね。私自身は業務の性質上、複数の依頼案件を並列で進めることが多くてAIエージェントが出てくる前からworktreeみたいなことをしていました。同じリポジトリを何個もローカルに別々にcloneしてあっちへ行ったりこっちへ来",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8599973812294943206/14945776032084410398/1791255909",
+                "alt": "git worktree大増殖で困っていた - エムスリーテックブログ"
+            },
+            "date_modified": "2026-10-06T03:05:04.000Z",
+            "date_published": "2026-10-06T03:05:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 58,
+                "originalTitle": "git worktree大増殖で困っていた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ58",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.482,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ58"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.colopl.dev/entry/2026/10/08/110000",
+            "content_html": "こんにちは、クライアントエンジニアの平野孝明です！ コロプラでは開発現場でのAI活用を積極的に進めており、以前には 16GB VRAMでもローカルLLMは実務に届くのか。2か月の検証で見えたこと や AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入 といった記事を公開してきました。 現在はコーディング支援ツールとして Claude Code の活用も進めています。AI による支援は、コードの初稿作成や定型処理の実装速度を引き上げてくれる大きなメリットがあります。一方で、実際の Unity を用いた大規模タイトルの開発では、コンパイルだけでも5分以上かかることがあり、さら…",
+            "url": "https://blog.colopl.dev/entry/2026/10/08/110000",
+            "title": "Unity大規模開発のAIコーディングで手戻りを減らす。「grill-me」で実装スコープを絞り込んだ実践例 | COLOPL Tech Blog",
+            "summary": "こんにちは、クライアントエンジニアの平野孝明です！ コロプラでは開発現場でのAI活用を積極的に進めており、以前には 16GB VRAMでもローカルLLMは実務に届くのか。2か月の検証で見えたこと や AI駆動開発に向けた取り組み - AI推進組織の発足とCursorの導入 といった記事を公開してきました。 現在はコーディング支援ツールとして Claude Code の活用も進めています。AI によ",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032078482726/1791508375",
+                "alt": "Unity大規模開発のAIコーディングで手戻りを減らす。「grill-me」で実装スコープを絞り込んだ実践例 - COLOPL Tech Blog"
+            },
+            "date_modified": "2026-10-08T02:00:00.000Z",
+            "date_published": "2026-10-08T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Unity大規模開発のAIコーディングで手戻りを減らす。「grill-me」で実装スコープを絞り込んだ実践例",
+                "blogTitle": "COLOPL Tech Blog",
+                "blogLink": "https://blog.colopl.dev/",
+                "blogLinkMd5Hash": "e6a68eee4c188124f9f59f9252781495",
+                "favicon": "https://blog.colopl.dev/icon/favicon",
+                "pickReason": "AI・LLM",
+                "sourceTier": "core",
+                "sourceLabel": "コロプラ",
+                "host": "blog.colopl.dev",
+                "score": 0.42,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

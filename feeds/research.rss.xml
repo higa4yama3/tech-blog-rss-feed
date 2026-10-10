@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Research)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml</link>
+        <description>リサーチ・長文</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Research)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Investigating unintended model actions in our evaluations and internal use | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/investigating-unintended-model-actions</link>
+            <guid>https://www.anthropic.com/research/investigating-unintended-model-actions</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/f11d2325e688229de8a887ef7ece34f520ab7134-2000x1125.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</link>
+            <guid>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.]]></description>
+            <content:encoded><![CDATA[We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the Anthropic Cyber Mission | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+            <guid>https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[2026 Usage Policy update | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+            <guid>https://www.anthropic.com/news/2026-usage-policy-update</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.]]></description>
+            <content:encoded><![CDATA[We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Building on our commitment to American scientific discovery | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+            <guid>https://www.anthropic.com/news/genesis-mission-commitment</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. ]]></description>
+            <content:encoded><![CDATA[Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. ]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=heather" alt="Stylized double helix representing the intersection of science and human potential"/>
+        </item>
+        <item>
+            <title><![CDATA[The missing map of the sky | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/the-missing-map-of-the-sky</link>
+            <guid>https://www.anthropic.com/research/the-missing-map-of-the-sky</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Claude Science helped produce the first complete map of the sky in UV light]]></description>
+            <content:encoded><![CDATA[Claude Science helped produce the first complete map of the sky in UV light]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="png" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dde28f2eb899eade347dd07314a9c6b65bfbbb3c-1200x630.png" alt="The first complete map of the sky in UV light"/>
+        </item>
+        <item>
+            <title><![CDATA[Expanding the Cyber Verification Program | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/cyber-verification-program</link>
+            <guid>https://www.anthropic.com/news/cyber-verification-program</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.]]></description>
+            <content:encoded><![CDATA[We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather" alt="Hand with padlock and key on detailed security graphic"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/claude-frontier-academy</link>
+            <guid>https://www.anthropic.com/news/claude-frontier-academy</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.]]></description>
+            <content:encoded><![CDATA[Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather" alt="Stylized hand constructing architectural structure with geometric building elements and foundational components"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude-shaped science | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/claude-shaped-science</link>
+            <guid>https://www.anthropic.com/research/claude-shaped-science</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts.]]></description>
+            <content:encoded><![CDATA[Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/5dca367673e615ac7abbbdac9f44733d1f52638a-2000x1125.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Barclays scales Claude to upgrade operations and improve client experience | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+            <guid>https://www.anthropic.com/news/barclays-scales-claude</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.]]></description>
+            <content:encoded><![CDATA[Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[What work can robots do? | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/what-work-can-robots-do</link>
+            <guid>https://www.anthropic.com/research/what-work-can-robots-do</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.]]></description>
+            <content:encoded><![CDATA[What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[GLM-5.3 and the spread of advanced cyber capabilities | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
+            <guid>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.]]></description>
+            <content:encoded><![CDATA[GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[What do you want from AI? | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/your-thoughts-on-ai</link>
+            <guid>https://www.anthropic.com/research/your-thoughts-on-ai</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Yes, Claude can do Nine Loops | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
+            <guid>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Claude computes a nine-loop amplitude in N=4 super-Yang-Mills]]></description>
+            <content:encoded><![CDATA[Claude computes a nine-loop amplitude in N=4 super-Yang-Mills]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="png" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/2ed453f8c87d2166b09940a859cd193b29678a88-3840x2160.png" alt="Diagram of nine loops"/>
+        </item>
+        <item>
+            <title><![CDATA[Project Swap: What happens when agents trade for us? | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/project-swap</link>
+            <guid>https://www.anthropic.com/research/project-swap</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.]]></description>
+            <content:encoded><![CDATA[To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/98a29c28bc80505540f64da96f899288b380fbf0-1200x630.jpg" alt="Two-panel illustration: on a dark background, five colored bars resembling books on a shelf; on dotted paper, two columns of dots joined by crisscrossing colored lines, like a matching diagram pairing people with books."/>
+        </item>
+        <item>
+            <title><![CDATA[Claude discovers a novel enzyme system with CRISPR-like repeats | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+            <guid>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.]]></description>
+            <content:encoded><![CDATA[In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg" alt="A scientist pipetting"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude discovers a novel enzyme system with CRISPR-like repeats | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+            <guid>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.]]></description>
+            <content:encoded><![CDATA[In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.]]></content:encoded>
+            <category>Science</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg" alt="A scientist pipetting"/>
+        </item>
+        <item>
+            <title><![CDATA[Partnering with Accenture on embedded evaluation | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+            <guid>https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.]]></description>
+            <content:encoded><![CDATA[We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[How Claude is uplifting biomolecular modeling | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
+            <guid>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="png" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/a65d1913ec56de3b90beadf1be2609b03898b42d-3800x1522.png" alt="Image of three large biomolecular complexes "/>
+        </item>
+        <item>
+            <title><![CDATA[Measurements for understanding the pace of AI development inside frontier labs | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/institute/measuring-pace-of-ai-development</link>
+            <guid>https://www.anthropic.com/institute/measuring-pace-of-ai-development</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.]]></description>
+            <content:encoded><![CDATA[Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the Life Sciences Verification Program | Anthropic News]]></title>
+            <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+            <guid>https://www.anthropic.com/news/life-sciences-verification-program</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></description>
+            <content:encoded><![CDATA[Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.]]></content:encoded>
+            <category>Announcements</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="image//api/opengraph-illustration" url="https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=cactus" alt="Stylized double helix representing the intersection of science and human potential"/>
+        </item>
+    </channel>
+</rss>

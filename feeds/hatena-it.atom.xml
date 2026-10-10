@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it</id>
+    <title>RSS (はてなIT人気)</title>
+    <updated>2026-10-10T23:26:37.583Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml"/>
+    <subtitle>はてなブックマーク ITカテゴリ人気（厳選）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ204] bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ (future-architect.github.io)]]></title>
+        <id>https://future-architect.github.io/articles/20261009a/</id>
+        <link href="https://future-architect.github.io/articles/20261009a/"/>
+        <updated>2026-10-10T01:47:07.000Z</updated>
+        <summary type="html"><![CDATA[業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-i]]></summary>
+        <content type="html"><![CDATA[業務フローの記述形式に BPMN 2.0 を採用し、bpmn.io のエディタ・bpmnlint による静的解析・生成 AI によるレビュー・bpmn-to-image での画像化で管理する方法を紹介します。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T01:47:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ170] 日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析 (itmedia.co.jp)]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/10/2000002035/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/10/2000002035/"/>
+        <updated>2026-10-10T05:13:12.000Z</updated>
+        <summary type="html"><![CDATA[東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalenc]]></summary>
+        <content type="html"><![CDATA[東京大学医科学研究所、大阪大学、国立がん研究センター、東京科学大学に所属する研究者らが科学誌「Nature Genetics」で発表した論文「Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cancer」は、日本人の大腸がん発症に特定の腸内細菌が関与していることを突き止めた研究報告だ。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T05:13:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ166] 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog (piyolog.hatenadiary.jp)]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2026/10/11/004353"/>
+        <updated>2026-10-10T15:48:52.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情]]></summary>
+        <content type="html"><![CDATA[2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2026年9月前後」に国内組織で不正アクセスによる個人情報等の漏えい被害が相次いでいるとした。複数の製品やサービスで被害が発生している中、「技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的」とも記している。同注意喚起は、普段から断続的、散発的に発生…]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T15:48:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ155] 個人情報漏洩が日常になってしまった世界でどうしていくべきか (nyosegawa.com)]]></title>
+        <id>https://nyosegawa.com/posts/data-leak-era/</id>
+        <link href="https://nyosegawa.com/posts/data-leak-era/"/>
+        <updated>2026-10-10T07:36:44.000Z</updated>
+        <summary type="html"><![CDATA[2026年は大規模な個人情報の漏洩が続いています。いま何が流出しているのか、流出した情報でどんな連絡が届くのか、わたしたちは何をすればいいのかを、グラフと例でま]]></summary>
+        <content type="html"><![CDATA[2026年は大規模な個人情報の漏洩が続いています。いま何が流出しているのか、流出した情報でどんな連絡が届くのか、わたしたちは何をすればいいのかを、グラフと例でまとめます。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T07:36:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ148] AI駆動開発の時代になったのでトヨタ生産方式から見直す (speakerdeck.com)]]></title>
+        <id>https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu</id>
+        <link href="https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu"/>
+        <updated>2026-10-09T15:18:20.000Z</updated>
+        <summary type="html"><![CDATA[2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。]]></summary>
+        <content type="html"><![CDATA[2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-09T15:18:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ85] 若手エンジニアに必要だと感じた「AIを使う力」 (zenn.dev)]]></title>
+        <id>https://zenn.dev/muit_techblog/articles/6ea28887c79457</id>
+        <link href="https://zenn.dev/muit_techblog/articles/6ea28887c79457"/>
+        <updated>2026-10-09T10:44:35.000Z</updated>
+        <summary type="html"><![CDATA[若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業]]></summary>
+        <content type="html"><![CDATA[若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-09T10:44:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ82] 事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business (speakerdeck.com)]]></title>
+        <id>https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business</id>
+        <link href="https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business"/>
+        <updated>2026-10-10T01:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Data Engineering Summit 2026（2026-10-09）で発表した資料です。   https://conference.findy-co]]></summary>
+        <content type="html"><![CDATA[Data Engineering Summit 2026（2026-10-09）で発表した資料です。   https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758  AI は誰でも&amp;amp;hellip;]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T01:29:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ74] 写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」 (pc.watch.impress.co.jp)]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2147318.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2147318.html"/>
+        <updated>2026-10-09T23:24:10.000Z</updated>
+        <summary type="html"><![CDATA[ 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」]]></summary>
+        <content type="html"><![CDATA[ 録りためた動画の中の“あの場面”を、声で吹き込んだメモから探し出す。こうした検索をインターネットなしで実行できるAIモデル「EmbeddingGemma 2」を、Googleが10月6日(現地時間)に無償公開した。写真や動画、音声、文字、コードを1つのモデルで検索でき、ローカルRAG(検索拡張生成)では、資料を探す処理を受け持つ。オープンウェイト(モデルの重み)はHugging FaceとKaggleからダウンロードでき、Apache 2.0ライセンスの下で商用利用も認められる。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-09T23:24:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ64] Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge (techno-edge.net)]]></title>
+        <id>https://www.techno-edge.net/article/2026/10/10/5571.html</id>
+        <link href="https://www.techno-edge.net/article/2026/10/10/5571.html"/>
+        <updated>2026-10-09T21:44:57.000Z</updated>
+        <summary type="html"><![CDATA[最近ではAndroidのファイルシェア機能であるQuickShareにAirDrop互換機能が搭載されるようになり、Androidに関してはその差は埋まりつつあ]]></summary>
+        <content type="html"><![CDATA[最近ではAndroidのファイルシェア機能であるQuickShareにAirDrop互換機能が搭載されるようになり、Androidに関してはその差は埋まりつつあります。ただし、最近の機種限定。うちのPixel 7は対象外で、いつまで経っても来ない。おそらく他のAndroid端末も。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-09T21:44:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ55] SQLite 本体にベクトル検索拡張 vec1 がやってきた (zenn.dev)]]></title>
+        <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
+        <link href="https://zenn.dev/mattn/articles/6e9996319ac099"/>
+        <updated>2026-10-10T17:16:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 な]]></summary>
+        <content type="html"><![CDATA[はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...]]></content>
+        <category label="hatena"/>
+        <published>2026-10-10T17:16:51.000Z</published>
+    </entry>
+</feed>

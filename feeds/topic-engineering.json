@@ -1,0 +1,651 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (設計・SRE・基盤)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.json",
+    "description": "設計・SRE・基盤の記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://zenn.dev/mattn/articles/6e9996319ac099",
+            "content_html": "はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...",
+            "url": "https://zenn.dev/mattn/articles/6e9996319ac099",
+            "title": "[はてブ55] SQLite 本体にベクトル検索拡張 vec1 がやってきた | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--PnneRXdm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQLite%2520%25E6%259C%25AC%25E4%25BD%2593%25E3%2581%25AB%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E6%25A4%259C%25E7%25B4%25A2%25E6%258B%25A1%25E5%25BC%25B5%2520vec1%2520%25E3%2581%258C%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwYjA3ZWIzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T17:16:51.000Z",
+            "date_published": "2026-10-10T17:16:51.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 55,
+                "originalTitle": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "はてブ55",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "zenn.dev",
+                "score": 3.584,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ55"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50033357",
+            "content_html": "Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt, and if you care about security you should seriously consider them.",
+            "url": "https://ghuntley.com/unikernels/",
+            "title": "[HN 68pt] Unikernels were hard. key word: were | Hacker News: Front Page",
+            "summary": "Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt",
+            "image": {
+                "height": "670",
+                "url": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2026/10/Symbolic-traditional-tattoo-art-print-portraying-a-unikernel-operating-system-as-a-lively-streamlined-digital-core-with-complex-ornamental-circuitry--bright-vibrant-retro-colors--intense-dramatic-lighting--energetic-glowing-accents--sharp-h.jpg",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-10T14:27:09.000Z",
+            "date_published": "2026-10-10T14:27:09.000Z",
+            "author": {
+                "name": "ghuntley"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Unikernels were hard. key word: were",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w256h256/format/jpeg/2026/02/A-black-and-white--low-angle-digital-illustration-in-a-symbolic-traditional-tattoo-art-style.--A-bald--light-skinned-man-with-a-bushy-beard--prominent-eyebrows--and-a-friendly-expression-wears-denim-overalls--2-.jpg",
+                "pickReason": "HN 68pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "ghuntley.com",
+                "score": 2.744,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "HN 68pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85582",
+            "content_html": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "url": "https://coliss.com/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html",
+            "title": "[はてブ248] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料 | コリス",
+            "summary": "今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデート",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100901@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T05:21:49.000Z",
+            "date_published": "2026-10-09T05:21:49.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "excel",
+                "PowerPoint",
+                "word"
+            ],
+            "_custom": {
+                "hatenaCount": 248,
+                "originalTitle": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ248 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 2.11,
+                "topics": [
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ248",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
+            "content_html": "「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
+            "title": "[はてブ31] IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み | ITmedia NEWS 最新記事一覧",
+            "summary": "「データを復元できるのは顧客自身が保持しているバックアップデータからのみ」としている。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002147/10008892/2048"
+            },
+            "date_modified": "2026-10-09T21:56:46.000Z",
+            "date_published": "2026-10-09T21:56:46.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 31,
+                "originalTitle": "IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ31",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.959,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ31"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261010-readest/",
+            "content_html": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "url": "https://gigazine.net/news/20261010-readest/",
+            "title": "[はてブ5] 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能 | GIGAZINE",
+            "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/10/readest/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-10T09:00:00.000Z",
+            "date_published": "2026-10-10T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ5 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.882,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ5",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
+            "content_html": "フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
+            "title": "[はてブ10] IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援 | ITmedia NEWS 最新記事一覧",
+            "summary": "フトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従って、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002187/10009019/2048"
+            },
+            "date_modified": "2026-10-09T22:49:06.000Z",
+            "date_published": "2026-10-09T22:49:06.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ10",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.531,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ10"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "content_html": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2146735.html",
+            "title": "[はてブ37] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供 | 窓の杜",
+            "summary": " 米Microsoftは10月7日（現地時間）、「Microsoft Execution Containers」の一般提供を発表した。6月に開催された「Build 2026」で発表、早期プレビューとしてテスト提供されていたが、今後は正式版として利用できる。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2146/735/image_top.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T07:22:00.000Z",
+            "date_published": "2026-10-08T07:22:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 37,
+                "originalTitle": "「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ37 · 動かしてみた",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.05,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ37",
+                    "動かしてみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "content_html": "こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証情報が盗まれるワーム型の攻撃が公開されました。 この検体は、盗んだ認証情報で別のパッケージを次々と再公開して広がるだけでなく、Claude Code や VS Code の設定ファイルに自分自身を書き…",
+            "url": "https://tech.layerx.co.jp/entry/2026/10/09/162114",
+            "title": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 | LayerX エンジニアブログ",
+            "summary": "こんにちは、LayerX Fintech事業部から三井物産デジタル・アセットマネジメント（以下、MDM）に出向しているs.masです。 皆さん、AI を活用されていますか。非常に便利な反面、昨今は AI によってセキュリティの前提も変化してきていると認識しています。 たとえば 2026年5月には、npm で広く使われているライブラリ群の正規バージョンが改ざんされ、インストールしただけで開発者の認証",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/8e7b426a1a2951b1aaaa6d13cbe5bad8243520ef/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmas358%2F20261009%2F20261009165746.png",
+                "alt": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点 - LayerX エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T07:21:14.000Z",
+            "date_published": "2026-10-09T07:21:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "ソフトウェアサプライチェーン攻撃演習から学ぶ、インシデント対応に必要な5つの視点",
+                "blogTitle": "LayerX エンジニアブログ",
+                "blogLink": "https://tech.layerx.co.jp/",
+                "blogLinkMd5Hash": "741fe44f3327d2344ebd58b9f7ee505a",
+                "favicon": "https://tech.layerx.co.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "LayerX",
+                "host": "tech.layerx.co.jp",
+                "score": 0.902,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/",
+            "content_html": "  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …",
+            "url": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/",
+            "title": "[仕組みを掘る] テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側 | Blog on DeNA Engineering",
+            "summary": "  はじめに  こんにちは。IT本部AI・データ戦略統括部所属の黄です。 DeNAのIT本部では、QA業務の効率化を目指して「DAAQ（DeNA AI Advanced Quality）」というシステムの開発・運用を進めています。本記事では、DAAQの中でも中心的な取り組みであるテスト設計支援領域の全社展開までの歩みと、それを支えるシステムアーキテクチャを紹介します。 後半では、現 …",
+            "image": {
+                "url": "https://engineering.dena.com/blog/2026/10/daaq-growth-and-impact/cover.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-07T15:00:00.000Z",
+            "date_published": "2026-10-07T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "テスト設計工数を約50%削減——QA業務効率化システム「DAAQ」を支える技術の裏側",
+                "blogTitle": "Blog on DeNA Engineering",
+                "blogLink": "https://engineering.dena.com/blog/",
+                "blogLinkMd5Hash": "ede01e3e827e3500f504e7111b22ec50",
+                "favicon": "https://engineering.dena.com/favicon.png",
+                "pickReason": "仕組みを掘る · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "DeNA",
+                "host": "engineering.dena.com",
+                "score": 0.871,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "仕組みを掘る",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/geohash-and-bakery",
+            "content_html": "※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日にたまにパン屋巡りをするのですが、これを応用すれば効率的にパン屋を巡れるんじゃないかと思いついたので、考えたことを書いていこうと思います。 ただ、人間の胃には限界があるため、実際にこのとおり巡るのは難…",
+            "url": "https://www.m3tech.blog/entry/geohash-and-bakery",
+            "title": "geohash について知ったので、パン屋巡りに使えないか考えてみた | エムスリーテックブログ",
+            "summary": "※ 記事とは何の関係もない、夏の旅行で撮った馬の写真 メディカルマーケティングオートメーションチームの山本（@hiro_o918）です。 本記事はメディカルマーケティングオートメーションチーム(Unit2)のブログリレー2日目の記事です。 前回は中村さんの「Rustで自己言及プログラムであるQuineを作っていく」でした。 最近、場所をハッシュ値で持つ geohash という概念を学びました。休日",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/723c83482be5afa4d413101d17657e92e6a90f6a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261009%2F20261009180628.jpg",
+                "alt": "geohash について知ったので、パン屋巡りに使えないか考えてみた - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T09:00:00.000Z",
+            "date_published": "2026-10-09T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "geohash について知ったので、パン屋巡りに使えないか考えてみた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.763,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/fbz-history",
+            "content_html": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数500本超、40個以上のスタックで稼働しています。サーバーレス自体の運用負荷は低い一方、9年間でツールの有償化やプラグインの保守停止、ランタイムのEOL、リソース上限といった「周辺環境の変化」への追従を…",
+            "url": "https://techblog.zozo.com/entry/fbz-history",
+            "title": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、ZOZOMO部FBZブロックの杉田です。普段はFulfillment by ZOZO（以下、FBZ）が提供するAPIシステムを開発・運用しています。昨年からは、社内における開発者向けAI支援ツールの推進を担う専門チームも兼務しています。 FBZ APIは2017年にServerless Frameworkで構築を開始し、現在はAWS Lambda（以下、Lambda）の関数5",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e663c03f7a2d3ef154c5fcdb43b501fc131200f9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930170926.png",
+                "alt": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T02:00:00.000Z",
+            "date_published": "2026-10-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "歴史から紐解く、開発から9年が経過したサーバーレスサービスの「変化への追従」",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.667,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers.cyberagent.co.jp/blog/?p=66722",
+            "content_html": "今回は後者のセッションでも言及されている、Open Cluster Management (OCM) ...",
+            "url": "https://developers.cyberagent.co.jp/blog/archives/66722/",
+            "title": "GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+            "summary": "今回は後者のセッションでも言及されている、Open Cluster Management (OCM) ...",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--vswSQyoT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GKE%2520%25E3%2581%25AB%2520Open%2520Cluster%2520Management%2520%2528OCM%2529%2520%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB%25E3%2583%258F%25E3%2583%259E%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:KEY60228%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYwNWRjYjM3YmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-09T03:49:45.000Z",
+            "date_published": "2026-10-09T03:49:45.000Z",
+            "author": {
+                "name": "技術 / クリエイティブ広報"
+            },
+            "tags": [
+                "エンジニア"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GKE に Open Cluster Management (OCM) を導入するのにハマったことメモ",
+                "blogTitle": "CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ",
+                "blogLink": "https://developers.cyberagent.co.jp/blog",
+                "blogLinkMd5Hash": "c89ab36e45ac3884d9fe45e5aae789fa",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "CyberAgent",
+                "host": "developers.cyberagent.co.jp",
+                "score": 0.432,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/rust-quine-m3",
+            "content_html": "はじめに エムスリー株式会社 メディカルマーケティングオートメーションチームの中村（@inakam00）です。 本記事はメディカルマーケティングオートメーションチーム(unit2)のブログリレー1日目の記事です。 エムスリーテックブログではお馴染みとなりつつあるQuineを、今回はRustで作ってみました。 はじめに Quineについて RustでM3 Quineを作る 完成品 コードを3つのパートに分ける 空白の代わりにコメントを使う マスク情報も英字にしてコードに溶け込ませる raw文字列と文字エスケープ raw文字列の終端記号 置換処理の重複防止 空白文字の保持 おわりに 編集後記 We…",
+            "url": "https://www.m3tech.blog/entry/rust-quine-m3",
+            "title": "Rustで自己言及プログラムであるQuineを作っていく | エムスリーテックブログ",
+            "summary": "はじめに エムスリー株式会社 メディカルマーケティングオートメーションチームの中村（@inakam00）です。 本記事はメディカルマーケティングオートメーションチーム(unit2)のブログリレー1日目の記事です。 エムスリーテックブログではお馴染みとなりつつあるQuineを、今回はRustで作ってみました。 はじめに Quineについて RustでM3 Quineを作る 完成品 コードを3つのパー",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/8599973812294943206/14945776032086788418/1791520936",
+                "alt": "Rustで自己言及プログラムであるQuineを作っていく - エムスリーテックブログ"
+            },
+            "date_modified": "2026-10-09T02:00:00.000Z",
+            "date_published": "2026-10-09T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Rustで自己言及プログラムであるQuineを作っていく",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 0.417,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51275",
+            "content_html": "はじめに クラウド環境では、「どこまで公開するか」「どこで通信を止めるか」というネットワーク設計により、障害時の影響範囲やセキュリティリスクが大きく変わります。可用性と信頼性を確保するため、役割に応じてネットワーク領域を […]",
+            "url": "https://knowledge.sakura.ad.jp/51275/",
+            "title": "VPNだけじゃない — さくらのクラウドVPNルータで作る境界ネットワーク | さくらのナレッジ",
+            "summary": "はじめに クラウド環境では、「どこまで公開するか」「どこで通信を止めるか」というネットワーク設計により、障害時の影響範囲やセキュリティリスクが大きく変わります。可用性と信頼性を確保するため、役割に応じてネットワーク領域を […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/07/VPNRouter-1200x630.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T02:00:00.000Z",
+            "date_published": "2026-10-08T02:00:00.000Z",
+            "author": {
+                "name": "可知豊"
+            },
+            "tags": [
+                "エンジニア向け",
+                "さくらのクラウド",
+                "SDN",
+                "VPC",
+                "VPN",
+                "VPNルータ",
+                "ネットワーク"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "VPNだけじゃない — さくらのクラウドVPNルータで作る境界ネットワーク",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.263,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://engineers.ntt.com/entry/202609-cococli-hackathon/entry",
+            "content_html": "Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。",
+            "url": "https://engineers.ntt.com/entry/202609-cococli-hackathon/entry",
+            "title": "[はてブ4] CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 | NTT docomo Business Engineers' Blog",
+            "summary": "Snowflake主催の[CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)(APJ: アジア太平洋・日本地域)にチームcocomoとして参加し、Winner(優勝)を受賞しました。 この記事では、約2ヶ月間のハッカソンを通じて何を考え、どう判断し、何を学んだかを体験記として紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/53a06e44531f2a979b74bcf0d4d46a2d76e94319/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F5694434%2F1752635351448040",
+                "alt": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成 - NTT docomo Business Engineers' Blog"
+            },
+            "date_modified": "2026-10-06T03:01:18.000Z",
+            "date_published": "2026-10-06T03:01:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成",
+                "blogTitle": "NTT docomo Business Engineers' Blog",
+                "blogLink": "https://engineers.ntt.com/",
+                "blogLinkMd5Hash": "9da314a04336f0a90d8c134771f12e33",
+                "favicon": "https://engineers.ntt.com/icon/favicon",
+                "pickReason": "はてブ4",
+                "sourceTier": "core",
+                "sourceLabel": "NTTコミュニケーションズ",
+                "host": "engineers.ntt.com",
+                "score": 0.254,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ4"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/automate-google-play-review-analysis",
+            "content_html": "はじめに こんにちは、グローバルプロダクト開発本部ZOZOFIT USブロックの平川です。普段はZOZOFITの身体計測に関するデータを分析しています。 ZOZOFITは、スマートフォンで身体を3D計測し、体型の変化を記録・管理できるボディマネジメントアプリです。アメリカを中心に海外へ展開しています。 今回ZOZOFIT開発チームでは、Google PlayストアのレビューをAIで分析し、リリース情報も加味した考察レポートを自動生成する仕組みを構築しました。本記事では、この仕組みの設計と運用について紹介します。",
+            "url": "https://techblog.zozo.com/entry/automate-google-play-review-analysis",
+            "title": "GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成 | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、グローバルプロダクト開発本部ZOZOFIT USブロックの平川です。普段はZOZOFITの身体計測に関するデータを分析しています。 ZOZOFITは、スマートフォンで身体を3D計測し、体型の変化を記録・管理できるボディマネジメントアプリです。アメリカを中心に海外へ展開しています。 今回ZOZOFIT開発チームでは、Google PlayストアのレビューをAIで分析し、リリース",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/5e3e953a853e2517c96188c408da765dac324416/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260930%2F20260930164929.png",
+                "alt": "GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成 - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-06T02:00:00.000Z",
+            "date_published": "2026-10-06T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "GitHub ActionsとAIによる月次分析 ── Google Playストアレビューの考察レポートを自動生成",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 0.203,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

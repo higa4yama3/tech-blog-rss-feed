@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Curated)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml</link>
+        <description>キュレーション（今日のブクマ等）</description>
+        <lastBuildDate>Sat, 10 Oct 2026 23:26:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Curated)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/curated.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【オランダのクリエイティブの現場から Vol.8】型を持たないという流儀 ｜Numbered（アムステルダム） | iDID – クリエイターのための情報メディア]]></title>
+            <link>https://idid.team/articles/other/netherland-shiftbrain-08/</link>
+            <guid>https://idid.team/?p=4468</guid>
+            <pubDate>Sat, 10 Oct 2026 05:57:50 GMT</pubDate>
+            <description><![CDATA[いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。]]></description>
+            <content:encoded><![CDATA[いよいよ最終回に紹介するのは、特定の業種や固定されたデザインスタイルに縛られることなく、世界中のクライアントから指名が絶えないクリエイティブエージェンシー「Numbered」です。]]></content:encoded>
+            <category>Other</category>
+            <category>クリエイティブエージェンシー</category>
+            <category>グローバル</category>
+            <category>デザイン</category>
+            <category>design</category>
+            <category>curated</category>
+            <enclosure length="0" type="image/jpeg" height="536" url="https://idid.team/wp-content/uploads/2026/10/Numbered-1024x536.jpg" width="1024"/>
+        </item>
+    </channel>
+</rss>
