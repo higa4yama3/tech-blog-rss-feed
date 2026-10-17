@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks</id>
+    <title>RSS (今日の5本)</title>
+    <updated>2026-10-17T18:24:20.335Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml"/>
+    <subtitle>読んで高揚しそうな記事をスコア順に選んだもの</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[HN 207pt] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50127979</id>
+        <link href="https://llmspeed.dev/"/>
+        <updated>2026-10-17T04:36:53.000Z</updated>
+        <summary type="html"><![CDATA[HN 207pt · 作ってみた
+Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.]]></summary>
+        <content type="html"><![CDATA[HN 207pt · 作ってみた
+Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.]]></content>
+        <author>
+            <name>albinstman</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-17T04:36:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ133] 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://japan.cnet.com/article/35253656/</id>
+        <link href="https://japan.cnet.com/article/35253656/"/>
+        <updated>2026-10-17T00:21:27.000Z</updated>
+        <summary type="html"><![CDATA[はてブ133
+日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。]]></summary>
+        <content type="html"><![CDATA[はてブ133
+日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-17T00:21:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ170] ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530</id>
+        <link href="https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530"/>
+        <updated>2026-10-17T08:05:29.000Z</updated>
+        <summary type="html"><![CDATA[はてブ170
+ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか]]></summary>
+        <content type="html"><![CDATA[はてブ170
+ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか]]></content>
+        <category label="hatena"/>
+        <published>2026-10-17T08:05:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261017-ibisOffice/</id>
+        <link href="https://gigazine.net/news/20261017-ibisOffice/"/>
+        <updated>2026-10-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はてブ11 · 新しく出た
+基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></summary>
+        <content type="html"><![CDATA[はてブ11 · 新しく出た
+基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></content>
+        <published>2026-10-17T14:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[必読 · 安宅和人（はてなブログ）] マタギドライヴへの道 | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432"/>
+        <updated>2026-10-17T08:34:32.000Z</updated>
+        <summary type="html"><![CDATA[必読 · 安宅和人（はてなブログ） · はてブ3
+1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし]]></summary>
+        <content type="html"><![CDATA[必読 · 安宅和人（はてなブログ） · はてブ3
+1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉で繰り返し、重層的に語られているからだ。そこに現れるのは、大阪で形をなし、いままた横浜でnull2n*1という形で第二形態と化した、nullと仏教の空、華厳経における事事無碍、オブジェクト指向的な世界…]]></content>
+        <category label="essay"/>
+        <published>2026-10-17T08:34:32.000Z</published>
+    </entry>
+</feed>

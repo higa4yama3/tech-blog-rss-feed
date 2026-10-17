@@ -1,0 +1,719 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (設計・SRE・基盤)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.json",
+    "description": "設計・SRE・基盤の記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+            "content_html": "工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...",
+            "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+            "title": "[はてブ74] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1ZFLTIwMjYtOTk5OTklRUYlQkMlODhQd25Fc2NhcGUlRUYlQkMlODklRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYlRTIlOTQlODAlRTIlOTQlODAlRTMlODAlOENLVk0lRTMlODElQUUlRTglODQlODYlRTUlQkMlQjElRTYlODAlQTclRTMlODAlOEQlRTMlODElQTclRTMlODElQUYlRTMlODElQUElRTMlODElOEYlRTMlODAlODFMaW51eCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MiVCRiVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU1ZGE2Y2FlZjg3NDgwOTVjOGQzMWMyZjUzZTdhMmZj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrMl9uYWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGQ4YmUxZDIyNWZkNWM3NGY0ZTRhN2M1Yjk0ZTQyNTI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=11c9e17e92010cab6c91bcd954d23cc1"
+            },
+            "date_modified": "2026-10-16T17:16:58.000Z",
+            "date_published": "2026-10-16T17:16:58.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 74,
+                "originalTitle": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+                "pickReason": "はてブ74 · 仕組みを掘る",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "qiita.com",
+                "score": 3.183,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ74",
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132950",
+            "content_html": "Linus Torvalds released the 7.2 kernel on August 17, after noting that the number of fixes comi [...]",
+            "url": "https://lwn.net/Articles/1088776/",
+            "title": "[HN 52pt] Development statistics for the 7.2 kernel | Hacker News: Front Page",
+            "summary": "Linus Torvalds released the 7.2 kernel on August 17, after noting that the number of fixes comi [...]",
+            "image": {
+                "url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-10-17T17:14:12.000Z",
+            "date_published": "2026-10-17T17:14:12.000Z",
+            "author": {
+                "name": "farlight"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Development statistics for the 7.2 kernel",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://static.lwn.net/images/favicon.png",
+                "pickReason": "HN 52pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "lwn.net",
+                "score": 3.014,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "HN 52pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+            "content_html": "はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ…",
+            "url": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+            "title": "[はてブ26] 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/594b0f4eabf7f2bcd148e29c82bed7889dd2ba86/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261013%2F20261013191951.png",
+                "alt": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T02:00:00.000Z",
+            "date_published": "2026-10-16T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ26",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 1.77,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ26"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261015a/",
+            "content_html": "完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。",
+            "url": "https://future-architect.github.io/articles/20261015a/",
+            "title": "[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ",
+            "summary": "完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261015a/benchmark.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "date_published": "2026-10-14T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 59,
+                "originalTitle": "E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ59 · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.415,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ59",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2147368.html",
+            "content_html": " 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2147368.html",
+            "title": "[はてブ33] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更 | 窓の杜",
+            "summary": " 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2147/368/csharp_dev_kit.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T06:33:00.000Z",
+            "date_published": "2026-10-15T06:33:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ33 · 数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.228,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ33",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "content_html": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断しているのか、開発の状態をGitHubのどこに置いているのかが分かる内容となっています。 複数のAIエージェントを開発フローに組み込もうとしている方や、AIエージェントとの役割分担を考えているエンジニアの方…",
+            "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ | Findy Tech Blog",
+            "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断してい",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/7d38ee157bded6d84ca90191fbc05a21697fa0eb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png",
+                "alt": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T03:00:00.000Z",
+            "date_published": "2026-10-16T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ",
+                "blogTitle": "Findy Tech Blog",
+                "blogLink": "https://tech.findy.co.jp/",
+                "blogLinkMd5Hash": "fbd3f27d454988167016d210b62c5f67",
+                "favicon": "https://tech.findy.co.jp/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "Findy",
+                "host": "tech.findy.co.jp",
+                "score": 0.914,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developers-jp.googleblog.com/2026/10/antigravity-agentic-ai-summit-26-fall.html",
+            "content_html": "Google から開発者のみなさま向けの情報をいち早くお届けするブログです。",
+            "url": "https://developers-jp.googleblog.com/2026/10/antigravity-agentic-ai-summit-26-fall.html",
+            "title": "エージェント開発、Antigravity、本番運用の設計まで。開発者のための Agentic AI Summit '26 Fall | Google Developers Japan",
+            "summary": "Google から開発者のみなさま向けの情報をいち早くお届けするブログです。",
+            "image": {
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_fel0ffquHgBNaSE004QA2zR02jqRhy6dswrctyLHhYSH1eAJ2keT_Zxxow_JJFIHleZwBt3UDQwwl26Ot1AKkgC4hZoHW47eWhou3XAHk8yZrl7hprp6Qgqvg5Rjq8Jo24xn0NAqsQ/s1600/lockup_google_developers_horizontal_knockout_wht.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T04:00:00.000Z",
+            "date_published": "2026-10-15T04:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "エージェント開発、Antigravity、本番運用の設計まで。開発者のための Agentic AI Summit '26 Fall",
+                "blogTitle": "Google Developers Japan",
+                "blogLink": "https://developers-jp.googleblog.com/",
+                "blogLinkMd5Hash": "85fbff07548c47fce516dd27c8abbcad",
+                "favicon": "https://developers-jp.googleblog.com/favicon.ico",
+                "pickReason": "AI・LLM · 設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "Google",
+                "host": "developers-jp.googleblog.com",
+                "score": 0.301,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261015d",
+            "content_html": "こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;D）チームです。この記事は...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261015d",
+            "title": "セキュリティ業務向けAIエージェント基盤「SAGE」の開発記 第1弾：判断は人間に委ねる設計 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;D）チームです。この記事は...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/22d816fbe979d642323ad6bccd50db07/f0810/40906f3d1e18410baa6e09ca40a89b22.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T02:00:00.000Z",
+            "date_published": "2026-10-15T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "セキュリティ業務向けAIエージェント基盤「SAGE」の開発記 第1弾：判断は人間に委ねる設計",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.289,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nttdocomo-developers.jp/entry/2026/10/15/090000",
+            "content_html": "はじめに みなさんこんにちは！ドコモ6Gテック部の新入社員、西村麻希（にしむらまき）です。 このたび、3GPP CT1#162会合に参加する機会をいただき、初めて国際標準化会合に現地参加しました。 入社後にモバイルネットワークや3GPPを学び始めた私にとって、国際標準化会合への参加は、とても大きな挑戦でした。 本ブログでは、 CT1会合はどのような場なのか 実際に参加して感じた国際会合の雰囲気 参加者との交流を通して学んだこと 今後の課題として感じたこと を中心にご紹介します。 ドコモでのグローバルな業務や標準化業務に少しでも興味のある方、将来このような仕事に挑戦してみたいと考えている方に、会…",
+            "url": "https://nttdocomo-developers.jp/entry/2026/10/15/090000",
+            "title": "初めての国際標準化会合へ！新入社員が飛び込んだ3GPP CT1 | ENGINEERING BLOG ドコモ開発者ブログ",
+            "summary": "はじめに みなさんこんにちは！ドコモ6Gテック部の新入社員、西村麻希（にしむらまき）です。 このたび、3GPP CT1#162会合に参加する機会をいただき、初めて国際標準化会合に現地参加しました。 入社後にモバイルネットワークや3GPPを学び始めた私にとって、国際標準化会合への参加は、とても大きな挑戦でした。 本ブログでは、 CT1会合はどのような場なのか 実際に参加して感じた国際会合の雰囲気 参",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/3069570da9710b6437fb092bb4101c4509c919d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnttdocomord%2F20261015%2F20261015090007.jpg",
+                "alt": "初めての国際標準化会合へ！新入社員が飛び込んだ3GPP CT1 - ENGINEERING BLOG ドコモ開発者ブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T00:00:00.000Z",
+            "date_published": "2026-10-15T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "初めての国際標準化会合へ！新入社員が飛び込んだ3GPP CT1",
+                "blogTitle": "ENGINEERING BLOG ドコモ開発者ブログ",
+                "blogLink": "https://nttdocomo-developers.jp/",
+                "blogLinkMd5Hash": "bec42f7db35950281b5c16ec5742a54f",
+                "favicon": "https://nttdocomo-developers.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "NTT ドコモ",
+                "host": "nttdocomo-developers.jp",
+                "score": 0.278,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/8e1da67da67f98",
+            "content_html": "1. はじめに松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱い、環境と対話しながら目標達成するエージェントとしての能力を強化学習で向上させる枠組み」[1]です。弊社の過去の取り組みでは、太田さん・尾崎さんのこちらの記事[2]で、メール検索タスク性能...",
+            "url": "https://zenn.dev/mkj/articles/8e1da67da67f98",
+            "title": "Akinatorで始めるAgentic RL ー タスク設計と初期検証  ー | 松尾研究所テックブログのフィード",
+            "summary": "1. はじめに松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱い",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--580LYpSF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Akinator%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258BAgentic%2520RL%2520%25E3%2583%25BC%2520%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%2588%259D%25E6%259C%259F%25E6%25A4%259C%25E8%25A8%25BC%2520%2520%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25B3%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkMDZjNWUyYTQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T02:50:05.000Z",
+            "date_published": "2026-10-15T02:50:05.000Z",
+            "author": {
+                "name": "クリリン"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Akinatorで始めるAgentic RL ー タスク設計と初期検証  ー",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所",
+                "host": "zenn.dev",
+                "score": 0.235,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261013a",
+            "content_html": "はじめまして。東京科学大学理学院数学系修士1年の岩崎丈至です。8月3日から6週間にわたって、LINEスキマニのフロントエンド開発にインターンシップとして参加しました。本稿ではその期間中に行った、メイン...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261013a",
+            "title": "LINEスキマニのトップページにおけるパフォーマンス改善（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "はじめまして。東京科学大学理学院数学系修士1年の岩崎丈至です。8月3日から6週間にわたって、LINEスキマニのフロントエンド開発にインターンシップとして参加しました。本稿ではその期間中に行った、メイン...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/926dcfa34ca8ea072a9c8414bec6f448/7d66e/44bfee2716ad41f8922729c03a4cfdd9.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-13T02:00:00.000Z",
+            "date_published": "2026-10-13T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "LINEスキマニのトップページにおけるパフォーマンス改善（インターンレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.184,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.colopl.dev/entry/2026/10/14/110000",
+            "content_html": "こんにちは。エンジニアの薮 (@tyabu12) です。 最近社内で PostgreSQL を扱う機会があり、MySQL と同じ感覚でトランザクション分離レベルを REPEATABLE READ にしようとしたところ、同じ REPEATABLE READ という名前でも、MySQL と PostgreSQL では SELECT ... FOR UPDATE が読む値が違う ことに気付きました。 トランザクション分離レベル自体は枯れたテーマで、すでに MySQL と PostgreSQL の比較記事は世の中にたくさんあります。ただ、Spanner に関しては 2026年4月に REPEATABL…",
+            "url": "https://blog.colopl.dev/entry/2026/10/14/110000",
+            "title": "同じ REPEATABLE READ でも挙動が違う！？ Spanner / MySQL / PostgreSQL の更新処理を同じ分離レベルで比較してみた | COLOPL Tech Blog",
+            "summary": "こんにちは。エンジニアの薮 (@tyabu12) です。 最近社内で PostgreSQL を扱う機会があり、MySQL と同じ感覚でトランザクション分離レベルを REPEATABLE READ にしようとしたところ、同じ REPEATABLE READ という名前でも、MySQL と PostgreSQL では SELECT ... FOR UPDATE が読む値が違う ことに気付きました。 ト",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032075288803/1792026733",
+                "alt": "同じ REPEATABLE READ でも挙動が違う！？ Spanner / MySQL / PostgreSQL の更新処理を同じ分離レベルで比較してみた - COLOPL Tech Blog"
+            },
+            "date_modified": "2026-10-14T02:00:00.000Z",
+            "date_published": "2026-10-14T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "同じ REPEATABLE READ でも挙動が違う！？ Spanner / MySQL / PostgreSQL の更新処理を同じ分離レベルで比較してみた",
+                "blogTitle": "COLOPL Tech Blog",
+                "blogLink": "https://blog.colopl.dev/",
+                "blogLinkMd5Hash": "e6a68eee4c188124f9f59f9252781495",
+                "favicon": "https://blog.colopl.dev/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "コロプラ",
+                "host": "blog.colopl.dev",
+                "score": 0.182,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37823",
+            "content_html": "「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37823",
+            "title": "Starlinkの障害物検出と性能の関係を調べてみた | IIJ Engineers Blog",
+            "summary": "「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-12T23:58:44.000Z",
+            "date_published": "2026-10-12T23:58:44.000Z",
+            "author": {
+                "name": "谷口 崇"
+            },
+            "tags": [
+                "技術情報",
+                "Starlink",
+                "Starlinkの品質"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Starlinkの障害物検出と性能の関係を調べてみた",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ",
+                "host": "eng-blog.iij.ad.jp",
+                "score": 0.177,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/wiz-explained",
+            "content_html": "G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Google Cloud との連携 主要製品 製品構成 Wiz Code Wiz Cloud Wiz Defend 機能と製品のマッピング 概要 Wiz Code の機能 Wiz Cloud の機能 Wiz D…",
+            "url": "https://blog.g-gen.co.jp/entry/wiz-explained",
+            "title": "Wizの全体像と主要機能を解説 | G-gen Tech Blog",
+            "summary": "G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Googl",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0b0bb56667ae543dea84badf807fee0ac9cfe93c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261014%2F20261014090020.png",
+                "alt": "Wizの全体像と主要機能を解説 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T00:00:00.000Z",
+            "date_published": "2026-10-14T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Wizの全体像と主要機能を解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.175,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/eacf1f9635d3ae",
+            "content_html": "はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより、モデル更新を伴う再学習はせずに推論が可能です。商用利用可能ライセンスな表形式データ基盤モデルです。 Kumo TabularとはKumo Tabularは、Tran...",
+            "url": "https://zenn.dev/mkj/articles/eacf1f9635d3ae",
+            "title": "表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介 | 松尾研究所テックブログのフィード",
+            "summary": "はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Di4y3Sd6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A1%25A8%25E5%25BD%25A2%25E5%25BC%258F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2590%2591%25E3%2581%2591%25E5%259F%25BA%25E7%259B%25A4%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25ABNVIDIA%2520Kumo%2520Tabular%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Mujirushi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwMmFhZWU4MWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T02:50:05.000Z",
+            "date_published": "2026-10-14T02:50:05.000Z",
+            "author": {
+                "name": "Mujirushi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "設計・SRE・基盤 · サイエンス",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所",
+                "host": "zenn.dev",
+                "score": 0.148,
+                "topics": [
+                    "engineering",
+                    "science"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://knowledge.sakura.ad.jp/?p=51644",
+            "content_html": "はじめに JADOGは、データセンター事業者をはじめ、ユーザー、メーカー、SIer、ネットワーク事業者など、多様な業界のプレーヤーが業界の枠を超えて集まり、建設的な情報共有と活発な議論を行うコミュニティーです。これにより […]",
+            "url": "https://knowledge.sakura.ad.jp/51644/",
+            "title": "UPSと海底ケーブルとGPUインフラの話を聞いてきた 〜JADOG19ミーティングレポート〜 | さくらのナレッジ",
+            "summary": "はじめに JADOGは、データセンター事業者をはじめ、ユーザー、メーカー、SIer、ネットワーク事業者など、多様な業界のプレーヤーが業界の枠を超えて集まり、建設的な情報共有と活発な議論を行うコミュニティーです。これにより […]",
+            "image": {
+                "url": "https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/202608-jadog19-cover-1200x630.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-13T02:00:00.000Z",
+            "date_published": "2026-10-13T02:00:00.000Z",
+            "author": {
+                "name": "法林浩之"
+            },
+            "tags": [
+                "エンジニア向け",
+                "GPU",
+                "JADOG",
+                "UPS",
+                "データセンター",
+                "海底ケーブル",
+                "電池"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "UPSと海底ケーブルとGPUインフラの話を聞いてきた 〜JADOG19ミーティングレポート〜",
+                "blogTitle": "さくらのナレッジ",
+                "blogLink": "https://knowledge.sakura.ad.jp/",
+                "blogLinkMd5Hash": "dcab14b3e7b5c67b9792b40c0e68d75c",
+                "favicon": "https://knowledge.sakura.ad.jp/wp-content/uploads/2022/06/cropped-sakura-internet-logomark-dark-32x32.png",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "さくら",
+                "host": "knowledge.sakura.ad.jp",
+                "score": 0.115,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/cloud-run-ssh-explained",
+            "content_html": "G-gen の佐々木です。当記事では、実行中の Cloud Run のコンテナに SSH で接続し、ファイルシステムやプロセスを直接調査できる機能について解説します。 概要 Cloud Run とは Cloud Run の SSH 機能とは 対応する実行モデル SSH 機能の基本 仕組み 制限事項 料金 注意点 有効化する期間 第2世代実行環境の明示 設定変更の影響範囲 接続ユーザー 使用できるコマンド セッション中の変更の扱い 既知の問題 設定手順 事前準備 必要な API とロール Cloud Run services での SSH SSH の有効化と無効化 サービスへの接続 特定のインス…",
+            "url": "https://blog.g-gen.co.jp/entry/cloud-run-ssh-explained",
+            "title": "Cloud RunのSSH機能を解説 | G-gen Tech Blog",
+            "summary": "G-gen の佐々木です。当記事では、実行中の Cloud Run のコンテナに SSH で接続し、ファイルシステムやプロセスを直接調査できる機能について解説します。 概要 Cloud Run とは Cloud Run の SSH 機能とは 対応する実行モデル SSH 機能の基本 仕組み 制限事項 料金 注意点 有効化する期間 第2世代実行環境の明示 設定変更の影響範囲 接続ユーザー 使用できるコ",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/d7e4c705400e386aec0b0e5b748fc9c3ba537630/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261009%2F20261009081608.png",
+                "alt": "Cloud RunのSSH機能を解説 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-13T00:00:00.000Z",
+            "date_published": "2026-10-13T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cloud RunのSSH機能を解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "設計・SRE・基盤",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.11,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2026/10/16/123000",
+            "content_html": "こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではないでしょうか。今回のイベントは、「AIで開発する時代、監視・運用もAIで」をテーマに、実際に手を動かしている2人が、実演と対話でお届けします。 ▼ お申し込みはこちら: AIを味方につける！開発チーム…",
+            "url": "https://developer.hatenastaff.com/entry/2026/10/16/123000",
+            "title": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ | Hatena Developer Blog",
+            "summary": "こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/869f16088514ab03bdd99034596b02cbf7452418/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fja.mackerel.io%2Fhubfs%2Fassets%2Fimg%2Fevent%2Fmackerel-seminar-banner-20261027.png",
+                "alt": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ - Hatena Developer Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T03:30:00.000Z",
+            "date_published": "2026-10-16T03:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！",
+                "blogTitle": "Hatena Developer Blog",
+                "blogLink": "https://developer.hatenastaff.com/",
+                "blogLinkMd5Hash": "82438b7efb4fd1a27bf1f1d57489dd2b",
+                "favicon": "https://developer.hatenastaff.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "はてな",
+                "host": "developer.hatenastaff.com",
+                "score": 0.095,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        }
+    ]
+}

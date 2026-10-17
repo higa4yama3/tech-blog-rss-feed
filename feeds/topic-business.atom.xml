@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business</id>
+    <title>RSS (ビジネス・公共)</title>
+    <updated>2026-10-17T18:24:20.327Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml"/>
+    <subtitle>ビジネス・公共の記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261016a/</id>
+        <link href="https://future-architect.github.io/articles/20261016a/"/>
+        <updated>2026-10-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></summary>
+        <content type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></content>
+        <published>2026-10-15T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[発見] ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00292/091500556/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00292/091500556/"/>
+        <updated>2026-10-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></summary>
+        <content type="html"><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></content>
+        <published>2026-10-16T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[設計判断・移行] AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00795/100800014/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00795/100800014/"/>
+        <updated>2026-10-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></summary>
+        <content type="html"><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></content>
+        <published>2026-10-16T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[仕組みを掘る] 官民370兆円の戦略17分野　AI・造船・創薬で読み解く日本の勝ち筋 (テーマ別まとめ記事) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00081/093000985/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00081/093000985/"/>
+        <updated>2026-10-15T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></summary>
+        <content type="html"><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></content>
+        <published>2026-10-15T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00800/101500046/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00800/101500046/"/>
+        <updated>2026-10-15T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。]]></summary>
+        <content type="html"><![CDATA[メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。]]></content>
+        <published>2026-10-15T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼンショー、オリーブの丘「まず500店」規模へ　サイゼリヤ1強市場に攻勢 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00936/101300008/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00936/101300008/"/>
+        <updated>2026-10-15T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。]]></summary>
+        <content type="html"><![CDATA[国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。]]></content>
+        <published>2026-10-15T20:00:00.000Z</published>
+    </entry>
+</feed>

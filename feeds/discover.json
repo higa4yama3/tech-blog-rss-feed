@@ -1,0 +1,648 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Discover)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.json",
+    "description": "今週の人気（はてブ3件以上・直近7日をスコア順）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://future-architect.github.io/articles/20261015a/",
+            "content_html": "完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。",
+            "url": "https://future-architect.github.io/articles/20261015a/",
+            "title": "[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ",
+            "summary": "完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261015a/benchmark.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "date_published": "2026-10-14T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 59,
+                "originalTitle": "E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ59 · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.415,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ59",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261016a/",
+            "content_html": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261016a/",
+            "title": "[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
+            "summary": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261016a/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T15:00:00.000Z",
+            "date_published": "2026-10-15T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 80,
+                "originalTitle": "E2E テストのフィードバックループを小さくするためのプラクティス",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ80",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.785,
+                "topics": [
+                    "ai",
+                    "org",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "はてブ80"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech-blog.rakus.co.jp/entry/20261016/claude-code",
+            "content_html": "はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、そのための運用を無理なく続けるためです。 「運用のことは、あの人に聞かないと分からない」という状況に心当たりのある開発者や運用担当の方に、読んでいただけたらうれしいです。 はじめに 設計の段階で、運用…",
+            "url": "https://tech-blog.rakus.co.jp/entry/20261016/claude-code",
+            "title": "[はてブ38] AIで引ければいい、から始めた運用ナレッジ | RAKUS Developers Blog | ラクス エンジニアブログ",
+            "summary": "はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/f0fa8e26a22a56052d8e9f953f45a13f7e788daf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261015%2F20261015101554.png",
+                "alt": "AIで引ければいい、から始めた運用ナレッジ - RAKUS Developers Blog | ラクス エンジニアブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T06:00:00.000Z",
+            "date_published": "2026-10-16T06:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 38,
+                "originalTitle": "AIで引ければいい、から始めた運用ナレッジ",
+                "blogTitle": "RAKUS Developers Blog | ラクス エンジニアブログ",
+                "blogLink": "https://tech-blog.rakus.co.jp/",
+                "blogLinkMd5Hash": "aeb5ee1cbad5d3e6a1c7cc05d2064248",
+                "favicon": "https://tech-blog.rakus.co.jp/icon/favicon",
+                "pickReason": "はてブ38",
+                "sourceTier": "core",
+                "sourceLabel": "ラクス",
+                "host": "tech-blog.rakus.co.jp",
+                "score": 2.069,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ38"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2026/10/14/133340",
+            "content_html": "こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一…",
+            "url": "https://www.m3tech.blog/entry/2026/10/14/133340",
+            "title": "[はてブ34] Claudeが実装したE2Eテストをレビューするツールを自作してみた | エムスリーテックブログ",
+            "summary": "こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a85683eaf23f6b4914b409be303e6fd3fb9e5f51/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261014%2F20261014133424.jpg",
+                "alt": "Claudeが実装したE2Eテストをレビューするツールを自作してみた - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-14T04:33:40.000Z",
+            "date_published": "2026-10-14T04:33:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 34,
+                "originalTitle": "Claudeが実装したE2Eテストをレビューするツールを自作してみた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ34 · 作ってみた",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 1.068,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ34",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+            "content_html": "はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ…",
+            "url": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+            "title": "[はてブ26] 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス | ZOZO TECH BLOG",
+            "summary": "はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/594b0f4eabf7f2bcd148e29c82bed7889dd2ba86/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261013%2F20261013191951.png",
+                "alt": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T02:00:00.000Z",
+            "date_published": "2026-10-16T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 26,
+                "originalTitle": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス",
+                "blogTitle": "ZOZO TECH BLOG",
+                "blogLink": "https://techblog.zozo.com/",
+                "blogLinkMd5Hash": "4a7cd1e1b20589b73a1351f490e42d6a",
+                "favicon": "https://techblog.zozo.com/icon/favicon",
+                "pickReason": "はてブ26",
+                "sourceTier": "core",
+                "sourceLabel": "ZOZO",
+                "host": "techblog.zozo.com",
+                "score": 1.77,
+                "topics": [
+                    "ai",
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ26"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261017-agentsview/",
+            "content_html": "Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。",
+            "url": "https://gigazine.net/news/20261017-agentsview/",
+            "title": "[はてブ49] すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能 | GIGAZINE",
+            "summary": "Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/17/agentsview/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T09:00:00.000Z",
+            "date_published": "2026-10-17T09:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 49,
+                "originalTitle": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ49",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 2.562,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ49"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261017-ibisOffice/",
+            "content_html": "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。",
+            "url": "https://gigazine.net/news/20261017-ibisOffice/",
+            "title": "[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE",
+            "summary": "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/17/ibisOffice/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T14:00:00.000Z",
+            "date_published": "2026-10-17T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ11 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 2.669,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ11",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/",
+            "content_html": "Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。",
+            "url": "https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/",
+            "title": "[はてブ19] 亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作 | GIGAZINE",
+            "summary": "Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/16/using-ai-reverse-engineer-hardware/00_m.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T07:36:00.000Z",
+            "date_published": "2026-10-16T07:36:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 19,
+                "originalTitle": "亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ19 · 作ってみた",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 1.824,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ19",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "content_html": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "title": "[はてブ15] Claude reveals ECDSA curve origins | Anthropic Research",
+            "summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 15,
+                "originalTitle": "Claude reveals ECDSA curve origins",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ15",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.653,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ15"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432",
+            "content_html": "1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉で繰り返し、重層的に語られているからだ。そこに現れるのは、大阪で形をなし、いままた横浜でnull2n*1という形で第二形態と化した、nullと仏教の空、華厳経における事事無碍、オブジェクト指向的な世界…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432",
+            "title": "[必読 · 安宅和人（はてなブログ）] マタギドライヴへの道 | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c65da6332fbb17bf8153b4e6d201c549217a04d8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20261017%2F20261017172521.jpg",
+                "alt": "マタギドライヴへの道 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T08:34:32.000Z",
+            "date_published": "2026-10-17T08:34:32.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "マタギドライヴへの道",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人（はてなブログ） · はてブ3",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）",
+                "host": "kaz-ataka.hatenablog.com",
+                "score": 2.33,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "必読 · 安宅和人（はてなブログ）",
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2148592.html",
+            "content_html": " 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2148592.html",
+            "title": "[はてブ18] メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで | 窓の杜",
+            "summary": " 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2148/592/windows11.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T21:45:00.000Z",
+            "date_published": "2026-10-15T21:45:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 18,
+                "originalTitle": "メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ18 · 数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.496,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ18",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2147368.html",
+            "content_html": " 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2147368.html",
+            "title": "[はてブ33] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更 | 窓の杜",
+            "summary": " 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2147/368/csharp_dev_kit.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T06:33:00.000Z",
+            "date_published": "2026-10-15T06:33:00.000Z",
+            "author": {
+                "name": "樽井 秀人"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 33,
+                "originalTitle": "「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ33 · 数字のインパクト",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.228,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "はてブ33",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
+            "content_html": " データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
+            "title": "[はてブ114] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 | 窓の杜",
+            "summary": " データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2148/495/curl.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T11:45:00.000Z",
+            "date_published": "2026-10-15T11:45:00.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 114,
+                "originalTitle": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ114",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.248,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ114"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/employment-at-anthropic",
+            "content_html": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+            "url": "https://www.anthropic.com/research/employment-at-anthropic",
+            "title": "[はてブ3] How employment is changing at Anthropic | Anthropic Research",
+            "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor ",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "How employment is changing at Anthropic",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.07,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/self-replicating-ai",
+            "content_html": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+            "url": "https://www.anthropic.com/research/self-replicating-ai",
+            "title": "[はてブ14] AI models may be capable of self-replicating without access to a datacenter | Anthropic Research",
+            "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-12T00:00:00.000Z",
+            "date_published": "2026-10-12T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "AI models may be capable of self-replicating without access to a datacenter",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ14",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.256,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ14"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://coliss.com/?p=85419",
+            "content_html": "macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その",
+            "url": "https://coliss.com/articles/build-websites/operation/work/window-taskbar-for-macos.html",
+            "title": "[はてブ3] macOSでウインドウがたくさん表示されていてもワンクリックで目的のウインドウを手前にできるアプリ -Tungsten Edge | コリス",
+            "summary": "macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その",
+            "image": {
+                "url": "https://coliss.com/wp-content/uploads-202604/2026100402-01@2x.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T00:36:48.000Z",
+            "date_published": "2026-10-15T00:36:48.000Z",
+            "author": {
+                "name": "コリス🥦"
+            },
+            "tags": [
+                "サイト構築 -制作",
+                "mac"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "macOSでウインドウがたくさん表示されていてもワンクリックで目的のウインドウを手前にできるアプリ -Tungsten Edge",
+                "blogTitle": "コリス",
+                "blogLink": "https://coliss.com",
+                "blogLinkMd5Hash": "973518632646912e0aab6d318014e222",
+                "favicon": "https://coliss.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "media",
+                "sourceLabel": "コリス",
+                "host": "coliss.com",
+                "score": 0.434,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (ビジネス・公共)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml</link>
+        <description>ビジネス・公共の記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (ビジネス・公共)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ]]></title>
+            <link>https://future-architect.github.io/articles/20261016a/</link>
+            <guid>https://future-architect.github.io/articles/20261016a/</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></description>
+            <content:encoded><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://future-architect.github.io/images/2026/20261016a/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00292/091500556/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00292/091500556/</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></description>
+            <content:encoded><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00292/091500556/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[設計判断・移行] AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00795/100800014/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00795/100800014/</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></description>
+            <content:encoded><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00795/100800014/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[仕組みを掘る] 官民370兆円の戦略17分野　AI・造船・創薬で読み解く日本の勝ち筋 (テーマ別まとめ記事) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00081/093000985/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00081/093000985/</guid>
+            <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></description>
+            <content:encoded><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00081/093000985/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00800/101500046/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00800/101500046/</guid>
+            <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。]]></description>
+            <content:encoded><![CDATA[メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00800/101500046/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ゼンショー、オリーブの丘「まず500店」規模へ　サイゼリヤ1強市場に攻勢 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00936/101300008/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00936/101300008/</guid>
+            <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。]]></description>
+            <content:encoded><![CDATA[国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00936/101300008/fb.jpg"/>
+        </item>
+    </channel>
+</rss>

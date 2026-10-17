@@ -1,0 +1,429 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (サイエンス)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.json",
+    "description": "サイエンスの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+            "content_html": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽くおさらいしましょう． UUID (Universally Unique Identifier) は，時間的・空間的に一意であることを意図して設計された，128ビットの識別子です． 一般的には fa6c2…",
+            "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+            "title": "[はてブ59] こんにちは，UUID 芸人です - ハーフダチョウ研究会 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽くお",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/6802888565216560251/14945776032091061854/1792187902",
+                "alt": "こんにちは，UUID 芸人です - ハーフダチョウ研究会"
+            },
+            "date_modified": "2026-10-17T00:36:24.000Z",
+            "date_published": "2026-10-17T00:36:24.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 59,
+                "originalTitle": "こんにちは，UUID 芸人です - ハーフダチョウ研究会",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://mimifuwacc.hatenablog.com/icon/favicon",
+                "pickReason": "はてブ59",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "mimifuwacc.hatenablog.com",
+                "score": 2.903,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ59"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=201867",
+            "content_html": "親戚の集まりで「いい人はいないの？」と聞かれ、笑ってごまかした経験がある人も多いでしょう。 人の一生の歩みを説明する心理学の理論では、パートナーを見つけて結婚することが、人生の大事な目標として扱われてきました。 その一方で、一度も結婚しないまま年を重ねる人たちには、あまり目が向けられてきませんでした。 では、結婚せず恋人もいない暮らしを10年以上続けた人は、本当に年々不満をためていくのでしょうか。 今回の研究は、ドイツで11年間ずっと独身だった約3000人の記録をたどり、この問いに答えようとしたものです。 研究の詳細は、カナダのトロント大学らにより、2026年8月21日付で学術誌『Perso…",
+            "url": "https://nazology.kusuguru.co.jp/archives/201867",
+            "title": "[発見] 11年独身でも約9割は「人生の満足度」が高いままと判明 | ナゾロジー",
+            "summary": "親戚の集まりで「いい人はいないの？」と聞かれ、笑ってごまかした経験がある人も多いでしょう。 人の一生の歩みを説明する心理学の理論では、パートナーを見つけて結婚することが、人生の大事な目標として扱われてきました。 その一方で、一度も結婚しないまま年を重ねる人たちには、あまり目が向けられてきませんでした。 では、結婚せず恋人もいない暮らしを10年以上続けた人は、本当に年々不満をためていくのでしょうか。",
+            "image": {
+                "height": "900",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c53-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T22:30:00.000Z",
+            "date_published": "2026-10-16T22:30:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "心理学",
+                "ドイツ",
+                "恋愛"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "11年独身でも約9割は「人生の満足度」が高いままと判明",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.241,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=201859",
+            "content_html": "バイキングと聞くと、船で海を渡って各地を襲う、荒々しい戦士の姿を思い浮かべる人も多いでしょう。 実際、鉄器時代からバイキング時代にかけてのスカンジナビアは、戦士を重んじる考え方が広まった時代として知られます。 時代でいえば、紀元前500年ごろから西暦1050年ごろまでにあたります。 ところが意外なことに、当時の墓地に眠る人々の骨には、けがの跡が比較的少ないことが知られてきました。 荒々しい時代のはずなのに、暴力の跡はどこに残されていたのでしょうか。 国際研究プロジェクト「BODY-POLITICS」のチームは、その答えを墓地ではなく、人々が暮らした家の中に探しました。 家の炉や床下から見つか…",
+            "url": "https://nazology.kusuguru.co.jp/archives/201859",
+            "title": "[発見] バイキングの暴力を物語る「家の中の痕跡」を発見 | ナゾロジー",
+            "summary": "バイキングと聞くと、船で海を渡って各地を襲う、荒々しい戦士の姿を思い浮かべる人も多いでしょう。 実際、鉄器時代からバイキング時代にかけてのスカンジナビアは、戦士を重んじる考え方が広まった時代として知られます。 時代でいえば、紀元前500年ごろから西暦1050年ごろまでにあたります。 ところが意外なことに、当時の墓地に眠る人々の骨には、けがの跡が比較的少ないことが知られてきました。 荒々しい時代のは",
+            "image": {
+                "height": "1140",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c366-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T09:00:00.000Z",
+            "date_published": "2026-10-17T09:00:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "歴史・考古学",
+                "動物",
+                "子ども",
+                "物語",
+                "遺伝子"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "バイキングの暴力を物語る「家の中の痕跡」を発見",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 1.168,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00292/091500556/",
+            "content_html": "1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00292/091500556/",
+            "title": "[発見] ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事",
+            "summary": "1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00292/091500556/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T08:00:00.000Z",
+            "date_published": "2026-10-16T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.722,
+                "topics": [
+                    "ai",
+                    "science",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://nazology.kusuguru.co.jp/?p=201767",
+            "content_html": "子どもの頃に覚えた「水金地火木土天海」は、大人になった今もすらすら口から出てきます。 太陽系の惑星の並びは、それほど当たり前で、動かないものに見えます。 けれども太陽にも寿命があり、いずれ外側のガスを宇宙へ吐き出して、小さな燃えかすの星になります。 そのとき、木星・土星・天王星・海王星という外側の4つの惑星はどうなるのでしょうか。 これまでは、太陽が死んだあとも、4つの惑星は途方もなく長いあいだ無事だと計算されてきました。 ところが新しい研究は、その計算が、ある前提に寄りかかっていたと指摘しています。 太陽の最期に、外側の惑星たちに何が起きうるのかを見ていきます。 研究の詳細は、2026年9…",
+            "url": "https://nazology.kusuguru.co.jp/archives/201767",
+            "title": "[仕組みを掘る] 「水金地火木土天海」は太陽の死で崩れる――惑星の並びが壊れる仕組みを発見 | ナゾロジー",
+            "summary": "子どもの頃に覚えた「水金地火木土天海」は、大人になった今もすらすら口から出てきます。 太陽系の惑星の並びは、それほど当たり前で、動かないものに見えます。 けれども太陽にも寿命があり、いずれ外側のガスを宇宙へ吐き出して、小さな燃えかすの星になります。 そのとき、木星・土星・天王星・海王星という外側の4つの惑星はどうなるのでしょうか。 これまでは、太陽が死んだあとも、4つの惑星は途方もなく長いあいだ無",
+            "image": {
+                "height": "1331",
+                "url": "https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c426-fig-thumb.jpg",
+                "width": "1600",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T09:00:00.000Z",
+            "date_published": "2026-10-15T09:00:00.000Z",
+            "author": {
+                "name": "山下 浩介"
+            },
+            "tags": [
+                "宇宙",
+                "土星",
+                "太陽",
+                "惑星",
+                "海王星"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「水金地火木土天海」は太陽の死で崩れる――惑星の並びが壊れる仕組みを発見",
+                "blogTitle": "ナゾロジー",
+                "blogLink": "https://nazology.kusuguru.co.jp",
+                "blogLinkMd5Hash": "a2afa7dbf7208429171070d85c38d1ae",
+                "favicon": "https://nazology.kusuguru.co.jp/wp-content/themes/nazology/frontend/statics/images/icon/favicon.ico",
+                "pickReason": "仕組みを掘る · 発見",
+                "sourceTier": "media",
+                "sourceLabel": "ナゾロジー",
+                "host": "nazology.kusuguru.co.jp",
+                "score": 0.695,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "仕組みを掘る",
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "content_html": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "title": "Designing more efficient quantum circuits with Claude | Anthropic Research",
+            "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Designing more efficient quantum circuits with Claude",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM · フロントエンド・デザイン · サイエンス",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.486,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261014b",
+            "content_html": "こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261014b",
+            "title": "プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/237730efa405092c2e0df3edc5fb2865/7d66e/201ed0fcc6ef4110a1df4c7ab5ed194b.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T02:00:00.000Z",
+            "date_published": "2026-10-14T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "組織・マネジメント・QA · サイエンス",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.292,
+                "topics": [
+                    "org",
+                    "science"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/eacf1f9635d3ae",
+            "content_html": "はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより、モデル更新を伴う再学習はせずに推論が可能です。商用利用可能ライセンスな表形式データ基盤モデルです。 Kumo TabularとはKumo Tabularは、Tran...",
+            "url": "https://zenn.dev/mkj/articles/eacf1f9635d3ae",
+            "title": "表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介 | 松尾研究所テックブログのフィード",
+            "summary": "はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより",
+            "image": {
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Di4y3Sd6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A1%25A8%25E5%25BD%25A2%25E5%25BC%258F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2590%2591%25E3%2581%2591%25E5%259F%25BA%25E7%259B%25A4%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25ABNVIDIA%2520Kumo%2520Tabular%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Mujirushi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwMmFhZWU4MWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T02:50:05.000Z",
+            "date_published": "2026-10-14T02:50:05.000Z",
+            "author": {
+                "name": "Mujirushi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介",
+                "blogTitle": "松尾研究所テックブログのフィード",
+                "blogLink": "https://zenn.dev/p/mkj",
+                "blogLinkMd5Hash": "5dfbc0cdb584c339ad79d39acc62441f",
+                "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+                "pickReason": "設計・SRE・基盤 · サイエンス",
+                "sourceTier": "optional",
+                "sourceLabel": "松尾研究所",
+                "host": "zenn.dev",
+                "score": 0.148,
+                "topics": [
+                    "engineering",
+                    "science"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.fltech.dev/entry/2026/10/12/evangelist-blog-post-ja",
+            "content_html": "富士通のテクノロジーのプレスリリースで研究所が対外的にお知らせしたホットトピックスを俯瞰し、要点をリサーチエバンジェリストの視点からお届け。 今回の内容は、量子のいろいろな話題、CPUの話題と、CEATEC予告です。",
+            "url": "https://blog.fltech.dev/entry/2026/10/12/evangelist-blog-post-ja",
+            "title": "プレスリリースから紐解く｜リサーチエバンジェリストによる富士通研究所TECH UPDATE✨（FY26-2Q＋α） | fltech - 富士通研究所の技術ブログ",
+            "summary": "富士通のテクノロジーのプレスリリースで研究所が対外的にお知らせしたホットトピックスを俯瞰し、要点をリサーチエバンジェリストの視点からお届け。 今回の内容は、量子のいろいろな話題、CPUの話題と、CEATEC予告です。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/7e744e5193b6a7ee8bfd9ec7ba0acd5bac1c8547/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261013%2F20261013063034.png",
+                "alt": "プレスリリースから紐解く｜リサーチエバンジェリストによる富士通研究所TECH UPDATE✨（FY26-2Q＋α） - fltech - 富士通研究所の技術ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-12T21:30:00.000Z",
+            "date_published": "2026-10-12T21:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "プレスリリースから紐解く｜リサーチエバンジェリストによる富士通研究所TECH UPDATE✨（FY26-2Q＋α）",
+                "blogTitle": "fltech - 富士通研究所の技術ブログ",
+                "blogLink": "https://blog.fltech.dev/",
+                "blogLinkMd5Hash": "d2545eca8d1e39c3f6f70e9393bda9cd",
+                "favicon": "https://blog.fltech.dev/icon/favicon",
+                "pickReason": "サイエンス",
+                "sourceTier": "core",
+                "sourceLabel": "富士通研究所",
+                "host": "blog.fltech.dev",
+                "score": 0.105,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/",
+            "content_html": "こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。",
+            "url": "https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/",
+            "title": "オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました | fltech - 富士通研究所の技術ブログ",
+            "summary": "こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c2ad92dd5e61b58cc5a503cf6d4be760ab151bff/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261014%2F20261014090013.png",
+                "alt": "オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました - fltech - 富士通研究所の技術ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T00:00:00.000Z",
+            "date_published": "2026-10-14T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました",
+                "blogTitle": "fltech - 富士通研究所の技術ブログ",
+                "blogLink": "https://blog.fltech.dev/",
+                "blogLinkMd5Hash": "d2545eca8d1e39c3f6f70e9393bda9cd",
+                "favicon": "https://blog.fltech.dev/icon/favicon",
+                "pickReason": "セキュリティ · サイエンス",
+                "sourceTier": "core",
+                "sourceLabel": "富士通研究所",
+                "host": "blog.fltech.dev",
+                "score": 0.035,
+                "topics": [
+                    "security",
+                    "science"
+                ],
+                "topicLabels": [
+                    "セキュリティ",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (ビジネス・公共)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-business.json",
+    "description": "ビジネス・公共の記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://future-architect.github.io/articles/20261016a/",
+            "content_html": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261016a/",
+            "title": "[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
+            "summary": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261016a/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T15:00:00.000Z",
+            "date_published": "2026-10-15T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 80,
+                "originalTitle": "E2E テストのフィードバックループを小さくするためのプラクティス",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ80",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.785,
+                "topics": [
+                    "ai",
+                    "org",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "はてブ80"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00292/091500556/",
+            "content_html": "1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00292/091500556/",
+            "title": "[発見] ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事",
+            "summary": "1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00292/091500556/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T08:00:00.000Z",
+            "date_published": "2026-10-16T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.722,
+                "topics": [
+                    "ai",
+                    "science",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "サイエンス",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00795/100800014/",
+            "content_html": "AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00795/100800014/",
+            "title": "[設計判断・移行] AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事",
+            "summary": "AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00795/100800014/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T08:00:00.000Z",
+            "date_published": "2026-10-16T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "ai",
+                    "org",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00081/093000985/",
+            "content_html": "高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00081/093000985/",
+            "title": "[仕組みを掘る] 官民370兆円の戦略17分野　AI・造船・創薬で読み解く日本の勝ち筋 (テーマ別まとめ記事) | 日経ビジネス電子版　最新記事",
+            "summary": "高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00081/093000985/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T20:00:00.000Z",
+            "date_published": "2026-10-15T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "官民370兆円の戦略17分野　AI・造船・創薬で読み解く日本の勝ち筋 (テーマ別まとめ記事)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.573,
+                "topics": [
+                    "ai",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00800/101500046/",
+            "content_html": "メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00800/101500046/",
+            "title": "「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保) | 日経ビジネス電子版　最新記事",
+            "summary": "メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00800/101500046/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T20:00:00.000Z",
+            "date_published": "2026-10-15T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ビジネス・公共",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.367,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00936/101300008/",
+            "content_html": "国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00936/101300008/",
+            "title": "ゼンショー、オリーブの丘「まず500店」規模へ　サイゼリヤ1強市場に攻勢 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事",
+            "summary": "国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00936/101300008/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T20:00:00.000Z",
+            "date_published": "2026-10-15T20:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ゼンショー、オリーブの丘「まず500店」規模へ　サイゼリヤ1強市場に攻勢 (ゼンショー 逆転の法則)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "ビジネス・公共",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.367,
+                "topics": [
+                    "business"
+                ],
+                "topicLabels": [
+                    "ビジネス・公共"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}

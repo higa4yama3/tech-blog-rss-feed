@@ -1,0 +1,560 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (組織・マネジメント・QA)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org.json",
+    "description": "組織・マネジメント・QAの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://note.com/suh_sunaneko/n/n23ed6981ff6a",
+            "content_html": "「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 メンバー全員に使わせようとして、止まる キックオフで「このプロジェクトではAIを活用していきます」と宣言する。メンバー全員分のアカウントを用意する。使い方の共有会を1回開く。 3ヶ月",
+            "url": "https://note.com/suh_sunaneko/n/n23ed6981ff6a",
+            "title": "[はてブ60] AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 ",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/325184508/rectangle_large_type_2_093a9fa8eb96eee7b1d713fa3a57aa50.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T04:12:34.000Z",
+            "date_published": "2026-10-17T04:12:34.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 60,
+                "originalTitle": "AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico",
+                "pickReason": "はてブ60",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "note.com",
+                "score": 3.121,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ60"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261016a/",
+            "content_html": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261016a/",
+            "title": "[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
+            "summary": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261016a/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T15:00:00.000Z",
+            "date_published": "2026-10-15T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 80,
+                "originalTitle": "E2E テストのフィードバックループを小さくするためのプラクティス",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ80",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.785,
+                "topics": [
+                    "ai",
+                    "org",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "はてブ80"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261015a/",
+            "content_html": "完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。",
+            "url": "https://future-architect.github.io/articles/20261015a/",
+            "title": "[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ",
+            "summary": "完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261015a/benchmark.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T15:00:00.000Z",
+            "date_published": "2026-10-14T15:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 59,
+                "originalTitle": "E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem",
+                "blogTitle": "フューチャー技術ブログ",
+                "blogLink": "https://future-architect.github.io/",
+                "blogLinkMd5Hash": "2de9206d7f5036a0ff70feb534f16c17",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ59 · 数字のインパクト",
+                "sourceTier": "core",
+                "sourceLabel": "フューチャー",
+                "host": "future-architect.github.io",
+                "score": 1.415,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ59",
+                    "数字のインパクト"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+            "content_html": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコーディングツール（Anthropicの「Claude Code」やGitHubの「Copilot CLI」）の利用状況と、それが生産性に与える影響について調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+            "title": "[はてブ12] Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる | ITmedia NEWS 最新記事一覧",
+            "summary": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコ",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002277/10009372/2048"
+            },
+            "date_modified": "2026-10-16T03:00:00.000Z",
+            "date_published": "2026-10-16T03:00:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 12,
+                "originalTitle": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ12",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.206,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ12"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+            "content_html": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+            "title": "[はてブ14] Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし | ITmedia NEWS 最新記事一覧",
+            "summary": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002315/10009521/2048"
+            },
+            "date_modified": "2026-10-16T00:49:28.000Z",
+            "date_published": "2026-10-16T00:49:28.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ14",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.201,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ14"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.m3tech.blog/entry/2026/10/14/133340",
+            "content_html": "こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一…",
+            "url": "https://www.m3tech.blog/entry/2026/10/14/133340",
+            "title": "[はてブ34] Claudeが実装したE2Eテストをレビューするツールを自作してみた | エムスリーテックブログ",
+            "summary": "こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/a85683eaf23f6b4914b409be303e6fd3fb9e5f51/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261014%2F20261014133424.jpg",
+                "alt": "Claudeが実装したE2Eテストをレビューするツールを自作してみた - エムスリーテックブログ",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-14T04:33:40.000Z",
+            "date_published": "2026-10-14T04:33:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 34,
+                "originalTitle": "Claudeが実装したE2Eテストをレビューするツールを自作してみた",
+                "blogTitle": "エムスリーテックブログ",
+                "blogLink": "https://www.m3tech.blog/",
+                "blogLinkMd5Hash": "92e8a5c89cffe5b7a0fd7acaceb3efd3",
+                "favicon": "https://www.m3tech.blog/icon/favicon",
+                "pickReason": "はてブ34 · 作ってみた",
+                "sourceTier": "core",
+                "sourceLabel": "エムスリー",
+                "host": "m3tech.blog",
+                "score": 1.068,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ34",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/10/16/164423",
+            "content_html": "こんにちは！SmartHR 採用担当の南石（@nanseki_o）です。2026年7月にSmartHRに2回目の入社をしました。 本日は、出戻りしたら爆誕していた「CRE」というロールについてインタビューした内容をお届けします。 CRE（Customer Reliability Engineering）という言葉を聞いたことはありますか。 技術的な問い合わせに対応するエンジニア、カスタマーサポートと開発チームの橋渡し役といったイメージを持つ方もいるかもしれません。 SmartHRのCREは2025年7月に誕生した組織です。お客さまからの技術的な問い合わせへの対応も担っていますが、それは活動の一…",
+            "url": "https://tech.smarthr.jp/entry/2026/10/16/164423",
+            "title": "システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」 | SmartHR Tech Blog",
+            "summary": "こんにちは！SmartHR 採用担当の南石（@nanseki_o）です。2026年7月にSmartHRに2回目の入社をしました。 本日は、出戻りしたら爆誕していた「CRE」というロールについてインタビューした内容をお届けします。 CRE（Customer Reliability Engineering）という言葉を聞いたことはありますか。 技術的な問い合わせに対応するエンジニア、カスタマーサポート",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/e88ff4d440e555f892ba29a3070c7b05e76a746e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261016%2F20261016164427.png",
+                "alt": "システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」 - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T07:44:23.000Z",
+            "date_published": "2026-10-16T07:44:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR",
+                "host": "tech.smarthr.jp",
+                "score": 1.001,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "content_html": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断しているのか、開発の状態をGitHubのどこに置いているのかが分かる内容となっています。 複数のAIエージェントを開発フローに組み込もうとしている方や、AIエージェントとの役割分担を考えているエンジニアの方…",
+            "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+            "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ | Findy Tech Blog",
+            "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断してい",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/7d38ee157bded6d84ca90191fbc05a21697fa0eb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png",
+                "alt": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T03:00:00.000Z",
+            "date_published": "2026-10-16T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ",
+                "blogTitle": "Findy Tech Blog",
+                "blogLink": "https://tech.findy.co.jp/",
+                "blogLinkMd5Hash": "fbd3f27d454988167016d210b62c5f67",
+                "favicon": "https://tech.findy.co.jp/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "Findy",
+                "host": "tech.findy.co.jp",
+                "score": 0.914,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://business.nikkei.com/atcl/gen/19/00795/100800014/",
+            "content_html": "AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。",
+            "url": "https://business.nikkei.com/atcl/gen/19/00795/100800014/",
+            "title": "[設計判断・移行] AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事",
+            "summary": "AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。",
+            "image": {
+                "url": "https://business.nikkei.com/atcl/gen/19/00795/100800014/fb.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T08:00:00.000Z",
+            "date_published": "2026-10-16T08:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点)",
+                "blogTitle": "日経ビジネス電子版　最新記事",
+                "blogLink": "https://business.nikkei.com/",
+                "blogLinkMd5Hash": "057ac3f65b5bcce7d45338abdd3d67e4",
+                "favicon": "https://business.nikkei.com/favicon.ico",
+                "pickReason": "設計判断・移行",
+                "sourceTier": "media",
+                "sourceLabel": "日経ビジネス",
+                "host": "business.nikkei.com",
+                "score": 0.65,
+                "topics": [
+                    "ai",
+                    "org",
+                    "business"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA",
+                    "ビジネス・公共"
+                ],
+                "signals": [
+                    "設計判断・移行"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://tech.smarthr.jp/entry/2026/10/14/145752",
+            "content_html": "こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に品質を高められる一本の「線」にしていく取り組みだったと考えています。 個々の取り組みについては、ブログや登壇などでその都度発信してきました。 今回はそれらの詳細を説明するのではなく、これまでの記事も参…",
+            "url": "https://tech.smarthr.jp/entry/2026/10/14/145752",
+            "title": "点を線にして、QA組織の次の「当たり前」をつくっていく | SmartHR Tech Blog",
+            "summary": "こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/cae0f363514f576684bf1f542982948d6ab009fa/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20261014%2F20261014145753.png",
+                "alt": "点を線にして、QA組織の次の「当たり前」をつくっていく - SmartHR Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T05:57:52.000Z",
+            "date_published": "2026-10-14T05:57:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "点を線にして、QA組織の次の「当たり前」をつくっていく",
+                "blogTitle": "SmartHR Tech Blog",
+                "blogLink": "https://tech.smarthr.jp/",
+                "blogLinkMd5Hash": "8b4cc9bbffb46705a82048ef5d540439",
+                "favicon": "https://tech.smarthr.jp/icon/favicon",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "SmartHR",
+                "host": "tech.smarthr.jp",
+                "score": 0.384,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261014b",
+            "content_html": "こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261014b",
+            "title": "プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/237730efa405092c2e0df3edc5fb2865/7d66e/201ed0fcc6ef4110a1df4c7ab5ed194b.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T02:00:00.000Z",
+            "date_published": "2026-10-14T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート）",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "組織・マネジメント・QA · サイエンス",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.292,
+                "topics": [
+                    "org",
+                    "science"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261015a",
+            "content_html": "こんにちは。私たちはLINEヤフー株式会社で言語処理モデルを開発しているプロジェクトチームです。LINEヤフーでは、さまざまなサービス（例：Yahoo!ショッピング、Yahoo!検索、Yahoo!知恵...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261015a",
+            "title": "大規模テキストデータを活用したサービス特化型言語モデルの社内共有プロジェクト：Moegi | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。私たちはLINEヤフー株式会社で言語処理モデルを開発しているプロジェクトチームです。LINEヤフーでは、さまざまなサービス（例：Yahoo!ショッピング、Yahoo!検索、Yahoo!知恵...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/dfdc44608726f3385486353991b33598/f0810/1f25a7e56db6427b941f0786fb2c7e3f.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T02:00:00.000Z",
+            "date_published": "2026-10-15T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "大規模テキストデータを活用したサービス特化型言語モデルの社内共有プロジェクト：Moegi",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.289,
+                "topics": [
+                    "org"
+                ],
+                "topicLabels": [
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://eng-blog.iij.ad.jp/?p=37823",
+            "content_html": "「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...",
+            "url": "https://eng-blog.iij.ad.jp/archives/37823",
+            "title": "Starlinkの障害物検出と性能の関係を調べてみた | IIJ Engineers Blog",
+            "summary": "「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...",
+            "image": {
+                "url": "https://eng-blog.iij.ad.jp/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-12T23:58:44.000Z",
+            "date_published": "2026-10-12T23:58:44.000Z",
+            "author": {
+                "name": "谷口 崇"
+            },
+            "tags": [
+                "技術情報",
+                "Starlink",
+                "Starlinkの品質"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Starlinkの障害物検出と性能の関係を調べてみた",
+                "blogTitle": "IIJ Engineers Blog",
+                "blogLink": "https://eng-blog.iij.ad.jp",
+                "blogLinkMd5Hash": "9d08b1d8dd9668ffaae0d694bda83f18",
+                "favicon": "https://eng-blog.iij.ad.jp/wp-content/themes/iijblog_renew/images/favicon.ico",
+                "pickReason": "設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "IIJ",
+                "host": "eng-blog.iij.ad.jp",
+                "score": 0.177,
+                "topics": [
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2026/10/16/123000",
+            "content_html": "こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではないでしょうか。今回のイベントは、「AIで開発する時代、監視・運用もAIで」をテーマに、実際に手を動かしている2人が、実演と対話でお届けします。 ▼ お申し込みはこちら: AIを味方につける！開発チーム…",
+            "url": "https://developer.hatenastaff.com/entry/2026/10/16/123000",
+            "title": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ | Hatena Developer Blog",
+            "summary": "こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではな",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/869f16088514ab03bdd99034596b02cbf7452418/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fja.mackerel.io%2Fhubfs%2Fassets%2Fimg%2Fevent%2Fmackerel-seminar-banner-20261027.png",
+                "alt": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ - Hatena Developer Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T03:30:00.000Z",
+            "date_published": "2026-10-16T03:30:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！",
+                "blogTitle": "Hatena Developer Blog",
+                "blogLink": "https://developer.hatenastaff.com/",
+                "blogLinkMd5Hash": "82438b7efb4fd1a27bf1f1d57489dd2b",
+                "favicon": "https://developer.hatenastaff.com/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · 組織・マネジメント・QA",
+                "sourceTier": "core",
+                "sourceLabel": "はてな",
+                "host": "developer.hatenastaff.com",
+                "score": 0.095,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        }
+    ]
+}

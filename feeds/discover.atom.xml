@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover</id>
+    <title>RSS (Discover)</title>
+    <updated>2026-10-17T18:24:20.347Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml"/>
+    <subtitle>今週の人気（はてブ3件以上・直近7日をスコア順）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261015a/</id>
+        <link href="https://future-architect.github.io/articles/20261015a/"/>
+        <updated>2026-10-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></summary>
+        <content type="html"><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></content>
+        <published>2026-10-14T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261016a/</id>
+        <link href="https://future-architect.github.io/articles/20261016a/"/>
+        <updated>2026-10-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></summary>
+        <content type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></content>
+        <published>2026-10-15T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ38] AIで引ければいい、から始めた運用ナレッジ | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261016/claude-code"/>
+        <updated>2026-10-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、]]></summary>
+        <content type="html"><![CDATA[はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、そのための運用を無理なく続けるためです。 「運用のことは、あの人に聞かないと分からない」という状況に心当たりのある開発者や運用担当の方に、読んでいただけたらうれしいです。 はじめに 設計の段階で、運用…]]></content>
+        <published>2026-10-16T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ34] Claudeが実装したE2Eテストをレビューするツールを自作してみた | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/10/14/133340</id>
+        <link href="https://www.m3tech.blog/entry/2026/10/14/133340"/>
+        <updated>2026-10-14T04:33:40.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの]]></summary>
+        <content type="html"><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一…]]></content>
+        <published>2026-10-14T04:33:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ26] 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</id>
+        <link href="https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation"/>
+        <updated>2026-10-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ…]]></content>
+        <published>2026-10-16T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ49] すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261017-agentsview/</id>
+        <link href="https://gigazine.net/news/20261017-agentsview/"/>
+        <updated>2026-10-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></summary>
+        <content type="html"><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></content>
+        <published>2026-10-17T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261017-ibisOffice/</id>
+        <link href="https://gigazine.net/news/20261017-ibisOffice/"/>
+        <updated>2026-10-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></summary>
+        <content type="html"><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></content>
+        <published>2026-10-17T14:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ19] 亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/</id>
+        <link href="https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/"/>
+        <updated>2026-10-16T07:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></summary>
+        <content type="html"><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></content>
+        <published>2026-10-16T07:36:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ15] Claude reveals ECDSA curve origins | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/ecdsa-curve-origins</id>
+        <link href="https://www.anthropic.com/research/ecdsa-curve-origins"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.]]></summary>
+        <content type="html"><![CDATA[The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[必読 · 安宅和人（はてなブログ）] マタギドライヴへの道 | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+        <id>https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432</id>
+        <link href="https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432"/>
+        <updated>2026-10-17T08:34:32.000Z</updated>
+        <summary type="html"><![CDATA[1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉]]></summary>
+        <content type="html"><![CDATA[1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉で繰り返し、重層的に語られているからだ。そこに現れるのは、大阪で形をなし、いままた横浜でnull2n*1という形で第二形態と化した、nullと仏教の空、華厳経における事事無碍、オブジェクト指向的な世界…]]></content>
+        <category label="essay"/>
+        <published>2026-10-17T08:34:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ18] メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2148592.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2148592.html"/>
+        <updated>2026-10-15T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></summary>
+        <content type="html"><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-15T21:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ33] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2147368.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2147368.html"/>
+        <updated>2026-10-15T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></summary>
+        <content type="html"><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-15T06:33:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ114] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2148495.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2148495.html"/>
+        <updated>2026-10-15T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></summary>
+        <content type="html"><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></content>
+        <author>
+            <name>長谷川 正太郎</name>
+        </author>
+        <published>2026-10-15T11:45:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] How employment is changing at Anthropic | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/employment-at-anthropic</id>
+        <link href="https://www.anthropic.com/research/employment-at-anthropic"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor ]]></summary>
+        <content type="html"><![CDATA[How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ14] AI models may be capable of self-replicating without access to a datacenter | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/self-replicating-ai</id>
+        <link href="https://www.anthropic.com/research/self-replicating-ai"/>
+        <updated>2026-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.]]></summary>
+        <content type="html"><![CDATA[Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] macOSでウインドウがたくさん表示されていてもワンクリックで目的のウインドウを手前にできるアプリ -Tungsten Edge | コリス]]></title>
+        <id>https://coliss.com/?p=85419</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/window-taskbar-for-macos.html"/>
+        <updated>2026-10-15T00:36:48.000Z</updated>
+        <summary type="html"><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></summary>
+        <content type="html"><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></content>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+        <category label="サイト構築 -制作"/>
+        <category label="mac"/>
+        <published>2026-10-15T00:36:48.000Z</published>
+    </entry>
+</feed>

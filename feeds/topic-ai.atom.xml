@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai</id>
+    <title>RSS (AI・LLM)</title>
+    <updated>2026-10-17T18:24:20.276Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-ai.atom.xml"/>
+    <subtitle>AI・LLMの記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[HN 207pt] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50127979</id>
+        <link href="https://llmspeed.dev/"/>
+        <updated>2026-10-17T04:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.]]></summary>
+        <content type="html"><![CDATA[Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.]]></content>
+        <author>
+            <name>albinstman</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-17T04:36:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 476pt] DeepSeek-v4.1-Flash-1017 | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50129045</id>
+        <link href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"/>
+        <updated>2026-10-17T08:21:25.000Z</updated>
+        <summary type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></summary>
+        <content type="html"><![CDATA[We’re on a journey to advance and democratize artificial intelligence through open source and open science.]]></content>
+        <author>
+            <name>theykk</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-17T08:21:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 99pt] Amazon uses AI to monitor union risk in UK warehouses | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50132278</id>
+        <link href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"/>
+        <updated>2026-10-17T16:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model]]></summary>
+        <content type="html"><![CDATA[Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model]]></content>
+        <author>
+            <name>DeepLogin</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-17T16:04:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ133] 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://japan.cnet.com/article/35253656/</id>
+        <link href="https://japan.cnet.com/article/35253656/"/>
+        <updated>2026-10-17T00:21:27.000Z</updated>
+        <summary type="html"><![CDATA[日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。]]></summary>
+        <content type="html"><![CDATA[日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。]]></content>
+        <category label="hatena"/>
+        <published>2026-10-17T00:21:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 72pt] OpenAI discloses four more rogue incidents | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50132502</id>
+        <link href="https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"/>
+        <updated>2026-10-17T16:31:12.000Z</updated>
+        <summary type="html"><![CDATA[The company flagged two new incidents as “critical,” yet did not discover or disclose them until months later.]]></summary>
+        <content type="html"><![CDATA[The company flagged two new incidents as “critical,” yet did not discover or disclose them until months later.]]></content>
+        <author>
+            <name>DASD</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-17T16:31:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ60] AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://note.com/suh_sunaneko/n/n23ed6981ff6a</id>
+        <link href="https://note.com/suh_sunaneko/n/n23ed6981ff6a"/>
+        <updated>2026-10-17T04:12:34.000Z</updated>
+        <summary type="html"><![CDATA[「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 ]]></summary>
+        <content type="html"><![CDATA[「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 メンバー全員に使わせようとして、止まる キックオフで「このプロジェクトではAIを活用していきます」と宣言する。メンバー全員分のアカウントを用意する。使い方の共有会を1回開く。 3ヶ月]]></content>
+        <category label="hatena"/>
+        <published>2026-10-17T04:12:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 429pt] You could have invented transformers from memory | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50122878</id>
+        <link href="https://alexwang.ai/posts/associative-memory/"/>
+        <updated>2026-10-16T19:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Every layer is a memory store]]></summary>
+        <content type="html"><![CDATA[Every layer is a memory store]]></content>
+        <author>
+            <name>speckx</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-16T19:01:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ207] How the Claude Code team does code review / claude.dev Blog | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://claude.dev/blog/solving-code-review-at-anthropic/</id>
+        <link href="https://claude.dev/blog/solving-code-review-at-anthropic/"/>
+        <updated>2026-10-16T12:24:30.000Z</updated>
+        <summary type="html"><![CDATA[How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that does]]></summary>
+        <content type="html"><![CDATA[How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.]]></content>
+        <category label="hatena"/>
+        <published>2026-10-16T12:24:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HN 353pt] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console | Hacker News: Front Page]]></title>
+        <id>https://news.ycombinator.com/item?id=50122431</id>
+        <link href="https://github.com/cobanov/PS5LM"/>
+        <updated>2026-10-16T18:32:35.000Z</updated>
+        <summary type="html"><![CDATA[llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM]]></summary>
+        <content type="html"><![CDATA[llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM]]></content>
+        <author>
+            <name>Anon84</name>
+        </author>
+        <category label="news"/>
+        <published>2026-10-16T18:32:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ49] すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261017-agentsview/</id>
+        <link href="https://gigazine.net/news/20261017-agentsview/"/>
+        <updated>2026-10-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></summary>
+        <content type="html"><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></content>
+        <published>2026-10-17T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ38] AIで引ければいい、から始めた運用ナレッジ | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20261016/claude-code"/>
+        <updated>2026-10-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、]]></summary>
+        <content type="html"><![CDATA[はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、そのための運用を無理なく続けるためです。 「運用のことは、あの人に聞かないと分からない」という状況に心当たりのある開発者や運用担当の方に、読んでいただけたらうれしいです。 はじめに 設計の段階で、運用…]]></content>
+        <published>2026-10-16T06:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ19] 亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作 | GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/</id>
+        <link href="https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/"/>
+        <updated>2026-10-16T07:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></summary>
+        <content type="html"><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></content>
+        <published>2026-10-16T07:36:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261016a/</id>
+        <link href="https://future-architect.github.io/articles/20261016a/"/>
+        <updated>2026-10-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></summary>
+        <content type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></content>
+        <published>2026-10-15T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ26] 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス | ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</id>
+        <link href="https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation"/>
+        <updated>2026-10-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。]]></summary>
+        <content type="html"><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ…]]></content>
+        <published>2026-10-16T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ15] Claude reveals ECDSA curve origins | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/ecdsa-curve-origins</id>
+        <link href="https://www.anthropic.com/research/ecdsa-curve-origins"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.]]></summary>
+        <content type="html"><![CDATA[The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] スマホにも楽々おさまる将棋AIの軽量評価関数「つようら王11mini/micro」が無償公開／「MIT」ライセンスで商用も可。サイズは「水匠5」の1/7以下ながら棋力は上 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/2148597.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/2148597.html"/>
+        <updated>2026-10-16T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[ 将棋思考エンジンの評価関数「つようら王11mini」「つようら王11micro」が10月14日、「pixivFANBOX」で無償公開された。ライセンスは「MIT License」で、二次配布や商用利用も自由に行える。]]></summary>
+        <content type="html"><![CDATA[ 将棋思考エンジンの評価関数「つようら王11mini」「つようら王11micro」が10月14日、「pixivFANBOX」で無償公開された。ライセンスは「MIT License」で、二次配布や商用利用も自由に行える。]]></content>
+        <author>
+            <name>樽井 秀人</name>
+        </author>
+        <published>2026-10-16T04:02:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ12] Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/16/2000002277/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002277/"/>
+        <updated>2026-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコ]]></summary>
+        <content type="html"><![CDATA[米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコーディングツール（Anthropicの「Claude Code」やGitHubの「Copilot CLI」）の利用状況と、それが生産性に与える影響について調査した研究報告だ。]]></content>
+        <category label="news"/>
+        <published>2026-10-16T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ14] Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/16/2000002315/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002315/"/>
+        <updated>2026-10-16T00:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。]]></summary>
+        <content type="html"><![CDATA[Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。]]></content>
+        <category label="news"/>
+        <published>2026-10-16T00:49:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ20] “答えだけください”を極めたAI「Jev」、チャットしないAIで300件の問い合わせを一気に仕分けてみた【柳谷智宣のAI ウォッチ！】 | 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2147354.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2147354.html"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ ChatGPTやClaudeのようにユーザーの問いに文章で答える生成AIが当たり前になっている。とはいえ、「この問い合わせは急ぎか」「どの部署に回すべきか」といったシンプルな判断をしてもらいたいだけなのに、毎回文章を生成する必要はない。そこで注目したいのが、判断に特化したAI「Jev（ジェヴ）」だ。]]></summary>
+        <content type="html"><![CDATA[ ChatGPTやClaudeのようにユーザーの問いに文章で答える生成AIが当たり前になっている。とはいえ、「この問い合わせは急ぎか」「どの部署に回すべきか」といったシンプルな判断をしてもらいたいだけなのに、毎回文章を生成する必要はない。そこで注目したいのが、判断に特化したAI「Jev（ジェヴ）」だ。]]></content>
+        <author>
+            <name>柳谷 智宣</name>
+        </author>
+        <published>2026-10-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ10] Amazon、Beeの新AIデバイス2機種発表　リストバンド型とスマホ装着型、会話を要約し「Alexa+」と連携 | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/16/2000002316/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002316/"/>
+        <updated>2026-10-16T01:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは、傘下BeeブランドのAIデバイス2機種を発表した。手首や衣服に着ける「Bee Frontier」とスマホ背面に貼る「Bee Eclipse」で、会話の要約やToDo作成を行う。「Alexa+」やAmazon.comとも連携し、音声や要約はNitro基盤の暗号化環境で保護される。]]></summary>
+        <content type="html"><![CDATA[Amazonは、傘下BeeブランドのAIデバイス2機種を発表した。手首や衣服に着ける「Bee Frontier」とスマホ背面に貼る「Bee Eclipse」で、会話の要約やToDo作成を行う。「Alexa+」やAmazon.comとも連携し、音声や要約はNitro基盤の暗号化環境で保護される。]]></content>
+        <category label="news"/>
+        <published>2026-10-16T01:27:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ3] How employment is changing at Anthropic | Anthropic Research]]></title>
+        <id>https://www.anthropic.com/research/employment-at-anthropic</id>
+        <link href="https://www.anthropic.com/research/employment-at-anthropic"/>
+        <updated>2026-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor ]]></summary>
+        <content type="html"><![CDATA[How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.]]></content>
+        <category label="Research"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ34] Claudeが実装したE2Eテストをレビューするツールを自作してみた | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/10/14/133340</id>
+        <link href="https://www.m3tech.blog/entry/2026/10/14/133340"/>
+        <updated>2026-10-14T04:33:40.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの]]></summary>
+        <content type="html"><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一…]]></content>
+        <published>2026-10-14T04:33:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ | Findy Tech Blog]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/10/16/120000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/10/16/120000"/>
+        <updated>2026-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断してい]]></summary>
+        <content type="html"><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断しているのか、開発の状態をGitHubのどこに置いているのかが分かる内容となっています。 複数のAIエージェントを開発フローに組み込もうとしている方や、AIエージェントとの役割分担を考えているエンジニアの方…]]></content>
+        <published>2026-10-16T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[発見] ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00292/091500556/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00292/091500556/"/>
+        <updated>2026-10-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></summary>
+        <content type="html"><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></content>
+        <published>2026-10-16T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[設計判断・移行] AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00795/100800014/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00795/100800014/"/>
+        <updated>2026-10-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></summary>
+        <content type="html"><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></content>
+        <published>2026-10-16T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[仕組みを掘る] 官民370兆円の戦略17分野　AI・造船・創薬で読み解く日本の勝ち筋 (テーマ別まとめ記事) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00081/093000985/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00081/093000985/"/>
+        <updated>2026-10-15T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></summary>
+        <content type="html"><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></content>
+        <published>2026-10-15T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[動かしてみた] VLMの賢さとJevの速さを両取りしたい ~ 追加学習なしでロボットを動かす ~ | ABEJA Tech Blog]]></title>
+        <id>https://tech-blog.abeja.asia/entry/jev-zeroshot-202610</id>
+        <link href="https://tech-blog.abeja.asia/entry/jev-zeroshot-202610"/>
+        <updated>2026-10-14T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 構想 そもそも Jev とは何か 中身はどうなっているのか 公式 Jev は画像を入れられない マーカーで幾何を作る案もあるけれど 欲しかったもの: VLMの汎用性 × 高速な判定 実験 構築したシステム: プランナー × Jev × IK 時間の階層 Jev に聞いていること 準備 手首カメラの較正 高さ方向はルールベース 俯瞰画像の点とアーム位置の対応 おまけ: 音声で指示する 結果]]></summary>
+        <content type="html"><![CDATA[はじめに 構想 そもそも Jev とは何か 中身はどうなっているのか 公式 Jev は画像を入れられない マーカーで幾何を作る案もあるけれど 欲しかったもの: VLMの汎用性 × 高速な判定 実験 構築したシステム: プランナー × Jev × IK 時間の階層 Jev に聞いていること 準備 手首カメラの較正 高さ方向はルールベース 俯瞰画像の点とアーム位置の対応 おまけ: 音声で指示する 結果 動画で見る1回の流れ 途中でキューブを動かした際の挙動 ざっくりと全体の成績 他の事例との比較 さいごに We are Hiring! はじめに こんにちは、ABEJAでプロジェクトマネージャーをし…]]></content>
+        <published>2026-10-14T03:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI ではベテランエンジニアも全員ジュニアからやり直しになる（翻訳） | TechRacho]]></title>
+        <id>https://techracho.bpsinc.jp/?p=160003</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2026_10_15/160003"/>
+        <updated>2026-10-15T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: We are all juniors again]]></summary>
+        <content type="html"><![CDATA[概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: We are all juniors again]]></content>
+        <author>
+            <name>hachi8833</name>
+        </author>
+        <category label="ライフ"/>
+        <category label="AI"/>
+        <category label="翻訳記事"/>
+        <published>2026-10-15T08:30:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An update on independent evaluators | Anthropic News]]></title>
+        <id>https://www.anthropic.com/news/an-update-on-independent-evaluators</id>
+        <link href="https://www.anthropic.com/news/an-update-on-independent-evaluators"/>
+        <updated>2026-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic announces updates to embedding independent evaluators]]></summary>
+        <content type="html"><![CDATA[Anthropic announces updates to embedding independent evaluators]]></content>
+        <category label="Announcements"/>
+        <category label="ai"/>
+        <category label="research"/>
+        <published>2026-10-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevFest 2026 日本各地で開催！最寄りの会場を見つけて今すぐ参加登録しよう! | Google Developers Japan]]></title>
+        <id>https://developers-jp.googleblog.com/2026/10/blog-post.html</id>
+        <link href="https://developers-jp.googleblog.com/2026/10/blog-post.html"/>
+        <updated>2026-10-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google から開発者のみなさま向けの情報をいち早くお届けするブログです。]]></summary>
+        <content type="html"><![CDATA[Google から開発者のみなさま向けの情報をいち早くお届けするブログです。]]></content>
+        <published>2026-10-16T05:00:00.000Z</published>
+    </entry>
+</feed>

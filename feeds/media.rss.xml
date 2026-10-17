@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Media)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml</link>
+        <description>高頻度メディアソース（件数上限あり）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Media)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/media.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261017-ibisOffice/</link>
+            <guid>https://gigazine.net/news/20261017-ibisOffice/</guid>
+            <pubDate>Sat, 17 Oct 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></description>
+            <content:encoded><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/17/ibisOffice/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261017-agentsview/</link>
+            <guid>https://gigazine.net/news/20261017-agentsview/</guid>
+            <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></description>
+            <content:encoded><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/17/agentsview/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[バイキングの暴力を物語る「家の中の痕跡」を発見 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201859</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201859</guid>
+            <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[バイキングと聞くと、船で海を渡って各地を襲う、荒々しい戦士の姿を思い浮かべる人も多いでしょう。 実際、鉄器時代からバイキング時代にかけてのスカンジナビアは、戦士を重んじる考え方が広まった時代として知られます。 時代でいえば、紀元前500年ごろから西暦1050年ごろまでにあたります。 ところが意外なことに、当時の墓地に眠る人々の骨には、けがの跡が比較的少ないことが知られてきました。 荒々しい時代のは]]></description>
+            <content:encoded><![CDATA[バイキングと聞くと、船で海を渡って各地を襲う、荒々しい戦士の姿を思い浮かべる人も多いでしょう。 実際、鉄器時代からバイキング時代にかけてのスカンジナビアは、戦士を重んじる考え方が広まった時代として知られます。 時代でいえば、紀元前500年ごろから西暦1050年ごろまでにあたります。 ところが意外なことに、当時の墓地に眠る人々の骨には、けがの跡が比較的少ないことが知られてきました。 荒々しい時代のはずなのに、暴力の跡はどこに残されていたのでしょうか。 国際研究プロジェクト「BODY-POLITICS」のチームは、その答えを墓地ではなく、人々が暮らした家の中に探しました。 家の炉や床下から見つか…]]></content:encoded>
+            <category>歴史・考古学</category>
+            <category>動物</category>
+            <category>子ども</category>
+            <category>物語</category>
+            <category>遺伝子</category>
+            <enclosure length="0" type="jpg" height="1140" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c366-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[11年独身でも約9割は「人生の満足度」が高いままと判明 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201867</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201867</guid>
+            <pubDate>Fri, 16 Oct 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[親戚の集まりで「いい人はいないの？」と聞かれ、笑ってごまかした経験がある人も多いでしょう。 人の一生の歩みを説明する心理学の理論では、パートナーを見つけて結婚することが、人生の大事な目標として扱われてきました。 その一方で、一度も結婚しないまま年を重ねる人たちには、あまり目が向けられてきませんでした。 では、結婚せず恋人もいない暮らしを10年以上続けた人は、本当に年々不満をためていくのでしょうか。]]></description>
+            <content:encoded><![CDATA[親戚の集まりで「いい人はいないの？」と聞かれ、笑ってごまかした経験がある人も多いでしょう。 人の一生の歩みを説明する心理学の理論では、パートナーを見つけて結婚することが、人生の大事な目標として扱われてきました。 その一方で、一度も結婚しないまま年を重ねる人たちには、あまり目が向けられてきませんでした。 では、結婚せず恋人もいない暮らしを10年以上続けた人は、本当に年々不満をためていくのでしょうか。 今回の研究は、ドイツで11年間ずっと独身だった約3000人の記録をたどり、この問いに答えようとしたものです。 研究の詳細は、カナダのトロント大学らにより、2026年8月21日付で学術誌『Perso…]]></content:encoded>
+            <category>心理学</category>
+            <category>ドイツ</category>
+            <category>恋愛</category>
+            <enclosure length="0" type="jpg" height="900" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c53-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00292/091500556/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00292/091500556/</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></description>
+            <content:encoded><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00292/091500556/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00795/100800014/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00795/100800014/</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></description>
+            <content:encoded><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00795/100800014/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/</link>
+            <guid>https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/</guid>
+            <pubDate>Fri, 16 Oct 2026 07:36:00 GMT</pubDate>
+            <description><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></description>
+            <content:encoded><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://i.gzn.jp/img/2026/10/16/using-ai-reverse-engineer-hardware/00_m.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[スマホにも楽々おさまる将棋AIの軽量評価関数「つようら王11mini/micro」が無償公開／「MIT」ライセンスで商用も可。サイズは「水匠5」の1/7以下ながら棋力は上 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148597.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148597.html</guid>
+            <pubDate>Fri, 16 Oct 2026 04:02:00 GMT</pubDate>
+            <description><![CDATA[ 将棋思考エンジンの評価関数「つようら王11mini」「つようら王11micro」が10月14日、「pixivFANBOX」で無償公開された。ライセンスは「MIT License」で、二次配布や商用利用も自由に行える。]]></description>
+            <content:encoded><![CDATA[ 将棋思考エンジンの評価関数「つようら王11mini」「つようら王11micro」が10月14日、「pixivFANBOX」で無償公開された。ライセンスは「MIT License」で、二次配布や商用利用も自由に行える。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2148/597/image_top.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazonで年に一度のプライム感謝祭2026が開催！ 絶対に見逃せないお買い得品を紹介します | コリス]]></title>
+            <link>https://coliss.com/articles/products/amazon-prime-appreciation-20261016.html</link>
+            <guid>https://coliss.com/?p=85680</guid>
+            <pubDate>Fri, 16 Oct 2026 00:36:32 GMT</pubDate>
+            <description><![CDATA[※本ページは、アフィリエイト広告を利用しています。 いよいよ、年に一度の「プライム感謝祭2026」が開催です！ プライム会員限定のセールということで、通常のセールよりもかなり安くなっており、非常にお買]]></description>
+            <content:encoded><![CDATA[※本ページは、アフィリエイト広告を利用しています。 いよいよ、年に一度の「プライム感謝祭2026」が開催です！ プライム会員限定のセールということで、通常のセールよりもかなり安くなっており、非常にお買]]></content:encoded>
+            <category>Products</category>
+            <category>Amazon</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026101601-01@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[“答えだけください”を極めたAI「Jev」、チャットしないAIで300件の問い合わせを一気に仕分けてみた【柳谷智宣のAI ウォッチ！】 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2147354.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2147354.html</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[ ChatGPTやClaudeのようにユーザーの問いに文章で答える生成AIが当たり前になっている。とはいえ、「この問い合わせは急ぎか」「どの部署に回すべきか」といったシンプルな判断をしてもらいたいだけなのに、毎回文章を生成する必要はない。そこで注目したいのが、判断に特化したAI「Jev（ジェヴ）」だ。]]></description>
+            <content:encoded><![CDATA[ ChatGPTやClaudeのようにユーザーの問いに文章で答える生成AIが当たり前になっている。とはいえ、「この問い合わせは急ぎか」「どの部署に回すべきか」といったシンプルな判断をしてもらいたいだけなのに、毎回文章を生成する必要はない。そこで注目したいのが、判断に特化したAI「Jev（ジェヴ）」だ。]]></content:encoded>
+            <enclosure length="0" type="image/JPG" url="https://forest.watch.impress.co.jp/img/wf/list/2147/354/01.JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148592.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148592.html</guid>
+            <pubDate>Thu, 15 Oct 2026 21:45:00 GMT</pubDate>
+            <description><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></description>
+            <content:encoded><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2148/592/windows11.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[官民370兆円の戦略17分野　AI・造船・創薬で読み解く日本の勝ち筋 (テーマ別まとめ記事) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00081/093000985/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00081/093000985/</guid>
+            <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></description>
+            <content:encoded><![CDATA[高市早苗政権は、人工知能（AI）や半導体、造船、創薬など17の分野を重点投資の対象に定めた。官民投資ロードマップでは2040年度までに累計370兆円超の国内投資を見込み、予算編成の見直しや投資促進税制で後押しする。一方で、総花的との批判や財政への懸念、企業が本気で投資するかという課題も残る。産業政策の大競争時代に日本が選んだ戦略17分野の狙いと課題を、過去記事から振り返る。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00081/093000985/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00800/101500046/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00800/101500046/</guid>
+            <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。]]></description>
+            <content:encoded><![CDATA[メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00800/101500046/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ゼンショー、オリーブの丘「まず500店」規模へ　サイゼリヤ1強市場に攻勢 (ゼンショー 逆転の法則) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00936/101300008/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00936/101300008/</guid>
+            <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。]]></description>
+            <content:encoded><![CDATA[国内外食最大手のゼンショーが「すき家」「はま寿司」に次ぐ第三の柱を定めている。イタリアンのファミレス「オリーブの丘」だ。「サイゼリヤの対抗勢力」とも噂される同社の成長戦略とは。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00936/101300008/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
+            <pubDate>Thu, 15 Oct 2026 11:45:00 GMT</pubDate>
+            <description><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></description>
+            <content:encoded><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2148/495/curl.png"/>
+        </item>
+        <item>
+            <title><![CDATA[「水金地火木土天海」は太陽の死で崩れる――惑星の並びが壊れる仕組みを発見 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201767</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201767</guid>
+            <pubDate>Thu, 15 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[子どもの頃に覚えた「水金地火木土天海」は、大人になった今もすらすら口から出てきます。 太陽系の惑星の並びは、それほど当たり前で、動かないものに見えます。 けれども太陽にも寿命があり、いずれ外側のガスを宇宙へ吐き出して、小さな燃えかすの星になります。 そのとき、木星・土星・天王星・海王星という外側の4つの惑星はどうなるのでしょうか。 これまでは、太陽が死んだあとも、4つの惑星は途方もなく長いあいだ無]]></description>
+            <content:encoded><![CDATA[子どもの頃に覚えた「水金地火木土天海」は、大人になった今もすらすら口から出てきます。 太陽系の惑星の並びは、それほど当たり前で、動かないものに見えます。 けれども太陽にも寿命があり、いずれ外側のガスを宇宙へ吐き出して、小さな燃えかすの星になります。 そのとき、木星・土星・天王星・海王星という外側の4つの惑星はどうなるのでしょうか。 これまでは、太陽が死んだあとも、4つの惑星は途方もなく長いあいだ無事だと計算されてきました。 ところが新しい研究は、その計算が、ある前提に寄りかかっていたと指摘しています。 太陽の最期に、外側の惑星たちに何が起きうるのかを見ていきます。 研究の詳細は、2026年9…]]></content:encoded>
+            <category>宇宙</category>
+            <category>土星</category>
+            <category>太陽</category>
+            <category>惑星</category>
+            <category>海王星</category>
+            <enclosure length="0" type="jpg" height="1331" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c426-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2147368.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2147368.html</guid>
+            <pubDate>Thu, 15 Oct 2026 06:33:00 GMT</pubDate>
+            <description><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></description>
+            <content:encoded><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2147/368/csharp_dev_kit.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[macOSでウインドウがたくさん表示されていてもワンクリックで目的のウインドウを手前にできるアプリ -Tungsten Edge | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/window-taskbar-for-macos.html</link>
+            <guid>https://coliss.com/?p=85419</guid>
+            <pubDate>Thu, 15 Oct 2026 00:36:48 GMT</pubDate>
+            <description><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></description>
+            <content:encoded><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>mac</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026100402-01@2x.png"/>
+        </item>
+    </channel>
+</rss>

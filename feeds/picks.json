@@ -1,0 +1,206 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (今日の5本)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.json",
+    "description": "読んで高揚しそうな記事をスコア順に選んだもの",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=50127979",
+            "content_html": "HN 207pt · 作ってみた\nPick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+            "url": "https://llmspeed.dev/",
+            "title": "[HN 207pt] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware | Hacker News: Front Page",
+            "summary": "HN 207pt · 作ってみた\nPick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+            "image": {
+                "height": "630",
+                "url": "https://llmspeed.dev/og.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T04:36:53.000Z",
+            "date_published": "2026-10-17T04:36:53.000Z",
+            "author": {
+                "name": "albinstman"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%E2%9A%A1</text></svg>",
+                "pickReason": "HN 207pt · 作ってみた",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "llmspeed.dev",
+                "score": 4.002,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 207pt",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://japan.cnet.com/article/35253656/",
+            "content_html": "はてブ133\n日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+            "url": "https://japan.cnet.com/article/35253656/",
+            "title": "[はてブ133] 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "はてブ133\n日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+            "image": {
+                "url": "https://japan.cnet.com/storage/2026/10/16/1e961586dd89d4ba6cb454246ba3fa07/17_jau_large.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T00:21:27.000Z",
+            "date_published": "2026-10-17T00:21:27.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 133,
+                "originalTitle": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://japan.cnet.com/favicon.ico",
+                "pickReason": "はてブ133",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "japan.cnet.com",
+                "score": 3.331,
+                "topics": [
+                    "ai",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ133"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530",
+            "content_html": "はてブ170\nソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか",
+            "url": "https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530",
+            "title": "[はてブ170] ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "はてブ170\nソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか",
+            "image": {
+                "url": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamaguchikenta/02745116/title-1792216805524.jpeg?exp=10800",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-10-17T08:05:29.000Z",
+            "date_published": "2026-10-17T08:05:29.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 170,
+                "originalTitle": "ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+                "pickReason": "はてブ170",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "news.yahoo.co.jp",
+                "score": 3.218,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ170"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gigazine.net/news/20261017-ibisOffice/",
+            "content_html": "はてブ11 · 新しく出た\n基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。",
+            "url": "https://gigazine.net/news/20261017-ibisOffice/",
+            "title": "[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE",
+            "summary": "はてブ11 · 新しく出た\n基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。",
+            "image": {
+                "url": "https://i.gzn.jp/img/2026/10/17/ibisOffice/00.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T14:00:00.000Z",
+            "date_published": "2026-10-17T14:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
+                "blogTitle": "GIGAZINE",
+                "blogLink": "https://gigazine.net/",
+                "blogLinkMd5Hash": "f805c0e4193cce4245b6374efb025ca9",
+                "favicon": "https://gigazine.net/apple-touch-icon.png",
+                "pickReason": "はてブ11 · 新しく出た",
+                "sourceTier": "media",
+                "sourceLabel": "GIGAZINE",
+                "host": "gigazine.net",
+                "score": 2.669,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ11",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432",
+            "content_html": "必読 · 安宅和人（はてなブログ） · はてブ3\n1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉で繰り返し、重層的に語られているからだ。そこに現れるのは、大阪で形をなし、いままた横浜でnull2n*1という形で第二形態と化した、nullと仏教の空、華厳経における事事無碍、オブジェクト指向的な世界…",
+            "url": "https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432",
+            "title": "[必読 · 安宅和人（はてなブログ）] マタギドライヴへの道 | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+            "summary": "必読 · 安宅和人（はてなブログ） · はてブ3\n1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c65da6332fbb17bf8153b4e6d201c549217a04d8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20261017%2F20261017172521.jpg",
+                "alt": "マタギドライヴへの道 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T08:34:32.000Z",
+            "date_published": "2026-10-17T08:34:32.000Z",
+            "tags": [
+                "essay"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "マタギドライヴへの道",
+                "blogTitle": "ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+                "blogLink": "https://kaz-ataka.hatenablog.com/",
+                "blogLinkMd5Hash": "548a3a5e91862da19d979a7480a7b255",
+                "favicon": "https://kaz-ataka.hatenablog.com/icon/favicon",
+                "pickReason": "必読 · 安宅和人（はてなブログ） · はてブ3",
+                "sourceTier": "essential",
+                "sourceLabel": "安宅和人（はてなブログ）",
+                "host": "kaz-ataka.hatenablog.com",
+                "score": 2.33,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "必読 · 安宅和人（はてなブログ）",
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (Discover)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml</link>
+        <description>今週の人気（はてブ3件以上・直近7日をスコア順）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (Discover)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/discover.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ]]></title>
+            <link>https://future-architect.github.io/articles/20261015a/</link>
+            <guid>https://future-architect.github.io/articles/20261015a/</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></description>
+            <content:encoded><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://future-architect.github.io/images/2026/20261015a/benchmark.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ]]></title>
+            <link>https://future-architect.github.io/articles/20261016a/</link>
+            <guid>https://future-architect.github.io/articles/20261016a/</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></description>
+            <content:encoded><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://future-architect.github.io/images/2026/20261016a/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ38] AIで引ければいい、から始めた運用ナレッジ | RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+            <link>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</link>
+            <guid>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</guid>
+            <pubDate>Fri, 16 Oct 2026 06:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、]]></description>
+            <content:encoded><![CDATA[はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できるだけ設計の段階で拾っておきたいと考えています。サービスを利用するお客様の業務を止めないため、そして、そのための運用を無理なく続けるためです。 「運用のことは、あの人に聞かないと分からない」という状況に心当たりのある開発者や運用担当の方に、読んでいただけたらうれしいです。 はじめに 設計の段階で、運用…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/f0fa8e26a22a56052d8e9f953f45a13f7e788daf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftech-rakus%2F20261015%2F20261015101554.png" alt="AIで引ければいい、から始めた運用ナレッジ - RAKUS Developers Blog | ラクス エンジニアブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ34] Claudeが実装したE2Eテストをレビューするツールを自作してみた | エムスリーテックブログ]]></title>
+            <link>https://www.m3tech.blog/entry/2026/10/14/133340</link>
+            <guid>https://www.m3tech.blog/entry/2026/10/14/133340</guid>
+            <pubDate>Wed, 14 Oct 2026 04:33:40 GMT</pubDate>
+            <description><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの]]></description>
+            <content:encoded><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一…]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/a85683eaf23f6b4914b409be303e6fd3fb9e5f51/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fm3tech%2F20261014%2F20261014133424.jpg" alt="Claudeが実装したE2Eテストをレビューするツールを自作してみた - エムスリーテックブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ26] 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス | ZOZO TECH BLOG]]></title>
+            <link>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</link>
+            <guid>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</guid>
+            <pubDate>Fri, 16 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/594b0f4eabf7f2bcd148e29c82bed7889dd2ba86/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261013%2F20261013191951.png" alt="開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ49] すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261017-agentsview/</link>
+            <guid>https://gigazine.net/news/20261017-agentsview/</guid>
+            <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></description>
+            <content:encoded><![CDATA[Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」です。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/17/agentsview/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261017-ibisOffice/</link>
+            <guid>https://gigazine.net/news/20261017-ibisOffice/</guid>
+            <pubDate>Sat, 17 Oct 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></description>
+            <content:encoded><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/17/ibisOffice/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ19] 亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/</link>
+            <guid>https://gigazine.net/news/20261016-using-ai-reverse-engineer-hardware/</guid>
+            <pubDate>Fri, 16 Oct 2026 07:36:00 GMT</pubDate>
+            <description><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></description>
+            <content:encoded><![CDATA[Red Hatのエンジニアリング・ディレクターを務めるクリスチャン・F・K・シャラー氏が、古い写真のネガフィルムをスキャンするために「AIでドライバーを自作した」と報告しています。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://i.gzn.jp/img/2026/10/16/using-ai-reverse-engineer-hardware/00_m.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ15] Claude reveals ECDSA curve origins | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+            <guid>https://www.anthropic.com/research/ecdsa-curve-origins</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.]]></description>
+            <content:encoded><![CDATA[The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[[必読 · 安宅和人（はてなブログ）] マタギドライヴへの道 | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+            <link>https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432</link>
+            <guid>https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432</guid>
+            <pubDate>Sat, 17 Oct 2026 08:34:32 GMT</pubDate>
+            <description><![CDATA[1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉]]></description>
+            <content:encoded><![CDATA[1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉で繰り返し、重層的に語られているからだ。そこに現れるのは、大阪で形をなし、いままた横浜でnull2n*1という形で第二形態と化した、nullと仏教の空、華厳経における事事無碍、オブジェクト指向的な世界…]]></content:encoded>
+            <category>essay</category>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/c65da6332fbb17bf8153b4e6d201c549217a04d8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20261017%2F20261017172521.jpg" alt="マタギドライヴへの道 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ18] メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148592.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148592.html</guid>
+            <pubDate>Thu, 15 Oct 2026 21:45:00 GMT</pubDate>
+            <description><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></description>
+            <content:encoded><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2148/592/windows11.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ33] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2147368.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2147368.html</guid>
+            <pubDate>Thu, 15 Oct 2026 06:33:00 GMT</pubDate>
+            <description><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></description>
+            <content:encoded><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2147/368/csharp_dev_kit.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ114] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
+            <pubDate>Thu, 15 Oct 2026 11:45:00 GMT</pubDate>
+            <description><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></description>
+            <content:encoded><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2148/495/curl.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ3] How employment is changing at Anthropic | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+            <guid>https://www.anthropic.com/research/employment-at-anthropic</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor ]]></description>
+            <content:encoded><![CDATA[How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ14] AI models may be capable of self-replicating without access to a datacenter | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/self-replicating-ai</link>
+            <guid>https://www.anthropic.com/research/self-replicating-ai</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.]]></description>
+            <content:encoded><![CDATA[Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ3] macOSでウインドウがたくさん表示されていてもワンクリックで目的のウインドウを手前にできるアプリ -Tungsten Edge | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/window-taskbar-for-macos.html</link>
+            <guid>https://coliss.com/?p=85419</guid>
+            <pubDate>Thu, 15 Oct 2026 00:36:48 GMT</pubDate>
+            <description><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></description>
+            <content:encoded><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>mac</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026100402-01@2x.png"/>
+        </item>
+    </channel>
+</rss>

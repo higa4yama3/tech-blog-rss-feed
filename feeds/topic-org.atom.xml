@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org</id>
+    <title>RSS (組織・マネジメント・QA)</title>
+    <updated>2026-10-17T18:24:20.286Z</updated>
+    <generator>higa4yama3/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org.atom.xml"/>
+    <link rel="self" href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-org.atom.xml"/>
+    <subtitle>組織・マネジメント・QAの記事をスコア順に（直近7日）</subtitle>
+    <logo>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://higa4yama3.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>higa4yama3/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[[はてブ60] AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+        <id>https://note.com/suh_sunaneko/n/n23ed6981ff6a</id>
+        <link href="https://note.com/suh_sunaneko/n/n23ed6981ff6a"/>
+        <updated>2026-10-17T04:12:34.000Z</updated>
+        <summary type="html"><![CDATA[「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 ]]></summary>
+        <content type="html"><![CDATA[「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 メンバー全員に使わせようとして、止まる キックオフで「このプロジェクトではAIを活用していきます」と宣言する。メンバー全員分のアカウントを用意する。使い方の共有会を1回開く。 3ヶ月]]></content>
+        <category label="hatena"/>
+        <published>2026-10-17T04:12:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261016a/</id>
+        <link href="https://future-architect.github.io/articles/20261016a/"/>
+        <updated>2026-10-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></summary>
+        <content type="html"><![CDATA[コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。]]></content>
+        <published>2026-10-15T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20261015a/</id>
+        <link href="https://future-architect.github.io/articles/20261015a/"/>
+        <updated>2026-10-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></summary>
+        <content type="html"><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></content>
+        <published>2026-10-14T15:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ12] Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/16/2000002277/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002277/"/>
+        <updated>2026-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコ]]></summary>
+        <content type="html"><![CDATA[米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコーディングツール（Anthropicの「Claude Code」やGitHubの「Copilot CLI」）の利用状況と、それが生産性に与える影響について調査した研究報告だ。]]></content>
+        <category label="news"/>
+        <published>2026-10-16T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ14] Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし | ITmedia NEWS 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2610/16/2000002315/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002315/"/>
+        <updated>2026-10-16T00:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。]]></summary>
+        <content type="html"><![CDATA[Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。]]></content>
+        <category label="news"/>
+        <published>2026-10-16T00:49:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[はてブ34] Claudeが実装したE2Eテストをレビューするツールを自作してみた | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2026/10/14/133340</id>
+        <link href="https://www.m3tech.blog/entry/2026/10/14/133340"/>
+        <updated>2026-10-14T04:33:40.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの]]></summary>
+        <content type="html"><![CDATA[こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている」こともあります。そのため、Claudeが実装したE2Eテストの振る舞いが正しいかどうかは人がチェックする必要があります。 自分でE2Eテストを実装する場合は、実際の画面を見ながら実装するため「このコードが画面のどの要素を操作しているか」は感覚的に分かります。 一…]]></content>
+        <published>2026-10-14T04:33:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[システムが正常でも、お客さまの業務は止まっているかもしれない。SmartHRのCREが挑む「顧客の可観測性」 | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/10/16/164423</id>
+        <link href="https://tech.smarthr.jp/entry/2026/10/16/164423"/>
+        <updated>2026-10-16T07:44:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！SmartHR 採用担当の南石（@nanseki_o）です。2026年7月にSmartHRに2回目の入社をしました。 本日は、出戻りしたら爆誕していた「CRE」というロールについてインタビューした内容をお届けします。 CRE（Customer Reliability Engineering）という言葉を聞いたことはありますか。 技術的な問い合わせに対応するエンジニア、カスタマーサポート]]></summary>
+        <content type="html"><![CDATA[こんにちは！SmartHR 採用担当の南石（@nanseki_o）です。2026年7月にSmartHRに2回目の入社をしました。 本日は、出戻りしたら爆誕していた「CRE」というロールについてインタビューした内容をお届けします。 CRE（Customer Reliability Engineering）という言葉を聞いたことはありますか。 技術的な問い合わせに対応するエンジニア、カスタマーサポートと開発チームの橋渡し役といったイメージを持つ方もいるかもしれません。 SmartHRのCREは2025年7月に誕生した組織です。お客さまからの技術的な問い合わせへの対応も担っていますが、それは活動の一…]]></content>
+        <published>2026-10-16T07:44:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ | Findy Tech Blog]]></title>
+        <id>https://tech.findy.co.jp/entry/2026/10/16/120000</id>
+        <link href="https://tech.findy.co.jp/entry/2026/10/16/120000"/>
+        <updated>2026-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断してい]]></summary>
+        <content type="html"><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断しているのか、開発の状態をGitHubのどこに置いているのかが分かる内容となっています。 複数のAIエージェントを開発フローに組み込もうとしている方や、AIエージェントとの役割分担を考えているエンジニアの方…]]></content>
+        <published>2026-10-16T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[設計判断・移行] AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点) | 日経ビジネス電子版　最新記事]]></title>
+        <id>https://business.nikkei.com/atcl/gen/19/00795/100800014/</id>
+        <link href="https://business.nikkei.com/atcl/gen/19/00795/100800014/"/>
+        <updated>2026-10-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></summary>
+        <content type="html"><![CDATA[AIで定型業務を効率化しても、浮いた時間が社内の確認や根回しに消えては変革にならない。経営課題を問い直し、データを文脈で読み、組織を動かす力が管理部門には求められる。]]></content>
+        <published>2026-10-16T08:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[点を線にして、QA組織の次の「当たり前」をつくっていく | SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2026/10/14/145752</id>
+        <link href="https://tech.smarthr.jp/entry/2026/10/14/145752"/>
+        <updated>2026-10-14T05:57:52.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に]]></summary>
+        <content type="html"><![CDATA[こんにちは、品質保証本部のtarappo です。 2024年9月にSmartHR 品質保証部のActing Managerとして入社して、現在は品質保証本部のDirectorとして働いています。 入社してからあっという間に2年が経ちました。 その間にいろいろなことを経験しつつ、さまざまなことに取り組んできました。 それらは別々の施策を次々と進めたというより、多くの「点」をつなぎ、組織として継続的に品質を高められる一本の「線」にしていく取り組みだったと考えています。 個々の取り組みについては、ブログや登壇などでその都度発信してきました。 今回はそれらの詳細を説明するのではなく、これまでの記事も参…]]></content>
+        <published>2026-10-14T05:57:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20261014b</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20261014b"/>
+        <updated>2026-10-14T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...]]></summary>
+        <content type="html"><![CDATA[こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...]]></content>
+        <published>2026-10-14T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大規模テキストデータを活用したサービス特化型言語モデルの社内共有プロジェクト：Moegi | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+        <id>https://techblog.lycorp.co.jp/ja/20261015a</id>
+        <link href="https://techblog.lycorp.co.jp/ja/20261015a"/>
+        <updated>2026-10-15T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。私たちはLINEヤフー株式会社で言語処理モデルを開発しているプロジェクトチームです。LINEヤフーでは、さまざまなサービス（例：Yahoo!ショッピング、Yahoo!検索、Yahoo!知恵...]]></summary>
+        <content type="html"><![CDATA[こんにちは。私たちはLINEヤフー株式会社で言語処理モデルを開発しているプロジェクトチームです。LINEヤフーでは、さまざまなサービス（例：Yahoo!ショッピング、Yahoo!検索、Yahoo!知恵...]]></content>
+        <published>2026-10-15T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlinkの障害物検出と性能の関係を調べてみた | IIJ Engineers Blog]]></title>
+        <id>https://eng-blog.iij.ad.jp/?p=37823</id>
+        <link href="https://eng-blog.iij.ad.jp/archives/37823"/>
+        <updated>2026-10-12T23:58:44.000Z</updated>
+        <summary type="html"><![CDATA[「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...]]></summary>
+        <content type="html"><![CDATA[「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...]]></content>
+        <author>
+            <name>谷口 崇</name>
+        </author>
+        <category label="技術情報"/>
+        <category label="Starlink"/>
+        <category label="Starlinkの品質"/>
+        <published>2026-10-12T23:58:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ | Hatena Developer Blog]]></title>
+        <id>https://developer.hatenastaff.com/entry/2026/10/16/123000</id>
+        <link href="https://developer.hatenastaff.com/entry/2026/10/16/123000"/>
+        <updated>2026-10-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではな]]></summary>
+        <content type="html"><![CDATA[こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではないでしょうか。今回のイベントは、「AIで開発する時代、監視・運用もAIで」をテーマに、実際に手を動かしている2人が、実演と対話でお届けします。 ▼ お申し込みはこちら: AIを味方につける！開発チーム…]]></content>
+        <published>2026-10-16T03:30:00.000Z</published>
+    </entry>
+</feed>

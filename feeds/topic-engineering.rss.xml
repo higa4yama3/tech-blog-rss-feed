@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (設計・SRE・基盤)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml</link>
+        <description>設計・SRE・基盤の記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (設計・SRE・基盤)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-engineering.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ74] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3</link>
+            <guid>https://qiita.com/k2_naka/items/fa87685231377f15e7e3</guid>
+            <pubDate>Fri, 16 Oct 2026 17:16:58 GMT</pubDate>
+            <description><![CDATA[工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...]]></description>
+            <content:encoded><![CDATA[工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1ZFLTIwMjYtOTk5OTklRUYlQkMlODhQd25Fc2NhcGUlRUYlQkMlODklRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYlRTIlOTQlODAlRTIlOTQlODAlRTMlODAlOENLVk0lRTMlODElQUUlRTglODQlODYlRTUlQkMlQjElRTYlODAlQTclRTMlODAlOEQlRTMlODElQTclRTMlODElQUYlRTMlODElQUElRTMlODElOEYlRTMlODAlODFMaW51eCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MiVCRiVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU1ZGE2Y2FlZjg3NDgwOTVjOGQzMWMyZjUzZTdhMmZj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrMl9uYWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGQ4YmUxZDIyNWZkNWM3NGY0ZTRhN2M1Yjk0ZTQyNTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=11c9e17e92010cab6c91bcd954d23cc1"/>
+        </item>
+        <item>
+            <title><![CDATA[[HN 52pt] Development statistics for the 7.2 kernel | Hacker News: Front Page]]></title>
+            <link>https://lwn.net/Articles/1088776/</link>
+            <guid>https://news.ycombinator.com/item?id=50132950</guid>
+            <pubDate>Sat, 17 Oct 2026 17:14:12 GMT</pubDate>
+            <description><![CDATA[Linus Torvalds released the 7.2 kernel on August 17, after noting that the number of fixes comi [...]]]></description>
+            <content:encoded><![CDATA[Linus Torvalds released the 7.2 kernel on August 17, after noting that the number of fixes comi [...]]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="webp" url="https://static.lwn.net/images/logo/barepenguin-70.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ26] 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス | ZOZO TECH BLOG]]></title>
+            <link>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</link>
+            <guid>https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation</guid>
+            <pubDate>Fri, 16 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビューと、リリース前の負荷試験はSREの作業待ちになることがありました。背景には、AI活用によるPRの増加や案件が集中する時期のSREチームのリソース不足があります。 そこで、SREの作業待ちを減らすため、PRレビューと負荷試験の中でも本番環境へ影響を与えない作業をAIへ…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/594b0f4eabf7f2bcd148e29c82bed7889dd2ba86/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20261013%2F20261013191951.png" alt="開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ59] E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ]]></title>
+            <link>https://future-architect.github.io/articles/20261015a/</link>
+            <guid>https://future-architect.github.io/articles/20261015a/</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></description>
+            <content:encoded><![CDATA[完全にオンメモリで動き、テストケースごとにフォークしてスケールするPostgreSQL「pgmem」を作りました。テストダブルの分類からアーキテクチャ、テスト用API、パフォーマンスまでを紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://future-architect.github.io/images/2026/20261015a/benchmark.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ33] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2147368.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2147368.html</guid>
+            <pubDate>Thu, 15 Oct 2026 06:33:00 GMT</pubDate>
+            <description><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></description>
+            <content:encoded><![CDATA[ 「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2147/368/csharp_dev_kit.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ | Findy Tech Blog]]></title>
+            <link>https://tech.findy.co.jp/entry/2026/10/16/120000</link>
+            <guid>https://tech.findy.co.jp/entry/2026/10/16/120000</guid>
+            <pubDate>Fri, 16 Oct 2026 03:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断してい]]></description>
+            <content:encoded><![CDATA[こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役割を解説します。PM、開発、QAのそれぞれでエージェントが何を担い、人間がどこで判断しているのか、開発の状態をGitHubのどこに置いているのかが分かる内容となっています。 複数のAIエージェントを開発フローに組み込もうとしている方や、AIエージェントとの役割分担を考えているエンジニアの方…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/7d38ee157bded6d84ca90191fbc05a21697fa0eb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20261016%2F20261016105545.png" alt="施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[エージェント開発、Antigravity、本番運用の設計まで。開発者のための Agentic AI Summit '26 Fall | Google Developers Japan]]></title>
+            <link>https://developers-jp.googleblog.com/2026/10/antigravity-agentic-ai-summit-26-fall.html</link>
+            <guid>https://developers-jp.googleblog.com/2026/10/antigravity-agentic-ai-summit-26-fall.html</guid>
+            <pubDate>Thu, 15 Oct 2026 04:00:00 GMT</pubDate>
+            <description><![CDATA[Google から開発者のみなさま向けの情報をいち早くお届けするブログです。]]></description>
+            <content:encoded><![CDATA[Google から開発者のみなさま向けの情報をいち早くお届けするブログです。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_fel0ffquHgBNaSE004QA2zR02jqRhy6dswrctyLHhYSH1eAJ2keT_Zxxow_JJFIHleZwBt3UDQwwl26Ot1AKkgC4hZoHW47eWhou3XAHk8yZrl7hprp6Qgqvg5Rjq8Jo24xn0NAqsQ/s1600/lockup_google_developers_horizontal_knockout_wht.png"/>
+        </item>
+        <item>
+            <title><![CDATA[セキュリティ業務向けAIエージェント基盤「SAGE」の開発記 第1弾：判断は人間に委ねる設計 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20261015d</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20261015d</guid>
+            <pubDate>Thu, 15 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;amp;D）チームです。この記事は...]]></description>
+            <content:encoded><![CDATA[こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;amp;D）チームです。この記事は...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://techblog.lycorp.co.jp/static/22d816fbe979d642323ad6bccd50db07/f0810/40906f3d1e18410baa6e09ca40a89b22.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[初めての国際標準化会合へ！新入社員が飛び込んだ3GPP CT1 | ENGINEERING BLOG ドコモ開発者ブログ]]></title>
+            <link>https://nttdocomo-developers.jp/entry/2026/10/15/090000</link>
+            <guid>https://nttdocomo-developers.jp/entry/2026/10/15/090000</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに みなさんこんにちは！ドコモ6Gテック部の新入社員、西村麻希（にしむらまき）です。 このたび、3GPP CT1#162会合に参加する機会をいただき、初めて国際標準化会合に現地参加しました。 入社後にモバイルネットワークや3GPPを学び始めた私にとって、国際標準化会合への参加は、とても大きな挑戦でした。 本ブログでは、 CT1会合はどのような場なのか 実際に参加して感じた国際会合の雰囲気 参]]></description>
+            <content:encoded><![CDATA[はじめに みなさんこんにちは！ドコモ6Gテック部の新入社員、西村麻希（にしむらまき）です。 このたび、3GPP CT1#162会合に参加する機会をいただき、初めて国際標準化会合に現地参加しました。 入社後にモバイルネットワークや3GPPを学び始めた私にとって、国際標準化会合への参加は、とても大きな挑戦でした。 本ブログでは、 CT1会合はどのような場なのか 実際に参加して感じた国際会合の雰囲気 参加者との交流を通して学んだこと 今後の課題として感じたこと を中心にご紹介します。 ドコモでのグローバルな業務や標準化業務に少しでも興味のある方、将来このような仕事に挑戦してみたいと考えている方に、会…]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/3069570da9710b6437fb092bb4101c4509c919d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnttdocomord%2F20261015%2F20261015090007.jpg" alt="初めての国際標準化会合へ！新入社員が飛び込んだ3GPP CT1 - ENGINEERING BLOG ドコモ開発者ブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[Akinatorで始めるAgentic RL ー タスク設計と初期検証  ー | 松尾研究所テックブログのフィード]]></title>
+            <link>https://zenn.dev/mkj/articles/8e1da67da67f98</link>
+            <guid>https://zenn.dev/mkj/articles/8e1da67da67f98</guid>
+            <pubDate>Thu, 15 Oct 2026 02:50:05 GMT</pubDate>
+            <description><![CDATA[1. はじめに松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱い]]></description>
+            <content:encoded><![CDATA[1. はじめに松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱い、環境と対話しながら目標達成するエージェントとしての能力を強化学習で向上させる枠組み」[1]です。弊社の過去の取り組みでは、太田さん・尾崎さんのこちらの記事[2]で、メール検索タスク性能...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--580LYpSF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Akinator%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258BAgentic%2520RL%2520%25E3%2583%25BC%2520%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%2588%259D%25E6%259C%259F%25E6%25A4%259C%25E8%25A8%25BC%2520%2520%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25B3%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkMDZjNWUyYTQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[LINEスキマニのトップページにおけるパフォーマンス改善（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20261013a</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20261013a</guid>
+            <pubDate>Tue, 13 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめまして。東京科学大学理学院数学系修士1年の岩崎丈至です。8月3日から6週間にわたって、LINEスキマニのフロントエンド開発にインターンシップとして参加しました。本稿ではその期間中に行った、メイン...]]></description>
+            <content:encoded><![CDATA[はじめまして。東京科学大学理学院数学系修士1年の岩崎丈至です。8月3日から6週間にわたって、LINEスキマニのフロントエンド開発にインターンシップとして参加しました。本稿ではその期間中に行った、メイン...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techblog.lycorp.co.jp/static/926dcfa34ca8ea072a9c8414bec6f448/7d66e/44bfee2716ad41f8922729c03a4cfdd9.png"/>
+        </item>
+        <item>
+            <title><![CDATA[同じ REPEATABLE READ でも挙動が違う！？ Spanner / MySQL / PostgreSQL の更新処理を同じ分離レベルで比較してみた | COLOPL Tech Blog]]></title>
+            <link>https://blog.colopl.dev/entry/2026/10/14/110000</link>
+            <guid>https://blog.colopl.dev/entry/2026/10/14/110000</guid>
+            <pubDate>Wed, 14 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。エンジニアの薮 (@tyabu12) です。 最近社内で PostgreSQL を扱う機会があり、MySQL と同じ感覚でトランザクション分離レベルを REPEATABLE READ にしようとしたところ、同じ REPEATABLE READ という名前でも、MySQL と PostgreSQL では SELECT ... FOR UPDATE が読む値が違う ことに気付きました。 ト]]></description>
+            <content:encoded><![CDATA[こんにちは。エンジニアの薮 (@tyabu12) です。 最近社内で PostgreSQL を扱う機会があり、MySQL と同じ感覚でトランザクション分離レベルを REPEATABLE READ にしようとしたところ、同じ REPEATABLE READ という名前でも、MySQL と PostgreSQL では SELECT ... FOR UPDATE が読む値が違う ことに気付きました。 トランザクション分離レベル自体は枯れたテーマで、すでに MySQL と PostgreSQL の比較記事は世の中にたくさんあります。ただ、Spanner に関しては 2026年4月に REPEATABL…]]></content:encoded>
+            <enclosure length="0" type="image//13574176438049975355/14945776032075288803/1792026733" url="https://ogimage.blog.st-hatena.com/13574176438049975355/14945776032075288803/1792026733" alt="同じ REPEATABLE READ でも挙動が違う！？ Spanner / MySQL / PostgreSQL の更新処理を同じ分離レベルで比較してみた - COLOPL Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[Starlinkの障害物検出と性能の関係を調べてみた | IIJ Engineers Blog]]></title>
+            <link>https://eng-blog.iij.ad.jp/archives/37823</link>
+            <guid>https://eng-blog.iij.ad.jp/?p=37823</guid>
+            <pubDate>Mon, 12 Oct 2026 23:58:44 GMT</pubDate>
+            <description><![CDATA[「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...]]></description>
+            <content:encoded><![CDATA[「Starlink は、上空を移動する衛星との接続を維持するために、視界を遮るものがなく、空がよく見える場所に設置する必要があります。木の枝や柱や屋根など、St...]]></content:encoded>
+            <category>技術情報</category>
+            <category>Starlink</category>
+            <category>Starlinkの品質</category>
+            <enclosure length="0" type="jpg" url="https://eng-blog.iij.ad.jp/wp-content/uploads/2026/10/a11b4bb3ba448d1fa402ac3dc62cc91f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wizの全体像と主要機能を解説 | G-gen Tech Blog]]></title>
+            <link>https://blog.g-gen.co.jp/entry/wiz-explained</link>
+            <guid>https://blog.g-gen.co.jp/entry/wiz-explained</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Googl]]></description>
+            <content:encoded><![CDATA[G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Google Cloud との連携 主要製品 製品構成 Wiz Code Wiz Cloud Wiz Defend 機能と製品のマッピング 概要 Wiz Code の機能 Wiz Cloud の機能 Wiz D…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/0b0bb56667ae543dea84badf807fee0ac9cfe93c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261014%2F20261014090020.png" alt="Wizの全体像と主要機能を解説 - G-gen Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介 | 松尾研究所テックブログのフィード]]></title>
+            <link>https://zenn.dev/mkj/articles/eacf1f9635d3ae</link>
+            <guid>https://zenn.dev/mkj/articles/eacf1f9635d3ae</guid>
+            <pubDate>Wed, 14 Oct 2026 02:50:05 GMT</pubDate>
+            <description><![CDATA[はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより]]></description>
+            <content:encoded><![CDATA[はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより、モデル更新を伴う再学習はせずに推論が可能です。商用利用可能ライセンスな表形式データ基盤モデルです。 Kumo TabularとはKumo Tabularは、Tran...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Di4y3Sd6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A1%25A8%25E5%25BD%25A2%25E5%25BC%258F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2590%2591%25E3%2581%2591%25E5%259F%25BA%25E7%259B%25A4%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25ABNVIDIA%2520Kumo%2520Tabular%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Mujirushi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwMmFhZWU4MWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[UPSと海底ケーブルとGPUインフラの話を聞いてきた 〜JADOG19ミーティングレポート〜 | さくらのナレッジ]]></title>
+            <link>https://knowledge.sakura.ad.jp/51644/</link>
+            <guid>https://knowledge.sakura.ad.jp/?p=51644</guid>
+            <pubDate>Tue, 13 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに JADOGは、データセンター事業者をはじめ、ユーザー、メーカー、SIer、ネットワーク事業者など、多様な業界のプレーヤーが業界の枠を超えて集まり、建設的な情報共有と活発な議論を行うコミュニティーです。これにより […]]]></description>
+            <content:encoded><![CDATA[はじめに JADOGは、データセンター事業者をはじめ、ユーザー、メーカー、SIer、ネットワーク事業者など、多様な業界のプレーヤーが業界の枠を超えて集まり、建設的な情報共有と活発な議論を行うコミュニティーです。これにより […]]]></content:encoded>
+            <category>エンジニア向け</category>
+            <category>GPU</category>
+            <category>JADOG</category>
+            <category>UPS</category>
+            <category>データセンター</category>
+            <category>海底ケーブル</category>
+            <category>電池</category>
+            <enclosure length="0" type="jpg" url="https://knowledge.sakura.ad.jp/wp-content/uploads/2026/09/202608-jadog19-cover-1200x630.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud RunのSSH機能を解説 | G-gen Tech Blog]]></title>
+            <link>https://blog.g-gen.co.jp/entry/cloud-run-ssh-explained</link>
+            <guid>https://blog.g-gen.co.jp/entry/cloud-run-ssh-explained</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[G-gen の佐々木です。当記事では、実行中の Cloud Run のコンテナに SSH で接続し、ファイルシステムやプロセスを直接調査できる機能について解説します。 概要 Cloud Run とは Cloud Run の SSH 機能とは 対応する実行モデル SSH 機能の基本 仕組み 制限事項 料金 注意点 有効化する期間 第2世代実行環境の明示 設定変更の影響範囲 接続ユーザー 使用できるコ]]></description>
+            <content:encoded><![CDATA[G-gen の佐々木です。当記事では、実行中の Cloud Run のコンテナに SSH で接続し、ファイルシステムやプロセスを直接調査できる機能について解説します。 概要 Cloud Run とは Cloud Run の SSH 機能とは 対応する実行モデル SSH 機能の基本 仕組み 制限事項 料金 注意点 有効化する期間 第2世代実行環境の明示 設定変更の影響範囲 接続ユーザー 使用できるコマンド セッション中の変更の扱い 既知の問題 設定手順 事前準備 必要な API とロール Cloud Run services での SSH SSH の有効化と無効化 サービスへの接続 特定のインス…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/d7e4c705400e386aec0b0e5b748fc9c3ba537630/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261009%2F20261009081608.png" alt="Cloud RunのSSH機能を解説 - G-gen Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ | Hatena Developer Blog]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/10/16/123000</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/10/16/123000</guid>
+            <pubDate>Fri, 16 Oct 2026 03:30:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではな]]></description>
+            <content:encoded><![CDATA[こんにちは、Mackerelチームの id:chin-hy です！ このたび、はてなSREの id:masayoshi と、そーだいさん id:Soudai が登壇するオンラインイベントを、2026年10月27日（火）11:00〜12:00 に開催します🎉 AIでコードを書くのは当たり前になってきたけど、監視や障害対応にAIを使うのはまだ手探り──そんな実感を持っているエンジニアの方も多いのではないでしょうか。今回のイベントは、「AIで開発する時代、監視・運用もAIで」をテーマに、実際に手を動かしている2人が、実演と対話でお届けします。 ▼ お申し込みはこちら: AIを味方につける！開発チーム…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/869f16088514ab03bdd99034596b02cbf7452418/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fja.mackerel.io%2Fhubfs%2Fassets%2Fimg%2Fevent%2Fmackerel-seminar-banner-20261027.png" alt="AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ - Hatena Developer Blog"/>
+        </item>
+    </channel>
+</rss>

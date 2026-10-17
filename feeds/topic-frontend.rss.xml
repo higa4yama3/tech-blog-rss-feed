@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (フロントエンド・デザイン)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml</link>
+        <description>フロントエンド・デザインの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (フロントエンド・デザイン)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-frontend.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261017-ibisOffice/</link>
+            <guid>https://gigazine.net/news/20261017-ibisOffice/</guid>
+            <pubDate>Sat, 17 Oct 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></description>
+            <content:encoded><![CDATA[基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/17/ibisOffice/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ132] 漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://gihyo.jp/article/2026/10/furifont</link>
+            <guid>https://gihyo.jp/article/2026/10/furifont</guid>
+            <pubDate>Fri, 16 Oct 2026 11:10:40 GMT</pubDate>
+            <description><![CDATA[OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンスで公開した]]></description>
+            <content:encoded><![CDATA[OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンスで公開した]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="png" url="https://gihyo.jp/assets/images/ICON/2026/3113_furifont.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[HN 6pt] tsc-ts: TypeScript written in TypeScript | Hacker News: Front Page]]></title>
+            <link>https://github.com/vercel-labs/tsc-ts</link>
+            <guid>https://news.ycombinator.com/item?id=50132911</guid>
+            <pubDate>Sat, 17 Oct 2026 17:10:27 GMT</pubDate>
+            <description><![CDATA[TypeScript written in TypeScript. Contribute to vercel-labs/tsc-ts development by creating an account on GitHub.]]></description>
+            <content:encoded><![CDATA[TypeScript written in TypeScript. Contribute to vercel-labs/tsc-ts development by creating an account on GitHub.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//e92df215e49c2db285a26fde8d661035746fd50ffbe7832762ac625ec876884f/vercel-labs/tsc-ts" height="600" url="https://opengraph.githubassets.com/e92df215e49c2db285a26fde8d661035746fd50ffbe7832762ac625ec876884f/vercel-labs/tsc-ts" width="1200" alt="TypeScript written in TypeScript. Contribute to vercel-labs/tsc-ts development by creating an account on GitHub."/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ18] メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148592.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148592.html</guid>
+            <pubDate>Thu, 15 Oct 2026 21:45:00 GMT</pubDate>
+            <description><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></description>
+            <content:encoded><![CDATA[ 米Microsoftは10月15日（現地時間）、「Windows 11」の最近の改善と今後の改善予定を、公式ブログ「Windows Experience Blog」で発表した。同社は今年になってOSの“作りこみ”に注力しているが、その手が緩むことはないようだ。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://forest.watch.impress.co.jp/img/wf/list/2148/592/windows11.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designing more efficient quantum circuits with Claude | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+            <guid>https://www.anthropic.com/research/designing-efficient-quantum-circuits</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.]]></description>
+            <content:encoded><![CDATA[Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ3] macOSでウインドウがたくさん表示されていてもワンクリックで目的のウインドウを手前にできるアプリ -Tungsten Edge | コリス]]></title>
+            <link>https://coliss.com/articles/build-websites/operation/work/window-taskbar-for-macos.html</link>
+            <guid>https://coliss.com/?p=85419</guid>
+            <pubDate>Thu, 15 Oct 2026 00:36:48 GMT</pubDate>
+            <description><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></description>
+            <content:encoded><![CDATA[macOSでウインドウを切り替えるとき、どのようにしていますか？ もちろん、そのウインドウをクリックすれば手前に表示されますが、重なっていると困難です。Dockでアプリのアイコンをクリックしても、その]]></content:encoded>
+            <category>サイト構築 -制作</category>
+            <category>mac</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026100402-01@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Amazonで年に一度のプライム感謝祭2026が開催！ 絶対に見逃せないお買い得品を紹介します | コリス]]></title>
+            <link>https://coliss.com/articles/products/amazon-prime-appreciation-20261016.html</link>
+            <guid>https://coliss.com/?p=85680</guid>
+            <pubDate>Fri, 16 Oct 2026 00:36:32 GMT</pubDate>
+            <description><![CDATA[※本ページは、アフィリエイト広告を利用しています。 いよいよ、年に一度の「プライム感謝祭2026」が開催です！ プライム会員限定のセールということで、通常のセールよりもかなり安くなっており、非常にお買]]></description>
+            <content:encoded><![CDATA[※本ページは、アフィリエイト広告を利用しています。 いよいよ、年に一度の「プライム感謝祭2026」が開催です！ プライム会員限定のセールということで、通常のセールよりもかなり安くなっており、非常にお買]]></content:encoded>
+            <category>Products</category>
+            <category>Amazon</category>
+            <enclosure length="0" type="png" url="https://coliss.com/wp-content/uploads-202604/2026101601-01@2x.png"/>
+        </item>
+        <item>
+            <title><![CDATA[NAB Show 2026 参加記 | DMM Developers Blog]]></title>
+            <link>https://developersblog.dmm.com/entry/2026/10/13/110000</link>
+            <guid>https://developersblog.dmm.com/entry/2026/10/13/110000</guid>
+            <pubDate>Tue, 13 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに 配信基盤の最前線 MoQ(Media over QUIC) ── 次世代の配信トランスポート AIエンコード前処理でビットレートを30〜50%削減 AIによるパーソナライズとUX(Synamedia/Mileto) AIによる海賊版・CDNリーチング対策(Catching the Invisible) ライブ体験の未来: From Cameras to Code スポーツ配信とファンエン]]></description>
+            <content:encoded><![CDATA[はじめに 配信基盤の最前線 MoQ(Media over QUIC) ── 次世代の配信トランスポート AIエンコード前処理でビットレートを30〜50%削減 AIによるパーソナライズとUX(Synamedia/Mileto) AIによる海賊版・CDNリーチング対策(Catching the Invisible) ライブ体験の未来: From Cameras to Code スポーツ配信とファンエンゲージメント(Peacockのマルチビュー) 配信ビジネス・プラットフォーム戦略 グローバル規模のストリーミングプラットフォーム運用 配信パートナーシップ(Roku/Amazon/NBCUnivers…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/68c7d4304ce5ce5af43259f2b40a4fcad21da6b1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FD%2FDMMTech%2F20260901%2F20260901144806.png" alt="NAB Show 2026 参加記 - DMM Developers Blog"/>
+        </item>
+    </channel>
+</rss>

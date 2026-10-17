@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (今日の5本)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        <description>読んで高揚しそうな記事をスコア順に選んだもの</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (今日の5本)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/picks.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[HN 207pt] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware | Hacker News: Front Page]]></title>
+            <link>https://llmspeed.dev/</link>
+            <guid>https://news.ycombinator.com/item?id=50127979</guid>
+            <pubDate>Sat, 17 Oct 2026 04:36:53 GMT</pubDate>
+            <description><![CDATA[HN 207pt · 作ってみた
+Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.]]></description>
+            <content:encoded><![CDATA[HN 207pt · 作ってみた
+Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="png" height="630" url="https://llmspeed.dev/og.png" width="1200"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ133] 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://japan.cnet.com/article/35253656/</link>
+            <guid>https://japan.cnet.com/article/35253656/</guid>
+            <pubDate>Sat, 17 Oct 2026 00:21:27 GMT</pubDate>
+            <description><![CDATA[はてブ133
+日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。]]></description>
+            <content:encoded><![CDATA[はてブ133
+日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="jpg" url="https://japan.cnet.com/storage/2026/10/16/1e961586dd89d4ba6cb454246ba3fa07/17_jau_large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ170] ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530</link>
+            <guid>https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530</guid>
+            <pubDate>Sat, 17 Oct 2026 08:05:29 GMT</pubDate>
+            <description><![CDATA[はてブ170
+ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか]]></description>
+            <content:encoded><![CDATA[はてブ170
+ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="jpeg" url="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamaguchikenta/02745116/title-1792216805524.jpeg?exp=10800"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ11] 無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能 | GIGAZINE]]></title>
+            <link>https://gigazine.net/news/20261017-ibisOffice/</link>
+            <guid>https://gigazine.net/news/20261017-ibisOffice/</guid>
+            <pubDate>Sat, 17 Oct 2026 14:00:00 GMT</pubDate>
+            <description><![CDATA[はてブ11 · 新しく出た
+基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></description>
+            <content:encoded><![CDATA[はてブ11 · 新しく出た
+基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://i.gzn.jp/img/2026/10/17/ibisOffice/00.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[必読 · 安宅和人（はてなブログ）] マタギドライヴへの道 | ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing]]></title>
+            <link>https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432</link>
+            <guid>https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432</guid>
+            <pubDate>Sat, 17 Oct 2026 08:34:32 GMT</pubDate>
+            <description><![CDATA[必読 · 安宅和人（はてなブログ） · はてブ3
+1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし]]></description>
+            <content:encoded><![CDATA[必読 · 安宅和人（はてなブログ） · はてブ3
+1.4/50 Summilux ASPH, Leica M10P, RAW 落合陽一『マタギドライヴ』を二度読んだ。とても大切な友人が８年もかけた渾身の一冊なだけに、なにか言葉を残さねばと思いながら、もう二週間も経ってしまった。ここらで一つ残しておければと思う。この一冊は、落合watcher的な人には垂涎の一冊だ。何しろ、彼が様々な場で語り、形にし、人に訴えてきたほぼすべての概念群が、彼自身の言葉で繰り返し、重層的に語られているからだ。そこに現れるのは、大阪で形をなし、いままた横浜でnull2n*1という形で第二形態と化した、nullと仏教の空、華厳経における事事無碍、オブジェクト指向的な世界…]]></content:encoded>
+            <category>essay</category>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/c65da6332fbb17bf8153b4e6d201c549217a04d8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaz_ataka%2F20261017%2F20261017172521.jpg" alt="マタギドライヴへの道 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing"/>
+        </item>
+    </channel>
+</rss>

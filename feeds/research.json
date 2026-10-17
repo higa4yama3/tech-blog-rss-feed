@@ -1,0 +1,1166 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Research)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/research.json",
+    "description": "リサーチ・長文",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "content_html": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "title": "Claude reveals ECDSA curve origins | Anthropic Research",
+            "summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 15,
+                "originalTitle": "Claude reveals ECDSA curve origins",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ15",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.653,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ15"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/employment-at-anthropic",
+            "content_html": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+            "url": "https://www.anthropic.com/research/employment-at-anthropic",
+            "title": "How employment is changing at Anthropic | Anthropic Research",
+            "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "How employment is changing at Anthropic",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 1.07,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/expectations-for-the-future",
+            "content_html": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
+            "url": "https://www.anthropic.com/research/expectations-for-the-future",
+            "title": "Working at the frontier shapes expectations for the future | Anthropic Research",
+            "summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/bb7d44b0b539fd7f179324bbb647b10c2d7bc833-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Working at the frontier shapes expectations for the future",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.486,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "content_html": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+            "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+            "title": "Designing more efficient quantum circuits with Claude | Anthropic Research",
+            "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Designing more efficient quantum circuits with Claude",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM · フロントエンド・デザイン · サイエンス",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.486,
+                "topics": [
+                    "ai",
+                    "frontend",
+                    "science"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "フロントエンド・デザイン",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/ai-expectations-gap",
+            "content_html": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions. ",
+            "url": "https://www.anthropic.com/research/ai-expectations-gap",
+            "title": "The AI expectations gap | Anthropic Research",
+            "summary": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions. ",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f887bbe389a32292f37fd38e5515da404a384d0f-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T00:00:00.000Z",
+            "date_published": "2026-10-16T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The AI expectations gap",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.486,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+            "content_html": "Anthropic announces updates to embedding independent evaluators",
+            "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+            "title": "An update on independent evaluators | Anthropic News",
+            "summary": "Anthropic announces updates to embedding independent evaluators",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T00:00:00.000Z",
+            "date_published": "2026-10-15T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "An update on independent evaluators",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.49,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/singapore-office-opening",
+            "content_html": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+            "url": "https://www.anthropic.com/news/singapore-office-opening",
+            "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore | Anthropic News",
+            "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=olive",
+                "alt": "Interconnected globe with network nodes and global connection lines"
+            },
+            "date_modified": "2026-10-14T00:00:00.000Z",
+            "date_published": "2026-10-14T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.309,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/2026-us-midterms",
+            "content_html": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+            "url": "https://www.anthropic.com/news/2026-us-midterms",
+            "title": "Preparing for the 2026 US midterms | Anthropic News",
+            "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/609927c7af2a454cedad848e4b2adc980c1f5fe6-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-14T00:00:00.000Z",
+            "date_published": "2026-10-14T00:00:00.000Z",
+            "tags": [
+                "Policy",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Preparing for the 2026 US midterms",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.309,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/self-replicating-ai",
+            "content_html": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+            "url": "https://www.anthropic.com/research/self-replicating-ai",
+            "title": "AI models may be capable of self-replicating without access to a datacenter | Anthropic Research",
+            "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-12T00:00:00.000Z",
+            "date_published": "2026-10-12T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "AI models may be capable of self-replicating without access to a datacenter",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ14",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.256,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ14"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/distillation-defenses",
+            "content_html": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+            "url": "https://www.anthropic.com/research/distillation-defenses",
+            "title": "Strengthening our defenses against distillation attacks | Anthropic Research",
+            "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a5934d1ae8428b2a97fae1963a5f427594fc7202-1200x630.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-12T00:00:00.000Z",
+            "date_published": "2026-10-12T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 9,
+                "originalTitle": "Strengthening our defenses against distillation attacks",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ9",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.229,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ9"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+            "title": "Investigating unintended model actions in our evaluations and internal use | Anthropic Research",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f11d2325e688229de8a887ef7ece34f520ab7134-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-09T00:00:00.000Z",
+            "date_published": "2026-10-09T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Investigating unintended model actions in our evaluations and internal use",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.037,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "content_html": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.",
+            "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+            "title": "Launching an opt-in vulnerability-finding service for open-source software | Anthropic Research",
+            "summary": "We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 22,
+                "originalTitle": "Launching an opt-in vulnerability-finding service for open-source software",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ22 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.057,
+                "topics": [
+                    "ai",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ22",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/anthropic-cyber-mission",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+            "title": "Introducing the Anthropic Cyber Mission | Anthropic News",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 11,
+                "originalTitle": "Introducing the Anthropic Cyber Mission",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ11 · 新しく出た",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.05,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ11",
+                    "新しく出た"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/2026-usage-policy-update",
+            "content_html": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+            "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+            "title": "2026 Usage Policy update | Anthropic News",
+            "summary": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 13,
+                "originalTitle": "2026 Usage Policy update",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ13",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.04,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ13"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/genesis-mission-commitment",
+            "content_html": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. ",
+            "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+            "title": "Building on our commitment to American scientific discovery | Anthropic News",
+            "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI. ",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&backgroundColor=heather",
+                "alt": "Stylized double helix representing the intersection of science and human potential"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Building on our commitment to American scientific discovery",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "発見",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.036,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+            "content_html": "Claude Science helped produce the first complete map of the sky in UV light",
+            "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+            "title": "The missing map of the sky | Anthropic Research",
+            "summary": "Claude Science helped produce the first complete map of the sky in UV light",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dde28f2eb899eade347dd07314a9c6b65bfbbb3c-1200x630.png",
+                "alt": "The first complete map of the sky in UV light",
+                "type": "png"
+            },
+            "date_modified": "2026-10-08T00:00:00.000Z",
+            "date_published": "2026-10-08T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 5,
+                "originalTitle": "The missing map of the sky",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ5",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.031,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ5"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/cyber-verification-program",
+            "content_html": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+            "url": "https://www.anthropic.com/news/cyber-verification-program",
+            "title": "Expanding the Cyber Verification Program | Anthropic News",
+            "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+                "alt": "Hand with padlock and key on detailed security graphic"
+            },
+            "date_modified": "2026-10-06T00:00:00.000Z",
+            "date_published": "2026-10-06T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Expanding the Cyber Verification Program",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.011,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/claude-frontier-academy",
+            "content_html": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+            "url": "https://www.anthropic.com/news/claude-frontier-academy",
+            "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap | Anthropic News",
+            "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+            "image": {
+                "url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&backgroundColor=heather",
+                "alt": "Stylized hand constructing architectural structure with geometric building elements and foundational components"
+            },
+            "date_modified": "2026-10-02T00:00:00.000Z",
+            "date_published": "2026-10-02T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 4,
+                "originalTitle": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ4",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.002,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ4"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/claude-shaped-science",
+            "content_html": "Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts.",
+            "url": "https://www.anthropic.com/research/claude-shaped-science",
+            "title": "Claude-shaped science | Anthropic Research",
+            "summary": "Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5dca367673e615ac7abbbdac9f44733d1f52638a-2000x1125.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Claude-shaped science",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.001,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/barclays-scales-claude",
+            "content_html": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+            "url": "https://www.anthropic.com/news/barclays-scales-claude",
+            "title": "Barclays scales Claude to upgrade operations and improve client experience | Anthropic News",
+            "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-01T00:00:00.000Z",
+            "date_published": "2026-10-01T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Barclays scales Claude to upgrade operations and improve client experience",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0.001,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/what-work-can-robots-do",
+            "content_html": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.",
+            "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+            "title": "What work can robots do? | Anthropic Research",
+            "summary": "What work can robots do? Anthropic's robot exposure index finds robots can do 3/4 of US physical job tasks, but are cost-competitive for only 0.3%.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-30T00:00:00.000Z",
+            "date_published": "2026-09-30T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What work can robots do?",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+            "content_html": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+            "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+            "title": "GLM-5.3 and the spread of advanced cyber capabilities | Anthropic Research",
+            "summary": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 29,
+                "originalTitle": "GLM-5.3 and the spread of advanced cyber capabilities",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ29",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0.001,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ29"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/your-thoughts-on-ai",
+            "content_html": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+            "title": "What do you want from AI? | Anthropic Research",
+            "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-29T00:00:00.000Z",
+            "date_published": "2026-09-29T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "What do you want from AI?",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+            "content_html": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+            "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+            "title": "Yes, Claude can do Nine Loops | Anthropic Research",
+            "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2ed453f8c87d2166b09940a859cd193b29678a88-3840x2160.png",
+                "alt": "Diagram of nine loops",
+                "type": "png"
+            },
+            "date_modified": "2026-09-25T00:00:00.000Z",
+            "date_published": "2026-09-25T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Yes, Claude can do Nine Loops",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/research/project-swap",
+            "content_html": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
+            "url": "https://www.anthropic.com/research/project-swap",
+            "title": "Project Swap: What happens when agents trade for us? | Anthropic Research",
+            "summary": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/98a29c28bc80505540f64da96f899288b380fbf0-1200x630.jpg",
+                "alt": "Two-panel illustration: on a dark background, five colored bars resembling books on a shelf; on dotted paper, two columns of dots joined by crisscrossing colored lines, like a matching diagram pairing people with books.",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-24T00:00:00.000Z",
+            "date_published": "2026-09-24T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Project Swap: What happens when agents trade for us?",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "AI・LLM",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "content_html": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats | Anthropic Research",
+            "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
+                "alt": "A scientist pipetting",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-23T00:00:00.000Z",
+            "date_published": "2026-09-23T00:00:00.000Z",
+            "tags": [
+                "Research",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+                "blogTitle": "Anthropic Research",
+                "blogLink": "https://www.anthropic.com/research",
+                "blogLinkMd5Hash": "7826413b7d9e51e03960087348be394d",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3 · 発見",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic Research",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "content_html": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats | Anthropic News",
+            "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
+                "alt": "A scientist pipetting",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-23T00:00:00.000Z",
+            "date_published": "2026-09-23T00:00:00.000Z",
+            "tags": [
+                "Science",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3 · 発見",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3",
+                    "発見"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+            "content_html": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+            "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+            "title": "Partnering with Accenture on embedded evaluation | Anthropic News",
+            "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+            "image": {
+                "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+                "alt": "Anthropic logo",
+                "type": "jpg"
+            },
+            "date_modified": "2026-09-18T00:00:00.000Z",
+            "date_published": "2026-09-18T00:00:00.000Z",
+            "tags": [
+                "Announcements",
+                "ai",
+                "research"
+            ],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "Partnering with Accenture on embedded evaluation",
+                "blogTitle": "Anthropic News",
+                "blogLink": "https://www.anthropic.com/news",
+                "blogLinkMd5Hash": "1ccb2e90f708d6170273ab090e680acd",
+                "favicon": "https://www.anthropic.com/favicon.ico",
+                "pickReason": "はてブ3",
+                "sourceTier": "research",
+                "sourceLabel": "Anthropic News",
+                "host": "anthropic.com",
+                "score": 0,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ3"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

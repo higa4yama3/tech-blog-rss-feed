@@ -1,0 +1,434 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (はてなIT人気)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/hatena-it.json",
+    "description": "はてなブックマーク ITカテゴリ人気（厳選）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+            "content_html": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents.",
+            "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+            "title": "[はてブ207] How the Claude Code team does code review / claude.dev Blog (claude.dev)",
+            "summary": "How do you review code at the volume agents produce it? On the Claude Code team,",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
+                "width": "1200",
+                "alt": "How the Claude Code team does code review / claude.dev Blog"
+            },
+            "date_modified": "2026-10-16T12:24:30.000Z",
+            "date_published": "2026-10-16T12:24:30.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 207,
+                "originalTitle": "How the Claude Code team does code review / claude.dev Blog",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://claude.dev/shared/img/favicon.svg",
+                "pickReason": "はてブ207",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "claude.dev",
+                "score": 2.839,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ207"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+            "content_html": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+            "title": "[はてブ181] BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も (itmedia.co.jp)",
+            "summary": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/17/2000002349/10009678/2048"
+            },
+            "date_modified": "2026-10-17T00:57:57.000Z",
+            "date_published": "2026-10-17T00:57:57.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 181,
+                "originalTitle": "BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ181",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "itmedia.co.jp",
+                "score": 2.255,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ181"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530",
+            "content_html": "ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どのような方式でパスワードを管理していたのか",
+            "url": "https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530",
+            "title": "[はてブ170] ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース (news.yahoo.co.jp)",
+            "summary": "ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。どの",
+            "image": {
+                "url": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/yamaguchikenta/02745116/title-1792216805524.jpeg?exp=10800",
+                "type": "jpeg"
+            },
+            "date_modified": "2026-10-17T08:05:29.000Z",
+            "date_published": "2026-10-17T08:05:29.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 170,
+                "originalTitle": "ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico",
+                "pickReason": "はてブ170",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "news.yahoo.co.jp",
+                "score": 3.218,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ170"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://japan.cnet.com/article/35253656/",
+            "content_html": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+            "url": "https://japan.cnet.com/article/35253656/",
+            "title": "[はてブ133] 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針 (japan.cnet.com)",
+            "summary": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよ",
+            "image": {
+                "url": "https://japan.cnet.com/storage/2026/10/16/1e961586dd89d4ba6cb454246ba3fa07/17_jau_large.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T00:21:27.000Z",
+            "date_published": "2026-10-17T00:21:27.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 133,
+                "originalTitle": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://japan.cnet.com/favicon.ico",
+                "pickReason": "はてブ133",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "japan.cnet.com",
+                "score": 3.331,
+                "topics": [
+                    "ai",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ133"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://gihyo.jp/article/2026/10/furifont",
+            "content_html": "OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンスで公開した",
+            "url": "https://gihyo.jp/article/2026/10/furifont",
+            "title": "[はてブ132] 漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp (gihyo.jp)",
+            "summary": "OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープン",
+            "image": {
+                "url": "https://gihyo.jp/assets/images/ICON/2026/3113_furifont.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T11:10:40.000Z",
+            "date_published": "2026-10-16T11:10:40.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 132,
+                "originalTitle": "漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://gihyo.jp/favicon.ico",
+                "pickReason": "はてブ132",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "gihyo.jp",
+                "score": 2.582,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "はてブ132"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.afpbb.com/articles/-/3658078",
+            "content_html": "【10月17日 AFP】ノルウェー軍の訓練中、中国製車両の車載カメラが軍事施設への入場コードや関係者の出入りなど、機密性の高い情報を記録していたことが分かり、コネクテッドカー（インターネットに接続し外部と情報をやりとりする車）がもたらすリスクへの懸念が高まっている",
+            "url": "https://www.afpbb.com/articles/-/3658078",
+            "title": "[はてブ82] 中国製車両、ノルウェー軍の機密情報を記録 訓練中に発覚 (afpbb.com)",
+            "summary": "【10月17日 AFP】ノルウェー軍の訓練中、中国製車両の車載カメラが軍事施設への入場コードや関係者の出入りなど、機密性の高い情報を記録していたことが分かり、コ",
+            "image": {
+                "url": "https://afpbb.ismcdn.jp/mwimgs/4/f/1000x/img_4f2256a3bdde8d432de2ae28446a3dd7115138.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T05:51:11.000Z",
+            "date_published": "2026-10-17T05:51:11.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 82,
+                "originalTitle": "中国製車両、ノルウェー軍の機密情報を記録 訓練中に発覚",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://afpbb.ismcdn.jp/common/images/favicon2020.ico",
+                "pickReason": "はてブ82",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "afpbb.com",
+                "score": 2.728,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ82"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://github.com/google-research/harness2",
+            "content_html": "Contribute to google-research/harness2 development by creating an account on GitHub.",
+            "url": "https://github.com/google-research/harness2",
+            "title": "[はてブ82] GitHub - google-research/harness2 (github.com)",
+            "summary": "Contribute to google-research/harness2 development by creating an account on Git",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/ecb90270ed76d1f9663a910d8ef9f5a7c33c160721ee2d5ffec18ca21587234c/google-research/harness2",
+                "width": "1200",
+                "alt": "Contribute to google-research/harness2 development by creating an account on GitHub."
+            },
+            "date_modified": "2026-10-16T08:41:45.000Z",
+            "date_published": "2026-10-16T08:41:45.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 82,
+                "originalTitle": "GitHub - google-research/harness2",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "はてブ82",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "github.com",
+                "score": 1.815,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ82"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://future-architect.github.io/articles/20261016a/",
+            "content_html": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行・テストの並列化・自己完結型のテストレポート・分散トレーシング）を紹介します。",
+            "url": "https://future-architect.github.io/articles/20261016a/",
+            "title": "[はてブ80] E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ (future-architect.github.io)",
+            "summary": "コーディングエージェントの普及で E2E テストの比重が上がるなか、テスト基盤の側でフィードバックループを小さくする4つのプラクティス（デプロイレスのテスト実行",
+            "image": {
+                "url": "https://future-architect.github.io/images/2026/20261016a/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%97.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T02:35:04.000Z",
+            "date_published": "2026-10-17T02:35:04.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 80,
+                "originalTitle": "E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://future-architect.github.io/favicon.svg",
+                "pickReason": "はてブ80",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "future-architect.github.io",
+                "score": 2.551,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ80"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+            "content_html": "工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...",
+            "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+            "title": "[はてブ74] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita (qiita.com)",
+            "summary": "工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1ZFLTIwMjYtOTk5OTklRUYlQkMlODhQd25Fc2NhcGUlRUYlQkMlODklRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYlRTIlOTQlODAlRTIlOTQlODAlRTMlODAlOENLVk0lRTMlODElQUUlRTglODQlODYlRTUlQkMlQjElRTYlODAlQTclRTMlODAlOEQlRTMlODElQTclRTMlODElQUYlRTMlODElQUElRTMlODElOEYlRTMlODAlODFMaW51eCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MiVCRiVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU1ZGE2Y2FlZjg3NDgwOTVjOGQzMWMyZjUzZTdhMmZj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrMl9uYWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGQ4YmUxZDIyNWZkNWM3NGY0ZTRhN2M1Yjk0ZTQyNTI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=11c9e17e92010cab6c91bcd954d23cc1"
+            },
+            "date_modified": "2026-10-16T17:16:58.000Z",
+            "date_published": "2026-10-16T17:16:58.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 74,
+                "originalTitle": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+                "pickReason": "はてブ74 · 仕組みを掘る",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "qiita.com",
+                "score": 3.183,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ74",
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://note.com/suh_sunaneko/n/n23ed6981ff6a",
+            "content_html": "「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めるときの順番を整理してみます。全社のDXをどう進めるかという話ではなく、目の前のプロジェクトの話。 メンバー全員に使わせようとして、止まる キックオフで「このプロジェクトではAIを活用していきます」と宣言する。メンバー全員分のアカウントを用意する。使い方の共有会を1回開く。 3ヶ月",
+            "url": "https://note.com/suh_sunaneko/n/n23ed6981ff6a",
+            "title": "[はてブ60] AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM (note.com)",
+            "summary": "「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同",
+            "image": {
+                "url": "https://assets.st-note.com/production/uploads/images/325184508/rectangle_large_type_2_093a9fa8eb96eee7b1d713fa3a57aa50.png?fit=bounds&quality=85&width=1280",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T04:12:34.000Z",
+            "date_published": "2026-10-17T04:12:34.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 60,
+                "originalTitle": "AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico",
+                "pickReason": "はてブ60",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "note.com",
+                "score": 3.121,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ60"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+            "content_html": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽くおさらいしましょう． UUID (Universally Unique Identifier) は，時間的・空間的に一意であることを意図して設計された，128ビットの識別子です． 一般的には fa6c2…",
+            "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+            "title": "[はてブ59] こんにちは，UUID 芸人です - ハーフダチョウ研究会 (mimifuwacc.hatenablog.com)",
+            "summary": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろう",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/6802888565216560251/14945776032091061854/1792187902",
+                "alt": "こんにちは，UUID 芸人です - ハーフダチョウ研究会"
+            },
+            "date_modified": "2026-10-17T00:36:24.000Z",
+            "date_published": "2026-10-17T00:36:24.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 59,
+                "originalTitle": "こんにちは，UUID 芸人です - ハーフダチョウ研究会",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://mimifuwacc.hatenablog.com/icon/favicon",
+                "pickReason": "はてブ59",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "mimifuwacc.hatenablog.com",
+                "score": 2.903,
+                "topics": [
+                    "science"
+                ],
+                "topicLabels": [
+                    "サイエンス"
+                ],
+                "signals": [
+                    "はてブ59"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

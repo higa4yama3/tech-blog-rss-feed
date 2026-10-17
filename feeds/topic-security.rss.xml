@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (セキュリティ)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml</link>
+        <description>セキュリティの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (セキュリティ)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ74] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3</link>
+            <guid>https://qiita.com/k2_naka/items/fa87685231377f15e7e3</guid>
+            <pubDate>Fri, 16 Oct 2026 17:16:58 GMT</pubDate>
+            <description><![CDATA[工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...]]></description>
+            <content:encoded><![CDATA[工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image/1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2" url="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1ZFLTIwMjYtOTk5OTklRUYlQkMlODhQd25Fc2NhcGUlRUYlQkMlODklRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYlRTIlOTQlODAlRTIlOTQlODAlRTMlODAlOENLVk0lRTMlODElQUUlRTglODQlODYlRTUlQkMlQjElRTYlODAlQTclRTMlODAlOEQlRTMlODElQTclRTMlODElQUYlRTMlODElQUElRTMlODElOEYlRTMlODAlODFMaW51eCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MiVCRiVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU1ZGE2Y2FlZjg3NDgwOTVjOGQzMWMyZjUzZTdhMmZj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrMl9uYWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGQ4YmUxZDIyNWZkNWM3NGY0ZTRhN2M1Yjk0ZTQyNTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=11c9e17e92010cab6c91bcd954d23cc1"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ181] BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/17/2000002349/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/17/2000002349/</guid>
+            <pubDate>Sat, 17 Oct 2026 00:57:57 GMT</pubDate>
+            <description><![CDATA[約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。]]></description>
+            <content:encoded><![CDATA[約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/17/2000002349/10009678/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/17/2000002349/10009678/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ167] タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/16/2000002346/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/16/2000002346/</guid>
+            <pubDate>Sat, 17 Oct 2026 01:16:08 GMT</pubDate>
+            <description><![CDATA[駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分の個人情報が漏えい。うち約160万アカウント分には、本人確認書類の画像も含まれて]]></description>
+            <content:encoded><![CDATA[駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分の個人情報が漏えい。うち約160万アカウント分には、本人確認書類の画像も含まれていた。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/16/2000002346/10009642/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002346/10009642/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ171] 「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性 | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/16/2000002314/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/16/2000002314/</guid>
+            <pubDate>Fri, 16 Oct 2026 02:12:50 GMT</pubDate>
+            <description><![CDATA[「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。]]></description>
+            <content:encoded><![CDATA[「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/16/2000002314/10009522/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002314/10009522/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ114] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 | 窓の杜]]></title>
+            <link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
+            <guid>https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
+            <pubDate>Thu, 15 Oct 2026 11:45:00 GMT</pubDate>
+            <description><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></description>
+            <content:encoded><![CDATA[ データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://forest.watch.impress.co.jp/img/wf/list/2148/495/curl.png"/>
+        </item>
+        <item>
+            <title><![CDATA[[はてブ77] 人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども | ITmedia NEWS 最新記事一覧]]></title>
+            <link>https://www.itmedia.co.jp/news/article/2610/16/2000002332/</link>
+            <guid>https://www.itmedia.co.jp/news/article/2610/16/2000002332/</guid>
+            <pubDate>Fri, 16 Oct 2026 05:41:39 GMT</pubDate>
+            <description><![CDATA[対象は、アカウント情報のほか、フォームに送信された内容や外部サービスのAPIキーなど広範囲にわたる。]]></description>
+            <content:encoded><![CDATA[対象は、アカウント情報のほか、フォームに送信された内容や外部サービスのAPIキーなど広範囲にわたる。]]></content:encoded>
+            <category>news</category>
+            <enclosure length="0" type="image//news/article/ogp/2610/16/2000002332/10009590/2048" url="https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002332/10009590/2048"/>
+        </item>
+        <item>
+            <title><![CDATA[Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する | Sansan Tech Blog]]></title>
+            <link>https://buildersbox.corp-sansan.com/entry/2026/10/15/101500</link>
+            <guid>https://buildersbox.corp-sansan.com/entry/2026/10/15/101500</guid>
+            <pubDate>Thu, 15 Oct 2026 01:15:00 GMT</pubDate>
+            <description><![CDATA[技術本部Platform Engineering Unit Identity Platformグループの都筑です。 弊社が提供する経理AXサービス「Bill One」や契約AXサービス「Contract One」といったプロダクトが利用する共通認証基盤「Auth One」の開発と運用に携わっています。 Auth OneではDependabotやRenovateを利用して依存関係を自動アップデートす]]></description>
+            <content:encoded><![CDATA[技術本部Platform Engineering Unit Identity Platformグループの都筑です。 弊社が提供する経理AXサービス「Bill One」や契約AXサービス「Contract One」といったプロダクトが利用する共通認証基盤「Auth One」の開発と運用に携わっています。 Auth OneではDependabotやRenovateを利用して依存関係を自動アップデートするPRを作成し、CIでのテストやレビューが通ったらマージし、E2Eテストや動作確認を実施し本番反映するリリースフローとなっています。 先日、Go 1.26.6へのバージョンアップを実施したところ、社内…]]></content:encoded>
+            <enclosure length="0" type="image//10257846132608666252/14945776032078063576/1792026924" url="https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032078063576/1792026924" alt="Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する - Sansan Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[セキュリティ業務向けAIエージェント基盤「SAGE」の開発記 第1弾：判断は人間に委ねる設計 | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20261015d</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20261015d</guid>
+            <pubDate>Thu, 15 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;amp;D）チームです。この記事は...]]></description>
+            <content:encoded><![CDATA[こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;amp;D）チームです。この記事は...]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://techblog.lycorp.co.jp/static/22d816fbe979d642323ad6bccd50db07/f0810/40906f3d1e18410baa6e09ca40a89b22.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wizの全体像と主要機能を解説 | G-gen Tech Blog]]></title>
+            <link>https://blog.g-gen.co.jp/entry/wiz-explained</link>
+            <guid>https://blog.g-gen.co.jp/entry/wiz-explained</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Googl]]></description>
+            <content:encoded><![CDATA[G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Google Cloud との連携 主要製品 製品構成 Wiz Code Wiz Cloud Wiz Defend 機能と製品のマッピング 概要 Wiz Code の機能 Wiz Cloud の機能 Wiz D…]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/0b0bb56667ae543dea84badf807fee0ac9cfe93c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261014%2F20261014090020.png" alt="Wizの全体像と主要機能を解説 - G-gen Tech Blog"/>
+        </item>
+        <item>
+            <title><![CDATA[そのAIモデル、本当に安全ですか？ オープンウェイトAIのサプライチェーンに潜む新たなリスク「BadEngram」 | fltech - 富士通研究所の技術ブログ]]></title>
+            <link>https://blog.fltech.dev/entry/2026/10/13/badengram</link>
+            <guid>https://blog.fltech.dev/entry/2026/10/13/badengram</guid>
+            <pubDate>Tue, 13 Oct 2026 07:00:00 GMT</pubDate>
+            <description><![CDATA[私たちは、Fujitsu Research of EuropeのAIセキュリティ研究チームです。Pillar Securityとの共同研究を通じて、オープンウェイト言語モデルで採用が進む新しいコンポーネント「ゲート付きパラメトリックメモリ」に潜む、新たな攻撃面を発見しました。]]></description>
+            <content:encoded><![CDATA[私たちは、Fujitsu Research of EuropeのAIセキュリティ研究チームです。Pillar Securityとの共同研究を通じて、オープンウェイト言語モデルで採用が進む新しいコンポーネント「ゲート付きパラメトリックメモリ」に潜む、新たな攻撃面を発見しました。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/90e65a83e0ccf814cd5638a9f52359cacb8dfbd5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261013%2F20261013160004.png" alt="そのAIモデル、本当に安全ですか？ オープンウェイトAIのサプライチェーンに潜む新たなリスク「BadEngram」 - fltech - 富士通研究所の技術ブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました | fltech - 富士通研究所の技術ブログ]]></title>
+            <link>https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/</link>
+            <guid>https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。]]></description>
+            <content:encoded><![CDATA[こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/c2ad92dd5e61b58cc5a503cf6d4be760ab151bff/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261014%2F20261014090013.png" alt="オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました - fltech - 富士通研究所の技術ブログ"/>
+        </item>
+    </channel>
+</rss>

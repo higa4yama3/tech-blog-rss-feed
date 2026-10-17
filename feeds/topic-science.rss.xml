@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RSS (サイエンス)</title>
+        <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml</link>
+        <description>サイエンスの記事をスコア順に（直近7日）</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:24:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>higa4yama3/tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>RSS (サイエンス)</title>
+            <url>https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png</url>
+            <link>https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.atom.xml</link>
+        </image>
+        <copyright>higa4yama3/tech-blog-rss-feed</copyright>
+        <atom:link href="https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-science.rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[はてブ59] こんにちは，UUID 芸人です - ハーフダチョウ研究会 | はてなブックマーク - 人気エントリー - テクノロジー]]></title>
+            <link>https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300</link>
+            <guid>https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300</guid>
+            <pubDate>Sat, 17 Oct 2026 00:36:24 GMT</pubDate>
+            <description><![CDATA[こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽くお]]></description>
+            <content:encoded><![CDATA[こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽くおさらいしましょう． UUID (Universally Unique Identifier) は，時間的・空間的に一意であることを意図して設計された，128ビットの識別子です． 一般的には fa6c2…]]></content:encoded>
+            <category>hatena</category>
+            <enclosure length="0" type="image//6802888565216560251/14945776032091061854/1792187902" url="https://ogimage.blog.st-hatena.com/6802888565216560251/14945776032091061854/1792187902" alt="こんにちは，UUID 芸人です - ハーフダチョウ研究会"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] 11年独身でも約9割は「人生の満足度」が高いままと判明 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201867</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201867</guid>
+            <pubDate>Fri, 16 Oct 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[親戚の集まりで「いい人はいないの？」と聞かれ、笑ってごまかした経験がある人も多いでしょう。 人の一生の歩みを説明する心理学の理論では、パートナーを見つけて結婚することが、人生の大事な目標として扱われてきました。 その一方で、一度も結婚しないまま年を重ねる人たちには、あまり目が向けられてきませんでした。 では、結婚せず恋人もいない暮らしを10年以上続けた人は、本当に年々不満をためていくのでしょうか。]]></description>
+            <content:encoded><![CDATA[親戚の集まりで「いい人はいないの？」と聞かれ、笑ってごまかした経験がある人も多いでしょう。 人の一生の歩みを説明する心理学の理論では、パートナーを見つけて結婚することが、人生の大事な目標として扱われてきました。 その一方で、一度も結婚しないまま年を重ねる人たちには、あまり目が向けられてきませんでした。 では、結婚せず恋人もいない暮らしを10年以上続けた人は、本当に年々不満をためていくのでしょうか。 今回の研究は、ドイツで11年間ずっと独身だった約3000人の記録をたどり、この問いに答えようとしたものです。 研究の詳細は、カナダのトロント大学らにより、2026年8月21日付で学術誌『Perso…]]></content:encoded>
+            <category>心理学</category>
+            <category>ドイツ</category>
+            <category>恋愛</category>
+            <enclosure length="0" type="jpg" height="900" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c53-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] バイキングの暴力を物語る「家の中の痕跡」を発見 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201859</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201859</guid>
+            <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[バイキングと聞くと、船で海を渡って各地を襲う、荒々しい戦士の姿を思い浮かべる人も多いでしょう。 実際、鉄器時代からバイキング時代にかけてのスカンジナビアは、戦士を重んじる考え方が広まった時代として知られます。 時代でいえば、紀元前500年ごろから西暦1050年ごろまでにあたります。 ところが意外なことに、当時の墓地に眠る人々の骨には、けがの跡が比較的少ないことが知られてきました。 荒々しい時代のは]]></description>
+            <content:encoded><![CDATA[バイキングと聞くと、船で海を渡って各地を襲う、荒々しい戦士の姿を思い浮かべる人も多いでしょう。 実際、鉄器時代からバイキング時代にかけてのスカンジナビアは、戦士を重んじる考え方が広まった時代として知られます。 時代でいえば、紀元前500年ごろから西暦1050年ごろまでにあたります。 ところが意外なことに、当時の墓地に眠る人々の骨には、けがの跡が比較的少ないことが知られてきました。 荒々しい時代のはずなのに、暴力の跡はどこに残されていたのでしょうか。 国際研究プロジェクト「BODY-POLITICS」のチームは、その答えを墓地ではなく、人々が暮らした家の中に探しました。 家の炉や床下から見つか…]]></content:encoded>
+            <category>歴史・考古学</category>
+            <category>動物</category>
+            <category>子ども</category>
+            <category>物語</category>
+            <category>遺伝子</category>
+            <enclosure length="0" type="jpg" height="1140" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c366-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[[発見] ナスカで300点超の地上絵が新発見　AIが考古学のゲームチェンジャーに (ナショナル ジオグラフィック) | 日経ビジネス電子版　最新記事]]></title>
+            <link>https://business.nikkei.com/atcl/gen/19/00292/091500556/</link>
+            <guid>https://business.nikkei.com/atcl/gen/19/00292/091500556/</guid>
+            <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+            <description><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></description>
+            <content:encoded><![CDATA[1926年に始まったナスカの地上絵の研究から100年。山形大学の研究チームはAIで新たに300点超特定。小道沿いに並ぶそれらは旅人へのメッセージだった可能性がある。]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://business.nikkei.com/atcl/gen/19/00292/091500556/fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[仕組みを掘る] 「水金地火木土天海」は太陽の死で崩れる――惑星の並びが壊れる仕組みを発見 | ナゾロジー]]></title>
+            <link>https://nazology.kusuguru.co.jp/archives/201767</link>
+            <guid>https://nazology.kusuguru.co.jp/?p=201767</guid>
+            <pubDate>Thu, 15 Oct 2026 09:00:00 GMT</pubDate>
+            <description><![CDATA[子どもの頃に覚えた「水金地火木土天海」は、大人になった今もすらすら口から出てきます。 太陽系の惑星の並びは、それほど当たり前で、動かないものに見えます。 けれども太陽にも寿命があり、いずれ外側のガスを宇宙へ吐き出して、小さな燃えかすの星になります。 そのとき、木星・土星・天王星・海王星という外側の4つの惑星はどうなるのでしょうか。 これまでは、太陽が死んだあとも、4つの惑星は途方もなく長いあいだ無]]></description>
+            <content:encoded><![CDATA[子どもの頃に覚えた「水金地火木土天海」は、大人になった今もすらすら口から出てきます。 太陽系の惑星の並びは、それほど当たり前で、動かないものに見えます。 けれども太陽にも寿命があり、いずれ外側のガスを宇宙へ吐き出して、小さな燃えかすの星になります。 そのとき、木星・土星・天王星・海王星という外側の4つの惑星はどうなるのでしょうか。 これまでは、太陽が死んだあとも、4つの惑星は途方もなく長いあいだ無事だと計算されてきました。 ところが新しい研究は、その計算が、ある前提に寄りかかっていたと指摘しています。 太陽の最期に、外側の惑星たちに何が起きうるのかを見ていきます。 研究の詳細は、2026年9…]]></content:encoded>
+            <category>宇宙</category>
+            <category>土星</category>
+            <category>太陽</category>
+            <category>惑星</category>
+            <category>海王星</category>
+            <enclosure length="0" type="jpg" height="1331" url="https://nazology.kusuguru.co.jp/wp-content/uploads/2026/10/c426-fig-thumb.jpg" width="1600"/>
+        </item>
+        <item>
+            <title><![CDATA[Designing more efficient quantum circuits with Claude | Anthropic Research]]></title>
+            <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+            <guid>https://www.anthropic.com/research/designing-efficient-quantum-circuits</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.]]></description>
+            <content:encoded><![CDATA[Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.]]></content:encoded>
+            <category>Research</category>
+            <category>ai</category>
+            <category>research</category>
+            <enclosure length="0" type="jpg" url="https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg" alt="Anthropic logo"/>
+        </item>
+        <item>
+            <title><![CDATA[プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート） | LINEヤフー Tech Blog (LY Corporation Tech Blog]]></title>
+            <link>https://techblog.lycorp.co.jp/ja/20261014b</link>
+            <guid>https://techblog.lycorp.co.jp/ja/20261014b</guid>
+            <pubDate>Wed, 14 Oct 2026 02:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...]]></description>
+            <content:encoded><![CDATA[こんにちは。慶應義塾大学大学院工学研究科人間・社会システム情報科学専攻の菱田快成です。私はIaaSチームのインターン生としてプライベートクラウド「Flava」におけるOpenStackを中心とした仮想...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://techblog.lycorp.co.jp/static/237730efa405092c2e0df3edc5fb2865/7d66e/201ed0fcc6ef4110a1df4c7ab5ed194b.png"/>
+        </item>
+        <item>
+            <title><![CDATA[表形式データ向け基盤モデルNVIDIA Kumo Tabularの紹介 | 松尾研究所テックブログのフィード]]></title>
+            <link>https://zenn.dev/mkj/articles/eacf1f9635d3ae</link>
+            <guid>https://zenn.dev/mkj/articles/eacf1f9635d3ae</guid>
+            <pubDate>Wed, 14 Oct 2026 02:50:05 GMT</pubDate>
+            <description><![CDATA[はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより]]></description>
+            <content:encoded><![CDATA[はじめにこんにちは、松尾研究所の鈴木明作です！2026年9月にNVIDIAから公開された、高性能な表形式データ向け基盤モデル（事前学習済みモデル）であるKumo Tabularについて紹介します。 TL;DRNVIDIAから表形式基盤モデルのKumo Tabularが公開され、複数の表形式データ向けベンチマークにて1位を獲得しました。表形式データにおけるIn-context Learningにより、モデル更新を伴う再学習はせずに推論が可能です。商用利用可能ライセンスな表形式データ基盤モデルです。 Kumo TabularとはKumo Tabularは、Tran...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--Di4y3Sd6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A1%25A8%25E5%25BD%25A2%25E5%25BC%258F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2590%2591%25E3%2581%2591%25E5%259F%25BA%25E7%259B%25A4%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25ABNVIDIA%2520Kumo%2520Tabular%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Mujirushi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwMmFhZWU4MWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"/>
+        </item>
+        <item>
+            <title><![CDATA[プレスリリースから紐解く｜リサーチエバンジェリストによる富士通研究所TECH UPDATE✨（FY26-2Q＋α） | fltech - 富士通研究所の技術ブログ]]></title>
+            <link>https://blog.fltech.dev/entry/2026/10/12/evangelist-blog-post-ja</link>
+            <guid>https://blog.fltech.dev/entry/2026/10/12/evangelist-blog-post-ja</guid>
+            <pubDate>Mon, 12 Oct 2026 21:30:00 GMT</pubDate>
+            <description><![CDATA[富士通のテクノロジーのプレスリリースで研究所が対外的にお知らせしたホットトピックスを俯瞰し、要点をリサーチエバンジェリストの視点からお届け。 今回の内容は、量子のいろいろな話題、CPUの話題と、CEATEC予告です。]]></description>
+            <content:encoded><![CDATA[富士通のテクノロジーのプレスリリースで研究所が対外的にお知らせしたホットトピックスを俯瞰し、要点をリサーチエバンジェリストの視点からお届け。 今回の内容は、量子のいろいろな話題、CPUの話題と、CEATEC予告です。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/7e744e5193b6a7ee8bfd9ec7ba0acd5bac1c8547/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261013%2F20261013063034.png" alt="プレスリリースから紐解く｜リサーチエバンジェリストによる富士通研究所TECH UPDATE✨（FY26-2Q＋α） - fltech - 富士通研究所の技術ブログ"/>
+        </item>
+        <item>
+            <title><![CDATA[オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました | fltech - 富士通研究所の技術ブログ]]></title>
+            <link>https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/</link>
+            <guid>https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。]]></description>
+            <content:encoded><![CDATA[こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。]]></content:encoded>
+            <enclosure length="0" type="png" url="https://cdn.image.st-hatena.com/image/scale/c2ad92dd5e61b58cc5a503cf6d4be760ab151bff/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261014%2F20261014090013.png" alt="オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました - fltech - 富士通研究所の技術ブログ"/>
+        </item>
+    </channel>
+</rss>

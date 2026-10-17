@@ -1,0 +1,1127 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (Headlines)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/headlines.json",
+    "description": "HN・ITmedia速報など",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=50133401",
+            "content_html": "Article URL: https://twitter.com/opencode/status/2111516673953935833Comments URL: https://news.ycombinator.com/item?id=50133401Points: 15# Comments: 0",
+            "url": "https://twitter.com/opencode/status/2111516673953935833",
+            "title": "03:01 OpenCode Hacked: User credentials leaked (twitter.com · ↑15 · 0 comments)",
+            "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833Comments URL",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://jf.x.com/images/post/2111516673953935833.png",
+                "width": "1200"
+            },
+            "date_modified": "2026-10-17T18:01:41.000Z",
+            "date_published": "2026-10-17T18:01:41.000Z",
+            "author": {
+                "name": "pranshuchittora"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenCode Hacked: User credentials leaked",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://twitter.com/favicon.ico",
+                "pickReason": "HN 15pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "twitter.com",
+                "score": 1.812,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 15pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132950",
+            "content_html": "Linus Torvalds released the 7.2 kernel on August 17, after noting that the number of fixes comi [...]",
+            "url": "https://lwn.net/Articles/1088776/",
+            "title": "02:14 Development statistics for the 7.2 kernel (lwn.net · ↑52 · 19 comments)",
+            "summary": "Linus Torvalds released the 7.2 kernel on August 17, after noting that the numbe",
+            "image": {
+                "url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+                "type": "webp"
+            },
+            "date_modified": "2026-10-17T17:14:12.000Z",
+            "date_published": "2026-10-17T17:14:12.000Z",
+            "author": {
+                "name": "farlight"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Development statistics for the 7.2 kernel",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://static.lwn.net/images/favicon.png",
+                "pickReason": "HN 52pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "lwn.net",
+                "score": 3.014,
+                "topics": [
+                    "engineering"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤"
+                ],
+                "signals": [
+                    "HN 52pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132911",
+            "content_html": "TypeScript written in TypeScript. Contribute to vercel-labs/tsc-ts development by creating an account on GitHub.",
+            "url": "https://github.com/vercel-labs/tsc-ts",
+            "title": "02:10 tsc-ts: TypeScript written in TypeScript (github.com · ↑6 · 3 comments)",
+            "summary": "TypeScript written in TypeScript. Contribute to vercel-labs/tsc-ts development b",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/e92df215e49c2db285a26fde8d661035746fd50ffbe7832762ac625ec876884f/vercel-labs/tsc-ts",
+                "width": "1200",
+                "alt": "TypeScript written in TypeScript. Contribute to vercel-labs/tsc-ts development by creating an account on GitHub."
+            },
+            "date_modified": "2026-10-17T17:10:27.000Z",
+            "date_published": "2026-10-17T17:10:27.000Z",
+            "author": {
+                "name": "tosh"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "tsc-ts: TypeScript written in TypeScript",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "HN 6pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "github.com",
+                "score": 1.719,
+                "topics": [
+                    "frontend"
+                ],
+                "topicLabels": [
+                    "フロントエンド・デザイン"
+                ],
+                "signals": [
+                    "HN 6pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132839",
+            "content_html": "Join Artie to build the real-time data platform teams trust for reliable, low-latency replication.",
+            "url": "https://www.artie.com/careers",
+            "title": "02:02 Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers (artie.com · ↑0 · 0 comments)",
+            "summary": "Join Artie to build the real-time data platform teams trust for reliable, low-la",
+            "image": {
+                "height": "630",
+                "url": "https://www.artie.com/opengraph-image.png",
+                "width": "1200",
+                "alt": "Artie",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T17:02:50.000Z",
+            "date_published": "2026-10-17T17:02:50.000Z",
+            "author": {
+                "name": "j-cheong"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.artie.com/app-icon.svg",
+                "pickReason": "",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "artie.com",
+                "score": 0.623,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132502",
+            "content_html": "The company flagged two new incidents as “critical,” yet did not discover or disclose them until months later.",
+            "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+            "title": "01:31 OpenAI discloses four more rogue incidents (fortune.com · ↑72 · 41 comments)",
+            "summary": "The company flagged two new incidents as “critical,” yet did not discover or dis",
+            "image": {
+                "height": "600",
+                "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?resize=1200,600",
+                "width": "1200",
+                "alt": "Open AI CEO Sam Altman",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T16:31:12.000Z",
+            "date_published": "2026-10-17T16:31:12.000Z",
+            "author": {
+                "name": "DASD"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAI discloses four more rogue incidents",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://fortune.com/assets/favicon.ico",
+                "pickReason": "HN 72pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "fortune.com",
+                "score": 3.183,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 72pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132328",
+            "content_html": "A new study provides the first clinical evidence that popular semaglutide drugs, like Ozempic or Wegovy, could slow down processes associated with biological aging.",
+            "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+            "title": "01:10 GLP-1 may slow biological aging (universityofcalifornia.edu · ↑129 · 110 comments)",
+            "summary": "A new study provides the first clinical evidence that popular semaglutide drugs,",
+            "image": {
+                "height": "628",
+                "url": "https://www.universityofcalifornia.edu/sites/default/files/uc-san-diego-glp-1.jpg",
+                "width": "1200",
+                "alt": "A set of three blue GLP-1 pens",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T16:10:21.000Z",
+            "date_published": "2026-10-17T16:10:21.000Z",
+            "author": {
+                "name": "dzink"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GLP-1 may slow biological aging",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.universityofcalifornia.edu/sites/default/files/favicon.ico",
+                "pickReason": "HN 129pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "universityofcalifornia.edu",
+                "score": 2.832,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 129pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132278",
+            "content_html": "Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model",
+            "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+            "title": "01:04 Amazon uses AI to monitor union risk in UK warehouses (opendemocracy.net · ↑99 · 35 comments)",
+            "summary": "Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘un",
+            "image": {
+                "height": "675",
+                "url": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
+                "width": "1200",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T16:04:23.000Z",
+            "date_published": "2026-10-17T16:04:23.000Z",
+            "author": {
+                "name": "DeepLogin"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon uses AI to monitor union risk in UK warehouses",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w256h256/format/png/2026/03/multi_solo.svg",
+                "pickReason": "HN 99pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "opendemocracy.net",
+                "score": 3.362,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 99pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50132193",
+            "content_html": "Pele is a lightweight library that renders Mermaid diagrams to SVG, themed with CSS variables.",
+            "url": "https://pele.run/",
+            "title": "00:55 Pele – Mermaid diagrams as themeable SVG (pele.run · ↑10 · 1 comments)",
+            "summary": "Pele is a lightweight library that renders Mermaid diagrams to SVG, themed with ",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://pele.run/social.png",
+                "width": "1200"
+            },
+            "date_modified": "2026-10-17T15:55:09.000Z",
+            "date_published": "2026-10-17T15:55:09.000Z",
+            "author": {
+                "name": "dchest"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Pele – Mermaid diagrams as themeable SVG",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://pele.run/favicon.ico",
+                "pickReason": "HN 10pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "pele.run",
+                "score": 1.556,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 10pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50131256",
+            "content_html": "Solar and wind are increasingly outpacing nuclear power globally, with solar generation surpassing nuclear for the first time in 2025, according to WNISR 2026. The report highlights nuclear’s slow growth, lengthy construction timelines and limited small modular reactor deployment, contrasting them with rapid renewables and battery expansion.",
+            "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+            "title": "23:01 Solar surpasses nuclear power globally for first time (pv-magazine.com · ↑290 · 167 comments)",
+            "summary": "Solar and wind are increasingly outpacing nuclear power globally, with solar gen",
+            "image": {
+                "url": "https://www.pv-magazine.com/wp-content/uploads/2026/09/hans-ott-4e4ZKnPbZAI-unsplash-scaled.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T14:01:01.000Z",
+            "date_published": "2026-10-17T14:01:01.000Z",
+            "author": {
+                "name": "xbmcuser"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Solar surpasses nuclear power globally for first time",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.pv-magazine.com/wp-content/themes/pvmagazine-international/resources/favicons/favicon.ico",
+                "pickReason": "HN 290pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "pv-magazine.com",
+                "score": 3.125,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 290pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50131213",
+            "content_html": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-usingComments URL: https://news.ycombinator.com/item?id=50131213Points: 159# Comments: 48",
+            "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+            "title": "22:55 Making chicken transparent using Dorito dust (chillphysicsenjoyer.substack.com · ↑159 · 48 comments)",
+            "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transpare",
+            "date_modified": "2026-10-17T13:55:28.000Z",
+            "date_published": "2026-10-17T13:55:28.000Z",
+            "author": {
+                "name": "crescit_eundo"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Making chicken transparent using Dorito dust",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "HN 159pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "chillphysicsenjoyer.substack.com",
+                "score": 2.817,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 159pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50131189",
+            "content_html": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription. - mikroverk/esp32sim",
+            "url": "https://github.com/mikroverk/esp32sim",
+            "title": "22:51 Show HN: Esp32sim – Run ESP32 firmware in the browser (github.com · ↑54 · 9 comments)",
+            "summary": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no ha",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/db27cf6dcc1992dfbaefb57facb330e43702e2954401a5ef61d6bc3c0710fb56/mikroverk/esp32sim",
+                "width": "1200",
+                "alt": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription. - mikroverk/esp32sim"
+            },
+            "date_modified": "2026-10-17T13:51:08.000Z",
+            "date_published": "2026-10-17T13:51:08.000Z",
+            "author": {
+                "name": "joakimeriksson"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "HN 54pt · 作ってみた",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "github.com",
+                "score": 3.157,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 54pt",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50131006",
+            "content_html": "A live duck pond: a small flock of mallards, every call synthesized as it happens and heard from where you stand on the bank.",
+            "url": "https://celphase.github.io/duck-pond/",
+            "title": "22:28 Show HN: High-quality duck audio synthesizer (celphase.github.io · ↑13 · 1 comments)",
+            "summary": "A live duck pond: a small flock of mallards, every call synthesized as it happen",
+            "date_modified": "2026-10-17T13:28:46.000Z",
+            "date_published": "2026-10-17T13:28:46.000Z",
+            "author": {
+                "name": "celphase"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Show HN: High-quality duck audio synthesizer",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%234f8db3'/%3E%3Cellipse cx='14' cy='19' rx='9' ry='5.5' fill='%23f5c84c'/%3E%3Ccircle cx='21' cy='12' r='4.5' fill='%23f5c84c'/%3E%3Cellipse cx='26' cy='12.5' rx='3' ry='1.6' fill='%23e8893a'/%3E%3C/svg%3E",
+                "pickReason": "HN 13pt · 作ってみた",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "celphase.github.io",
+                "score": 2.47,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 13pt",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50129947",
+            "content_html": "You can see the locations of known outdoor surveillance cameras in the MapQuest app.",
+            "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+            "title": "19:59 MapQuest will now show you where Flock cameras are in your neighborhood (engadget.com · ↑198 · 28 comments)",
+            "summary": "You can see the locations of known outdoor surveillance cameras in the MapQuest ",
+            "image": {
+                "url": "https://www.engadget.com/img/gallery/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/l-intro-1792159874.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T10:59:31.000Z",
+            "date_published": "2026-10-17T10:59:31.000Z",
+            "author": {
+                "name": "bookofjoe"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MapQuest will now show you where Flock cameras are in your neighborhood",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.engadget.com/img/engadget-favicon.png",
+                "pickReason": "HN 198pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "engadget.com",
+                "score": 2.767,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 198pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50129274",
+            "content_html": "Prooidieren op de Veluwe zoals wilde zwijnen en herten hebben hun gedrag aangepast op de wolf. Dat zeggen boswachters en faunabeheerders. Het blijkt ook uit unieke beelden van Natuurmonumenten.",
+            "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+            "title": "18:08 \"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands (nos.nl · ↑45 · 78 comments)",
+            "summary": "Prooidieren op de Veluwe zoals wilde zwijnen en herten hebben hun gedrag aangepa",
+            "image": {
+                "height": "630",
+                "url": "https://images.cdn.nos.nl/8/D/r/i/A/6/kQCcBd57XxHrCbV5XHmAcMEM73p9GiE5Twz91hH/3x2x1344x756-1024x576.webp",
+                "width": "1200",
+                "type": "webp"
+            },
+            "date_modified": "2026-10-17T09:08:16.000Z",
+            "date_published": "2026-10-17T09:08:16.000Z",
+            "author": {
+                "name": "felipevb"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://static.nos.nl/img/favicon/favicon.ico",
+                "pickReason": "HN 45pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "nos.nl",
+                "score": 1.999,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 45pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50129045",
+            "content_html": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "title": "17:21 DeepSeek-v4.1-Flash-1017 (huggingface.co · ↑476 · 464 comments)",
+            "summary": "We’re on a journey to advance and democratize artificial intelligence through op",
+            "image": {
+                "url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T08:21:25.000Z",
+            "date_published": "2026-10-17T08:21:25.000Z",
+            "author": {
+                "name": "theykk"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeepSeek-v4.1-Flash-1017",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "pickReason": "HN 476pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "huggingface.co",
+                "score": 3.785,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 476pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50127979",
+            "content_html": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+            "url": "https://llmspeed.dev/",
+            "title": "13:36 Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware (llmspeed.dev · ↑207 · 66 comments)",
+            "summary": "Pick hardware and a model, and feel the real speed of a local LLM before you buy",
+            "image": {
+                "height": "630",
+                "url": "https://llmspeed.dev/og.png",
+                "width": "1200",
+                "type": "png"
+            },
+            "date_modified": "2026-10-17T04:36:53.000Z",
+            "date_published": "2026-10-17T04:36:53.000Z",
+            "author": {
+                "name": "albinstman"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%E2%9A%A1</text></svg>",
+                "pickReason": "HN 207pt · 作ってみた",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "llmspeed.dev",
+                "score": 4.002,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 207pt",
+                    "作ってみた"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+            "content_html": "駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分の個人情報が漏えい。うち約160万アカウント分には、本人確認書類の画像も含まれていた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+            "title": "10:16 タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け (itmedia.co.jp)",
+            "summary": "駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002346/10009642/2048"
+            },
+            "date_modified": "2026-10-17T01:16:08.000Z",
+            "date_published": "2026-10-17T01:16:08.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 167,
+                "originalTitle": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ167",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.976,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ167"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+            "content_html": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+            "title": "09:32 BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も (itmedia.co.jp)",
+            "summary": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/17/2000002349/10009678/2048"
+            },
+            "date_modified": "2026-10-17T00:32:41.000Z",
+            "date_published": "2026-10-17T00:32:41.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 181,
+                "originalTitle": "BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ181",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.988,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ181"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50122878",
+            "content_html": "Every layer is a memory store",
+            "url": "https://alexwang.ai/posts/associative-memory/",
+            "title": "04:01 You could have invented transformers from memory (alexwang.ai · ↑429 · 101 comments)",
+            "summary": "Every layer is a memory store",
+            "image": {
+                "height": "630",
+                "url": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
+                "width": "1200",
+                "alt": "You could have invented transformers from memory, beside an ink painting of a kea on a bamboo branch",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T19:01:17.000Z",
+            "date_published": "2026-10-16T19:01:17.000Z",
+            "author": {
+                "name": "speckx"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "You could have invented transformers from memory",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://alexwang.ai/favicon-32x32.png",
+                "pickReason": "HN 429pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "alexwang.ai",
+                "score": 2.882,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 429pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50122431",
+            "content_html": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
+            "url": "https://github.com/cobanov/PS5LM",
+            "title": "03:32 Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console (github.com · ↑353 · 83 comments)",
+            "summary": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, start",
+            "image": {
+                "height": "600",
+                "url": "https://opengraph.githubassets.com/15af5613b97e963563864ba47a494e301362a209c9ceec5fe75c1d9ccffaa432/cobanov/PS5LM",
+                "width": "1200",
+                "alt": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM"
+            },
+            "date_modified": "2026-10-16T18:32:35.000Z",
+            "date_published": "2026-10-16T18:32:35.000Z",
+            "author": {
+                "name": "Anon84"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://github.githubassets.com/favicons/favicon.svg",
+                "pickReason": "HN 353pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "github.com",
+                "score": 2.771,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "HN 353pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50121506",
+            "content_html": "In 1838, Louis Daguerre snapped a photo of a Parisian street, empty but for a shoeshine boy and his client. Now that some sleuths have zeroed in on the location, the city is marking it with a plaque.",
+            "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+            "title": "02:28 The First Candid (newyorker.com · ↑36 · 8 comments)",
+            "summary": "In 1838, Louis Daguerre snapped a photo of a Parisian street, empty but for a sh",
+            "image": {
+                "url": "https://media.newyorker.com/photos/6ac94ba3716b9710c48f9baa/16:9/w_1280,c_limit/r50486.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T17:28:19.000Z",
+            "date_published": "2026-10-16T17:28:19.000Z",
+            "author": {
+                "name": "Thevet"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The First Candid",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+                "pickReason": "HN 36pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "newyorker.com",
+                "score": 1.405,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 36pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=50119751",
+            "content_html": "Analyzing Eufy Security Ecosystem and reverse engineering of its Homebase2 component",
+            "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+            "title": "00:38 A story of WiFi secrets, UART lockdowns and a damaged flash memory chip (adepts.of0x.cc · ↑75 · 5 comments)",
+            "summary": "Analyzing Eufy Security Ecosystem and reverse engineering of its Homebase2 compo",
+            "image": {
+                "height": "640",
+                "url": "https://adepts.of0x.cc/assets/img/ogp.png",
+                "width": "640",
+                "type": "png"
+            },
+            "date_modified": "2026-10-16T15:38:28.000Z",
+            "date_published": "2026-10-16T15:38:28.000Z",
+            "author": {
+                "name": "michidk"
+            },
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+                "blogTitle": "Hacker News: Front Page",
+                "blogLink": "https://news.ycombinator.com/",
+                "blogLinkMd5Hash": "cbc580718eb38c03483c4d7616fb220d",
+                "favicon": "https://adepts.of0x.cc/assets/favicons/favicon-32x32.png",
+                "pickReason": "HN 75pt",
+                "sourceTier": "signal",
+                "sourceLabel": "Hacker News",
+                "host": "adepts.of0x.cc",
+                "score": 1.59,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "HN 75pt"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+            "content_html": "対象は、アカウント情報のほか、フォームに送信された内容や外部サービスのAPIキーなど広範囲にわたる。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+            "title": "14:41 人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども (itmedia.co.jp)",
+            "summary": "対象は、アカウント情報のほか、フォームに送信された内容や外部サービスのAPIキーなど広範囲にわたる。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002332/10009590/2048"
+            },
+            "date_modified": "2026-10-16T05:41:39.000Z",
+            "date_published": "2026-10-16T05:41:39.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 77,
+                "originalTitle": "人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ77",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.093,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ77"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+            "content_html": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI」は、社内の数万人のソフトウェアエンジニアを対象に、コマンドライン上で動くAIコーディングツール（Anthropicの「Claude Code」やGitHubの「Copilot CLI」）の利用状況と、それが生産性に与える影響について調査した研究報告だ。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+            "title": "12:00 Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる (itmedia.co.jp)",
+            "summary": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents:",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002277/10009372/2048"
+            },
+            "date_modified": "2026-10-16T03:00:00.000Z",
+            "date_published": "2026-10-16T03:00:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 12,
+                "originalTitle": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ12",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.206,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ12"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
+            "content_html": "Teslaは、次世代EVスポーツカー「Roadster」を発表した。2028年の生産開始を目指し国内予約も受付中だ。路面に吸い付く吸引システムやSpaceXの冷ガススラスター技術を搭載し、最上位モデルでは空中浮上やロール回転、0-60mph加速0.59秒未満を実演した。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
+            "title": "11:46 Tesla、新型「Roadster」発表　SpaceX技術で“飛べる”モデルも　日本でも予約受付中 (itmedia.co.jp)",
+            "summary": "Teslaは、次世代EVスポーツカー「Roadster」を発表した。2028年の生産開始を目指し国内予約も受付中だ。路面に吸い付く吸引システムやSpaceXの冷",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002323/10009561/2048"
+            },
+            "date_modified": "2026-10-16T02:46:00.000Z",
+            "date_published": "2026-10-16T02:46:00.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 132,
+                "originalTitle": "Tesla、新型「Roadster」発表　SpaceX技術で“飛べる”モデルも　日本でも予約受付中",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ132",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.561,
+                "topics": [],
+                "topicLabels": [],
+                "signals": [
+                    "はてブ132"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+            "content_html": "「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+            "title": "11:12 「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性 (itmedia.co.jp)",
+            "summary": "「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002314/10009522/2048"
+            },
+            "date_modified": "2026-10-16T02:12:50.000Z",
+            "date_published": "2026-10-16T02:12:50.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 171,
+                "originalTitle": "「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ171",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.275,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ171"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002316/",
+            "content_html": "Amazonは、傘下BeeブランドのAIデバイス2機種を発表した。手首や衣服に着ける「Bee Frontier」とスマホ背面に貼る「Bee Eclipse」で、会話の要約やToDo作成を行う。「Alexa+」やAmazon.comとも連携し、音声や要約はNitro基盤の暗号化環境で保護される。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002316/",
+            "title": "10:27 Amazon、Beeの新AIデバイス2機種発表　リストバンド型とスマホ装着型、会話を要約し「Alexa+」と連携 (itmedia.co.jp)",
+            "summary": "Amazonは、傘下BeeブランドのAIデバイス2機種を発表した。手首や衣服に着ける「Bee Frontier」とスマホ背面に貼る「Bee Eclipse」で、",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002316/10009529/2048"
+            },
+            "date_modified": "2026-10-16T01:27:57.000Z",
+            "date_published": "2026-10-16T01:27:57.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 10,
+                "originalTitle": "Amazon、Beeの新AIデバイス2機種発表　リストバンド型とスマホ装着型、会話を要約し「Alexa+」と連携",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ10",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.119,
+                "topics": [
+                    "ai"
+                ],
+                "topicLabels": [
+                    "AI・LLM"
+                ],
+                "signals": [
+                    "はてブ10"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+            "content_html": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+            "title": "09:49 Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし (itmedia.co.jp)",
+            "summary": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002315/10009521/2048"
+            },
+            "date_modified": "2026-10-16T00:49:28.000Z",
+            "date_published": "2026-10-16T00:49:28.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 14,
+                "originalTitle": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ14",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.201,
+                "topics": [
+                    "ai",
+                    "org"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "組織・マネジメント・QA"
+                ],
+                "signals": [
+                    "はてブ14"
+                ],
+                "penalties": []
+            }
+        }
+    ]
+}

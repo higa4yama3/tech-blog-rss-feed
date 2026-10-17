@@ -1,0 +1,437 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (セキュリティ)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-security.json",
+    "description": "セキュリティの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+            "content_html": "工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...",
+            "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+            "title": "[はてブ74] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...",
+            "image": {
+                "url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1ZFLTIwMjYtOTk5OTklRUYlQkMlODhQd25Fc2NhcGUlRUYlQkMlODklRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYlRTIlOTQlODAlRTIlOTQlODAlRTMlODAlOENLVk0lRTMlODElQUUlRTglODQlODYlRTUlQkMlQjElRTYlODAlQTclRTMlODAlOEQlRTMlODElQTclRTMlODElQUYlRTMlODElQUElRTMlODElOEYlRTMlODAlODFMaW51eCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MiVCRiVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU1ZGE2Y2FlZjg3NDgwOTVjOGQzMWMyZjUzZTdhMmZj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrMl9uYWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGQ4YmUxZDIyNWZkNWM3NGY0ZTRhN2M1Yjk0ZTQyNTI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=11c9e17e92010cab6c91bcd954d23cc1"
+            },
+            "date_modified": "2026-10-16T17:16:58.000Z",
+            "date_published": "2026-10-16T17:16:58.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 74,
+                "originalTitle": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+                "pickReason": "はてブ74 · 仕組みを掘る",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "qiita.com",
+                "score": 3.183,
+                "topics": [
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ74",
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+            "content_html": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+            "title": "[はてブ181] BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "約2335万6000人分の情報が漏えいしたと公表した。うち約209万6900人分には、カード名義、カード番号の一部（先頭6桁と下4桁）、有効期限が含まれていた。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/17/2000002349/10009678/2048"
+            },
+            "date_modified": "2026-10-17T00:57:57.000Z",
+            "date_published": "2026-10-17T00:57:57.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 181,
+                "originalTitle": "BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "pickReason": "はてブ181",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "itmedia.co.jp",
+                "score": 2.255,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ181"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+            "content_html": "駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分の個人情報が漏えい。うち約160万アカウント分には、本人確認書類の画像も含まれていた。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+            "title": "[はてブ167] タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け | ITmedia NEWS 最新記事一覧",
+            "summary": "駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660万アカウント分の個人情報が漏えい。うち約160万アカウント分には、本人確認書類の画像も含まれて",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002346/10009642/2048"
+            },
+            "date_modified": "2026-10-17T01:16:08.000Z",
+            "date_published": "2026-10-17T01:16:08.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 167,
+                "originalTitle": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ167",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.976,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ167"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+            "content_html": "「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+            "title": "[はてブ171] 「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性 | ITmedia NEWS 最新記事一覧",
+            "summary": "「ドコモメールに、楽天カードや楽天銀行の認証マーク付きの詐欺メールが届いた」といった報告がXで相次いでいる。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002314/10009522/2048"
+            },
+            "date_modified": "2026-10-16T02:12:50.000Z",
+            "date_published": "2026-10-16T02:12:50.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 171,
+                "originalTitle": "「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ171",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.275,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ171"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
+            "content_html": " データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。",
+            "url": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
+            "title": "[はてブ114] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 | 窓の杜",
+            "summary": " データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。",
+            "image": {
+                "url": "https://forest.watch.impress.co.jp/img/wf/list/2148/495/curl.png",
+                "type": "png"
+            },
+            "date_modified": "2026-10-15T11:45:00.000Z",
+            "date_published": "2026-10-15T11:45:00.000Z",
+            "author": {
+                "name": "長谷川 正太郎"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 114,
+                "originalTitle": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
+                "blogTitle": "窓の杜",
+                "blogLink": "https://forest.watch.impress.co.jp",
+                "blogLinkMd5Hash": "915b0623aab5c538719b232fd246923a",
+                "pickReason": "はてブ114",
+                "sourceTier": "media",
+                "sourceLabel": "窓の杜",
+                "host": "forest.watch.impress.co.jp",
+                "score": 1.248,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ114"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+            "content_html": "対象は、アカウント情報のほか、フォームに送信された内容や外部サービスのAPIキーなど広範囲にわたる。",
+            "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+            "title": "[はてブ77] 人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども | ITmedia NEWS 最新記事一覧",
+            "summary": "対象は、アカウント情報のほか、フォームに送信された内容や外部サービスのAPIキーなど広範囲にわたる。",
+            "image": {
+                "url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002332/10009590/2048"
+            },
+            "date_modified": "2026-10-16T05:41:39.000Z",
+            "date_published": "2026-10-16T05:41:39.000Z",
+            "tags": [
+                "news"
+            ],
+            "_custom": {
+                "hatenaCount": 77,
+                "originalTitle": "人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども",
+                "blogTitle": "ITmedia NEWS 最新記事一覧",
+                "blogLink": "https://www.itmedia.co.jp/news/",
+                "blogLinkMd5Hash": "28fc3e4f8ac53caaff771c6c089a38dc",
+                "pickReason": "はてブ77",
+                "sourceTier": "signal",
+                "sourceLabel": "ITmedia NEWS",
+                "host": "itmedia.co.jp",
+                "score": 1.093,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [
+                    "はてブ77"
+                ],
+                "penalties": [
+                    "事件・事故"
+                ]
+            }
+        },
+        {
+            "id": "https://buildersbox.corp-sansan.com/entry/2026/10/15/101500",
+            "content_html": "技術本部Platform Engineering Unit Identity Platformグループの都筑です。 弊社が提供する経理AXサービス「Bill One」や契約AXサービス「Contract One」といったプロダクトが利用する共通認証基盤「Auth One」の開発と運用に携わっています。 Auth OneではDependabotやRenovateを利用して依存関係を自動アップデートするPRを作成し、CIでのテストやレビューが通ったらマージし、E2Eテストや動作確認を実施し本番反映するリリースフローとなっています。 先日、Go 1.26.6へのバージョンアップを実施したところ、社内…",
+            "url": "https://buildersbox.corp-sansan.com/entry/2026/10/15/101500",
+            "title": "Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する | Sansan Tech Blog",
+            "summary": "技術本部Platform Engineering Unit Identity Platformグループの都筑です。 弊社が提供する経理AXサービス「Bill One」や契約AXサービス「Contract One」といったプロダクトが利用する共通認証基盤「Auth One」の開発と運用に携わっています。 Auth OneではDependabotやRenovateを利用して依存関係を自動アップデートす",
+            "image": {
+                "url": "https://ogimage.blog.st-hatena.com/10257846132608666252/14945776032078063576/1792026924",
+                "alt": "Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する - Sansan Tech Blog"
+            },
+            "date_modified": "2026-10-15T01:15:00.000Z",
+            "date_published": "2026-10-15T01:15:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "Go 1.26.6へのバージョンアップでnet/httpのバグを踏んで稀に502エラーを発生させた原因をちゃんと理解する",
+                "blogTitle": "Sansan Tech Blog",
+                "blogLink": "https://buildersbox.corp-sansan.com/",
+                "blogLinkMd5Hash": "025b863e78d00c06903db6b06a57c7af",
+                "favicon": "https://buildersbox.corp-sansan.com/icon/favicon",
+                "pickReason": "セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "Sansan",
+                "host": "buildersbox.corp-sansan.com",
+                "score": 0.556,
+                "topics": [
+                    "security"
+                ],
+                "topicLabels": [
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://techblog.lycorp.co.jp/ja/20261015d",
+            "content_html": "こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;D）チームです。この記事は...",
+            "url": "https://techblog.lycorp.co.jp/ja/20261015d",
+            "title": "セキュリティ業務向けAIエージェント基盤「SAGE」の開発記 第1弾：判断は人間に委ねる設計 | LINEヤフー Tech Blog (LY Corporation Tech Blog",
+            "summary": "こんにちは。社内のセキュリティ業務にAIを取り入れる業務を担当している、Security Development Division（LINE Plus Security R&amp;D）チームです。この記事は...",
+            "image": {
+                "url": "https://techblog.lycorp.co.jp/static/22d816fbe979d642323ad6bccd50db07/f0810/40906f3d1e18410baa6e09ca40a89b22.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T02:00:00.000Z",
+            "date_published": "2026-10-15T02:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "セキュリティ業務向けAIエージェント基盤「SAGE」の開発記 第1弾：判断は人間に委ねる設計",
+                "blogTitle": "LINEヤフー Tech Blog (LY Corporation Tech Blog",
+                "blogLink": "https://techblog.lycorp.co.jp",
+                "blogLinkMd5Hash": "2033d34df23e070727b99afb2affb632",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "LINEヤフー",
+                "host": "techblog.lycorp.co.jp",
+                "score": 0.289,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.g-gen.co.jp/entry/wiz-explained",
+            "content_html": "G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Google Cloud との連携 主要製品 製品構成 Wiz Code Wiz Cloud Wiz Defend 機能と製品のマッピング 概要 Wiz Code の機能 Wiz Cloud の機能 Wiz D…",
+            "url": "https://blog.g-gen.co.jp/entry/wiz-explained",
+            "title": "Wizの全体像と主要機能を解説 | G-gen Tech Blog",
+            "summary": "G-gen の武井です。当記事では、Google Cloud に加わった Wiz について、製品構成や主要機能から、AI エージェント、導入の流れまでを解説します。 はじめに Wiz とは Google Cloud への参画 Security Command Center との関係 Wiz の全体像 プラットフォームの位置づけ エージェントレス接続 Wiz Security Graph Googl",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/0b0bb56667ae543dea84badf807fee0ac9cfe93c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20261014%2F20261014090020.png",
+                "alt": "Wizの全体像と主要機能を解説 - G-gen Tech Blog",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T00:00:00.000Z",
+            "date_published": "2026-10-14T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Wizの全体像と主要機能を解説",
+                "blogTitle": "G-gen Tech Blog",
+                "blogLink": "https://blog.g-gen.co.jp/",
+                "blogLinkMd5Hash": "230ab7b9a5a27518e424f87bdfd258e8",
+                "favicon": "https://blog.g-gen.co.jp/icon/favicon",
+                "pickReason": "AI・LLM · 設計・SRE・基盤 · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "g-gen",
+                "host": "blog.g-gen.co.jp",
+                "score": 0.175,
+                "topics": [
+                    "ai",
+                    "engineering",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "設計・SRE・基盤",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.fltech.dev/entry/2026/10/13/badengram",
+            "content_html": "私たちは、Fujitsu Research of EuropeのAIセキュリティ研究チームです。Pillar Securityとの共同研究を通じて、オープンウェイト言語モデルで採用が進む新しいコンポーネント「ゲート付きパラメトリックメモリ」に潜む、新たな攻撃面を発見しました。",
+            "url": "https://blog.fltech.dev/entry/2026/10/13/badengram",
+            "title": "そのAIモデル、本当に安全ですか？ オープンウェイトAIのサプライチェーンに潜む新たなリスク「BadEngram」 | fltech - 富士通研究所の技術ブログ",
+            "summary": "私たちは、Fujitsu Research of EuropeのAIセキュリティ研究チームです。Pillar Securityとの共同研究を通じて、オープンウェイト言語モデルで採用が進む新しいコンポーネント「ゲート付きパラメトリックメモリ」に潜む、新たな攻撃面を発見しました。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/90e65a83e0ccf814cd5638a9f52359cacb8dfbd5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261013%2F20261013160004.png",
+                "alt": "そのAIモデル、本当に安全ですか？ オープンウェイトAIのサプライチェーンに潜む新たなリスク「BadEngram」 - fltech - 富士通研究所の技術ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-13T07:00:00.000Z",
+            "date_published": "2026-10-13T07:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "そのAIモデル、本当に安全ですか？ オープンウェイトAIのサプライチェーンに潜む新たなリスク「BadEngram」",
+                "blogTitle": "fltech - 富士通研究所の技術ブログ",
+                "blogLink": "https://blog.fltech.dev/",
+                "blogLinkMd5Hash": "d2545eca8d1e39c3f6f70e9393bda9cd",
+                "favicon": "https://blog.fltech.dev/icon/favicon",
+                "pickReason": "AI・LLM · セキュリティ",
+                "sourceTier": "core",
+                "sourceLabel": "富士通研究所",
+                "host": "blog.fltech.dev",
+                "score": 0.126,
+                "topics": [
+                    "ai",
+                    "security"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "セキュリティ"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/",
+            "content_html": "こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。",
+            "url": "https://blog.fltech.dev/entry/2026/10/14/webdb2026-os-anti-disinformation/",
+            "title": "オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました | fltech - 富士通研究所の技術ブログ",
+            "summary": "こんにちは、セキュリティサイエンス研究所の佐々木です。2026年9月15日（火）から17日（木）まで、大阪公立大学りんくうキャンパスで開催されたWebDB夏のワークショップ2026でオーガナイズドセッション「偽情報対策技術」を開催しましたので、その内容についてご紹介します。",
+            "image": {
+                "url": "https://cdn.image.st-hatena.com/image/scale/c2ad92dd5e61b58cc5a503cf6d4be760ab151bff/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Ffltech%2F20261014%2F20261014090013.png",
+                "alt": "オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました - fltech - 富士通研究所の技術ブログ",
+                "type": "png"
+            },
+            "date_modified": "2026-10-14T00:00:00.000Z",
+            "date_published": "2026-10-14T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "オーガナイズドセッション「偽情報対策技術」をWebDB夏のワークショップ2026で開催しました",
+                "blogTitle": "fltech - 富士通研究所の技術ブログ",
+                "blogLink": "https://blog.fltech.dev/",
+                "blogLinkMd5Hash": "d2545eca8d1e39c3f6f70e9393bda9cd",
+                "favicon": "https://blog.fltech.dev/icon/favicon",
+                "pickReason": "セキュリティ · サイエンス",
+                "sourceTier": "core",
+                "sourceLabel": "富士通研究所",
+                "host": "blog.fltech.dev",
+                "score": 0.035,
+                "topics": [
+                    "security",
+                    "science"
+                ],
+                "topicLabels": [
+                    "セキュリティ",
+                    "サイエンス"
+                ],
+                "signals": [],
+                "penalties": [
+                    "イベント告知・参加記"
+                ]
+            }
+        }
+    ]
+}

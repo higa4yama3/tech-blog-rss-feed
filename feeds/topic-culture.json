@@ -1,0 +1,333 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS (カルチャー)",
+    "home_page_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.atom.xml",
+    "feed_url": "https://higa4yama3.github.io/tech-blog-rss-feed/feeds/topic-culture.json",
+    "description": "カルチャーの記事をスコア順に（直近7日）",
+    "icon": "https://higa4yama3.github.io/tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://japan.cnet.com/article/35253656/",
+            "content_html": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+            "url": "https://japan.cnet.com/article/35253656/",
+            "title": "[はてブ133] 亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針 | はてなブックマーク - 人気エントリー - テクノロジー",
+            "summary": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+            "image": {
+                "url": "https://japan.cnet.com/storage/2026/10/16/1e961586dd89d4ba6cb454246ba3fa07/17_jau_large.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T00:21:27.000Z",
+            "date_published": "2026-10-17T00:21:27.000Z",
+            "tags": [
+                "hatena"
+            ],
+            "_custom": {
+                "hatenaCount": 133,
+                "originalTitle": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+                "blogTitle": "はてなブックマーク - 人気エントリー - テクノロジー",
+                "blogLink": "https://b.hatena.ne.jp/hotentry/it",
+                "blogLinkMd5Hash": "b7af795e7ab5203ac51e5f205024fd88",
+                "favicon": "https://japan.cnet.com/favicon.ico",
+                "pickReason": "はてブ133",
+                "sourceTier": "hotentry",
+                "sourceLabel": "はてな IT人気",
+                "host": "japan.cnet.com",
+                "score": 3.331,
+                "topics": [
+                    "ai",
+                    "culture"
+                ],
+                "topicLabels": [
+                    "AI・LLM",
+                    "カルチャー"
+                ],
+                "signals": [
+                    "はてブ133"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157276",
+            "content_html": "作品ごとに唯一無二の色を放ち、そのたびに俳優としての新たな“すごみ”を見せてくれる綾野剛。",
+            "url": "https://www.cinematoday.jp/news/N0157276",
+            "title": "綾野剛、常に全力の「演技変態」と吉田恵輔監督が脱帽　芝居を支えるアスリート思考 | シネマトゥデイ",
+            "summary": "作品ごとに唯一無二の色を放ち、そのたびに俳優としての新たな“すごみ”を見せてくれる綾野剛。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/Cl-EyqviFTza/_size_r1200x630/_v_1791286781/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T22:32:00.000Z",
+            "date_published": "2026-10-16T22:32:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "綾野剛、常に全力の「演技変態」と吉田恵輔監督が脱帽　芝居を支えるアスリート思考",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.437,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157470",
+            "content_html": "ゴジラに並び立つ新たな怪獣を誕生させるプロジェクト「TOHO presents 新怪獣総選挙」の第1フェーズの投票結果が16日に発表された。全8体の新怪獣から、上位4体が最終決戦の第2フェーズに進出。",
+            "url": "https://www.cinematoday.jp/news/N0157470",
+            "title": "ゴジラに挑む新怪獣、上位4体が決定「新怪獣総選挙」最終決戦・第2フェーズ進出の怪獣発表 | シネマトゥデイ",
+            "summary": "ゴジラに並び立つ新たな怪獣を誕生させるプロジェクト「TOHO presents 新怪獣総選挙」の第1フェーズの投票結果が16日に発表された。全8体の新怪獣から、上位4体が最終決戦の第2フェーズに進出。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/nEO0yvZjTIGI/_size_r1200x630/_v_1792160023/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T14:13:43.000Z",
+            "date_published": "2026-10-16T14:13:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "ゴジラに挑む新怪獣、上位4体が決定「新怪獣総選挙」最終決戦・第2フェーズ進出の怪獣発表",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.372,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157478",
+            "content_html": "映画『パイレーツ・オブ・カリビアン』シリーズをはじめとした人気作に主演してハリウッドの頂点を極めるも、元妻アンバー・ハードとの6年に及ぶ泥沼闘争でDV疑惑をかけられ、全てを失ったジョニー・デップ。",
+            "url": "https://www.cinematoday.jp/news/N0157478",
+            "title": "DV疑惑で全てを失ったジョニー・デップ、裁判で明らかになった壮絶な真実が書籍化 | シネマトゥデイ",
+            "summary": "映画『パイレーツ・オブ・カリビアン』シリーズをはじめとした人気作に主演してハリウッドの頂点を極めるも、元妻アンバー・ハードとの6年に及ぶ泥沼闘争でDV疑惑をかけられ、全てを失ったジョニー・デップ。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/BfWWDpb7h966/_size_r1200x630/_v_1792243131/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T13:18:51.000Z",
+            "date_published": "2026-10-17T13:18:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DV疑惑で全てを失ったジョニー・デップ、裁判で明らかになった壮絶な真実が書籍化",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.363,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157475",
+            "content_html": "18日放送の日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）第21話に、シンガーソングライターのレイヤマダが演じる“別班レディ”こと田代久美子が再登場することが明らかになった。",
+            "url": "https://www.cinematoday.jp/news/N0157475",
+            "title": "「VIVANT」“別班レディ”田代久美子が再登場へ　窮地の乃木らを救うべく秘策考案 | シネマトゥデイ",
+            "summary": "18日放送の日曜劇場「VIVANT」（TBS系・毎週日曜よる9時～）第21話に、シンガーソングライターのレイヤマダが演じる“別班レディ”こと田代久美子が再登場することが明らかになった。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/HgqA2djKhJ9i/_size_r1200x630/_v_1792204415/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T12:00:00.000Z",
+            "date_published": "2026-10-17T12:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「VIVANT」“別班レディ”田代久美子が再登場へ　窮地の乃木らを救うべく秘策考案",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.354,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157467",
+            "content_html": "10月16日、ゴジラシリーズ最新作『ゴジラ-0.0』（ゴジラマイナスゼロ）の11月3日公開に向け、前作『ゴジラ-1.0』（ゴジラマイナスワン）からを2分40秒で振り返るダイジェスト「予習映像」がYouTube「東宝MOVIEチャンネル」などで公開された。",
+            "url": "https://www.cinematoday.jp/news/N0157467",
+            "title": "『ゴジラ-0.0』に備えよ　前作『ゴジラ-1.0』を振り返るダイジェスト「予習映像」公開 | シネマトゥデイ",
+            "summary": "10月16日、ゴジラシリーズ最新作『ゴジラ-0.0』（ゴジラマイナスゼロ）の11月3日公開に向け、前作『ゴジラ-1.0』（ゴジラマイナスワン）からを2分40秒で振り返るダイジェスト「予習映像」がYouTube「東宝MOVIEチャンネル」などで公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/-0CuQfUwB5lZ/_size_r1200x630/_v_1792150400/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T11:33:20.000Z",
+            "date_published": "2026-10-16T11:33:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『ゴジラ-0.0』に備えよ　前作『ゴジラ-1.0』を振り返るダイジェスト「予習映像」公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.353,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157476",
+            "content_html": "世界初の長編フルCGアニメーション映画『トイ・ストーリー』（1995）から、この夏公開されて世界興行収入11億4,842万5,809ドル（約1780億円）というシリーズ最大のヒットを記録した『トイ・ストーリー5』まで、5作すべてに携わった日本人クリエイターがいる。",
+            "url": "https://www.cinematoday.jp/news/N0157476",
+            "title": "ピクサーで『トイ・ストーリー』5作すべてに携わった日本人がいた　第一線で活躍し続ける秘訣とは？ | シネマトゥデイ",
+            "summary": "世界初の長編フルCGアニメーション映画『トイ・ストーリー』（1995）から、この夏公開されて世界興行収入11億4,842万5,809ドル（約1780億円）というシリーズ最大のヒットを記録した『トイ・ストーリー5』まで、5作すべてに携わった日本人クリエイターがいる。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/P7eMTUmWyCUC/_size_r1200x630/_v_1792216897/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-17T11:20:00.000Z",
+            "date_published": "2026-10-17T11:20:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ピクサーで『トイ・ストーリー』5作すべてに携わった日本人がいた　第一線で活躍し続ける秘訣とは？",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.349,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157438",
+            "content_html": "佐々木蔵之介主演による映画『超高速！参勤交代』シリーズの10年ぶりの新作となる『超高速！参勤交代 フルスロットル』の公開日が2027年4月23日に決定し、佐々木のインタビューと撮影現場の裏側を映したメイキング映像を収めた特別映像が公開された。",
+            "url": "https://www.cinematoday.jp/news/N0157438",
+            "title": "[仕組みを掘る] 『超高速！参勤交代』10年ぶり新作、4月23日公開決定！佐々木蔵之介「空を飛びます」裏側語る特別映像公開 | シネマトゥデイ",
+            "summary": "佐々木蔵之介主演による映画『超高速！参勤交代』シリーズの10年ぶりの新作となる『超高速！参勤交代 フルスロットル』の公開日が2027年4月23日に決定し、佐々木のインタビューと撮影現場の裏側を映したメイキング映像を収めた特別映像が公開された。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/P0Dn6TFSW5pe/_size_r1200x630/_v_1792053515/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-15T23:00:00.000Z",
+            "date_published": "2026-10-15T23:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『超高速！参勤交代』10年ぶり新作、4月23日公開決定！佐々木蔵之介「空を飛びます」裏側語る特別映像公開",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "仕組みを掘る",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.347,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [
+                    "仕組みを掘る"
+                ],
+                "penalties": []
+            }
+        },
+        {
+            "id": "https://www.cinematoday.jp/news/N0157464",
+            "content_html": "鬼才クエンティン・タランティーノ監督の代表作『キル・ビル』を、監督自らが本来構想していた“一本の映画”として再編集した『キル・ビル ザ・ホール・ブラッディー・アフェア』が、2027年1月22日（金）よりTOHOシネマズ 日比谷ほかにて2週間限定で全国公開されることが決定した。",
+            "url": "https://www.cinematoday.jp/news/N0157464",
+            "title": "『キル・ビル』4時間半＆R18＋の新生版、来年1月公開決定！タランティーノが本来構想した“一本の映画”に再編集 | シネマトゥデイ",
+            "summary": "鬼才クエンティン・タランティーノ監督の代表作『キル・ビル』を、監督自らが本来構想していた“一本の映画”として再編集した『キル・ビル ザ・ホール・ブラッディー・アフェア』が、2027年1月22日（金）よりTOHOシネマズ 日比谷ほかにて2週間限定で全国公開されることが決定した。",
+            "image": {
+                "url": "https://img.cinematoday.jp/a/AeEhC_TRL3-d/_size_r1200x630/_v_1792145606/main.jpg",
+                "type": "jpg"
+            },
+            "date_modified": "2026-10-16T10:13:26.000Z",
+            "date_published": "2026-10-16T10:13:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "『キル・ビル』4時間半＆R18＋の新生版、来年1月公開決定！タランティーノが本来構想した“一本の映画”に再編集",
+                "blogTitle": "シネマトゥデイ",
+                "blogLink": "https://www.cinematoday.jp/",
+                "blogLinkMd5Hash": "262699dc00b639cb33e8bb0d30c72358",
+                "favicon": "https://img.cinematoday.jp/img/v202306060437/cinematoday_icon-192.png",
+                "pickReason": "カルチャー",
+                "sourceTier": "optional",
+                "sourceLabel": "シネマトゥデイ",
+                "host": "cinematoday.jp",
+                "score": 0.344,
+                "topics": [
+                    "culture"
+                ],
+                "topicLabels": [
+                    "カルチャー"
+                ],
+                "signals": [],
+                "penalties": []
+            }
+        }
+    ]
+}
