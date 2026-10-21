@@ -14,6 +14,10 @@ concurrency:
   group: generate-feed
   cancel-in-progress: false
 
+env:
+  # 一時停止中は 'true'。フィード生成を止め、停止中ページだけを公開する。再開時は 'false' に戻す
+  SITE_OFFLINE: 'true'
+
 jobs:
   generate-feed:
     name: Generate Feed
@@ -27,15 +31,40 @@ jobs:
       with:
         ref: main
     - uses: actions/setup-node@v6
+      if: env.SITE_OFFLINE != 'true'
       with:
         node-version-file: .tool-versions
         cache: npm
     - run: npm ci
+      if: env.SITE_OFFLINE != 'true'
     - uses: ./.github/actions/restore-feed-cache
+      if: env.SITE_OFFLINE != 'true'
     - run: npm run feed-generate
+      if: env.SITE_OFFLINE != 'true'
     - run: npm run site-prepare
+      if: env.SITE_OFFLINE != 'true'
     - run: npm run site-build
+      if: env.SITE_OFFLINE != 'true'
     - uses: ./.github/actions/save-feed-cache
+      if: env.SITE_OFFLINE != 'true'
+    - name: Prepare offline page
+      if: env.SITE_OFFLINE == 'true'
+      run: |
+        mkdir -p public
+        cat > public/index.html <<'HTML'
+        <!doctype html>
+        <html lang="ja">
+        <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noindex">
+        <title>一時停止中</title>
+        </head>
+        <body>
+        <p>このサイトは一時的に公開を停止しています。</p>
+        </body>
+        </html>
+        HTML
     - uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
